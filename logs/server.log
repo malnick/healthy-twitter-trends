@@ -1,0 +1,387 @@
+[2014-11-29 16:42:43] INFO  WEBrick 1.3.1
+[2014-11-29 16:42:43] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 16:42:43] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 16:42:43] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 16:42:43] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 16:42:43] INFO  WEBrick::HTTPServer#start: pid=47616 port=8080
+[2014-11-29 16:43:56] DEBUG accept: ::1:54907
+[2014-11-29 16:43:56] DEBUG accept: ::1:54908
+[2014-11-29 16:43:56] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:43:56] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:43:56] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:44:16] DEBUG close: ::1:54908
+[2014-11-29 16:44:26] DEBUG close: ::1:54907
+[2014-11-29 16:46:12] INFO  WEBrick 1.3.1
+[2014-11-29 16:46:12] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 16:46:12] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 16:46:12] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 16:46:12] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 16:46:12] INFO  WEBrick::HTTPServer#start: pid=49990 port=8080
+[2014-11-29 16:46:25] DEBUG accept: ::1:55024
+[2014-11-29 16:46:25] DEBUG accept: ::1:55026
+[2014-11-29 16:46:25] DEBUG accept: ::1:55027
+[2014-11-29 16:46:25] DEBUG accept: ::1:55025
+[2014-11-29 16:46:25] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:46:25] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:46:39] DEBUG close: ::1:55025
+[2014-11-29 16:46:39] DEBUG close: ::1:55027
+[2014-11-29 16:46:39] DEBUG close: ::1:55026
+[2014-11-29 16:46:55] DEBUG close: ::1:55024
+[2014-11-29 16:49:28] INFO  WEBrick 1.3.1
+[2014-11-29 16:49:28] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 16:49:28] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 16:49:28] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 16:49:28] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 16:49:28] INFO  WEBrick::HTTPServer#start: pid=51996 port=8080
+[2014-11-29 16:49:31] DEBUG accept: ::1:55142
+[2014-11-29 16:49:31] DEBUG accept: ::1:55144
+[2014-11-29 16:49:31] DEBUG accept: ::1:55143
+[2014-11-29 16:49:31] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:49:31] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:49:34] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:49:34] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:49:49] DEBUG close: ::1:55144
+[2014-11-29 16:49:49] DEBUG close: ::1:55143
+[2014-11-29 16:50:04] DEBUG close: ::1:55142
+[2014-11-29 16:52:05] INFO  WEBrick 1.3.1
+[2014-11-29 16:52:05] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 16:52:05] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 16:52:05] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 16:52:05] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 16:52:05] INFO  WEBrick::HTTPServer#start: pid=54013 port=8080
+[2014-11-29 16:52:09] DEBUG accept: ::1:55257
+[2014-11-29 16:52:09] DEBUG accept: ::1:55258
+[2014-11-29 16:52:09] DEBUG accept: ::1:55256
+[2014-11-29 16:52:09] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:52:09] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:52:19] DEBUG close: ::1:55258
+[2014-11-29 16:52:19] DEBUG close: ::1:55257
+[2014-11-29 16:52:39] DEBUG close: ::1:55256
+[2014-11-29 16:53:15] INFO  WEBrick 1.3.1
+[2014-11-29 16:53:15] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 16:53:15] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 16:53:15] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 16:53:15] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 16:53:15] INFO  WEBrick::HTTPServer#start: pid=54812 port=8080
+[2014-11-29 16:53:19] DEBUG accept: ::1:55300
+[2014-11-29 16:53:19] DEBUG accept: ::1:55302
+[2014-11-29 16:53:19] DEBUG accept: ::1:55301
+[2014-11-29 16:53:19] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:53:19] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:53:20] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:53:20] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 16:53:29] DEBUG close: ::1:55302
+[2014-11-29 16:53:29] DEBUG close: ::1:55301
+[2014-11-29 16:53:50] DEBUG close: ::1:55300
+[2014-11-29 17:00:15] INFO  WEBrick 1.3.1
+[2014-11-29 17:00:15] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:00:15] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:00:15] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:00:15] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:00:15] INFO  WEBrick::HTTPServer#start: pid=59286 port=8080
+[2014-11-29 17:00:31] DEBUG accept: ::1:55727
+[2014-11-29 17:00:31] DEBUG accept: ::1:55726
+[2014-11-29 17:00:31] DEBUG accept: ::1:55725
+[2014-11-29 17:00:31] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:00:39] DEBUG accept: ::1:55735
+[2014-11-29 17:00:39] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:00:39] DEBUG close: ::1:55735
+[2014-11-29 17:00:49] DEBUG close: ::1:55726
+[2014-11-29 17:00:49] DEBUG close: ::1:55727
+[2014-11-29 17:01:01] DEBUG close: ::1:55725
+[2014-11-29 17:01:17] INFO  WEBrick 1.3.1
+[2014-11-29 17:01:17] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:01:17] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:01:17] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:01:17] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:01:17] INFO  WEBrick::HTTPServer#start: pid=60052 port=8080
+[2014-11-29 17:01:21] DEBUG accept: ::1:55755
+[2014-11-29 17:01:21] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:01:21] DEBUG close: ::1:55755
+[2014-11-29 17:02:07] INFO  WEBrick 1.3.1
+[2014-11-29 17:02:07] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:02:07] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:02:07] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:02:07] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:02:07] INFO  WEBrick::HTTPServer#start: pid=60635 port=8080
+[2014-11-29 17:02:09] DEBUG accept: ::1:55784
+[2014-11-29 17:02:09] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:02:09] DEBUG close: ::1:55784
+[2014-11-29 17:02:17] DEBUG accept: ::1:55789
+[2014-11-29 17:02:17] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:02:47] DEBUG close: ::1:55789
+[2014-11-29 17:02:53] INFO  WEBrick 1.3.1
+[2014-11-29 17:02:53] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:02:53] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:02:53] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:02:53] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:02:53] INFO  WEBrick::HTTPServer#start: pid=61144 port=8080
+[2014-11-29 17:02:55] DEBUG accept: ::1:55812
+[2014-11-29 17:02:55] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:02:55] DEBUG close: ::1:55812
+[2014-11-29 17:04:00] INFO  WEBrick 1.3.1
+[2014-11-29 17:04:00] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:04:00] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:04:00] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:04:00] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:04:00] INFO  WEBrick::HTTPServer#start: pid=61952 port=8080
+[2014-11-29 17:04:03] DEBUG accept: ::1:55851
+[2014-11-29 17:04:03] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:04:03] DEBUG close: ::1:55851
+[2014-11-29 17:04:53] INFO  WEBrick 1.3.1
+[2014-11-29 17:04:53] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:04:53] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:04:53] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:04:53] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:04:53] INFO  WEBrick::HTTPServer#start: pid=62538 port=8080
+[2014-11-29 17:04:55] DEBUG accept: ::1:55882
+[2014-11-29 17:04:55] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:04:55] DEBUG close: ::1:55882
+[2014-11-29 17:06:23] INFO  WEBrick 1.3.1
+[2014-11-29 17:06:23] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:06:23] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:06:23] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:06:23] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:06:23] INFO  WEBrick::HTTPServer#start: pid=63649 port=8080
+[2014-11-29 17:06:26] DEBUG accept: ::1:55934
+[2014-11-29 17:06:26] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:06:26] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:06:27] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:06:27] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:06:57] DEBUG close: ::1:55934
+[2014-11-29 17:10:30] INFO  WEBrick 1.3.1
+[2014-11-29 17:10:30] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:10:30] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:10:30] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:10:30] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:10:30] INFO  WEBrick::HTTPServer#start: pid=66252 port=8080
+[2014-11-29 17:10:35] DEBUG accept: ::1:56136
+[2014-11-29 17:10:35] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:10:35] DEBUG close: ::1:56136
+[2014-11-29 17:11:07] INFO  WEBrick 1.3.1
+[2014-11-29 17:11:07] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:11:07] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:11:07] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:11:07] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:11:07] INFO  WEBrick::HTTPServer#start: pid=66713 port=8080
+[2014-11-29 17:11:10] DEBUG accept: ::1:56154
+[2014-11-29 17:11:10] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:11:10] DEBUG close: ::1:56154
+[2014-11-29 17:11:55] INFO  WEBrick 1.3.1
+[2014-11-29 17:11:55] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:11:55] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:11:55] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:11:55] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:11:55] INFO  WEBrick::HTTPServer#start: pid=67313 port=8080
+[2014-11-29 17:11:59] DEBUG accept: ::1:56179
+[2014-11-29 17:11:59] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:11:59] DEBUG close: ::1:56179
+[2014-11-29 17:14:08] INFO  WEBrick 1.3.1
+[2014-11-29 17:14:08] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:14:08] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:14:08] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:14:08] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:14:08] INFO  WEBrick::HTTPServer#start: pid=68876 port=8080
+[2014-11-29 17:14:15] DEBUG accept: ::1:56258
+[2014-11-29 17:14:15] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:14:15] DEBUG close: ::1:56258
+[2014-11-29 17:16:31] INFO  WEBrick 1.3.1
+[2014-11-29 17:16:31] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:16:31] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:16:31] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:16:31] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:16:31] INFO  WEBrick::HTTPServer#start: pid=70514 port=8080
+[2014-11-29 17:16:34] DEBUG accept: ::1:56339
+[2014-11-29 17:16:34] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:16:34] DEBUG close: ::1:56339
+[2014-11-29 17:17:28] INFO  WEBrick 1.3.1
+[2014-11-29 17:17:28] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:17:28] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:17:28] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:17:28] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:17:28] INFO  WEBrick::HTTPServer#start: pid=71213 port=8080
+[2014-11-29 17:17:31] DEBUG accept: ::1:56375
+[2014-11-29 17:17:31] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:17:31] DEBUG close: ::1:56375
+[2014-11-29 17:18:34] INFO  WEBrick 1.3.1
+[2014-11-29 17:18:34] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:18:34] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:18:34] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:18:34] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:18:34] INFO  WEBrick::HTTPServer#start: pid=72146 port=8080
+[2014-11-29 17:18:37] DEBUG accept: ::1:56427
+[2014-11-29 17:18:37] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:18:37] DEBUG close: ::1:56427
+[2014-11-29 17:19:27] INFO  WEBrick 1.3.1
+[2014-11-29 17:19:27] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:19:27] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:19:27] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:19:27] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:19:27] INFO  WEBrick::HTTPServer#start: pid=72804 port=8080
+[2014-11-29 17:19:31] DEBUG accept: ::1:56453
+[2014-11-29 17:19:31] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:19:31] DEBUG close: ::1:56453
+[2014-11-29 17:29:06] DEBUG accept: ::1:56959
+[2014-11-29 17:29:06] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:29:06] DEBUG close: ::1:56959
+[2014-11-29 17:29:33] DEBUG accept: ::1:56975
+[2014-11-29 17:29:33] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:29:33] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:30:03] DEBUG close: ::1:56975
+[2014-11-29 17:30:16] INFO  WEBrick 1.3.1
+[2014-11-29 17:30:16] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:30:16] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:30:16] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:30:16] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:30:16] INFO  WEBrick::HTTPServer#start: pid=79548 port=8080
+[2014-11-29 17:30:17] DEBUG accept: ::1:57003
+[2014-11-29 17:30:17] DEBUG accept: ::1:57002
+[2014-11-29 17:30:17] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:30:18] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:30:31] DEBUG close: ::1:57003
+[2014-11-29 17:30:48] DEBUG close: ::1:57002
+[2014-11-29 17:31:30] INFO  WEBrick 1.3.1
+[2014-11-29 17:31:30] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:31:30] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:31:30] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:31:30] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:31:30] INFO  WEBrick::HTTPServer#start: pid=80381 port=8080
+[2014-11-29 17:31:35] DEBUG accept: ::1:57052
+[2014-11-29 17:31:35] DEBUG accept: ::1:57053
+[2014-11-29 17:31:35] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:31:35] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:31:49] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:31:51] DEBUG close: ::1:57053
+[2014-11-29 17:32:02] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:32:21] DEBUG accept: ::1:57080
+[2014-11-29 17:32:21] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:32:21] DEBUG close: ::1:57080
+[2014-11-29 17:32:32] DEBUG close: ::1:57052
+[2014-11-29 17:34:02] INFO  WEBrick 1.3.1
+[2014-11-29 17:34:02] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:34:02] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:34:02] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:34:02] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:34:02] INFO  WEBrick::HTTPServer#start: pid=82117 port=8080
+[2014-11-29 17:34:04] DEBUG accept: ::1:57135
+[2014-11-29 17:34:04] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:34:04] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:34:09] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:34:39] DEBUG close: ::1:57135
+[2014-11-29 17:34:55] INFO  WEBrick 1.3.1
+[2014-11-29 17:34:55] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:34:55] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:34:55] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:34:55] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:34:55] INFO  WEBrick::HTTPServer#start: pid=82749 port=8080
+[2014-11-29 17:35:00] DEBUG accept: ::1:57165
+[2014-11-29 17:35:00] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:35:00] DEBUG close: ::1:57165
+[2014-11-29 17:37:30] INFO  WEBrick 1.3.1
+[2014-11-29 17:37:30] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:37:30] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:37:30] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:37:30] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:37:30] INFO  WEBrick::HTTPServer#start: pid=84531 port=8080
+[2014-11-29 17:38:09] DEBUG accept: ::1:57271
+[2014-11-29 17:38:09] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:38:09] DEBUG close: ::1:57271
+[2014-11-29 17:40:34] INFO  WEBrick 1.3.1
+[2014-11-29 17:40:34] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:40:34] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:40:34] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:40:34] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:40:34] INFO  WEBrick::HTTPServer#start: pid=86765 port=8080
+[2014-11-29 17:40:40] DEBUG accept: ::1:57361
+[2014-11-29 17:40:40] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:40:40] DEBUG close: ::1:57361
+[2014-11-29 17:41:34] INFO  WEBrick 1.3.1
+[2014-11-29 17:41:34] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:41:34] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:41:34] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:41:34] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:41:34] INFO  WEBrick::HTTPServer#start: pid=87448 port=8080
+[2014-11-29 17:41:37] DEBUG accept: ::1:57392
+[2014-11-29 17:41:37] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:41:37] DEBUG close: ::1:57392
+[2014-11-29 17:43:14] INFO  WEBrick 1.3.1
+[2014-11-29 17:43:14] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:43:14] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:43:14] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:43:14] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:43:14] INFO  WEBrick::HTTPServer#start: pid=88626 port=8080
+[2014-11-29 17:43:18] DEBUG accept: ::1:57446
+[2014-11-29 17:43:18] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:43:18] DEBUG close: ::1:57446
+[2014-11-29 17:45:54] INFO  WEBrick 1.3.1
+[2014-11-29 17:45:54] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:45:54] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:45:54] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:45:54] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:45:54] INFO  WEBrick::HTTPServer#start: pid=90434 port=8080
+[2014-11-29 17:45:57] DEBUG accept: ::1:57541
+[2014-11-29 17:45:57] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-11-29T17:45:57.840742 #90434]  INFO -- : /
+[2014-11-29 17:45:57] DEBUG close: ::1:57541
+[2014-11-29 17:46:50] INFO  WEBrick 1.3.1
+[2014-11-29 17:46:50] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:46:50] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:46:50] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:46:50] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:46:50] INFO  WEBrick::HTTPServer#start: pid=91115 port=8080
+[2014-11-29 17:46:53] DEBUG accept: ::1:57573
+[2014-11-29 17:46:53] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-11-29T17:46:53.072104 #91115]  INFO -- : /
+[2014-11-29 17:46:53] DEBUG close: ::1:57573
+[2014-11-29 17:49:56] INFO  WEBrick 1.3.1
+[2014-11-29 17:49:56] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:49:56] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:49:56] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:49:56] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:49:56] INFO  WEBrick::HTTPServer#start: pid=93127 port=8080
+[2014-11-29 17:49:58] DEBUG accept: ::1:57682
+[2014-11-29 17:49:58] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-11-29T17:49:58.519312 #93127]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/lib/health/.views/index.erb
+[2014-11-29 17:49:58] DEBUG close: ::1:57682
+[2014-11-29 17:51:10] INFO  WEBrick 1.3.1
+[2014-11-29 17:51:10] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:51:10] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:51:10] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:51:10] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:51:10] INFO  WEBrick::HTTPServer#start: pid=94054 port=8080
+[2014-11-29 17:51:11] DEBUG accept: ::1:57759
+[2014-11-29 17:51:11] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-11-29T17:51:11.322327 #94054]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/lib/health/views/index.erb
+[2014-11-29 17:51:11] DEBUG close: ::1:57759
+[2014-11-29 17:51:43] INFO  WEBrick 1.3.1
+[2014-11-29 17:51:43] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:51:43] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:51:43] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:51:43] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:51:43] INFO  WEBrick::HTTPServer#start: pid=94436 port=8080
+[2014-11-29 17:51:45] DEBUG accept: ::1:57778
+[2014-11-29 17:51:45] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-11-29T17:51:45.896910 #94436]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/lib/health/views/index.erb
+[2014-11-29 17:51:45] DEBUG close: ::1:57778
+[2014-11-29 17:51:55] DEBUG accept: ::1:57783
+[2014-11-29 17:51:55] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-11-29T17:51:55.974585 #94436]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/lib/health/views/index.erb
+[2014-11-29 17:51:56] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:52:26] DEBUG close: ::1:57783
+[2014-11-29 17:52:36] INFO  WEBrick 1.3.1
+[2014-11-29 17:52:36] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 17:52:36] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 17:52:36] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 17:52:36] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 17:52:36] INFO  WEBrick::HTTPServer#start: pid=95172 port=8080
+[2014-11-29 17:52:37] DEBUG accept: ::1:57804
+[2014-11-29 17:52:37] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-11-29T17:52:37.791956 #95172]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/lib/health/views/index.erb
+[2014-11-29 17:52:37] DEBUG close: ::1:57804
+[2014-11-29 17:52:39] DEBUG accept: ::1:57806
+[2014-11-29 17:52:39] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-11-29T17:52:39.981843 #95172]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/lib/health/views/index.erb
+[2014-11-29 17:52:40] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-11-29 17:52:45] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-11-29T17:52:45.285079 #95172]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/lib/health/views/index.erb
+[2014-11-29 17:52:45] DEBUG Rack::Handler::WEBrick is invoked.
