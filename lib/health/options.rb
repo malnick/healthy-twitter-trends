@@ -1,10 +1,15 @@
 require 'logger'
 
 module Health
+	
+	LOG_PATH = File.expand_path(File.dirname(__FILE__)) + '/logs/twitter.log'
+	puts LOG_PATH
+
 	class Options
-		def initialize(options)
+	
+		def run(options)
 			options = parse_options(options)
-			log = Logger.new(STDOUT)	
+			log = Logger.new(LOG_PATH)	
 			if options[:debug]
 				log.level = Logger::DEBUG
 				log.info("Logger set to Logger::DEBUG")

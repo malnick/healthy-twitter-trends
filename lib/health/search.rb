@@ -1,12 +1,19 @@
 module Health
 	class Search
 
-		HOME 		= '/Users/malnick'
+		HOME 		= ENV['HOME'] 
 		TWITTER_CREDS 	= "#{HOME}/.twitter-creds"
 
-
 		def initialize(query, log)
-			@query = query
+	
+			if query
+				@query = query
+				log.info("Running Twitter query on #{@query}")
+			else
+				@query = '#healthy'
+				log.info("Running Twitter query on #{@query}")
+			end
+
 			if File.exists?(TWITTER_CREDS)
 				log.debug("Found credentials at #{TWITTER_CREDS}")
 				@creds = JSON.parse(TWITTER_CREDS)

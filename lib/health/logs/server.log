@@ -18,3 +18,33 @@ I, [2014-11-29T18:03:03.070344 #1857]  INFO -- : /Users/malnick/projects/healthy
 [2014-11-29 18:05:35] DEBUG Rack::Handler::WEBrick is invoked.
 I, [2014-11-29T18:05:35.374738 #4259]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/lib/health/views/index.erb
 [2014-11-29 18:05:35] DEBUG close: 127.0.0.1:58269
+[2014-11-29 18:14:36] INFO  WEBrick 1.3.1
+[2014-11-29 18:14:36] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 18:14:36] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 18:14:36] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 18:14:36] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 18:14:36] INFO  WEBrick::HTTPServer#start: pid=9867 port=8080
+[2014-11-29 18:16:39] INFO  WEBrick 1.3.1
+[2014-11-29 18:16:39] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 18:16:39] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 18:16:39] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-11-29 18:16:39] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 18:16:39] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-11-29 18:16:58] INFO  WEBrick 1.3.1
+[2014-11-29 18:16:58] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 18:16:58] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 18:16:58] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 18:16:58] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 18:16:58] INFO  WEBrick::HTTPServer#start: pid=11698 port=8080
+[2014-11-29 18:17:46] INFO  WEBrick 1.3.1
+[2014-11-29 18:17:46] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 18:17:46] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 18:17:46] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 18:17:46] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 18:17:46] INFO  WEBrick::HTTPServer#start: pid=12297 port=8080
+[2014-11-29 18:19:56] INFO  WEBrick 1.3.1
+[2014-11-29 18:19:56] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-11-29 18:19:56] DEBUG TCPServer.new(0.0.0.0, 8080)
+[2014-11-29 18:19:56] DEBUG TCPServer.new(::, 8080)
+[2014-11-29 18:19:56] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-11-29 18:19:56] INFO  WEBrick::HTTPServer#start: pid=13657 port=8080
