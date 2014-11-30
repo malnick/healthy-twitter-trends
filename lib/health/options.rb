@@ -8,8 +8,6 @@ module Health
 		def initialize(options)
 			log = Logger.new(TWIT_LOG_PATH)
 
-			log.info('TEST')
-
 			options = parse_options(options)
 
 			if options[:debug]
