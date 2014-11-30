@@ -6,8 +6,9 @@ require 'logger'
 module Health
 
 	LOGFILE = File.expand_path(File.dirname(__FILE__)) + '/logs/server.log'
-	HTML	= File.expand_path(File.dirname(__FILE__)) + '/views/index.erb'
-
+	HTML	= File.expand_path(File.dirname(__FILE__)) + '/views/index.html'
+	LOG = Logger.new(LOGFILE)
+	
 	opts = {
 		:PORT		=> 8080,
 		:Logger		=> WEBrick::Log::new(LOGFILE, WEBrick::Log::DEBUG),
@@ -16,8 +17,6 @@ module Health
 	}
 	
 	class Server < Sinatra::Base
-
-		LOG = Logger.new(LOGFILE)
 
 		get '/' do			
 			LOG.info("HTML Path: #{HTML}")

@@ -1,15 +1,17 @@
 require 'logger'
 
 module Health
-	
-	LOG_PATH = File.expand_path(File.dirname(__FILE__)) + '/logs/twitter.log'
-	puts LOG_PATH
+
+	TWIT_LOG_PATH 	= File.expand_path(File.dirname(__FILE__)) + '/logs/twitter.log'
+	TWIT_LOG 	= Logger.new(TWIT_LOG_PATH)
+	TWIT_LOG.info('test')
 
 	class Options
-	
-		def run(options)
+		def initialize(options)
+			log = Logger.new(STDOUT)
+			log.info("TEST")
 			options = parse_options(options)
-			log = Logger.new(LOG_PATH)	
+
 			if options[:debug]
 				log.level = Logger::DEBUG
 				log.info("Logger set to Logger::DEBUG")
@@ -18,11 +20,10 @@ module Health
 				log.info("Logger set to Logger::INFO")
 			end
 
-			Health::Search.new(options[:search], log)			
+			Health::Search.new(options[:search],log )			
 		end		
 
 		def parse_options(options)
-			
 			options = {
 					:search 	=> nil, 
 					:debug 		=> nil
