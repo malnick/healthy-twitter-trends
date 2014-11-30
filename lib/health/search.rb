@@ -34,6 +34,7 @@ consumer_key: YOUR_CONSUMER_KEY
 consumer_secret: YOUR_CONSUMER_SECRET
 access_token: YOUR_ACCESS_TOKEN
 access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
 INFO
 				log.info(text)
 			end
@@ -75,7 +76,7 @@ INFO
 			firebase = Firebase::Client.new(base_uri, fbs)
 			results.each do |twt|
 				log.debug("Pushing #{twt} to Firebase @ #{base_uri}")
-				response = firebase.push("#{query}", { :name => "#{twt}", :priority => 1 })
+				response = firebase.push("#{query}", { :text => "#{twt}"})
 				log.debug("Firebase response: #{response.body}")
 				unless response.success?
 					log.info("Something broke pushing #{twt} to Firebase")

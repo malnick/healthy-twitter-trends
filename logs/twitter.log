@@ -408,3 +408,28 @@ D, [2014-11-30T13:38:41.502266 #46654] DEBUG -- : Pushing Simple and Yummy Blueb
 http://t.co/sbEvD5Bx4U
 #recipe #cook #healthy #food #quick #breads #scones http://t.co/0hwwUz2yfU to Firebase @ https://sizzling-fire-8626.firebaseio.com
 D, [2014-11-30T13:38:41.868212 #46654] DEBUG -- : Firebase response: {"name"=>"-Jc1d1mWmj9C6mIpDpXJ"}
+I, [2014-11-30T13:40:21.342673 #47575]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-11-30T13:40:21.342759 #47575]  INFO -- : Running Twitter query on #healthy
+I, [2014-11-30T13:40:21.342790 #47575]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-11-30T13:40:21.343105 #47575] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-11-30T13:40:21.343137 #47575]  INFO -- : Running search on #healthy
+D, [2014-11-30T13:40:21.343167 #47575] DEBUG -- : Consumer key: 5LmU6ckudMC5spqqRK1kJHVsu
+D, [2014-11-30T13:40:21.343195 #47575] DEBUG -- : Consumer secret: peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S
+D, [2014-11-30T13:40:21.343222 #47575] DEBUG -- : Access token: 2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS
+D, [2014-11-30T13:40:21.343249 #47575] DEBUG -- : Access token secret: nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS
+I, [2014-11-30T13:40:21.343326 #47575]  INFO -- : Running search...
+D, [2014-11-30T13:40:21.979051 #47575] DEBUG -- : Adding tweet: #Health #Solution #Healthy Weight Loss Diets - Simple Suggestions http://t.co/Ukrn1HpWu6 #Trend
+D, [2014-11-30T13:40:21.979150 #47575] DEBUG -- : Adding tweet: Jamaican Chicken Thighs
+http://t.co/R9nHIToEzW
+#recipe #cook #healthy #food #poultry #meat #chicken #thigh #leg http://t.co/yNXGNolisk
+D, [2014-11-30T13:40:21.979193 #47575] DEBUG -- : Adding tweet: Prepare for Creativity After Trauma http://t.co/VxAEDSbrfd #pain #stress #success #hope #healthy #creative #life #tips #business
+I, [2014-11-30T13:40:21.979267 #47575]  INFO -- : Query results: ["#Health #Solution #Healthy Weight Loss Diets - Simple Suggestions http://t.co/Ukrn1HpWu6 #Trend", "Jamaican Chicken Thighs\nhttp://t.co/R9nHIToEzW\n#recipe #cook #healthy #food #poultry #meat #chicken #thigh #leg http://t.co/yNXGNolisk", "Prepare for Creativity After Trauma http://t.co/VxAEDSbrfd #pain #stress #success #hope #healthy #creative #life #tips #business"]
+D, [2014-11-30T13:40:21.979349 #47575] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-11-30T13:40:21.979394 #47575] DEBUG -- : Pushing #Health #Solution #Healthy Weight Loss Diets - Simple Suggestions http://t.co/Ukrn1HpWu6 #Trend to Firebase @ https://sizzling-fire-8626.firebaseio.com
+D, [2014-11-30T13:40:22.359184 #47575] DEBUG -- : Firebase response: {"name"=>"-Jc1dQJiX0on3LkRrXFz"}
+D, [2014-11-30T13:40:22.359265 #47575] DEBUG -- : Pushing Jamaican Chicken Thighs
+http://t.co/R9nHIToEzW
+#recipe #cook #healthy #food #poultry #meat #chicken #thigh #leg http://t.co/yNXGNolisk to Firebase @ https://sizzling-fire-8626.firebaseio.com
+D, [2014-11-30T13:40:22.716312 #47575] DEBUG -- : Firebase response: {"name"=>"-Jc1dQPIxQISvolKtjwI"}
+D, [2014-11-30T13:40:22.716390 #47575] DEBUG -- : Pushing Prepare for Creativity After Trauma http://t.co/VxAEDSbrfd #pain #stress #success #hope #healthy #creative #life #tips #business to Firebase @ https://sizzling-fire-8626.firebaseio.com
+D, [2014-11-30T13:40:23.065934 #47575] DEBUG -- : Firebase response: {"name"=>"-Jc1dQUkSAUCyVQlV9vk"}
