@@ -39,11 +39,12 @@ INFO
 			end
 
 			results = get_result(log, creds, @query)
-			log.info("Query results: #{results.inspect}")
-			post_results_firebase(results, creds, log)
+			log.info("Query results: #{results}")
+			post_results_firebase(results, creds, log, @query)
 		end
 		
 		def get_result(log, creds, query)
+			results = []
 			log.info("Running search on #{query}")
 			log.debug("Consumer key: #{creds['consumer_key']}")
 			log.debug("Consumer secret: #{creds['consumer_secret']}")
@@ -57,18 +58,29 @@ INFO
 				config.access_token_secret = creds['access_token_scret']
 			end
 			log.info("Running search...")
-			results = client.search(query)	
-
+			client.search(query).take(3).collect do |tweet|	
+				log.debug("Adding tweet: #{tweet.text}")
+				results.push(tweet.text.chomp)
+			end
+			#log.debug("Complete results: #{results}")
+			results
 		end
 
-		def post_results_firebase(results, creds, log)
+		def post_results_firebase(results, creds, log, query)
+			query.delete! '#'
 			log.debug("Firebase secret: #{creds['firebase_secret']}")
 			fbs = creds['firebase_secret']
 			base_uri = 'https://sizzling-fire-8626.firebaseio.com'
 
 			firebase = Firebase::Client.new(base_uri, fbs)
-			response = firebase.push(results.to_json, { :name => 'Twitter Results', :priority => 1 })
-			log.debug("Firebase response: #{response.body}")
+			results.each do |twt|
+				log.debug("Pushing #{twt} to Firebase @ #{base_uri}")
+				response = firebase.push("#{query}", { :name => "#{twt}", :priority => 1 })
+				log.debug("Firebase response: #{response.body}")
+				unless response.success?
+					log.info("Something broke pushing #{twt} to Firebase")
+				end
+			end
 
 		end
 
