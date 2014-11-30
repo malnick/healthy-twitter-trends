@@ -1,9 +1,9 @@
 module Health
+
+	HOME 		= ENV['HOME'] 
+	TWITTER_CREDS 	= "#{HOME}/.twitter-creds"
+
 	class Search
-
-		HOME 		= ENV['HOME'] 
-		TWITTER_CREDS 	= "#{HOME}/.twitter-creds"
-
 		def initialize(query, log)
 	
 			if query
@@ -28,7 +28,7 @@ INFO
 				log.info(text)
 			end
 			results = get_result(query)
-			log.info(results)
+			log.info("Query results: #{results}")
 			post_results_firebase(results)
 		end
 		
@@ -40,7 +40,7 @@ INFO
 			#	config.access_token_secret = "YOUR_ACCESS_SECRET"
 			#end
 			
-			client.search	
+			#client.search	
 			query
 		end
 
