@@ -48,7 +48,7 @@ INFO
 			log.debug("Access token: #{creds['access_token']}")
 			log.debug("Access token secret: #{creds['access_token_secret']}")
 
-			client = Twitter::Rest::Client.new do |config|
+			client = Twitter::REST::Client.new do |config|
 				config.consumer_key        = creds['consumer_key']
 				config.consumer_secret     = creds['consumer_secret']
 				config.access_token        = creds['access_token']
@@ -57,6 +57,7 @@ INFO
 			log.info("Running search...")
 			
 			result = client.search(query)	
+
 			log.info(result)
 		end
 
