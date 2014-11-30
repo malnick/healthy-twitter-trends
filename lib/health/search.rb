@@ -1,4 +1,6 @@
+require 'rubygems'
 require 'yaml'
+require 'firebase'
 require 'twitter'
 
 module Health
@@ -37,8 +39,8 @@ INFO
 			end
 
 			results = get_result(log, creds, @query)
-			log.info("Query results: #{results}")
-			#post_results_firebase(results)
+			log.info("Query results: #{results.inspect}")
+			post_results_firebase(results, creds, log)
 		end
 		
 		def get_result(log, creds, query)
@@ -55,14 +57,20 @@ INFO
 				config.access_token_secret = creds['access_token_scret']
 			end
 			log.info("Running search...")
-			
-			result = client.search(query)	
-
-			log.info(result)
-		end
-
-		def post_results_firebase(results)
+			results = client.search(query)	
 
 		end
+
+		def post_results_firebase(results, creds, log)
+			log.debug("Firebase secret: #{creds['firebase_secret']}")
+			fbs = creds['firebase_secret']
+			base_uri = 'https://sizzling-fire-8626.firebaseio.com'
+
+			firebase = Firebase::Client.new(base_uri, fbs)
+			response = firebase.push(results.to_json, { :name => 'Twitter Results', :priority => 1 })
+			log.debug("Firebase response: #{response.body}")
+
+		end
+
 	end
 end
