@@ -10,12 +10,4 @@ library_files.each do |file|
   require file
 end
 
-#module Health
-#	@options ||= Options.new
-#	  class << self
-#	    attr_accessor :options
-#	  end
-#
-#	  class Exception < ::Exception
-#	  end
-#end
+Health::Server.new

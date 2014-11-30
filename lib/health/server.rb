@@ -5,8 +5,8 @@ require 'logger'
 
 module Health
 
-	LOGFILE = '../../logs/server.log'
-	HTML	= File.join(File.expand_path(File.dirname(__FILE__), 'views/index.erb'))
+	LOGFILE = File.expand_path(File.dirname(__FILE__)) + '/logs/server.log'
+	HTML	= File.expand_path(File.dirname(__FILE__)) + '/views/index.erb'
 
 	opts = {
 		:PORT		=> 8080,
@@ -20,12 +20,11 @@ module Health
 		LOG = Logger.new(LOGFILE)
 
 		get '/' do			
-			LOG.info(HTML)
+			LOG.info("HTML Path: #{HTML}")
 			get_html
 		end
 
 		def get_html
-			running_dir = File.expand_path(File.dirname(__FILE__))
 			File.open(HTML, 'r').readlines
 		end
 	end		

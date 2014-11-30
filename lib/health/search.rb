@@ -22,6 +22,7 @@ INFO
 			end
 			results = get_result(query)
 			log.info(results)
+			post_results_firebase(results)
 		end
 		
 		def get_result(query)
@@ -34,6 +35,10 @@ INFO
 			
 			client.search	
 			query
+		end
+
+		def post_results_firebase(results)
+
 		end
 	end
 end
