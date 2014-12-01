@@ -3835,3 +3835,49 @@ D, [2014-11-30T18:09:40.788551 #63782] DEBUG -- : Sending to Firebase: RT @i_The
 D, [2014-11-30T18:09:41.153932 #63782] DEBUG -- : Firebase response: {"name"=>"-Jc2b3QDm8AbbWaEgQtJ"}
 D, [2014-11-30T18:09:41.154029 #63782] DEBUG -- : Sending to Firebase: #NicoleKidman #Fit 'New Tricks' Star Tamzin Outhwaite Criticises Disney's 'Frozen' For… http://t.co/Y7hjAatKGC #Healthy #Nutrition
 D, [2014-11-30T18:09:41.522132 #63782] DEBUG -- : Firebase response: {"name"=>"-Jc2b3W4EnnY38EpeIip"}
+I, [2014-11-30T18:51:05.794992 #84783]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-11-30T18:51:05.795101 #84783]  INFO -- : Running Twitter query on #healthy
+I, [2014-11-30T18:51:05.795146 #84783]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-11-30T18:51:05.795756 #84783] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-11-30T18:51:05.795792 #84783]  INFO -- : Running search on #healthy
+D, [2014-11-30T18:51:05.795823 #84783] DEBUG -- : Consumer key: 5LmU6ckudMC5spqqRK1kJHVsu
+D, [2014-11-30T18:51:05.795850 #84783] DEBUG -- : Consumer secret: peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S
+D, [2014-11-30T18:51:05.795881 #84783] DEBUG -- : Access token: 2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS
+D, [2014-11-30T18:51:05.795912 #84783] DEBUG -- : Access token secret: nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS
+I, [2014-11-30T18:51:05.795994 #84783]  INFO -- : Running search...
+D, [2014-11-30T18:51:06.467873 #84783] DEBUG -- : Adding tweet: #Motivation #Healthy 5 Good To Know Facts About Garcinia Cambogia Extract http://t.co/wg8GPRTa8a #Online
+D, [2014-11-30T18:51:06.467978 #84783] DEBUG -- : Adding tweet: RT @i_TheQuotes: #Healthy #Nutrition Coolsculpting by Zeltiq - A Popular Fat Reduction Procedure In Los Angeles http://t.co/63Hq3yuVQ9
+D, [2014-11-30T18:51:06.468051 #84783] DEBUG -- : Adding tweet: RT @i_TheQuotes: #Healthy #Nutrition You Can Don't You an All-Out http://t.co/E5fIsfNiTj
+D, [2014-11-30T18:51:06.468107 #84783] DEBUG -- : Adding tweet: #Healthy #FatLoss Weekend Housework Helps You Lose Weight Effectively http://t.co/m5PH9CvKTm #Health
+D, [2014-11-30T18:51:06.468156 #84783] DEBUG -- : Adding tweet: #Healthy #Fitness Top 7 Principles for Losing Weight, Getting #Fit and Changing Your Life http://t.co/CldDJVnmqX
+D, [2014-11-30T18:51:06.468204 #84783] DEBUG -- : Adding tweet: #Healthy #Fitness 5 Good To Know Facts About Garcinia Cambogia Extract http://t.co/6fjyyBrMHa
+D, [2014-11-30T18:51:06.468251 #84783] DEBUG -- : Adding tweet: #Workout #GetFit Coolsculpting by Zeltiq - A Popular Fat Reduction Procedure In Los Angeles http://t.co/Yzx8Lpaaav #Healthy
+D, [2014-11-30T18:51:06.468326 #84783] DEBUG -- : Adding tweet: #Fitness #Healthy Restore Lymphatic Drainage With Whole Body Vibration http://t.co/FpbASWwxiM #AliciaKeys
+D, [2014-11-30T18:51:06.468375 #84783] DEBUG -- : Adding tweet: Laughter is Good for Your Health http://t.co/vW6BYgQkzV #pain #stress #success #hope #healthy #creative #life #tips #business
+D, [2014-11-30T18:51:06.468421 #84783] DEBUG -- : Adding tweet: Turkey Club Panini (Sandwich)
+http://t.co/yNEvPNDrDu
+#recipe #cook #healthy #food #poultry #meat #lunchsnacks http://t.co/OahoHiOk4n
+I, [2014-11-30T18:51:06.468966 #84783]  INFO -- : Query results: ["#Motivation #Healthy 5 Good To Know Facts About Garcinia Cambogia Extract http://t.co/wg8GPRTa8a #Online", "RT @i_TheQuotes: #Healthy #Nutrition Coolsculpting by Zeltiq - A Popular Fat Reduction Procedure In Los Angeles http://t.co/63Hq3yuVQ9", "RT @i_TheQuotes: #Healthy #Nutrition You Can Don't You an All-Out http://t.co/E5fIsfNiTj", "#Healthy #FatLoss Weekend Housework Helps You Lose Weight Effectively http://t.co/m5PH9CvKTm #Health", "#Healthy #Fitness Top 7 Principles for Losing Weight, Getting #Fit and Changing Your Life http://t.co/CldDJVnmqX", "#Healthy #Fitness 5 Good To Know Facts About Garcinia Cambogia Extract http://t.co/6fjyyBrMHa", "#Workout #GetFit Coolsculpting by Zeltiq - A Popular Fat Reduction Procedure In Los Angeles http://t.co/Yzx8Lpaaav #Healthy", "#Fitness #Healthy Restore Lymphatic Drainage With Whole Body Vibration http://t.co/FpbASWwxiM #AliciaKeys", "Laughter is Good for Your Health http://t.co/vW6BYgQkzV #pain #stress #success #hope #healthy #creative #life #tips #business", "Turkey Club Panini (Sandwich)\nhttp://t.co/yNEvPNDrDu\n#recipe #cook #healthy #food #poultry #meat #lunchsnacks http://t.co/OahoHiOk4n"]
+D, [2014-11-30T18:51:06.469017 #84783] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-11-30T18:51:06.469062 #84783] DEBUG -- : Sending to Firebase: #Motivation #Healthy 5 Good To Know Facts About Garcinia Cambogia Extract http://t.co/wg8GPRTa8a #Online
+D, [2014-11-30T18:51:06.872659 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kYEDDVEmuyvX0axX"}
+D, [2014-11-30T18:51:06.872761 #84783] DEBUG -- : Sending to Firebase: RT @i_TheQuotes: #Healthy #Nutrition Coolsculpting by Zeltiq - A Popular Fat Reduction Procedure In Los Angeles http://t.co/63Hq3yuVQ9
+D, [2014-11-30T18:51:07.256989 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kYKDd2NuDE3bQNJ4"}
+D, [2014-11-30T18:51:07.257079 #84783] DEBUG -- : Sending to Firebase: RT @i_TheQuotes: #Healthy #Nutrition You Can Don't You an All-Out http://t.co/E5fIsfNiTj
+D, [2014-11-30T18:51:07.625816 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kYQDwMel-edRXwxZ"}
+D, [2014-11-30T18:51:07.625889 #84783] DEBUG -- : Sending to Firebase: #Healthy #FatLoss Weekend Housework Helps You Lose Weight Effectively http://t.co/m5PH9CvKTm #Health
+D, [2014-11-30T18:51:08.007789 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kYW7VOX_b0Wm4UiZ"}
+D, [2014-11-30T18:51:08.007888 #84783] DEBUG -- : Sending to Firebase: #Healthy #Fitness Top 7 Principles for Losing Weight, Getting #Fit and Changing Your Life http://t.co/CldDJVnmqX
+D, [2014-11-30T18:51:08.361671 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kYah-WUSJBQX2P6S"}
+D, [2014-11-30T18:51:08.361741 #84783] DEBUG -- : Sending to Firebase: #Healthy #Fitness 5 Good To Know Facts About Garcinia Cambogia Extract http://t.co/6fjyyBrMHa
+D, [2014-11-30T18:51:08.721182 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kYgKZqLLTVALzbKS"}
+D, [2014-11-30T18:51:08.721267 #84783] DEBUG -- : Sending to Firebase: #Workout #GetFit Coolsculpting by Zeltiq - A Popular Fat Reduction Procedure In Los Angeles http://t.co/Yzx8Lpaaav #Healthy
+D, [2014-11-30T18:51:09.125144 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kYmFoAFTZgtrzxl7"}
+D, [2014-11-30T18:51:09.125239 #84783] DEBUG -- : Sending to Firebase: #Fitness #Healthy Restore Lymphatic Drainage With Whole Body Vibration http://t.co/FpbASWwxiM #AliciaKeys
+D, [2014-11-30T18:51:09.493725 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kYsMWHd4rXmU0jnC"}
+D, [2014-11-30T18:51:09.493842 #84783] DEBUG -- : Sending to Firebase: Laughter is Good for Your Health http://t.co/vW6BYgQkzV #pain #stress #success #hope #healthy #creative #life #tips #business
+D, [2014-11-30T18:51:09.867024 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kYyEs067c9GSdnSl"}
+D, [2014-11-30T18:51:09.867117 #84783] DEBUG -- : Sending to Firebase: Turkey Club Panini (Sandwich)
+http://t.co/yNEvPNDrDu
+#recipe #cook #healthy #food #poultry #meat #lunchsnacks http://t.co/OahoHiOk4n
+D, [2014-11-30T18:51:10.225252 #84783] DEBUG -- : Firebase response: {"name"=>"-Jc2kZ2oOgG59CvZ2_wh"}
