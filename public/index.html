@@ -1,16 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!--
+ 
+To use this demo, create a firebase and load it up with some key-value pairs.
+
+The key should be the name of the object - it will appear in the bubble
+The value should be a number representing the relative size of the object. It will dictate the size of the bubble
+
+BE SURE TO ENTER YOUR FIREBASE URL IN THE JAVASCRIPT BELOW
+
+Watch the bubbles on this page change in size and appear/disappear as you modify your Firebase
+
+-->
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
         <script type='text/javascript' src='https://cdn.firebase.com/v0/firebase.js'></script>
-	<script type='text/javascript' src='d3fire.min.js'></script>
+        <script type='text/javascript' src='d3fire.js'></script>
 
-        <title>Trendy</title>
+        <title>D3Fire Test</title>
     </head>
     <body>
         <script type="text/javascript">
 
-            var fbase = new Firebase('https://sizzling-fire-8626.firebaseio.com');
+            /******
+                ENTER YOUR FIREBASE URL HERE
+            ******/
+            var fbase = new Firebase('https://sizzling-fire-8626.firebaseio.com/healthy/');
 
                 // Add an SVG element to the body
                 var wordCloud = d3.select("body")
@@ -18,6 +35,9 @@
                     .attr("width", 600)
                     .attr("height", 500);
 
+                /*
+                *  Connect our d3 selection to our Firebase
+                **/
                 wordCloud.firebase(fbase, {
 
                     // How do we identify each data point?

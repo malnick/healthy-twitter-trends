@@ -59,11 +59,10 @@ INFO
 				config.access_token_secret = creds['access_token_scret']
 			end
 			log.info("Running search...")
-			client.search(query).take(3).collect do |tweet|	
+			client.search(query).take(1000).collect do |tweet|	
 				log.debug("Adding tweet: #{tweet.text}")
 				results.push(tweet.text.chomp)
 			end
-			#log.debug("Complete results: #{results}")
 			results
 		end
 
@@ -75,7 +74,7 @@ INFO
 
 			firebase = Firebase::Client.new(base_uri, fbs)
 			results.each do |twt|
-				log.debug("Pushing #{twt} to Firebase @ #{base_uri}")
+				log.debug("Sending to Firebase: #{twt}")
 				response = firebase.push("#{query}", { :text => "#{twt}"})
 				log.debug("Firebase response: #{response.body}")
 				unless response.success?

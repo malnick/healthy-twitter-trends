@@ -22,6 +22,12 @@ class Server < Sinatra::Base
 		get_html
 	end
 
+	get '/d3fire.js' do
+		d3 = File.expand_path(File.dirname(__FILE__)) + '/../public/d3fire.js'	
+		content_type :js
+		send_file(d3)
+	end
+
 	def get_html
 		File.open(HTML, 'r').readlines
 	end
