@@ -42,6 +42,7 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
 
                     // How do we identify each data point?
                     keyFunc : function(dataSnapshot) {
+			console.log(dataSnapshot.val());
                         return dataSnapshot.name();
                     },
 
