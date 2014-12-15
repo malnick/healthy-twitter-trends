@@ -42,31 +42,34 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
 
                     // How do we identify each data point?
                     keyFunc : function(dataSnapshot) {
-		    	console.log(dataSnapshot.val())
+		    	console.log(dataSnapshot.val().split(" "))
 			return dataSnapshot.val();
                     },
 
                     // When new data is added to the Firebase
                     createFunc : function(newData) {
-                        var g = this.append('g'),
-                            locX = Math.random() * 600,
-                            locY = Math.random() * 500;
+		    var arry = newData.val().split(" ").sort();
+			for (var i = 0; i < arry.length; i++){
 
-                        // On new data, create a circle and a text element
-                        //  and add it to the d3 selection (this)
-                        g.append('circle')
-                            .attr('cx', locX)
-                            .attr('cy', locY)
-                            .attr('fill', '#cccccc')
-                            .attr('r', newData.name() * 5);
+			var g = this.append('g'),
+				locX = Math.random() * 600,
+				locY = Math.random() * 500;
 
-                        g.append('text')
-                            .text(newData.val())
-                            .attr('text-anchor','middle')
-                            .attr('x', locX)
-                            .attr('y', locY)
-                            .attr("dy", ".31em");
+				// On new data, create a circle and a text element
+				//  and add it to the d3 selection (this)
+				g.append('circle')
+				.attr('cx', locX)
+				.attr('cy', locY)
+				.attr('fill', '#cccccc')
+				.attr('r', newData.name() * 5);
 
+				g.append('text')
+				.text(arry[i])
+				.attr('text-anchor','middle')
+				.attr('x', locX)
+				.attr('y', locY)
+				.attr("dy", ".31em");
+			}
                         // layThemOut just arranges the circles so they fit
                         //layThemOut();
 
