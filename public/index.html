@@ -27,7 +27,7 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
             /******
                 ENTER YOUR FIREBASE URL HERE
             ******/
-            var fbase = new Firebase('https://sizzling-fire-8626.firebaseio.com/healthy/');
+            var fbase = new Firebase('https://sizzling-fire-8626.firebaseio.com/fuck/');
 
                 // Add an SVG element to the body
                 var wordCloud = d3.select("body")
@@ -42,8 +42,8 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
 
                     // How do we identify each data point?
                     keyFunc : function(dataSnapshot) {
-		    	console.log(dataSnapshot.name)
-                        return dataSnapshot.name();
+		    	console.log(dataSnapshot.val())
+			return dataSnapshot.val();
                     },
 
                     // When new data is added to the Firebase
@@ -58,17 +58,17 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
                             .attr('cx', locX)
                             .attr('cy', locY)
                             .attr('fill', '#cccccc')
-                            .attr('r', newData.val() * 5);
+                            .attr('r', newData.name() * 5);
 
                         g.append('text')
-                            .text(newData.name())
+                            .text(newData.val())
                             .attr('text-anchor','middle')
                             .attr('x', locX)
                             .attr('y', locY)
                             .attr("dy", ".31em");
 
                         // layThemOut just arranges the circles so they fit
-                        layThemOut();
+                        //layThemOut();
 
                         return g;
                     },
@@ -89,7 +89,7 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
 
                         // Remove the d3 element (this) 
                         this.remove();
-                        layThemOut();
+                        //layThemOut();
                     }
                 });
                 

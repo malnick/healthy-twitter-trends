@@ -75,7 +75,7 @@ INFO
 			firebase = Firebase::Client.new(base_uri, fbs)
 			results.each do |twt|
 				log.debug("Sending to Firebase: #{twt}")
-				response = firebase.push("#{query}", { :text => "#{twt}"})
+				response = firebase.push("#{query}", "#{twt}")
 				log.debug("Firebase response: #{response.body}")
 				unless response.success?
 					log.info("Something broke pushing #{twt} to Firebase")
