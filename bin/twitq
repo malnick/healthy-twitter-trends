@@ -1,18 +1,20 @@
 #!/bin/bash
 
+DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+
 case "$1" in
 	start)
-		ruby -e "require File.dirname(__FILE__) + '/../lib/twitq' 
-			Twitq::Options.new(ARGV)"
+		ruby $DIR/twitq.rb $*
 		;;
 	stop)
+		echo "I haven't actually implmented anything here yet, try 'kill -9 process_id'"
 		;;
 	restart)
 		$0 stop
 		$0 start
 		;;
 	*) 
-		echo "Usage: twitq -s ${query} -d (debug) start | twitq stop (TODO) | twitq restart"
+		echo "Usage: twitq start|stop -s #query_tag -d (debug)"
 		exit 1
 		;;
 esac

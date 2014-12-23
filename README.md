@@ -2,11 +2,11 @@
 Evetually, the server in /bin/server will run on Heroku and there will be integration between the server and the ruby app that ferries web forum info to the search arg in my app. 
 For now, to run:
 
-```bin/twitq -d #=> run a query for the 10 recent twitter posts with the hashtag #healthy```
+```bin/twitq start|stop -d #=> run a query for the 10 recent twitter posts with the hashtag #healthy```
 
-```bin/twitq -d -s $your_query #=> run a query for the 10 recent twitter posts with your own search input```
+```bin/twitq start|stop -s $your_query -d #=> run a query for the 10 recent twitter posts with your own search input```
 
-```bin/server #=> run the sinatra server on localhost:8080```
+```bin/server start|stop #=> run the sinatra server on localhost:8080```
 
 TODO:
 
