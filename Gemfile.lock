@@ -25,6 +25,8 @@ GEM
     rack (1.6.0)
     rack-protection (1.5.3)
       rack
+    rack-ssl (1.4.1)
+      rack
     simple_oauth (0.3.0)
     sinatra (1.4.5)
       rack (~> 1.4)
@@ -56,6 +58,7 @@ PLATFORMS
 DEPENDENCIES
   firebase
   rack
+  rack-ssl
   sinatra
   thin
   twitter
