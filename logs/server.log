@@ -102,3 +102,42 @@ I, [2014-12-25T07:03:19.796738 #63637]  INFO -- : /Users/malnick/projects/health
 [2014-12-25 11:46:27] DEBUG TCPServer.new(127.0.0.1, 1234)
 [2014-12-25 11:46:27] DEBUG Rack::Handler::WEBrick is mounted on /.
 [2014-12-25 11:46:27] INFO  WEBrick::HTTPServer#start: pid=47933 port=1234
+[2014-12-25 13:16:14] INFO  WEBrick 1.3.1
+[2014-12-25 13:16:14] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 13:16:14] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 13:16:14] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 13:16:14] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 13:16:14] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 13:16:14] INFO  WEBrick::HTTPServer#start: pid=73257 port=4343
+[2014-12-25 13:16:24] INFO  going to shutdown ...
+[2014-12-25 13:16:24] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 13:16:26] INFO  WEBrick 1.3.1
+[2014-12-25 13:16:26] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 13:16:26] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 13:16:26] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 13:16:26] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 13:16:26] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 13:16:26] INFO  WEBrick::HTTPServer#start: pid=73285 port=4343
+[2014-12-25 13:16:35] DEBUG accept: ::1:58684
+[2014-12-25 13:16:35] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T13:16:35.183999 #73285]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 13:16:35] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 13:16:36] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 13:16:36] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 13:16:53] DEBUG close: ::1:58684
+[2014-12-25 13:16:53] INFO  going to shutdown ...
+[2014-12-25 13:16:53] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 13:19:28] INFO  WEBrick 1.3.1
+[2014-12-25 13:19:28] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 13:19:28] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 13:19:28] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 13:19:28] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 13:19:28] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 13:19:28] INFO  WEBrick::HTTPServer#start: pid=74251 port=4343
+[2014-12-25 13:19:29] DEBUG accept: ::1:58788
+[2014-12-25 13:19:29] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T13:19:29.445415 #74251]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 13:19:29] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 13:19:36] DEBUG close: ::1:58788
+[2014-12-25 13:19:37] INFO  going to shutdown ...
+[2014-12-25 13:19:37] INFO  WEBrick::HTTPServer#start done.
