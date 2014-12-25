@@ -173,3 +173,10 @@ I, [2014-12-24T17:32:52.757627 #84517]  INFO -- : HTML Path: /Users/malnick/proj
 I, [2014-12-24T17:32:52.815775 #84517]  INFO -- : Sending d3fire.js
 I, [2014-12-24T17:32:52.815852 #84517]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/lib/../public/d3fire.js
 [2014-12-24 17:33:22] DEBUG close: ::1:64224
+[2014-12-24 17:39:07] INFO  WEBrick 1.3.1
+[2014-12-24 17:39:07] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-24 17:39:07] DEBUG TCPServer.new(::1, 1234)
+[2014-12-24 17:39:07] DEBUG TCPServer.new(127.0.0.1, 1234)
+[2014-12-24 17:39:07] DEBUG TCPServer.new(fe80::1%lo0, 1234)
+[2014-12-24 17:39:07] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-24 17:39:07] INFO  WEBrick::HTTPServer#start: pid=86519 port=1234
