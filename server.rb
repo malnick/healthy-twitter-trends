@@ -12,7 +12,7 @@ LOG = Logger.new(STDOUT) #(LOGFILE)
 opts = {
 	:Port		=> ENV['PORT'],
 	:Logger		=> WEBrick::Log::new(STDOUT, WEBrick::Log::DEBUG),
-	:ServerType	=> WEBrick::Daemon,
+	#:ServerType	=> WEBrick::Daemon,
 	:SSLEnable	=> false,
 }
 
