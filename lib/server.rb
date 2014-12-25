@@ -6,10 +6,11 @@ require 'logger'
 
 LOGFILE = File.expand_path(File.dirname(__FILE__)) + '/../logs/server.log'
 HTML	= File.expand_path(File.dirname(__FILE__)) + '/../public/index.html'
+D3	= File.expand_path(File.dirname(__FILE__)) + '/../public/d3fire.js'
 LOG = Logger.new(LOGFILE)
 
 opts = {
-	:PORT		=> 8080,
+	:Port		=> ENV['PORT'],
 	:Logger		=> WEBrick::Log::new(LOGFILE, WEBrick::Log::DEBUG),
 	:ServerType	=> WEBrick::Daemon,
 	:SSLEnable	=> false,
@@ -23,10 +24,16 @@ class Server < Sinatra::Base
 	end
 
 	get '/d3fire.js' do
-		d3 = File.expand_path(File.dirname(__FILE__)) + '/../public/d3fire.js'	
+		LOG.info("Sending d3fire.js")
+		LOG.info(D3)
 		content_type :js
-		send_file(d3)
+		send_file(D3)
 	end
+
+	get '/fuck' do
+		"fuck"
+	end
+
 
 	def get_html
 		File.open(HTML, 'r').readlines
@@ -34,5 +41,6 @@ class Server < Sinatra::Base
 end		
 
 Rack::Handler::WEBrick.run(Server, opts) do |server|
-[:INT, :TERM].each { |sig| trap(sig) { server.stop } }
+	[:INT, :TERM].each { |sig| trap(sig) { server.stop } }
 end
+
