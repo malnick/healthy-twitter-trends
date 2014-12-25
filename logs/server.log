@@ -1,0 +1,89 @@
+# Logfile created on 2014-12-25 07:00:32 -0800 by logger.rb/41954
+[2014-12-25 07:00:32] INFO  WEBrick 1.3.1
+[2014-12-25 07:00:32] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 07:00:32] DEBUG TCPServer.new(::1, 6969)
+[2014-12-25 07:00:32] DEBUG TCPServer.new(fe80::1%lo0, 6969)
+[2014-12-25 07:00:32] DEBUG TCPServer.new(127.0.0.1, 6969)
+[2014-12-25 07:00:32] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:00:32] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 07:00:32] INFO  WEBrick::HTTPServer#start: pid=62650 port=6969
+[2014-12-25 07:00:47] INFO  WEBrick 1.3.1
+[2014-12-25 07:00:47] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 07:00:47] DEBUG TCPServer.new(::1, 6969)
+[2014-12-25 07:00:47] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:00:47] DEBUG TCPServer.new(127.0.0.1, 6969)
+[2014-12-25 07:00:47] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:00:47] DEBUG TCPServer.new(fe80::1%lo0, 6969)
+[2014-12-25 07:00:47] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:01:00] INFO  WEBrick 1.3.1
+[2014-12-25 07:01:00] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 07:01:00] DEBUG TCPServer.new(::1, 6969)
+[2014-12-25 07:01:00] DEBUG TCPServer.new(127.0.0.1, 6969)
+[2014-12-25 07:01:00] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:01:00] DEBUG TCPServer.new(fe80::1%lo0, 6969)
+[2014-12-25 07:01:00] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 07:01:00] INFO  WEBrick::HTTPServer#start: pid=62836 port=6969
+[2014-12-25 07:01:44] INFO  WEBrick 1.3.1
+[2014-12-25 07:01:44] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 07:01:44] DEBUG TCPServer.new(::1, 6969)
+[2014-12-25 07:01:44] DEBUG TCPServer.new(127.0.0.1, 6969)
+[2014-12-25 07:01:44] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:01:44] DEBUG TCPServer.new(fe80::1%lo0, 6969)
+[2014-12-25 07:01:44] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 07:01:44] INFO  WEBrick::HTTPServer#start: pid=63098 port=6969
+[2014-12-25 07:01:58] DEBUG accept: ::1:63624
+[2014-12-25 07:01:58] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T07:01:58.960168 #63098]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 07:02:56] INFO  WEBrick 1.3.1
+[2014-12-25 07:02:56] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 07:02:56] DEBUG TCPServer.new(::1, 6969)
+[2014-12-25 07:02:56] DEBUG TCPServer.new(127.0.0.1, 6969)
+[2014-12-25 07:02:56] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:02:56] DEBUG TCPServer.new(fe80::1%lo0, 6969)
+[2014-12-25 07:02:56] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 07:02:56] INFO  WEBrick::HTTPServer#start: pid=63637 port=6969
+[2014-12-25 07:03:15] DEBUG accept: ::1:63659
+[2014-12-25 07:03:15] DEBUG accept: ::1:63660
+[2014-12-25 07:03:15] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T07:03:15.285426 #63637]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 07:03:15] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T07:03:15.335245 #63637]  INFO -- : Sending d3fire.js
+I, [2014-12-25T07:03:15.335334 #63637]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/public/d3fire.js
+[2014-12-25 07:03:19] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T07:03:19.774517 #63637]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 07:03:19] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T07:03:19.796661 #63637]  INFO -- : Sending d3fire.js
+I, [2014-12-25T07:03:19.796738 #63637]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/public/d3fire.js
+[2014-12-25 07:03:25] DEBUG close: ::1:63660
+[2014-12-25 07:03:49] DEBUG close: ::1:63659
+[2014-12-25 07:11:15] INFO  WEBrick 1.3.1
+[2014-12-25 07:11:15] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 07:11:15] DEBUG TCPServer.new(::1, 6969)
+[2014-12-25 07:11:15] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:11:15] DEBUG TCPServer.new(127.0.0.1, 6969)
+[2014-12-25 07:11:15] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:11:15] DEBUG TCPServer.new(fe80::1%lo0, 6969)
+[2014-12-25 07:11:15] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:11:38] INFO  WEBrick 1.3.1
+[2014-12-25 07:11:38] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 07:11:38] DEBUG TCPServer.new(::1, 6969)
+[2014-12-25 07:11:38] DEBUG TCPServer.new(127.0.0.1, 6969)
+[2014-12-25 07:11:38] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:11:38] DEBUG TCPServer.new(fe80::1%lo0, 6969)
+[2014-12-25 07:11:38] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 07:11:38] INFO  WEBrick::HTTPServer#start: pid=66325 port=6969
+[2014-12-25 07:13:24] INFO  WEBrick 1.3.1
+[2014-12-25 07:13:24] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 07:13:24] DEBUG TCPServer.new(::1, 6969)
+[2014-12-25 07:13:24] DEBUG TCPServer.new(127.0.0.1, 6969)
+[2014-12-25 07:13:24] WARN  TCPServer Error: Address already in use - bind(2)
+[2014-12-25 07:13:24] DEBUG TCPServer.new(fe80::1%lo0, 6969)
+[2014-12-25 07:13:24] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 07:13:24] INFO  WEBrick::HTTPServer#start: pid=66866 port=6969
+[2014-12-25 07:14:12] INFO  WEBrick 1.3.1
+[2014-12-25 07:14:12] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 07:14:12] DEBUG TCPServer.new(::1, 6969)
+[2014-12-25 07:14:12] DEBUG TCPServer.new(fe80::1%lo0, 6969)
+[2014-12-25 07:14:12] DEBUG TCPServer.new(127.0.0.1, 6969)
+[2014-12-25 07:14:12] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 07:14:12] INFO  WEBrick::HTTPServer#start: pid=67157 port=6969
