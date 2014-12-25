@@ -172,3 +172,4 @@ I, [2014-12-24T17:32:52.757627 #84517]  INFO -- : HTML Path: /Users/malnick/proj
 [2014-12-24 17:32:52] DEBUG Rack::Handler::WEBrick is invoked.
 I, [2014-12-24T17:32:52.815775 #84517]  INFO -- : Sending d3fire.js
 I, [2014-12-24T17:32:52.815852 #84517]  INFO -- : /Users/malnick/projects/healthy-twitter-trends/lib/../public/d3fire.js
+[2014-12-24 17:33:22] DEBUG close: ::1:64224
