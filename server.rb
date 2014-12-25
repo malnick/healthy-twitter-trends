@@ -4,12 +4,9 @@ require 'webrick'
 require 'logger'
 
 
-LOGFILE = 'logs/server.log' #File.expand_path(File.dirname(__FILE__)) + '/logs/server.log'
-puts LOGFILE
+LOGFILE = File.expand_path(File.dirname(__FILE__)) + '/logs/server.log'
 HTML	= File.expand_path(File.dirname(__FILE__)) + '/public/index.html'
-puts HTML
 D3	= File.expand_path(File.dirname(__FILE__)) + '/public/d3fire.js'
-puts D3
 LOG = Logger.new(LOGFILE)
 
 opts = {
