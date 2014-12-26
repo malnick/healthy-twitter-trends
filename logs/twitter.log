@@ -5105,3 +5105,557 @@ D, [2014-12-26T11:08:13.771241 #49266] DEBUG -- : Sending to Firebase: RT @UKBan
 D, [2014-12-26T11:08:14.155062 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zwfIIffSqufR3aVb"}
 D, [2014-12-26T11:08:14.155147 #49266] DEBUG -- : Sending to Firebase: Wonderful 101 is a fucking fantastic game.
 D, [2014-12-26T11:08:14.506140 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zwkqGQtVXQSZfHv2"}
+I, [2014-12-26T11:12:43.869811 #49266]  INFO -- : Running Twitter query on malnick
+I, [2014-12-26T11:12:43.869849 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:12:43.869872 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:12:43.869895 #49266]  INFO -- : Running search on malnick
+I, [2014-12-26T11:12:43.869962 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:12:44.076530 #49266] DEBUG -- : Adding tweet: RT @laurenfranco_: See ya later gym bud @adi_malnick #LAfitness http://t.co/uOf0jxMTFX
+I, [2014-12-26T11:12:44.076596 #49266]  INFO -- : Query results: ["RT @laurenfranco_: See ya later gym bud @adi_malnick #LAfitness http://t.co/uOf0jxMTFX"]
+D, [2014-12-26T11:12:44.076629 #49266] DEBUG -- : Sending to Firebase: RT @laurenfranco_: See ya later gym bud @adi_malnick #LAfitness http://t.co/uOf0jxMTFX
+D, [2014-12-26T11:12:44.446539 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7-yedv8IUmkNyHRP5"}
+I, [2014-12-26T11:12:49.063791 #49266]  INFO -- : Running Twitter query on judith
+I, [2014-12-26T11:12:49.063830 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:12:49.063855 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:12:49.063878 #49266]  INFO -- : Running search on judith
+I, [2014-12-26T11:12:49.063947 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:12:49.444723 #49266] DEBUG -- : Adding tweet: @malikshistory Judith
+D, [2014-12-26T11:12:49.444830 #49266] DEBUG -- : Adding tweet: @PiiquuGonzalez @Juditth_Coronel SII JUDITH VOS TAMBIEN! &lt;3 TE  AMO MI VIDA &lt;3
+D, [2014-12-26T11:12:49.444883 #49266] DEBUG -- : Adding tweet: Borstelbeurt, lange wandeling door modderbos, daarna wellness-treatment in bad...'t leven van een teckel is zwaar 😴😴😴 http://t.co/nONk0adiqg
+D, [2014-12-26T11:12:49.444929 #49266] DEBUG -- : Adding tweet: Cada vez que vengo a lo de judith silvi me habla de el jajajaja
+D, [2014-12-26T11:12:49.444992 #49266] DEBUG -- : Adding tweet: 3Novices:ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’ Alan Riding discusses Mr. Modiano’s novellas, and Judith ...
+D, [2014-12-26T11:12:49.445044 #49266] DEBUG -- : Adding tweet: Even Bitcoin's Fans Prefer to Keep Cash - Wall Street Journal: Even Bitcoin's Fans Prefer to Kee... http://t.co/HN3IbqIntT #bitcoin #btc
+D, [2014-12-26T11:12:49.445099 #49266] DEBUG -- : Adding tweet: ∂♮ Judith Ripka Ring GORGEOUS!  Sterling &amp; Diamonique. #judithRipka #ring #vintagering #925 http://t.co/Ee7Y7YtYYo http://t.co/ZLTGiZ2sGa
+D, [2014-12-26T11:12:49.445141 #49266] DEBUG -- : Adding tweet: RT @subversivos_: Judith Galarza: México es una tumba, van más de 100 mil ejecutados en 12 años #YaMeCanse13 https://t.co/meOqsu6Fpo
+D, [2014-12-26T11:12:49.445182 #49266] DEBUG -- : Adding tweet: "To be a body is, in some sense, to be deprived of having a full recollection of one's life." -Judith Butler.
+D, [2014-12-26T11:12:49.445223 #49266] DEBUG -- : Adding tweet: http://t.co/I2G5ftTRIn
+I, [2014-12-26T11:12:49.445295 #49266]  INFO -- : Query results: ["@malikshistory Judith", "@PiiquuGonzalez @Juditth_Coronel SII JUDITH VOS TAMBIEN! &lt;3 TE  AMO MI VIDA &lt;3", "Borstelbeurt, lange wandeling door modderbos, daarna wellness-treatment in bad...'t leven van een teckel is zwaar 😴😴😴 http://t.co/nONk0adiqg", "Cada vez que vengo a lo de judith silvi me habla de el jajajaja", "3Novices:ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’ Alan Riding discusses Mr. Modiano’s novellas, and Judith ...", "Even Bitcoin's Fans Prefer to Keep Cash - Wall Street Journal: Even Bitcoin's Fans Prefer to Kee... http://t.co/HN3IbqIntT #bitcoin #btc", "∂♮ Judith Ripka Ring GORGEOUS!  Sterling &amp; Diamonique. #judithRipka #ring #vintagering #925 http://t.co/Ee7Y7YtYYo http://t.co/ZLTGiZ2sGa", "RT @subversivos_: Judith Galarza: México es una tumba, van más de 100 mil ejecutados en 12 años #YaMeCanse13 https://t.co/meOqsu6Fpo", "\"To be a body is, in some sense, to be deprived of having a full recollection of one's life.\" -Judith Butler.", "http://t.co/I2G5ftTRIn"]
+D, [2014-12-26T11:12:49.445340 #49266] DEBUG -- : Sending to Firebase: @malikshistory Judith
+D, [2014-12-26T11:12:49.801993 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7-zyJBp-CvQSfVraK"}
+D, [2014-12-26T11:12:49.802083 #49266] DEBUG -- : Sending to Firebase: @PiiquuGonzalez @Juditth_Coronel SII JUDITH VOS TAMBIEN! &lt;3 TE  AMO MI VIDA &lt;3
+D, [2014-12-26T11:12:50.166563 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70-31X7tNI1nSqgY0"}
+D, [2014-12-26T11:12:50.166657 #49266] DEBUG -- : Sending to Firebase: Borstelbeurt, lange wandeling door modderbos, daarna wellness-treatment in bad...'t leven van een teckel is zwaar 😴😴😴 http://t.co/nONk0adiqg
+D, [2014-12-26T11:12:51.451979 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70-N4oivIkdoCrNvf"}
+D, [2014-12-26T11:12:51.452096 #49266] DEBUG -- : Sending to Firebase: Cada vez que vengo a lo de judith silvi me habla de el jajajaja
+D, [2014-12-26T11:12:51.814468 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70-Sl2pLEHJY6_CZT"}
+D, [2014-12-26T11:12:51.814530 #49266] DEBUG -- : Sending to Firebase: 3Novices:ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’ Alan Riding discusses Mr. Modiano’s novellas, and Judith ...
+D, [2014-12-26T11:12:52.171202 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70-YJP51zeNuRQWTJ"}
+D, [2014-12-26T11:12:52.171285 #49266] DEBUG -- : Sending to Firebase: Even Bitcoin's Fans Prefer to Keep Cash - Wall Street Journal: Even Bitcoin's Fans Prefer to Kee... http://t.co/HN3IbqIntT #bitcoin #btc
+D, [2014-12-26T11:12:52.533553 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70-cmje-FU-NpH8q_"}
+D, [2014-12-26T11:12:52.533653 #49266] DEBUG -- : Sending to Firebase: ∂♮ Judith Ripka Ring GORGEOUS!  Sterling &amp; Diamonique. #judithRipka #ring #vintagering #925 http://t.co/Ee7Y7YtYYo http://t.co/ZLTGiZ2sGa
+D, [2014-12-26T11:12:52.896014 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70-ifmLv-7SNLGurU"}
+D, [2014-12-26T11:12:52.896088 #49266] DEBUG -- : Sending to Firebase: RT @subversivos_: Judith Galarza: México es una tumba, van más de 100 mil ejecutados en 12 años #YaMeCanse13 https://t.co/meOqsu6Fpo
+D, [2014-12-26T11:12:53.261943 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70-oNZgVsLW6vLEQ3"}
+D, [2014-12-26T11:12:53.262033 #49266] DEBUG -- : Sending to Firebase: "To be a body is, in some sense, to be deprived of having a full recollection of one's life." -Judith Butler.
+D, [2014-12-26T11:12:53.630504 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70-toPCBuH8_kXtKr"}
+D, [2014-12-26T11:12:53.630588 #49266] DEBUG -- : Sending to Firebase: http://t.co/I2G5ftTRIn
+D, [2014-12-26T11:12:54.013210 #49266] DEBUG -- : Firebase response: {"name"=>"-Je700-7w1Cov0KOEwcu"}
+I, [2014-12-26T11:13:12.878252 #49266]  INFO -- : Running Twitter query on judith
+I, [2014-12-26T11:13:12.878478 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:13:12.878509 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:13:12.878527 #49266]  INFO -- : Running search on judith
+I, [2014-12-26T11:13:12.878580 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:13:13.691105 #49266] DEBUG -- : Adding tweet: RT @danisnotonfire: i thought i'd try to blow out three candles at once with a huge breath and ended up spraying my face with hot wax 😑👏 ht…
+D, [2014-12-26T11:13:13.691190 #49266] DEBUG -- : Adding tweet: RT @raton_tv: Ahora si a darle duro!! http://t.co/Am15HDDreI
+D, [2014-12-26T11:13:13.691222 #49266] DEBUG -- : Adding tweet: @malikshistory Judith
+D, [2014-12-26T11:13:13.691250 #49266] DEBUG -- : Adding tweet: @PiiquuGonzalez @Juditth_Coronel SII JUDITH VOS TAMBIEN! &lt;3 TE  AMO MI VIDA &lt;3
+D, [2014-12-26T11:13:13.691277 #49266] DEBUG -- : Adding tweet: Borstelbeurt, lange wandeling door modderbos, daarna wellness-treatment in bad...'t leven van een teckel is zwaar 😴😴😴 http://t.co/nONk0adiqg
+D, [2014-12-26T11:13:13.691320 #49266] DEBUG -- : Adding tweet: Cada vez que vengo a lo de judith silvi me habla de el jajajaja
+D, [2014-12-26T11:13:13.691349 #49266] DEBUG -- : Adding tweet: 3Novices:ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’ Alan Riding discusses Mr. Modiano’s novellas, and Judith ...
+D, [2014-12-26T11:13:13.691375 #49266] DEBUG -- : Adding tweet: Even Bitcoin's Fans Prefer to Keep Cash - Wall Street Journal: Even Bitcoin's Fans Prefer to Kee... http://t.co/HN3IbqIntT #bitcoin #btc
+D, [2014-12-26T11:13:13.691402 #49266] DEBUG -- : Adding tweet: ∂♮ Judith Ripka Ring GORGEOUS!  Sterling &amp; Diamonique. #judithRipka #ring #vintagering #925 http://t.co/Ee7Y7YtYYo http://t.co/ZLTGiZ2sGa
+D, [2014-12-26T11:13:13.691428 #49266] DEBUG -- : Adding tweet: RT @subversivos_: Judith Galarza: México es una tumba, van más de 100 mil ejecutados en 12 años #YaMeCanse13 https://t.co/meOqsu6Fpo
+I, [2014-12-26T11:13:13.691484 #49266]  INFO -- : Query results: ["RT @danisnotonfire: i thought i'd try to blow out three candles at once with a huge breath and ended up spraying my face with hot wax 😑👏 ht…", "RT @raton_tv: Ahora si a darle duro!! http://t.co/Am15HDDreI", "@malikshistory Judith", "@PiiquuGonzalez @Juditth_Coronel SII JUDITH VOS TAMBIEN! &lt;3 TE  AMO MI VIDA &lt;3", "Borstelbeurt, lange wandeling door modderbos, daarna wellness-treatment in bad...'t leven van een teckel is zwaar 😴😴😴 http://t.co/nONk0adiqg", "Cada vez que vengo a lo de judith silvi me habla de el jajajaja", "3Novices:ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’ Alan Riding discusses Mr. Modiano’s novellas, and Judith ...", "Even Bitcoin's Fans Prefer to Keep Cash - Wall Street Journal: Even Bitcoin's Fans Prefer to Kee... http://t.co/HN3IbqIntT #bitcoin #btc", "∂♮ Judith Ripka Ring GORGEOUS!  Sterling &amp; Diamonique. #judithRipka #ring #vintagering #925 http://t.co/Ee7Y7YtYYo http://t.co/ZLTGiZ2sGa", "RT @subversivos_: Judith Galarza: México es una tumba, van más de 100 mil ejecutados en 12 años #YaMeCanse13 https://t.co/meOqsu6Fpo"]
+D, [2014-12-26T11:13:13.691518 #49266] DEBUG -- : Sending to Firebase: RT @danisnotonfire: i thought i'd try to blow out three candles at once with a huge breath and ended up spraying my face with hot wax 😑👏 ht…
+D, [2014-12-26T11:13:14.038159 #49266] DEBUG -- : Firebase response: {"name"=>"-Je704t0NziXXWgiCbIQ"}
+D, [2014-12-26T11:13:14.038254 #49266] DEBUG -- : Sending to Firebase: RT @raton_tv: Ahora si a darle duro!! http://t.co/Am15HDDreI
+D, [2014-12-26T11:13:14.390821 #49266] DEBUG -- : Firebase response: {"name"=>"-Je704yXRjQgNZqAzn9q"}
+D, [2014-12-26T11:13:14.390894 #49266] DEBUG -- : Sending to Firebase: @malikshistory Judith
+D, [2014-12-26T11:13:15.530272 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7053zk-YaDXHQ_qYl"}
+D, [2014-12-26T11:13:15.530363 #49266] DEBUG -- : Sending to Firebase: @PiiquuGonzalez @Juditth_Coronel SII JUDITH VOS TAMBIEN! &lt;3 TE  AMO MI VIDA &lt;3
+D, [2014-12-26T11:13:15.894308 #49266] DEBUG -- : Firebase response: {"name"=>"-Je705L1bY5cuuouFV_H"}
+D, [2014-12-26T11:13:15.894371 #49266] DEBUG -- : Sending to Firebase: Borstelbeurt, lange wandeling door modderbos, daarna wellness-treatment in bad...'t leven van een teckel is zwaar 😴😴😴 http://t.co/nONk0adiqg
+D, [2014-12-26T11:13:16.254509 #49266] DEBUG -- : Firebase response: {"name"=>"-Je705QVudn35bruybHd"}
+D, [2014-12-26T11:13:16.254592 #49266] DEBUG -- : Sending to Firebase: Cada vez que vengo a lo de judith silvi me habla de el jajajaja
+D, [2014-12-26T11:13:18.022525 #49266] DEBUG -- : Firebase response: {"name"=>"-Je705r9TIxbeJiMCxX7"}
+D, [2014-12-26T11:13:18.022596 #49266] DEBUG -- : Sending to Firebase: 3Novices:ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’ Alan Riding discusses Mr. Modiano’s novellas, and Judith ...
+D, [2014-12-26T11:13:18.398632 #49266] DEBUG -- : Firebase response: {"name"=>"-Je705x4ZWGbsTjyOBAk"}
+D, [2014-12-26T11:13:18.398748 #49266] DEBUG -- : Sending to Firebase: Even Bitcoin's Fans Prefer to Keep Cash - Wall Street Journal: Even Bitcoin's Fans Prefer to Kee... http://t.co/HN3IbqIntT #bitcoin #btc
+D, [2014-12-26T11:13:18.773966 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7061zHKeG_3grxpCv"}
+D, [2014-12-26T11:13:18.774067 #49266] DEBUG -- : Sending to Firebase: ∂♮ Judith Ripka Ring GORGEOUS!  Sterling &amp; Diamonique. #judithRipka #ring #vintagering #925 http://t.co/Ee7Y7YtYYo http://t.co/ZLTGiZ2sGa
+D, [2014-12-26T11:13:19.124329 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7067PVcSiXGINAfZW"}
+D, [2014-12-26T11:13:19.124421 #49266] DEBUG -- : Sending to Firebase: RT @subversivos_: Judith Galarza: México es una tumba, van más de 100 mil ejecutados en 12 años #YaMeCanse13 https://t.co/meOqsu6Fpo
+D, [2014-12-26T11:13:19.487086 #49266] DEBUG -- : Firebase response: {"name"=>"-Je706D9ZBGHbaVc-QoS"}
+I, [2014-12-26T11:13:37.127269 #49266]  INFO -- : Running Twitter query on judith
+I, [2014-12-26T11:13:37.127520 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:13:37.127556 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:13:37.127599 #49266]  INFO -- : Running search on judith
+I, [2014-12-26T11:13:37.127656 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:13:37.947844 #49266] DEBUG -- : Adding tweet: ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’: Alan Riding discusses Mr. Modiano’s novellas, and Judith Newm...
+D, [2014-12-26T11:13:37.947922 #49266] DEBUG -- : Adding tweet: RT @danisnotonfire: i thought i'd try to blow out three candles at once with a huge breath and ended up spraying my face with hot wax 😑👏 ht…
+D, [2014-12-26T11:13:37.947955 #49266] DEBUG -- : Adding tweet: RT @raton_tv: Ahora si a darle duro!! http://t.co/Am15HDDreI
+D, [2014-12-26T11:13:37.947986 #49266] DEBUG -- : Adding tweet: @malikshistory Judith
+D, [2014-12-26T11:13:37.948018 #49266] DEBUG -- : Adding tweet: @PiiquuGonzalez @Juditth_Coronel SII JUDITH VOS TAMBIEN! &lt;3 TE  AMO MI VIDA &lt;3
+D, [2014-12-26T11:13:37.948046 #49266] DEBUG -- : Adding tweet: Borstelbeurt, lange wandeling door modderbos, daarna wellness-treatment in bad...'t leven van een teckel is zwaar 😴😴😴 http://t.co/nONk0adiqg
+D, [2014-12-26T11:13:37.948072 #49266] DEBUG -- : Adding tweet: Cada vez que vengo a lo de judith silvi me habla de el jajajaja
+D, [2014-12-26T11:13:37.948102 #49266] DEBUG -- : Adding tweet: 3Novices:ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’ Alan Riding discusses Mr. Modiano’s novellas, and Judith ...
+D, [2014-12-26T11:13:37.948129 #49266] DEBUG -- : Adding tweet: Even Bitcoin's Fans Prefer to Keep Cash - Wall Street Journal: Even Bitcoin's Fans Prefer to Kee... http://t.co/HN3IbqIntT #bitcoin #btc
+D, [2014-12-26T11:13:37.948155 #49266] DEBUG -- : Adding tweet: ∂♮ Judith Ripka Ring GORGEOUS!  Sterling &amp; Diamonique. #judithRipka #ring #vintagering #925 http://t.co/Ee7Y7YtYYo http://t.co/ZLTGiZ2sGa
+I, [2014-12-26T11:13:37.948212 #49266]  INFO -- : Query results: ["ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’: Alan Riding discusses Mr. Modiano’s novellas, and Judith Newm...", "RT @danisnotonfire: i thought i'd try to blow out three candles at once with a huge breath and ended up spraying my face with hot wax 😑👏 ht…", "RT @raton_tv: Ahora si a darle duro!! http://t.co/Am15HDDreI", "@malikshistory Judith", "@PiiquuGonzalez @Juditth_Coronel SII JUDITH VOS TAMBIEN! &lt;3 TE  AMO MI VIDA &lt;3", "Borstelbeurt, lange wandeling door modderbos, daarna wellness-treatment in bad...'t leven van een teckel is zwaar 😴😴😴 http://t.co/nONk0adiqg", "Cada vez que vengo a lo de judith silvi me habla de el jajajaja", "3Novices:ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’ Alan Riding discusses Mr. Modiano’s novellas, and Judith ...", "Even Bitcoin's Fans Prefer to Keep Cash - Wall Street Journal: Even Bitcoin's Fans Prefer to Kee... http://t.co/HN3IbqIntT #bitcoin #btc", "∂♮ Judith Ripka Ring GORGEOUS!  Sterling &amp; Diamonique. #judithRipka #ring #vintagering #925 http://t.co/Ee7Y7YtYYo http://t.co/ZLTGiZ2sGa"]
+D, [2014-12-26T11:13:37.948265 #49266] DEBUG -- : Sending to Firebase: ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’: Alan Riding discusses Mr. Modiano’s novellas, and Judith Newm...
+D, [2014-12-26T11:13:38.305555 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70AoBxc78dQPQJYJg"}
+D, [2014-12-26T11:13:38.305681 #49266] DEBUG -- : Sending to Firebase: RT @danisnotonfire: i thought i'd try to blow out three candles at once with a huge breath and ended up spraying my face with hot wax 😑👏 ht…
+D, [2014-12-26T11:13:38.730740 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70Auph1tLGLa93zv9"}
+D, [2014-12-26T11:13:38.730890 #49266] DEBUG -- : Sending to Firebase: RT @raton_tv: Ahora si a darle duro!! http://t.co/Am15HDDreI
+D, [2014-12-26T11:13:39.093055 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70B-UBqiB7RYtKqcQ"}
+D, [2014-12-26T11:13:39.093123 #49266] DEBUG -- : Sending to Firebase: @malikshistory Judith
+D, [2014-12-26T11:13:39.447418 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70B52NXf49VbAYGXW"}
+D, [2014-12-26T11:13:39.447483 #49266] DEBUG -- : Sending to Firebase: @PiiquuGonzalez @Juditth_Coronel SII JUDITH VOS TAMBIEN! &lt;3 TE  AMO MI VIDA &lt;3
+D, [2014-12-26T11:13:39.805240 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70BATpRPKfki2MIZd"}
+D, [2014-12-26T11:13:39.805327 #49266] DEBUG -- : Sending to Firebase: Borstelbeurt, lange wandeling door modderbos, daarna wellness-treatment in bad...'t leven van een teckel is zwaar 😴😴😴 http://t.co/nONk0adiqg
+D, [2014-12-26T11:13:40.175755 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70BGPyzImVXS__6t4"}
+D, [2014-12-26T11:13:40.175854 #49266] DEBUG -- : Sending to Firebase: Cada vez que vengo a lo de judith silvi me habla de el jajajaja
+D, [2014-12-26T11:13:40.556051 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70BMMKwPBNScSgT5j"}
+D, [2014-12-26T11:13:40.556137 #49266] DEBUG -- : Sending to Firebase: 3Novices:ArtsBeat: Book Review Podcast: Patrick Modiano’s ‘Suspended Sentences’ Alan Riding discusses Mr. Modiano’s novellas, and Judith ...
+D, [2014-12-26T11:13:40.910412 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70BRqyOdyhj_U_dn5"}
+D, [2014-12-26T11:13:40.910478 #49266] DEBUG -- : Sending to Firebase: Even Bitcoin's Fans Prefer to Keep Cash - Wall Street Journal: Even Bitcoin's Fans Prefer to Kee... http://t.co/HN3IbqIntT #bitcoin #btc
+D, [2014-12-26T11:13:41.271341 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70BXWhvSfaEyuQB_o"}
+D, [2014-12-26T11:13:41.271432 #49266] DEBUG -- : Sending to Firebase: ∂♮ Judith Ripka Ring GORGEOUS!  Sterling &amp; Diamonique. #judithRipka #ring #vintagering #925 http://t.co/Ee7Y7YtYYo http://t.co/ZLTGiZ2sGa
+D, [2014-12-26T11:13:41.634920 #49266] DEBUG -- : Firebase response: {"name"=>"-Je70BcDDOrD3TJAm8CW"}
+I, [2014-12-26T14:32:04.854407 #49266]  INFO -- : Running Twitter query on test
+I, [2014-12-26T14:32:04.855533 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T14:32:04.855602 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T14:32:04.855639 #49266]  INFO -- : Running search on test
+I, [2014-12-26T14:32:04.855733 #49266]  INFO -- : Running search...
+D, [2014-12-26T14:32:05.305619 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.305794 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.305865 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.305919 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.305967 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.306016 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.306065 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.306118 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.306169 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.306224 #49266] DEBUG -- : Adding tweet: Elgato Stream Test: http://t.co/kng23z99cf
+I, [2014-12-26T14:32:05.306309 #49266]  INFO -- : Query results: ["RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…", "RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…", "RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…", "RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…", "RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…", "RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…", "RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…", "RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…", "RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…", "Elgato Stream Test: http://t.co/kng23z99cf"]
+D, [2014-12-26T14:32:05.306357 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:05.726968 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7iaZfdpsAtl78qlrQ"}
+D, [2014-12-26T14:32:05.727050 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:06.081204 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7iaeQx5_ZGXtN0iwS"}
+D, [2014-12-26T14:32:06.081284 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:06.505190 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7iajxvFIziVrFBtv6"}
+D, [2014-12-26T14:32:06.505252 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:06.856882 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7iaqWmjGDqEmowamr"}
+D, [2014-12-26T14:32:06.857077 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:07.212429 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7iaw7eTj_cTUSMSUY"}
+D, [2014-12-26T14:32:07.212507 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:07.568963 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7ib0hFXFpTQ9NfSVO"}
+D, [2014-12-26T14:32:07.569027 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:07.931307 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7ib6MXVIAqJCPkXEJ"}
+D, [2014-12-26T14:32:07.931387 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:08.315826 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7ibCNqdyN19sKG8Jd"}
+D, [2014-12-26T14:32:08.315886 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¡AVERIGUA CUAL ES TU NIVEL DE CELOS! 👪👪 ENTRA Y REALIZA EL TEST ~&gt; http://t.co/RH3ow26wZa ¡RT PARA COMPARTIR! http://t.co/iO…
+D, [2014-12-26T14:32:08.666170 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7ibHqsKY-C_eDy5L1"}
+D, [2014-12-26T14:32:08.666287 #49266] DEBUG -- : Sending to Firebase: Elgato Stream Test: http://t.co/kng23z99cf
+D, [2014-12-26T14:32:09.034054 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7ibNMwgQx2WUiBpvb"}
+I, [2014-12-26T14:39:14.348332 #49266]  INFO -- : Running Twitter query on test
+I, [2014-12-26T14:39:14.348361 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T14:39:14.348377 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T14:39:14.348393 #49266]  INFO -- : Running search on test
+I, [2014-12-26T14:39:14.348443 #49266]  INFO -- : Running search...
+D, [2014-12-26T14:39:14.773639 #49266] DEBUG -- : Adding tweet: RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E
+http://t.co/B1uhWDbyWB
+
+RT @opentestfrance http://t.co/TLnQoEtR3m
+D, [2014-12-26T14:39:14.773723 #49266] DEBUG -- : Adding tweet: Test xx
+D, [2014-12-26T14:39:14.773758 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/4MLFjxoX4T #alienigena
+D, [2014-12-26T14:39:14.773788 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/iAjYm9jKsI #alienigena
+D, [2014-12-26T14:39:14.773816 #49266] DEBUG -- : Adding tweet: RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E
+http://t.co/B1uhWDbyWB
+
+RT @opentestfrance http://t.co/TLnQoEtR3m
+D, [2014-12-26T14:39:14.773843 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/ZiBpY05Ijo #alienigena
+D, [2014-12-26T14:39:14.773891 #49266] DEBUG -- : Adding tweet: RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E
+http://t.co/B1uhWDbyWB
+
+RT @opentestfrance http://t.co/TLnQoEtR3m
+D, [2014-12-26T14:39:14.773921 #49266] DEBUG -- : Adding tweet: Test driving my new car tommorow, exciting 🙊🙊🙊🙊🙊
+D, [2014-12-26T14:39:14.773949 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/LIQLN242or #alienigena
+D, [2014-12-26T14:39:14.773976 #49266] DEBUG -- : Adding tweet: RT @JackAttackYoAss: Lastnight I conducted a real live DUI test while being drunk (I failed) and then I pretended Kait got shot and I neede…
+I, [2014-12-26T14:39:14.774031 #49266]  INFO -- : Query results: ["RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E\nhttp://t.co/B1uhWDbyWB\n\nRT @opentestfrance http://t.co/TLnQoEtR3m", "Test xx", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/4MLFjxoX4T #alienigena", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/iAjYm9jKsI #alienigena", "RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E\nhttp://t.co/B1uhWDbyWB\n\nRT @opentestfrance http://t.co/TLnQoEtR3m", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/ZiBpY05Ijo #alienigena", "RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E\nhttp://t.co/B1uhWDbyWB\n\nRT @opentestfrance http://t.co/TLnQoEtR3m", "Test driving my new car tommorow, exciting 🙊🙊🙊🙊🙊", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/LIQLN242or #alienigena", "RT @JackAttackYoAss: Lastnight I conducted a real live DUI test while being drunk (I failed) and then I pretended Kait got shot and I neede…"]
+D, [2014-12-26T14:39:14.774066 #49266] DEBUG -- : Sending to Firebase: RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E
+http://t.co/B1uhWDbyWB
+
+RT @opentestfrance http://t.co/TLnQoEtR3m
+D, [2014-12-26T14:39:15.153432 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kEPQXeKuLKNpwNXi"}
+D, [2014-12-26T14:39:15.153513 #49266] DEBUG -- : Sending to Firebase: Test xx
+D, [2014-12-26T14:39:15.515635 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kEVLCo3gQfZh8oKp"}
+D, [2014-12-26T14:39:15.515716 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/4MLFjxoX4T #alienigena
+D, [2014-12-26T14:39:15.859959 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kE_hhkp_osP1Sj-c"}
+D, [2014-12-26T14:39:15.860049 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/iAjYm9jKsI #alienigena
+D, [2014-12-26T14:39:16.828756 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kEfQzWhPeA5x-sIq"}
+D, [2014-12-26T14:39:16.828822 #49266] DEBUG -- : Sending to Firebase: RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E
+http://t.co/B1uhWDbyWB
+
+RT @opentestfrance http://t.co/TLnQoEtR3m
+D, [2014-12-26T14:39:17.177622 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kEuKdowjtsEsXqrB"}
+D, [2014-12-26T14:39:17.177712 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/ZiBpY05Ijo #alienigena
+D, [2014-12-26T14:39:17.527483 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kEzns4VF8OSDCrG0"}
+D, [2014-12-26T14:39:17.527555 #49266] DEBUG -- : Sending to Firebase: RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E
+http://t.co/B1uhWDbyWB
+
+RT @opentestfrance http://t.co/TLnQoEtR3m
+D, [2014-12-26T14:39:17.890139 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kF4SzjxNvcMdDINY"}
+D, [2014-12-26T14:39:17.890205 #49266] DEBUG -- : Sending to Firebase: Test driving my new car tommorow, exciting 🙊🙊🙊🙊🙊
+D, [2014-12-26T14:39:18.234388 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kF9jfFyt8EGBg14m"}
+D, [2014-12-26T14:39:18.234477 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/LIQLN242or #alienigena
+D, [2014-12-26T14:39:18.580284 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kFFF-yL-qovdLnqX"}
+D, [2014-12-26T14:39:18.580366 #49266] DEBUG -- : Sending to Firebase: RT @JackAttackYoAss: Lastnight I conducted a real live DUI test while being drunk (I failed) and then I pretended Kait got shot and I neede…
+D, [2014-12-26T14:39:18.938584 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kFKpQjkey293X_Ew"}
+I, [2014-12-26T14:40:43.163062 #49266]  INFO -- : Running Twitter query on test
+I, [2014-12-26T14:40:43.163095 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T14:40:43.163114 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T14:40:43.163131 #49266]  INFO -- : Running search on test
+I, [2014-12-26T14:40:43.163187 #49266]  INFO -- : Running search...
+D, [2014-12-26T14:40:43.570733 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/qesH3zLZ6f #alienigena
+D, [2014-12-26T14:40:43.570812 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/OFv73EHkg1 #alienigena
+D, [2014-12-26T14:40:43.570844 #49266] DEBUG -- : Adding tweet: untitled_n と test_n が増え続けて整理できなくなってきた。
+D, [2014-12-26T14:40:43.570873 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/j7ux2d85qM #alienigena
+D, [2014-12-26T14:40:43.570901 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/MpAH4dyEWQ #alienigena
+D, [2014-12-26T14:40:43.570927 #49266] DEBUG -- : Adding tweet: TEST: Feu bona parella? http://t.co/FD048AWTtP
+D, [2014-12-26T14:40:43.570952 #49266] DEBUG -- : Adding tweet: Test
+D, [2014-12-26T14:40:43.570978 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/swIbqtYOwx #alienigena
+D, [2014-12-26T14:40:43.571004 #49266] DEBUG -- : Adding tweet: Test.
+D, [2014-12-26T14:40:43.571029 #49266] DEBUG -- : Adding tweet: New research shows EEG may be a good assessment tool in determining level of consciousness in patients with brain... http://t.co/IZNrIStS8v
+I, [2014-12-26T14:40:43.571075 #49266]  INFO -- : Query results: ["Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/qesH3zLZ6f #alienigena", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/OFv73EHkg1 #alienigena", "untitled_n と test_n が増え続けて整理できなくなってきた。", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/j7ux2d85qM #alienigena", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/MpAH4dyEWQ #alienigena", "TEST: Feu bona parella? http://t.co/FD048AWTtP", "Test", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/swIbqtYOwx #alienigena", "Test.", "New research shows EEG may be a good assessment tool in determining level of consciousness in patients with brain... http://t.co/IZNrIStS8v"]
+D, [2014-12-26T14:40:43.571110 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/qesH3zLZ6f #alienigena
+D, [2014-12-26T14:40:43.936242 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7k_4puU6xRXsfZM0-"}
+D, [2014-12-26T14:40:43.936308 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/OFv73EHkg1 #alienigena
+D, [2014-12-26T14:40:44.333699 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7k_AKGw_t12uGTJhJ"}
+D, [2014-12-26T14:40:44.333766 #49266] DEBUG -- : Sending to Firebase: untitled_n と test_n が増え続けて整理できなくなってきた。
+D, [2014-12-26T14:40:44.676490 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7k_GUxxKR_aguQgAW"}
+D, [2014-12-26T14:40:44.676558 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/j7ux2d85qM #alienigena
+D, [2014-12-26T14:40:45.022214 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7k_LusZqXEOJij0Sh"}
+D, [2014-12-26T14:40:45.022294 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/MpAH4dyEWQ #alienigena
+D, [2014-12-26T14:40:45.365223 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7k_RGJHi-OARHmJsW"}
+D, [2014-12-26T14:40:45.365284 #49266] DEBUG -- : Sending to Firebase: TEST: Feu bona parella? http://t.co/FD048AWTtP
+D, [2014-12-26T14:40:45.725900 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7k_Wmu7YN58YBjfkU"}
+D, [2014-12-26T14:40:45.725985 #49266] DEBUG -- : Sending to Firebase: Test
+D, [2014-12-26T14:40:47.316216 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7k_uai5rj4PZyhUfd"}
+D, [2014-12-26T14:40:47.316302 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/swIbqtYOwx #alienigena
+D, [2014-12-26T14:40:47.703244 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7ka-YWi4VxsZxprjZ"}
+D, [2014-12-26T14:40:47.703320 #49266] DEBUG -- : Sending to Firebase: Test.
+D, [2014-12-26T14:40:48.990479 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7ka5UHTuHVGRTigl5"}
+D, [2014-12-26T14:40:48.990560 #49266] DEBUG -- : Sending to Firebase: New research shows EEG may be a good assessment tool in determining level of consciousness in patients with brain... http://t.co/IZNrIStS8v
+D, [2014-12-26T14:40:49.354209 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kaPGHHP2feUMsPQA"}
+I, [2014-12-26T14:41:30.961166 #49266]  INFO -- : Running Twitter query on test
+I, [2014-12-26T14:41:30.961221 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T14:41:30.961254 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T14:41:30.961283 #49266]  INFO -- : Running search on test
+I, [2014-12-26T14:41:30.961369 #49266]  INFO -- : Running search...
+D, [2014-12-26T14:41:31.757345 #49266] DEBUG -- : Adding tweet: @Amul82 @hbk121 didnt the series in previous summer before the ashes draw a big crowd to the boxing day test?
+D, [2014-12-26T14:41:31.757434 #49266] DEBUG -- : Adding tweet: RT @Danleofer: Inouï RT @IvanDeutsch: 28 Breathtaking Photos Of Lighthouses That Have Stood The Test Of Time
+
+http://t.co/hTZQMp3Rsz http:/…
+D, [2014-12-26T14:41:31.757468 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/dKvcpPy2qF #alienigena
+D, [2014-12-26T14:41:31.757497 #49266] DEBUG -- : Adding tweet: RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…
+D, [2014-12-26T14:41:31.757526 #49266] DEBUG -- : Adding tweet: #加藤由美子 #フルート #fxch 糞ババアがウザイ、早く死んで欲しい - 2ちゃんねる http://t.co/HBo2N2hgpr #仕事が暇だと飲み代稼ぎのスキャ
+D, [2014-12-26T14:41:31.757554 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/ZGkj31KvT9 #alienigena
+D, [2014-12-26T14:41:31.757582 #49266] DEBUG -- : Adding tweet: #加藤由美子 #フルート #fxch 糞ババアがウザイ、早く死んで欲しい - 2ちゃんねる http://t.co/L2orwLwICx #仕事が暇だと飲み代稼ぎのスキャ
+D, [2014-12-26T14:41:31.757990 #49266] DEBUG -- : Adding tweet: RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…
+D, [2014-12-26T14:41:31.758026 #49266] DEBUG -- : Adding tweet: RT @taygicaI: when you passed the test without studying: http://t.co/WfBuS9HQme
+D, [2014-12-26T14:41:31.758054 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/IpdqBUoDBi #alienigena
+I, [2014-12-26T14:41:31.758114 #49266]  INFO -- : Query results: ["@Amul82 @hbk121 didnt the series in previous summer before the ashes draw a big crowd to the boxing day test?", "RT @Danleofer: Inouï RT @IvanDeutsch: 28 Breathtaking Photos Of Lighthouses That Have Stood The Test Of Time\n\nhttp://t.co/hTZQMp3Rsz http:/…", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/dKvcpPy2qF #alienigena", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "#加藤由美子 #フルート #fxch 糞ババアがウザイ、早く死んで欲しい - 2ちゃんねる http://t.co/HBo2N2hgpr #仕事が暇だと飲み代稼ぎのスキャ", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/ZGkj31KvT9 #alienigena", "#加藤由美子 #フルート #fxch 糞ババアがウザイ、早く死んで欲しい - 2ちゃんねる http://t.co/L2orwLwICx #仕事が暇だと飲み代稼ぎのスキャ", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "RT @taygicaI: when you passed the test without studying: http://t.co/WfBuS9HQme", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/IpdqBUoDBi #alienigena"]
+D, [2014-12-26T14:41:31.758152 #49266] DEBUG -- : Sending to Firebase: @Amul82 @hbk121 didnt the series in previous summer before the ashes draw a big crowd to the boxing day test?
+D, [2014-12-26T14:41:32.102513 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kkqXcyByjs1xfSmU"}
+D, [2014-12-26T14:41:32.102581 #49266] DEBUG -- : Sending to Firebase: RT @Danleofer: Inouï RT @IvanDeutsch: 28 Breathtaking Photos Of Lighthouses That Have Stood The Test Of Time
+
+http://t.co/hTZQMp3Rsz http:/…
+D, [2014-12-26T14:41:32.450654 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kkvyJFkzFmJUJ99p"}
+D, [2014-12-26T14:41:32.450723 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/dKvcpPy2qF #alienigena
+D, [2014-12-26T14:41:32.802626 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kl0TjcFHgN3INlBw"}
+D, [2014-12-26T14:41:32.802712 #49266] DEBUG -- : Sending to Firebase: RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…
+D, [2014-12-26T14:41:33.153646 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7kl5xKyVVLC9SICBW"}
+D, [2014-12-26T14:41:33.153739 #49266] DEBUG -- : Sending to Firebase: #加藤由美子 #フルート #fxch 糞ババアがウザイ、早く死んで欲しい - 2ちゃんねる http://t.co/HBo2N2hgpr #仕事が暇だと飲み代稼ぎのスキャ
+D, [2014-12-26T14:41:33.513165 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7klB_0BdzmY-OmQ-i"}
+D, [2014-12-26T14:41:33.513235 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/ZGkj31KvT9 #alienigena
+D, [2014-12-26T14:41:33.901003 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7klHHypmgIN--TAWD"}
+D, [2014-12-26T14:41:33.901067 #49266] DEBUG -- : Sending to Firebase: #加藤由美子 #フルート #fxch 糞ババアがウザイ、早く死んで欲しい - 2ちゃんねる http://t.co/L2orwLwICx #仕事が暇だと飲み代稼ぎのスキャ
+D, [2014-12-26T14:41:34.281884 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7klN0bNa1devAcBaR"}
+D, [2014-12-26T14:41:34.281953 #49266] DEBUG -- : Sending to Firebase: RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…
+D, [2014-12-26T14:41:34.629635 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7klT0q7SS-5L652j6"}
+D, [2014-12-26T14:41:34.629709 #49266] DEBUG -- : Sending to Firebase: RT @taygicaI: when you passed the test without studying: http://t.co/WfBuS9HQme
+D, [2014-12-26T14:41:34.978419 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7klYT-C7EFp_8aw2Z"}
+D, [2014-12-26T14:41:34.978530 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/IpdqBUoDBi #alienigena
+D, [2014-12-26T14:41:35.334479 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7klcqyqYWrcR_u50o"}
+I, [2014-12-26T14:43:19.023880 #49266]  INFO -- : Running Twitter query on test
+I, [2014-12-26T14:43:19.023909 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T14:43:19.023925 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T14:43:19.023941 #49266]  INFO -- : Running search on test
+I, [2014-12-26T14:43:19.023993 #49266]  INFO -- : Running search...
+D, [2014-12-26T14:43:19.417088 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/JHI21Cq9u4 #alienigena
+D, [2014-12-26T14:43:19.417167 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/p2aN0ZKO8V #alienigena
+D, [2014-12-26T14:43:19.417219 #49266] DEBUG -- : Adding tweet: Passed my license test finally 😂😌🚗
+D, [2014-12-26T14:43:19.417247 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/Pcu0IjKBWg #alienigena
+D, [2014-12-26T14:43:19.417273 #49266] DEBUG -- : Adding tweet: I want to test tweetbot notifications, go RT/fav this for me
+D, [2014-12-26T14:43:19.417300 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/aXoADmenqp #alienigena
+D, [2014-12-26T14:43:19.417327 #49266] DEBUG -- : Adding tweet: 【悲報】 法人税2.51%引下げ。消費増税分の大半を吐き出し大企業にプレゼント。ありがとうアベノミクス [転載禁止]©  [317740771]
+http://t.co/XWh8i7ZGOD
+source http://t.co/7SkI2PUsjd
+D, [2014-12-26T14:43:19.417354 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/oiZLPemKhe #alienigena
+D, [2014-12-26T14:43:19.417380 #49266] DEBUG -- : Adding tweet: RT @Hannagoogles: ways to test if Jenna is blind other then pushing a table in front of her
+D, [2014-12-26T14:43:19.417406 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/ah4T0DpG5W #alienigena
+I, [2014-12-26T14:43:19.417464 #49266]  INFO -- : Query results: ["Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/JHI21Cq9u4 #alienigena", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/p2aN0ZKO8V #alienigena", "Passed my license test finally 😂😌🚗", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/Pcu0IjKBWg #alienigena", "I want to test tweetbot notifications, go RT/fav this for me", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/aXoADmenqp #alienigena", "【悲報】 法人税2.51%引下げ。消費増税分の大半を吐き出し大企業にプレゼント。ありがとうアベノミクス [転載禁止]©  [317740771]\nhttp://t.co/XWh8i7ZGOD\nsource http://t.co/7SkI2PUsjd", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/oiZLPemKhe #alienigena", "RT @Hannagoogles: ways to test if Jenna is blind other then pushing a table in front of her", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/ah4T0DpG5W #alienigena"]
+D, [2014-12-26T14:43:19.417528 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/JHI21Cq9u4 #alienigena
+D, [2014-12-26T14:43:19.786400 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lA85DFmDD_a6hAiA"}
+D, [2014-12-26T14:43:19.786494 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/p2aN0ZKO8V #alienigena
+D, [2014-12-26T14:43:20.132499 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lADTZvMOyeMtOAHU"}
+D, [2014-12-26T14:43:20.132569 #49266] DEBUG -- : Sending to Firebase: Passed my license test finally 😂😌🚗
+D, [2014-12-26T14:43:20.483550 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lAItvwoFuORU9vbb"}
+D, [2014-12-26T14:43:20.483617 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/Pcu0IjKBWg #alienigena
+D, [2014-12-26T14:43:20.847350 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lAOMO7qQmJcWcx9d"}
+D, [2014-12-26T14:43:20.847420 #49266] DEBUG -- : Sending to Firebase: I want to test tweetbot notifications, go RT/fav this for me
+D, [2014-12-26T14:43:21.215420 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lAUPYgej42kMEsp5"}
+D, [2014-12-26T14:43:21.215486 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/aXoADmenqp #alienigena
+D, [2014-12-26T14:43:21.692943 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lAaGXJTkL1Fa4CeW"}
+D, [2014-12-26T14:43:21.693016 #49266] DEBUG -- : Sending to Firebase: 【悲報】 法人税2.51%引下げ。消費増税分の大半を吐き出し大企業にプレゼント。ありがとうアベノミクス [転載禁止]©  [317740771]
+http://t.co/XWh8i7ZGOD
+source http://t.co/7SkI2PUsjd
+D, [2014-12-26T14:43:22.036240 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lAgEJSaR3IgzrtVQ"}
+D, [2014-12-26T14:43:22.036326 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/oiZLPemKhe #alienigena
+D, [2014-12-26T14:43:22.393762 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lAlpfcfACkoc_n8X"}
+D, [2014-12-26T14:43:22.393824 #49266] DEBUG -- : Sending to Firebase: RT @Hannagoogles: ways to test if Jenna is blind other then pushing a table in front of her
+D, [2014-12-26T14:43:22.757461 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lArVobwTsvTNNooT"}
+D, [2014-12-26T14:43:22.757539 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/ah4T0DpG5W #alienigena
+D, [2014-12-26T14:43:23.108409 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7lAwzTrqMucxtzd0J"}
+I, [2014-12-26T14:48:31.307221 #49266]  INFO -- : Running Twitter query on test
+I, [2014-12-26T14:48:31.307270 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T14:48:31.307302 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T14:48:31.307331 #49266]  INFO -- : Running search on test
+I, [2014-12-26T14:48:31.307413 #49266]  INFO -- : Running search...
+D, [2014-12-26T14:48:31.696224 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:31.696330 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:31.696365 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:31.696394 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:31.696421 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:31.696447 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/P0y9dTvdNk #alienigena
+D, [2014-12-26T14:48:31.696474 #49266] DEBUG -- : Adding tweet: RT @ESPNcricinfo: Boult goes bang! Traps Karunaratne lbw to take his 100th Test wicket and leave SL 0 for 1 http://t.co/3lzlHgzTyO #NZvSL
+D, [2014-12-26T14:48:31.696500 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:31.696527 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:31.696553 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+I, [2014-12-26T14:48:31.696624 #49266]  INFO -- : Query results: ["RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/P0y9dTvdNk #alienigena", "RT @ESPNcricinfo: Boult goes bang! Traps Karunaratne lbw to take his 100th Test wicket and leave SL 0 for 1 http://t.co/3lzlHgzTyO #NZvSL", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…"]
+D, [2014-12-26T14:48:31.696662 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:32.133753 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mMODcyxniXnJDbIa"}
+D, [2014-12-26T14:48:32.133840 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:32.486152 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mMU0B6X3aFGkWh6_"}
+D, [2014-12-26T14:48:32.486224 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:33.312734 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mMfvJ3EvI42pocIB"}
+D, [2014-12-26T14:48:33.312812 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:33.619008 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mMkhgRjauTvfsxpZ"}
+D, [2014-12-26T14:48:33.619093 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:33.962423 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mMq4X3FxUwzyZ-6e"}
+D, [2014-12-26T14:48:33.962488 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/P0y9dTvdNk #alienigena
+D, [2014-12-26T14:48:34.311959 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mMvYKmd1XEe1gsnf"}
+D, [2014-12-26T14:48:34.312022 #49266] DEBUG -- : Sending to Firebase: RT @ESPNcricinfo: Boult goes bang! Traps Karunaratne lbw to take his 100th Test wicket and leave SL 0 for 1 http://t.co/3lzlHgzTyO #NZvSL
+D, [2014-12-26T14:48:34.654993 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mN-u_RffoPoPyNE6"}
+D, [2014-12-26T14:48:34.655055 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:35.008289 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mN5QdDXthVJoWw7n"}
+D, [2014-12-26T14:48:35.008373 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:35.350296 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mNAmnZZWIkio6mtm"}
+D, [2014-12-26T14:48:35.350380 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:35.741839 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mNGMtpUPFLPHP342"}
+I, [2014-12-26T14:48:56.360347 #49266]  INFO -- : Running Twitter query on test
+I, [2014-12-26T14:48:56.360406 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T14:48:56.360442 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T14:48:56.360474 #49266]  INFO -- : Running search on test
+I, [2014-12-26T14:48:56.360562 #49266]  INFO -- : Running search...
+D, [2014-12-26T14:48:57.147453 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:57.147554 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:57.147598 #49266] DEBUG -- : Adding tweet: @NoixDeCajouille SSSSH VA VOIR BAKA TO TEST !
+D, [2014-12-26T14:48:57.147655 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:57.147690 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:57.147723 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/Ozcysoa3e5 #alienigena
+D, [2014-12-26T14:48:57.147754 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:57.147785 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:57.147815 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:57.147844 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+I, [2014-12-26T14:48:57.147909 #49266]  INFO -- : Query results: ["RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "@NoixDeCajouille SSSSH VA VOIR BAKA TO TEST !", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/Ozcysoa3e5 #alienigena", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…"]
+D, [2014-12-26T14:48:57.147948 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:57.500221 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mS_rPfbUWsfoqVRa"}
+D, [2014-12-26T14:48:57.500291 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:57.839303 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mSf9m5Ypl10eoP0y"}
+D, [2014-12-26T14:48:57.839369 #49266] DEBUG -- : Sending to Firebase: @NoixDeCajouille SSSSH VA VOIR BAKA TO TEST !
+D, [2014-12-26T14:48:58.184168 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mSkYTkCF18f1BKlE"}
+D, [2014-12-26T14:48:58.184230 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:58.538474 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mSq2gxYx2XkIMEXZ"}
+D, [2014-12-26T14:48:58.538548 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:58.883410 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mSvSoBT8bgJSzhDb"}
+D, [2014-12-26T14:48:58.883477 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/Ozcysoa3e5 #alienigena
+D, [2014-12-26T14:48:59.269244 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mT01eH7ZiKxmVr6o"}
+D, [2014-12-26T14:48:59.269332 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:59.614465 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mT5sON_vCg88TrZN"}
+D, [2014-12-26T14:48:59.614563 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:48:59.976499 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mTBYZrymrIg5tIRw"}
+D, [2014-12-26T14:48:59.976566 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:49:00.322324 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mTGw2A8TuxiiT9HQ"}
+D, [2014-12-26T14:49:00.322407 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:49:00.685760 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mTMaGnaEHo2iGEDJ"}
+I, [2014-12-26T14:50:14.409562 #49266]  INFO -- : Running Twitter query on test
+I, [2014-12-26T14:50:14.409608 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T14:50:14.409639 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T14:50:14.409664 #49266]  INFO -- : Running search on test
+I, [2014-12-26T14:50:14.409717 #49266]  INFO -- : Running search...
+D, [2014-12-26T14:50:14.815204 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/52FXp5KpGg #alienigena
+D, [2014-12-26T14:50:14.815291 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:14.815326 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:14.815355 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:14.815382 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:14.815409 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:14.815456 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/YZFpmUwt9T #alienigena
+D, [2014-12-26T14:50:14.815485 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:14.815511 #49266] DEBUG -- : Adding tweet: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:14.815537 #49266] DEBUG -- : Adding tweet: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/KO8cOCsE0p #alienigena
+I, [2014-12-26T14:50:14.815599 #49266]  INFO -- : Query results: ["Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/52FXp5KpGg #alienigena", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/YZFpmUwt9T #alienigena", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…", "Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/KO8cOCsE0p #alienigena"]
+D, [2014-12-26T14:50:14.815637 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/52FXp5KpGg #alienigena
+D, [2014-12-26T14:50:15.173423 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mkYRti8LVAmoGunk"}
+D, [2014-12-26T14:50:15.173514 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:15.931939 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mkjLo-5iEdyhwMYt"}
+D, [2014-12-26T14:50:15.932015 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:16.515473 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mkpADXdhbG26u3Dz"}
+D, [2014-12-26T14:50:16.515541 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:16.864911 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mkxwGwq2G_Qd56mi"}
+D, [2014-12-26T14:50:16.864975 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:17.301545 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7ml2n9pPVCY0xRDz9"}
+D, [2014-12-26T14:50:17.301652 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:17.676349 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7ml9bkrpzJTETIp95"}
+D, [2014-12-26T14:50:17.676414 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/YZFpmUwt9T #alienigena
+D, [2014-12-26T14:50:18.020821 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mlF-MQ6HOTmM1b2I"}
+D, [2014-12-26T14:50:18.020895 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:18.367885 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mlKPlY8F3VAYWErQ"}
+D, [2014-12-26T14:50:18.367948 #49266] DEBUG -- : Sending to Firebase: RT @MeegaTest: ¿TE GUSTARÍA SABER QUE TIPO DE NOVIO/A ERES? 👫👫 ENTRA AQUÍ Y REALIZA NUESTRO TEST ~&gt; http://t.co/RH3ow26wZa 💏💏💏 http://t.co/…
+D, [2014-12-26T14:50:18.720015 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mlPtyJFgNfP4VF3z"}
+D, [2014-12-26T14:50:18.720076 #49266] DEBUG -- : Sending to Firebase: Según este TEST moriré el 14/9/2053. ¿Y tú? ¿Te atreves a descubrirlo? http://t.co/KO8cOCsE0p #alienigena
+D, [2014-12-26T14:50:19.074640 #49266] DEBUG -- : Firebase response: {"name"=>"-Je7mlVSJ7V2mJrbvmFW"}
+I, [2014-12-26T15:59:18.773697 #53670]  INFO -- : Running Twitter query on glarriza
+I, [2014-12-26T15:59:18.773742 #53670]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T15:59:18.773762 #53670]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T15:59:18.773780 #53670]  INFO -- : Running search on glarriza
+I, [2014-12-26T15:59:18.773834 #53670]  INFO -- : Running search...
+I, [2014-12-26T15:59:19.011747 #53670]  INFO -- : Query results: []

@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!--
+ 
+To use this demo, create a firebase and load it up with some key-value pairs.
+
+The key should be the name of the object - it will appear in the bubble
+The value should be a number representing the relative size of the object. It will dictate the size of the bubble
+
+BE SURE TO ENTER YOUR FIREBASE URL IN THE JAVASCRIPT BELOW
+
+Watch the bubbles on this page change in size and appear/disappear as you modify your Firebase
+
+-->
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.2/d3.min.js" charset="utf-8"></script>
+        <script type='text/javascript' src='https://cdn.firebase.com/v0/firebase.js'></script>
+	<script type='text/javascript' src="../public/d3.layout.cloud.js"></script>
+        <title>Twitter Aggregator</title>
+    </head>
+    <body>
+	<p>
+	<form method="post" action="/query">
+	    	<input name='query' type="text" placeholder='Twitter Query'>
+		<input type="submit" value='Submit'>
+	</form>
+	</p>
+	
+	<script type="text/javascript">
+
+  	var fill = d3.scale.category20();
+	var text_data = []
+	var fbase = new Firebase("https://sizzling-fire-8626.firebaseio.com/<%= @query %>");
+	fbase.once('value', function(dataSnapshot) {
+		var data = dataSnapshot.val()
+		for (var key in data) {
+//			console.log("Twt string: " + data[key])
+			var twt_arry = data[key].split(" ").sort()
+			for (var i = 0; i < twt_arry.length; i++){
+				//console.log("Pushing word to text_data array: " + twt_arry[i])
+				text_data.push(twt_arry[i].trim())
+
+			}
+		}
+		var count = countUnique()
+		var unique = getUnique(count)
+		renderWordCloud(unique)
+	});
+
+	function countUnique(textData){
+		var count={};
+		var i = 1 
+		text_data.sort().forEach(function(index){                      
+			count[text_data[index] = i
+			if (text_data[index] == text_data[index - 1]){
+				count[text_data[index]] = count[text_data[index]]++
+			}
+		});
+		console.log("Count: " + count)
+		return count;
+	}
+
+	function getUnique(count) {
+		var unique=[];
+		for (var key in count) {
+			unique.push(count[key])
+		}	
+		console.log("Unique: " + unique)
+		return unique;
+	}
+
+	function renderWordCloud(unique) { 
+			
+		console.log("Data hash: " + unique)
+			
+		d3.layout.cloud().size([2000, 1000])
+		.words(unique.map(function(d) {
+			return {text: d, size: 10 + Math.random() * 45};
+		}))
+		.padding(5)
+		.rotate(function() { return ~~(Math.random() * 2) * 45; })
+		.font("Impact")
+		.fontSize(function(d) { return d.size; })
+		.on("end", draw)
+		.start();
+
+		function draw(words) {
+		d3.select("body").append("svg")
+			.attr("width", 2000)
+			.attr("height", 1000)
+		.append("g")
+			.attr("transform", "translate(150,150)")
+		.selectAll("text")
+			.data(words)
+		.enter().append("text")
+			.style("font-size", function(d) { return d.size + "px"; })
+			.style("font-family", "Impact")
+			.style("fill", function(d, i) { return fill(i); })
+			.attr("text-anchor", "middle")
+			.attr("transform", function(d) {
+			return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+			})
+			.text(function(d) { return d.text; });
+		}
+	}
+	</script>
+    </body>
+</html>
