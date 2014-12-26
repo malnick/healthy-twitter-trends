@@ -1,550 +1,247 @@
-# Logfile created on 2014-12-14 17:43:13 -0800 by logger.rb/41954
-I, [2014-12-14T17:43:13.352081 #17986]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-14T17:43:13.352125 #17986]  INFO -- : Running Twitter query on fuck
-I, [2014-12-14T17:43:13.352151 #17986]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-14T17:43:13.355008 #17986]  INFO -- : Running search on fuck
-I, [2014-12-14T17:43:13.355150 #17986]  INFO -- : Running search...
-I, [2014-12-14T17:43:14.537482 #17986]  INFO -- : Query results: ["“@KAKEweather: Tornado touches down in Harper County: http://t.co/nCUJxfGQdX” fuck that's too close for my comfort", "@acervantez__ fuck outta my mentions", "@yardyrowe \"welcome to wayback. Go fuck yourself\" @_kkolibas", "Fuck now thats stuck in my head", "RT @AnnHermosillo: @LaurenJauregui fuck me.", "\"@DaziahTanae: Jordan wrong as fuck 😂😂😂😂😂 I hate him LMFAOOOOO\"😩😩💀💀", "RT @neonxanss: my \"fuck it\" game on steroids", "What the actual fuck", "RT @neonxanss: my \"fuck it\" game on steroids", "i hate writing commentaries because What the fuck! is a theme"]
-I, [2014-12-14T17:44:30.727100 #18775]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-14T17:44:30.727181 #18775]  INFO -- : Running Twitter query on malnick
-I, [2014-12-14T17:44:30.727210 #18775]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-14T17:44:30.727627 #18775]  INFO -- : Running search on malnick
-I, [2014-12-14T17:44:30.727696 #18775]  INFO -- : Running search...
-I, [2014-12-14T17:44:31.180736 #18775]  INFO -- : Query results: ["RT @bishmatters: Getting serious about play in Bishopston!\nBishopston Councillors Daniella Radice and Tim Malnick are encouraging... http:/…", "RT @bishmatters: Getting serious about play in Bishopston!\nBishopston Councillors Daniella Radice and Tim Malnick are encouraging... http:/…", "Getting serious about play in Bishopston!\nBishopston Councillors Daniella Radice and Tim Malnick are encouraging... http://t.co/006Eub3DZz", "Old Post lost a worrier today. RIP Judy Malnick you'll be greatly missed."]
-I, [2014-12-14T17:44:51.988337 #19087]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-14T17:44:51.988419 #19087]  INFO -- : Running Twitter query on 8bitsofsketch
-I, [2014-12-14T17:44:51.988447 #19087]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-14T17:44:51.988772 #19087]  INFO -- : Running search on 8bitsofsketch
-I, [2014-12-14T17:44:51.988839 #19087]  INFO -- : Running search...
-I, [2014-12-14T17:44:53.837185 #19087]  INFO -- : Query results: []
-I, [2014-12-14T17:46:22.797303 #19898]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-14T17:46:22.797384 #19898]  INFO -- : Running Twitter query on malnick
-I, [2014-12-14T17:46:22.797415 #19898]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-14T17:46:22.797824 #19898] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-14T17:46:22.797879 #19898]  INFO -- : Running search on malnick
-D, [2014-12-14T17:46:22.797909 #19898] DEBUG -- : Consumer key: 5LmU6ckudMC5spqqRK1kJHVsu
-D, [2014-12-14T17:46:22.797936 #19898] DEBUG -- : Consumer secret: peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S
-D, [2014-12-14T17:46:22.797965 #19898] DEBUG -- : Access token: 2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS
-D, [2014-12-14T17:46:22.797991 #19898] DEBUG -- : Access token secret: nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS
-I, [2014-12-14T17:46:22.798064 #19898]  INFO -- : Running search...
-D, [2014-12-14T17:46:23.205402 #19898] DEBUG -- : Adding tweet: RT @bishmatters: Getting serious about play in Bishopston!
-Bishopston Councillors Daniella Radice and Tim Malnick are encouraging... http:/…
-D, [2014-12-14T17:46:23.205502 #19898] DEBUG -- : Adding tweet: RT @bishmatters: Getting serious about play in Bishopston!
-Bishopston Councillors Daniella Radice and Tim Malnick are encouraging... http:/…
-D, [2014-12-14T17:46:23.205584 #19898] DEBUG -- : Adding tweet: Getting serious about play in Bishopston!
-Bishopston Councillors Daniella Radice and Tim Malnick are encouraging... http://t.co/006Eub3DZz
-D, [2014-12-14T17:46:23.205651 #19898] DEBUG -- : Adding tweet: Old Post lost a worrier today. RIP Judy Malnick you'll be greatly missed.
-I, [2014-12-14T17:46:23.205743 #19898]  INFO -- : Query results: ["RT @bishmatters: Getting serious about play in Bishopston!\nBishopston Councillors Daniella Radice and Tim Malnick are encouraging... http:/…", "RT @bishmatters: Getting serious about play in Bishopston!\nBishopston Councillors Daniella Radice and Tim Malnick are encouraging... http:/…", "Getting serious about play in Bishopston!\nBishopston Councillors Daniella Radice and Tim Malnick are encouraging... http://t.co/006Eub3DZz", "Old Post lost a worrier today. RIP Judy Malnick you'll be greatly missed."]
-D, [2014-12-14T17:46:23.205790 #19898] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-14T17:46:23.205831 #19898] DEBUG -- : Sending to Firebase: RT @bishmatters: Getting serious about play in Bishopston!
-Bishopston Councillors Daniella Radice and Tim Malnick are encouraging... http:/…
-D, [2014-12-14T17:46:23.581178 #19898] DEBUG -- : Firebase response: {"name"=>"-JdAc-1LKSFtmZ1whaQO"}
-D, [2014-12-14T17:46:23.581281 #19898] DEBUG -- : Sending to Firebase: RT @bishmatters: Getting serious about play in Bishopston!
-Bishopston Councillors Daniella Radice and Tim Malnick are encouraging... http:/…
-D, [2014-12-14T17:46:23.937355 #19898] DEBUG -- : Firebase response: {"name"=>"-JdAc-6uHA8-oLjj5G2n"}
-D, [2014-12-14T17:46:23.937446 #19898] DEBUG -- : Sending to Firebase: Getting serious about play in Bishopston!
-Bishopston Councillors Daniella Radice and Tim Malnick are encouraging... http://t.co/006Eub3DZz
-D, [2014-12-14T17:46:24.285556 #19898] DEBUG -- : Firebase response: {"name"=>"-JdAc-CL5JdC7nWMQwbA"}
-D, [2014-12-14T17:46:24.285660 #19898] DEBUG -- : Sending to Firebase: Old Post lost a worrier today. RIP Judy Malnick you'll be greatly missed.
-D, [2014-12-14T17:46:24.627822 #19898] DEBUG -- : Firebase response: {"name"=>"-JdAc-Hhojiwr3NpqL-B"}
-I, [2014-12-14T18:46:03.527302 #27975]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-14T18:46:03.527376 #27975]  INFO -- : Running Twitter query on fuck
-I, [2014-12-14T18:46:03.527405 #27975]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-14T18:46:03.528027 #27975] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-14T18:46:03.528070 #27975]  INFO -- : Running search on fuck
-D, [2014-12-14T18:46:03.528099 #27975] DEBUG -- : Consumer key: 5LmU6ckudMC5spqqRK1kJHVsu
-D, [2014-12-14T18:46:03.528125 #27975] DEBUG -- : Consumer secret: peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S
-D, [2014-12-14T18:46:03.528149 #27975] DEBUG -- : Access token: 2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS
-D, [2014-12-14T18:46:03.528173 #27975] DEBUG -- : Access token secret: nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS
-I, [2014-12-14T18:46:03.528246 #27975]  INFO -- : Running search...
-D, [2014-12-14T18:46:04.179011 #27975] DEBUG -- : Adding tweet: RT @lauren_donahuee: I manage to fuck up every good thing I have going for me
-D, [2014-12-14T18:46:04.179111 #27975] DEBUG -- : Adding tweet: @Lu_or_Blade oh.. Well you're just a horndog i guess.. I'll be a pet but i am not gunna fuck when you have somebody else in the wings
-D, [2014-12-14T18:46:04.179153 #27975] DEBUG -- : Adding tweet: RT @Raidencitow: @MadMechanism face wide  open, yeah? So go fuck yourself. Go fucking crawl in the dirty dank little hole where you fucking…
-D, [2014-12-14T18:46:04.179253 #27975] DEBUG -- : Adding tweet: @Eric_ozar @andyangel_10 I'm not like you I'm a true fan fuck going for the rich team haha
-D, [2014-12-14T18:46:04.179324 #27975] DEBUG -- : Adding tweet: Yeah fuck you😊
-D, [2014-12-14T18:46:04.179388 #27975] DEBUG -- : Adding tweet: Fuck, i really miss u.
-D, [2014-12-14T18:46:04.179434 #27975] DEBUG -- : Adding tweet: RT @BlTCH_PROBLEMS: I'm starting to get that "fuck it" attitude about everything..
-D, [2014-12-14T18:46:04.179502 #27975] DEBUG -- : Adding tweet: RT @SheeeRatchet: RT TO FUCK WITH SOMEONES EMOTIONS http://t.co/YIIt1pZZ2U
-D, [2014-12-14T18:46:04.179566 #27975] DEBUG -- : Adding tweet: RT @rxyrxy: Getting fuck, love my neighbor's cock #rawsex #bbbh https://t.co/rGpIs2FNLK
-D, [2014-12-14T18:46:04.179610 #27975] DEBUG -- : Adding tweet: FUCK YOU GOT BEING SO HOT
-I, [2014-12-14T18:46:04.179715 #27975]  INFO -- : Query results: ["RT @lauren_donahuee: I manage to fuck up every good thing I have going for me", "@Lu_or_Blade oh.. Well you're just a horndog i guess.. I'll be a pet but i am not gunna fuck when you have somebody else in the wings", "RT @Raidencitow: @MadMechanism face wide  open, yeah? So go fuck yourself. Go fucking crawl in the dirty dank little hole where you fucking…", "@Eric_ozar @andyangel_10 I'm not like you I'm a true fan fuck going for the rich team haha", "Yeah fuck you😊", "Fuck, i really miss u.", "RT @BlTCH_PROBLEMS: I'm starting to get that \"fuck it\" attitude about everything..", "RT @SheeeRatchet: RT TO FUCK WITH SOMEONES EMOTIONS http://t.co/YIIt1pZZ2U", "RT @rxyrxy: Getting fuck, love my neighbor's cock #rawsex #bbbh https://t.co/rGpIs2FNLK", "FUCK YOU GOT BEING SO HOT"]
-D, [2014-12-14T18:46:04.179746 #27975] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-14T18:46:04.179780 #27975] DEBUG -- : Sending to Firebase: RT @lauren_donahuee: I manage to fuck up every good thing I have going for me
-D, [2014-12-14T18:46:04.625132 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApeITl2gs5zMT_a8t"}
-D, [2014-12-14T18:46:04.625193 #27975] DEBUG -- : Sending to Firebase: @Lu_or_Blade oh.. Well you're just a horndog i guess.. I'll be a pet but i am not gunna fuck when you have somebody else in the wings
-D, [2014-12-14T18:46:05.583851 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApeOv8JWAvKtDthfs"}
-D, [2014-12-14T18:46:05.583943 #27975] DEBUG -- : Sending to Firebase: RT @Raidencitow: @MadMechanism face wide  open, yeah? So go fuck yourself. Go fucking crawl in the dirty dank little hole where you fucking…
-D, [2014-12-14T18:46:05.935565 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApebw-_HD8myzhbSw"}
-D, [2014-12-14T18:46:05.935656 #27975] DEBUG -- : Sending to Firebase: @Eric_ozar @andyangel_10 I'm not like you I'm a true fan fuck going for the rich team haha
-D, [2014-12-14T18:46:06.315402 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApehqMYakAXIWZfjE"}
-D, [2014-12-14T18:46:06.315506 #27975] DEBUG -- : Sending to Firebase: Yeah fuck you😊
-D, [2014-12-14T18:46:06.665689 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApenM-qpevGMf2oIY"}
-D, [2014-12-14T18:46:06.665759 #27975] DEBUG -- : Sending to Firebase: Fuck, i really miss u.
-D, [2014-12-14T18:46:07.051833 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApetA-FxIC8i57ez-"}
-D, [2014-12-14T18:46:07.051901 #27975] DEBUG -- : Sending to Firebase: RT @BlTCH_PROBLEMS: I'm starting to get that "fuck it" attitude about everything..
-D, [2014-12-14T18:46:07.404429 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApeyu0LpQ3txGAnJe"}
-D, [2014-12-14T18:46:07.404496 #27975] DEBUG -- : Sending to Firebase: RT @SheeeRatchet: RT TO FUCK WITH SOMEONES EMOTIONS http://t.co/YIIt1pZZ2U
-D, [2014-12-14T18:46:07.797850 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApf3t7TZon_JS11E3"}
-D, [2014-12-14T18:46:07.797922 #27975] DEBUG -- : Sending to Firebase: RT @rxyrxy: Getting fuck, love my neighbor's cock #rawsex #bbbh https://t.co/rGpIs2FNLK
-D, [2014-12-14T18:46:08.198511 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApfAJ1sTkqSbE8RbM"}
-D, [2014-12-14T18:46:08.198626 #27975] DEBUG -- : Sending to Firebase: FUCK YOU GOT BEING SO HOT
-D, [2014-12-14T18:46:08.570203 #27975] DEBUG -- : Firebase response: {"name"=>"-JdApfFk4Wjxyslpts0J"}
-I, [2014-12-14T18:46:29.485540 #28252]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-14T18:46:29.485621 #28252]  INFO -- : Running Twitter query on torborg
-I, [2014-12-14T18:46:29.485688 #28252]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-14T18:46:29.486333 #28252] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-14T18:46:29.486390 #28252]  INFO -- : Running search on torborg
-D, [2014-12-14T18:46:29.486468 #28252] DEBUG -- : Consumer key: 5LmU6ckudMC5spqqRK1kJHVsu
-D, [2014-12-14T18:46:29.486515 #28252] DEBUG -- : Consumer secret: peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S
-D, [2014-12-14T18:46:29.486636 #28252] DEBUG -- : Access token: 2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS
-D, [2014-12-14T18:46:29.486682 #28252] DEBUG -- : Access token secret: nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS
-I, [2014-12-14T18:46:29.486767 #28252]  INFO -- : Running search...
-D, [2014-12-14T18:46:30.463641 #28252] DEBUG -- : Adding tweet: I blame AJ Pierzynski and Dale Torborg. @HPJoker @Ben_Duronio i don't understand the intersection of wrestling twitter and baseball twitter
-D, [2014-12-14T18:46:30.463735 #28252] DEBUG -- : Adding tweet: Christmas cookies was a success 🎄🍪 @Kendall_Torborg
-D, [2014-12-14T18:46:30.463775 #28252] DEBUG -- : Adding tweet: #sss hailey_torborg is litterally one of the funniest person ive ever met! Lots of love! http://t.co/r9RhVdmo5W
-D, [2014-12-14T18:46:30.463810 #28252] DEBUG -- : Adding tweet: Jeff TORBORG 2002 Topps GOLD Parallel Card 296 Montreal EXPOS 1987/2002 http://t.co/LQuOwFP8JS http://t.co/cgEDXrchZd
-D, [2014-12-14T18:46:30.463843 #28252] DEBUG -- : Adding tweet: @keisertroll JEFF TORBORG RUINED THE NL EAST AND WCW
-D, [2014-12-14T18:46:30.463875 #28252] DEBUG -- : Adding tweet: Jeff Torborg, The Golden Manager Of Danish Kings
-D, [2014-12-14T18:46:30.463906 #28252] DEBUG -- : Adding tweet: @thegnc POOR WIKIPEDIA, TRYING TO PUT SHINE ON THE TURD THAT WAS THE JEFF TORBORG/DALLAS GREEN METS
-D, [2014-12-14T18:46:30.463937 #28252] DEBUG -- : Adding tweet: 1973 TOPPS SET BREAK #154 JEFF TORBORG    NM+ http://t.co/94qQWR66fk http://t.co/Jcn8n80yLy
-D, [2014-12-14T18:46:30.463969 #28252] DEBUG -- : Adding tweet: RT @Sheldon_Jokes: Me, jealous of you? Oh bless your delusional heart.
-D, [2014-12-14T18:46:30.464000 #28252] DEBUG -- : Adding tweet: @Kendall_Torborg thanks Kendal !
-I, [2014-12-14T18:46:30.464060 #28252]  INFO -- : Query results: ["I blame AJ Pierzynski and Dale Torborg. @HPJoker @Ben_Duronio i don't understand the intersection of wrestling twitter and baseball twitter", "Christmas cookies was a success 🎄🍪 @Kendall_Torborg", "#sss hailey_torborg is litterally one of the funniest person ive ever met! Lots of love! http://t.co/r9RhVdmo5W", "Jeff TORBORG 2002 Topps GOLD Parallel Card 296 Montreal EXPOS 1987/2002 http://t.co/LQuOwFP8JS http://t.co/cgEDXrchZd", "@keisertroll JEFF TORBORG RUINED THE NL EAST AND WCW", "Jeff Torborg, The Golden Manager Of Danish Kings", "@thegnc POOR WIKIPEDIA, TRYING TO PUT SHINE ON THE TURD THAT WAS THE JEFF TORBORG/DALLAS GREEN METS", "1973 TOPPS SET BREAK #154 JEFF TORBORG    NM+ http://t.co/94qQWR66fk http://t.co/Jcn8n80yLy", "RT @Sheldon_Jokes: Me, jealous of you? Oh bless your delusional heart.", "@Kendall_Torborg thanks Kendal !"]
-D, [2014-12-14T18:46:30.464086 #28252] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-14T18:46:30.464115 #28252] DEBUG -- : Sending to Firebase: I blame AJ Pierzynski and Dale Torborg. @HPJoker @Ben_Duronio i don't understand the intersection of wrestling twitter and baseball twitter
-D, [2014-12-14T18:46:30.845927 #28252] DEBUG -- : Firebase response: {"name"=>"-JdApkh5DMU197zpOI-r"}
-D, [2014-12-14T18:46:30.845996 #28252] DEBUG -- : Sending to Firebase: Christmas cookies was a success 🎄🍪 @Kendall_Torborg
-D, [2014-12-14T18:46:31.241564 #28252] DEBUG -- : Firebase response: {"name"=>"-JdApknLUCHdCukADln-"}
-D, [2014-12-14T18:46:31.241657 #28252] DEBUG -- : Sending to Firebase: #sss hailey_torborg is litterally one of the funniest person ive ever met! Lots of love! http://t.co/r9RhVdmo5W
-D, [2014-12-14T18:46:31.594345 #28252] DEBUG -- : Firebase response: {"name"=>"-JdApksngitu4Du5pkpD"}
-D, [2014-12-14T18:46:31.594446 #28252] DEBUG -- : Sending to Firebase: Jeff TORBORG 2002 Topps GOLD Parallel Card 296 Montreal EXPOS 1987/2002 http://t.co/LQuOwFP8JS http://t.co/cgEDXrchZd
-D, [2014-12-14T18:46:31.951709 #28252] DEBUG -- : Firebase response: {"name"=>"-JdApkyRFCW2pgl7QDfC"}
-D, [2014-12-14T18:46:31.951811 #28252] DEBUG -- : Sending to Firebase: @keisertroll JEFF TORBORG RUINED THE NL EAST AND WCW
-D, [2014-12-14T18:46:32.295733 #28252] DEBUG -- : Firebase response: {"name"=>"-JdApl2pD4Mg9rxarC6-"}
-D, [2014-12-14T18:46:32.295798 #28252] DEBUG -- : Sending to Firebase: Jeff Torborg, The Golden Manager Of Danish Kings
-D, [2014-12-14T18:46:32.651194 #28252] DEBUG -- : Firebase response: {"name"=>"-JdApl8MHoSuIUxK1Pzm"}
-D, [2014-12-14T18:46:32.651301 #28252] DEBUG -- : Sending to Firebase: @thegnc POOR WIKIPEDIA, TRYING TO PUT SHINE ON THE TURD THAT WAS THE JEFF TORBORG/DALLAS GREEN METS
-D, [2014-12-14T18:46:33.010289 #28252] DEBUG -- : Firebase response: {"name"=>"-JdAplDvbJNndOY06Kzi"}
-D, [2014-12-14T18:46:33.010367 #28252] DEBUG -- : Sending to Firebase: 1973 TOPPS SET BREAK #154 JEFF TORBORG    NM+ http://t.co/94qQWR66fk http://t.co/Jcn8n80yLy
-D, [2014-12-14T18:46:33.371649 #28252] DEBUG -- : Firebase response: {"name"=>"-JdAplJc2MX9WAiu0CzI"}
-D, [2014-12-14T18:46:33.371748 #28252] DEBUG -- : Sending to Firebase: RT @Sheldon_Jokes: Me, jealous of you? Oh bless your delusional heart.
-D, [2014-12-14T18:46:33.727495 #28252] DEBUG -- : Firebase response: {"name"=>"-JdAplPC-QRMdO7HSD-Y"}
-D, [2014-12-14T18:46:33.727575 #28252] DEBUG -- : Sending to Firebase: @Kendall_Torborg thanks Kendal !
-D, [2014-12-14T18:46:34.096091 #28252] DEBUG -- : Firebase response: {"name"=>"-JdAplUxuZQKtdzbZcVG"}
-I, [2014-12-15T09:21:28.252721 #88686]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-15T09:21:28.253127 #88686]  INFO -- : Running Twitter query on fuck
-I, [2014-12-15T09:21:28.253172 #88686]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-15T09:21:28.254997 #88686] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-15T09:21:28.255038 #88686]  INFO -- : Running search on fuck
-D, [2014-12-15T09:21:28.255058 #88686] DEBUG -- : Consumer key: 5LmU6ckudMC5spqqRK1kJHVsu
-D, [2014-12-15T09:21:28.255074 #88686] DEBUG -- : Consumer secret: peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S
-D, [2014-12-15T09:21:28.255089 #88686] DEBUG -- : Access token: 2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS
-D, [2014-12-15T09:21:28.255114 #88686] DEBUG -- : Access token secret: nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS
-I, [2014-12-15T09:21:28.255200 #88686]  INFO -- : Running search...
-D, [2014-12-15T09:21:28.791103 #88686] DEBUG -- : Adding tweet: @poon_cake what in the hale was the point of the little black kids like? they aren't props? fuck off......
-D, [2014-12-15T09:21:28.791205 #88686] DEBUG -- : Adding tweet: xvideos: Vika pigtailed teen best big tits fuck here #movie #music #ass #lol #video http://t.co/yy0ZQM2dEw
-D, [2014-12-15T09:21:28.791238 #88686] DEBUG -- : Adding tweet: RT @TimmyDaGoat: how i feel about school http://t.co/53odXHWrht
-D, [2014-12-15T09:21:28.791303 #88686] DEBUG -- : Adding tweet: RT @MoneyMakingHec: @AlmightyBruin yeah but niggas aint hit me back,  fuck it
-D, [2014-12-15T09:21:28.791339 #88686] DEBUG -- : Adding tweet: You could have at least said good morning before you said fuck me 😂😂😂
-D, [2014-12-15T09:21:28.791370 #88686] DEBUG -- : Adding tweet: "@faawkitsdee_: if she go gay , we can fuck bitches togethe lmaooo ." uh unnnnnn 😳😳
-D, [2014-12-15T09:21:28.791401 #88686] DEBUG -- : Adding tweet: “@hohohobitches: Niggas swear they loyal, but only fuck with me once a year.. 
+# Logfile created on 2014-12-25 21:52:58 -0800 by logger.rb/41954
+I, [2014-12-25T21:52:58.290996 #3140]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-25T21:52:58.291025 #3140]  INFO -- : Running Twitter query on #healthy
+I, [2014-12-25T21:52:58.291050 #3140]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+I, [2014-12-25T21:52:58.291254 #3140]  INFO -- : Running search on #healthy
+I, [2014-12-25T21:52:58.291316 #3140]  INFO -- : Running search...
+I, [2014-12-25T21:52:58.878187 #3140]  INFO -- : Query results: ["RT @i_TheQuotes: #Healthy #Nutrition How To Lose Weight Without Crazy Diets http://t.co/YP6mL2BCp3", "#Healthy #Diet Best Weight Loss Diets: To Burn Fat or Get Fat? http://t.co/vC35suRdeq #CharlizeTheron #Fit", "#SkinCare #Beauty Top Sell Derma Roller Micro Needles Roller 1.0mm Facial Anti-aging Derma Roller http://t.co/bRknkfiA2N #Healthy #AcneFree", "RT @rensniper: Morning sibayak .. #jogging #healthy #lovethismoment http://t.co/zSvdzr9Z5i", "#Discount_Vitamins_and_Herbal_Supplements Click Here&gt;&gt;&gt;http://t.co/SJYpkn4Ai2  #Followback,#Retweet,#Healthy http://t.co/LXPAwuKHj6", "#Workout #GetFit How To Lose Weight Without Crazy Diets http://t.co/bsB2RX61UL #Healthy #Health", "RT @i_TheQuotes: #Healthy #Nutrition A Quality Product Rich in Taste And Nutrition - Loose Leaf White Tea http://t.co/Ue4e5X2FZV", "RT @i_TheQuotes: #Healthy #Nutrition 7 Types of Fat Burning Supplements http://t.co/FUaLxqvLqT", "#Healthy #Nutrition How To Lose Weight Without Crazy Diets http://t.co/obgSnquj7D #Workout", "#Beckham #FootBall 7 Types of Fat Burning Supplements http://t.co/TENKy9OdGA #Healthy #FatLoss"]
+I, [2014-12-25T21:54:16.147751 #3708]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-25T21:54:16.147802 #3708]  INFO -- : Running Twitter query on #healthy
+I, [2014-12-25T21:54:16.147833 #3708]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+I, [2014-12-25T21:54:16.148244 #3708]  INFO -- : Running search on #healthy
+I, [2014-12-25T21:54:16.148324 #3708]  INFO -- : Running search...
+I, [2014-12-25T21:54:16.787198 #3708]  INFO -- : Query results: ["Grilled Shrimp and Scallions with Asian Dipping Sauces http://t.co/6GgZQ9w4wT #BBQ #Yummy #Healthy", "#WeightLoss #Fit Meizitang Botanical Slimming for Dramatic and Speedy Weight Loss http://t.co/sryKj8lC6Z #Healthy", "Start a diet that has no expiration date and will keep you healthy for a lifetime !!\n\n#diet #healthy http://t.co/6Sh4NV3Guh", "5 Tips To Turn Pain To Gain http://t.co/G7mGYH5VYZ #pain #stress #success #hope #healthy #creative #life #tips #business", "RT @IFeelLight: #Workout #GetFit Health Tip: Why Proteins Are Essential http://t.co/jrFleI1ILY #Healthy #EatClean", "#Workout #GetFit Health Tip: Why Proteins Are Essential http://t.co/jrFleI1ILY #Healthy #EatClean", "If you’re enjoying dinner out this #Friday night, #tweek your meal to maintain a #healthy lifestyle!", "#Healthy #Workout Health Tip: Why Proteins Are Essential http://t.co/2F0ssDayjn #PeytonManning #Diet", "#KobeBryant #Healthy Meizitang Botanical Slimming for Dramatic and Speedy Weight Loss: Meizitang… http://t.co/5zrEpdwipJ #Fit #Sports", "#ParisHilton #Beauty How To Build Muscle In Your Spare Time: How To Build Muscle In Your Spare… http://t.co/rPPYKRXUFX #Healthy #Fitness"]
+I, [2014-12-25T21:54:52.738405 #3708]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-25T21:54:52.738467 #3708]  INFO -- : Running Twitter query on #healthy
+I, [2014-12-25T21:54:52.738521 #3708]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+I, [2014-12-25T21:54:52.738866 #3708]  INFO -- : Running search on #healthy
+I, [2014-12-25T21:54:52.738970 #3708]  INFO -- : Running search...
+I, [2014-12-25T21:54:53.697263 #3708]  INFO -- : Query results: ["Grilled Shrimp and Scallions with Asian Dipping Sauces http://t.co/6GgZQ9w4wT #BBQ #Yummy #Healthy", "#WeightLoss #Fit Meizitang Botanical Slimming for Dramatic and Speedy Weight Loss http://t.co/sryKj8lC6Z #Healthy", "Start a diet that has no expiration date and will keep you healthy for a lifetime !!\n\n#diet #healthy http://t.co/6Sh4NV3Guh", "5 Tips To Turn Pain To Gain http://t.co/G7mGYH5VYZ #pain #stress #success #hope #healthy #creative #life #tips #business", "RT @IFeelLight: #Workout #GetFit Health Tip: Why Proteins Are Essential http://t.co/jrFleI1ILY #Healthy #EatClean", "#Workout #GetFit Health Tip: Why Proteins Are Essential http://t.co/jrFleI1ILY #Healthy #EatClean", "If you’re enjoying dinner out this #Friday night, #tweek your meal to maintain a #healthy lifestyle!", "#Healthy #Workout Health Tip: Why Proteins Are Essential http://t.co/2F0ssDayjn #PeytonManning #Diet", "#KobeBryant #Healthy Meizitang Botanical Slimming for Dramatic and Speedy Weight Loss: Meizitang… http://t.co/5zrEpdwipJ #Fit #Sports", "#ParisHilton #Beauty How To Build Muscle In Your Spare Time: How To Build Muscle In Your Spare… http://t.co/rPPYKRXUFX #Healthy #Fitness"]
+I, [2014-12-25T21:56:28.806181 #4458]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-12-25T21:56:28.806260 #4458]  INFO -- : Running Twitter query on this
+I, [2014-12-25T21:56:28.806289 #4458]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T21:56:28.808398 #4458] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T21:56:28.808439 #4458]  INFO -- : Running search on this
+I, [2014-12-25T21:56:28.808525 #4458]  INFO -- : Running search...
+D, [2014-12-25T21:56:29.491432 #4458] DEBUG -- : Adding tweet: This girl is fucking crazy bruh 😂😂😂
+D, [2014-12-25T21:56:29.491532 #4458] DEBUG -- : Adding tweet: RT @andresxxnunez: “@Swankstein: “@NotSoFunnyRodz: 😭 https://t.co/uRyNDWhE36” WHY WHY WHY JESUS CHRIST WHY” THIS IS SO DISGUSTING
+D, [2014-12-25T21:56:29.491578 #4458] DEBUG -- : Adding tweet: "@rollinglashton: Quote this with a picture of your sunshine 😍" I'm cake af http://t.co/IRyqiiBHpp
+D, [2014-12-25T21:56:29.491628 #4458] DEBUG -- : Adding tweet: RT @LebouefKelsey: never a dull moment w/ this fool👯 http://t.co/2BsnB0vrNM
+D, [2014-12-25T21:56:29.491674 #4458] DEBUG -- : Adding tweet: But this weed got faded '
+D, [2014-12-25T21:56:29.491703 #4458] DEBUG -- : Adding tweet: I really love this album cover for "We Came as Romans." Great band. http://t.co/6dACaNmAUs
+D, [2014-12-25T21:56:29.491732 #4458] DEBUG -- : Adding tweet: RT @katelynn__f: Had a good Christmas this year !
+D, [2014-12-25T21:56:29.491759 #4458] DEBUG -- : Adding tweet: RT @jacintovm: Twitter is private but this dick public
+D, [2014-12-25T21:56:29.491789 #4458] DEBUG -- : Adding tweet: I been up every night late like this since Monday
+D, [2014-12-25T21:56:29.491816 #4458] DEBUG -- : Adding tweet: RT @ThatBucketList: LET'S MAKE THIS HAPPEN 🙏 http://t.co/XCSIfmeoZ1
+I, [2014-12-25T21:56:29.491869 #4458]  INFO -- : Query results: ["This girl is fucking crazy bruh 😂😂😂", "RT @andresxxnunez: “@Swankstein: “@NotSoFunnyRodz: 😭 https://t.co/uRyNDWhE36” WHY WHY WHY JESUS CHRIST WHY” THIS IS SO DISGUSTING", "\"@rollinglashton: Quote this with a picture of your sunshine 😍\" I'm cake af http://t.co/IRyqiiBHpp", "RT @LebouefKelsey: never a dull moment w/ this fool👯 http://t.co/2BsnB0vrNM", "But this weed got faded '", "I really love this album cover for \"We Came as Romans.\" Great band. http://t.co/6dACaNmAUs", "RT @katelynn__f: Had a good Christmas this year !", "RT @jacintovm: Twitter is private but this dick public", "I been up every night late like this since Monday", "RT @ThatBucketList: LET'S MAKE THIS HAPPEN 🙏 http://t.co/XCSIfmeoZ1"]
+D, [2014-12-25T21:56:29.491893 #4458] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T21:56:29.491918 #4458] DEBUG -- : Sending to Firebase: This girl is fucking crazy bruh 😂😂😂
+D, [2014-12-25T21:56:29.865270 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49iy2M-N3TPLdsW3h"}
+D, [2014-12-25T21:56:29.865355 #4458] DEBUG -- : Sending to Firebase: RT @andresxxnunez: “@Swankstein: “@NotSoFunnyRodz: 😭 https://t.co/uRyNDWhE36” WHY WHY WHY JESUS CHRIST WHY” THIS IS SO DISGUSTING
+D, [2014-12-25T21:56:30.219799 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49j2_gO0804qG7Ncr"}
+D, [2014-12-25T21:56:30.219867 #4458] DEBUG -- : Sending to Firebase: "@rollinglashton: Quote this with a picture of your sunshine 😍" I'm cake af http://t.co/IRyqiiBHpp
+D, [2014-12-25T21:56:30.574765 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49j83a8zzgXd9dRgr"}
+D, [2014-12-25T21:56:30.574850 #4458] DEBUG -- : Sending to Firebase: RT @LebouefKelsey: never a dull moment w/ this fool👯 http://t.co/2BsnB0vrNM
+D, [2014-12-25T21:56:30.930534 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49jDi3G_tLo4s6h4E"}
+D, [2014-12-25T21:56:30.930609 #4458] DEBUG -- : Sending to Firebase: But this weed got faded '
+D, [2014-12-25T21:56:31.287829 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49jJHOry9WYB_GR9n"}
+D, [2014-12-25T21:56:31.287915 #4458] DEBUG -- : Sending to Firebase: I really love this album cover for "We Came as Romans." Great band. http://t.co/6dACaNmAUs
+D, [2014-12-25T21:56:31.629817 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49jOc4yejxfxZKOp8"}
+D, [2014-12-25T21:56:31.629917 #4458] DEBUG -- : Sending to Firebase: RT @katelynn__f: Had a good Christmas this year !
+D, [2014-12-25T21:56:31.985922 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49jUABU16SxQyB-r5"}
+D, [2014-12-25T21:56:31.986017 #4458] DEBUG -- : Sending to Firebase: RT @jacintovm: Twitter is private but this dick public
+D, [2014-12-25T21:56:32.360471 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49j_18plNI9IXv4GE"}
+D, [2014-12-25T21:56:32.360573 #4458] DEBUG -- : Sending to Firebase: I been up every night late like this since Monday
+D, [2014-12-25T21:56:32.715979 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49jeb4HM9GyGDouj6"}
+D, [2014-12-25T21:56:32.716055 #4458] DEBUG -- : Sending to Firebase: RT @ThatBucketList: LET'S MAKE THIS HAPPEN 🙏 http://t.co/XCSIfmeoZ1
+D, [2014-12-25T21:56:33.077641 #4458] DEBUG -- : Firebase response: {"name"=>"-Je49jk8tNmK-jC7wrCZ"}
+I, [2014-12-25T21:58:07.799118 #4686]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-25T21:58:07.799209 #4686]  INFO -- : Running Twitter query on #healthy
+I, [2014-12-25T21:58:07.799266 #4686]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+I, [2014-12-25T21:58:07.799802 #4686]  INFO -- : Running search on #healthy
+I, [2014-12-25T21:58:07.799894 #4686]  INFO -- : Running search...
+I, [2014-12-25T21:58:09.420339 #4686]  INFO -- : Query results: ["RT @StevcheT: Worth a watch. #workout #cardio #gym #train #training #health #healthy #active #strong #motivation #determination https://t.c…", "Worth a watch. #workout #cardio #gym #train #training #health #healthy #active #strong #motivation #determination https://t.co/ng9wpeNfCJ", "RT @BBQ500: Grilled Shrimp and Scallions with Asian Dipping Sauces http://t.co/6GgZQ9w4wT #BBQ #Yummy #Healthy", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/xABqIasKpQ", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/VB5yoP3tvQ", "RT @fitlife_stream: Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/…", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/q9atiKwxVS", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/7p12JiXvBE", "RT @fitlife_stream: Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/…", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/h8eMJOXDtJ"]
+I, [2014-12-25T21:58:59.285760 #4686]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-25T21:58:59.285846 #4686]  INFO -- : Running Twitter query on #healthy
+I, [2014-12-25T21:58:59.285900 #4686]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+I, [2014-12-25T21:58:59.286315 #4686]  INFO -- : Running search on #healthy
+I, [2014-12-25T21:58:59.286417 #4686]  INFO -- : Running search...
+I, [2014-12-25T21:59:00.241284 #4686]  INFO -- : Query results: ["#Healthy #Fitness A Quality Product Rich in Taste And #Nutrition - Loose Leaf White Tea http://t.co/bYmYboEFUo #fitspo #Fitblr", "RT @StevcheT: Worth a watch. #workout #cardio #gym #train #training #health #healthy #active #strong #motivation #determination https://t.c…", "Worth a watch. #workout #cardio #gym #train #training #health #healthy #active #strong #motivation #determination https://t.co/ng9wpeNfCJ", "RT @BBQ500: Grilled Shrimp and Scallions with Asian Dipping Sauces http://t.co/6GgZQ9w4wT #BBQ #Yummy #Healthy", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/xABqIasKpQ", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/VB5yoP3tvQ", "RT @fitlife_stream: Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/…", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/q9atiKwxVS", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/7p12JiXvBE", "RT @fitlife_stream: Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/…"]
+I, [2014-12-25T21:59:09.591757 #4686]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-25T21:59:09.591865 #4686]  INFO -- : Running Twitter query on #healthy
+I, [2014-12-25T21:59:09.591924 #4686]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+I, [2014-12-25T21:59:09.592292 #4686]  INFO -- : Running search on #healthy
+I, [2014-12-25T21:59:09.592389 #4686]  INFO -- : Running search...
+I, [2014-12-25T21:59:10.529625 #4686]  INFO -- : Query results: ["RT @mercola: These foods are NOT safe or #healthy to consume, find out the 9 foods you should never eat. http://t.co/Fy8M331FjE", "#Healthy #Fitness A Quality Product Rich in Taste And #Nutrition - Loose Leaf White Tea http://t.co/bYmYboEFUo #fitspo #Fitblr", "RT @StevcheT: Worth a watch. #workout #cardio #gym #train #training #health #healthy #active #strong #motivation #determination https://t.c…", "Worth a watch. #workout #cardio #gym #train #training #health #healthy #active #strong #motivation #determination https://t.co/ng9wpeNfCJ", "RT @BBQ500: Grilled Shrimp and Scallions with Asian Dipping Sauces http://t.co/6GgZQ9w4wT #BBQ #Yummy #Healthy", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/xABqIasKpQ", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/VB5yoP3tvQ", "RT @fitlife_stream: Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/…", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/q9atiKwxVS", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/7p12JiXvBE"]
+I, [2014-12-25T21:59:23.016843 #4686]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-25T21:59:23.016912 #4686]  INFO -- : Running Twitter query on #healthy
+I, [2014-12-25T21:59:23.016961 #4686]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+I, [2014-12-25T21:59:23.017271 #4686]  INFO -- : Running search on #healthy
+I, [2014-12-25T21:59:23.017336 #4686]  INFO -- : Running search...
+I, [2014-12-25T21:59:23.557395 #4686]  INFO -- : Query results: ["How to Grow After Trauma http://t.co/G974rX1x8L #pain #stress #success #hope #healthy #creative #life #tips #business", "RT @mercola: These foods are NOT safe or #healthy to consume, find out the 9 foods you should never eat. http://t.co/Fy8M331FjE", "#Healthy #Fitness A Quality Product Rich in Taste And #Nutrition - Loose Leaf White Tea http://t.co/bYmYboEFUo #fitspo #Fitblr", "RT @StevcheT: Worth a watch. #workout #cardio #gym #train #training #health #healthy #active #strong #motivation #determination https://t.c…", "Worth a watch. #workout #cardio #gym #train #training #health #healthy #active #strong #motivation #determination https://t.co/ng9wpeNfCJ", "RT @BBQ500: Grilled Shrimp and Scallions with Asian Dipping Sauces http://t.co/6GgZQ9w4wT #BBQ #Yummy #Healthy", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/xABqIasKpQ", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/VB5yoP3tvQ", "RT @fitlife_stream: Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/…", "Сайт для осознанных харьковчан: http://t.co/9WQHBLd1Ni #vegan #веган #vegetarian #vegetable #food #healthy http://t.co/q9atiKwxVS"]
+I, [2014-12-25T22:02:56.426684 #6037]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-12-25T22:02:56.426757 #6037]  INFO -- : Running Twitter query on this
+I, [2014-12-25T22:02:56.426788 #6037]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:02:56.427123 #6037] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:02:56.427153 #6037]  INFO -- : Running search on this
+I, [2014-12-25T22:02:56.427209 #6037]  INFO -- : Running search...
+D, [2014-12-25T22:02:57.128155 #6037] DEBUG -- : Adding tweet: RT @FollowTrainsG: Gamer Follow Train !  
 
-Santa” lmao
-D, [2014-12-15T09:21:28.791431 #88686] DEBUG -- : Adding tweet: RT @69jpeg: someday, someone will love the fuck out of you
-D, [2014-12-15T09:21:28.791461 #88686] DEBUG -- : Adding tweet: @JColeNC went to college. He needs fuck this lunch shit and take this final for me at kennesaw.
-D, [2014-12-15T09:21:28.791491 #88686] DEBUG -- : Adding tweet: RT @TheLifeSayin: Fuck being nice to people who don't deserve it.
-I, [2014-12-15T09:21:28.791551 #88686]  INFO -- : Query results: ["@poon_cake what in the hale was the point of the little black kids like? they aren't props? fuck off......", "xvideos: Vika pigtailed teen best big tits fuck here #movie #music #ass #lol #video http://t.co/yy0ZQM2dEw", "RT @TimmyDaGoat: how i feel about school http://t.co/53odXHWrht", "RT @MoneyMakingHec: @AlmightyBruin yeah but niggas aint hit me back,  fuck it", "You could have at least said good morning before you said fuck me 😂😂😂", "\"@faawkitsdee_: if she go gay , we can fuck bitches togethe lmaooo .\" uh unnnnnn 😳😳", "“@hohohobitches: Niggas swear they loyal, but only fuck with me once a year.. \n\nSanta” lmao", "RT @69jpeg: someday, someone will love the fuck out of you", "@JColeNC went to college. He needs fuck this lunch shit and take this final for me at kennesaw.", "RT @TheLifeSayin: Fuck being nice to people who don't deserve it."]
-D, [2014-12-15T09:21:28.791576 #88686] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-15T09:21:28.791602 #88686] DEBUG -- : Sending to Firebase: @poon_cake what in the hale was the point of the little black kids like? they aren't props? fuck off......
-D, [2014-12-15T09:21:29.470810 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy0cmOHQNxx5Inhss"}
-D, [2014-12-15T09:21:29.470914 #88686] DEBUG -- : Sending to Firebase: xvideos: Vika pigtailed teen best big tits fuck here #movie #music #ass #lol #video http://t.co/yy0ZQM2dEw
-D, [2014-12-15T09:21:29.773196 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy0hWCeYWSnqwLu76"}
-D, [2014-12-15T09:21:29.773297 #88686] DEBUG -- : Sending to Firebase: RT @TimmyDaGoat: how i feel about school http://t.co/53odXHWrht
-D, [2014-12-15T09:21:30.076931 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy0mID4p3RnfVHa_v"}
-D, [2014-12-15T09:21:30.077073 #88686] DEBUG -- : Sending to Firebase: RT @MoneyMakingHec: @AlmightyBruin yeah but niggas aint hit me back,  fuck it
-D, [2014-12-15T09:21:30.384996 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy0r84krSamTrhaw9"}
-D, [2014-12-15T09:21:30.385146 #88686] DEBUG -- : Sending to Firebase: You could have at least said good morning before you said fuck me 😂😂😂
-D, [2014-12-15T09:21:30.678692 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy0vfPoKEipiOxoNi"}
-D, [2014-12-15T09:21:30.678795 #88686] DEBUG -- : Sending to Firebase: "@faawkitsdee_: if she go gay , we can fuck bitches togethe lmaooo ." uh unnnnnn 😳😳
-D, [2014-12-15T09:21:31.019913 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy1-xRXWfapOqWRTt"}
-D, [2014-12-15T09:21:31.020016 #88686] DEBUG -- : Sending to Firebase: “@hohohobitches: Niggas swear they loyal, but only fuck with me once a year.. 
+1) Follow Me !
+2) Retweet This.!
+3) Follow All Who Retweet !
+4) Gain Active Followers.  - ✅ 962
+D, [2014-12-25T22:02:57.128250 #6037] DEBUG -- : Adding tweet: RT @AnonymousCenter: We should be RTing this nonstop. EVERY. SINGLE. ONE. OF. US. #AntonioMartin #Ferguson http://t.co/E682UDwuKi
+D, [2014-12-25T22:02:57.128285 #6037] DEBUG -- : Adding tweet: wasn't born w/ a massive dong I had to glo up and work for this
+D, [2014-12-25T22:02:57.128317 #6037] DEBUG -- : Adding tweet: RT @Drrake: No lie, I can't wait for this day.... http://t.co/2WsqK5QKtB
+D, [2014-12-25T22:02:57.128347 #6037] DEBUG -- : Adding tweet: RT @_JuszThatGirl_: "@InMemoryofDesi5: QUOTE THIS WITH A SELFIE" http://t.co/MNwoIIhDN1
+D, [2014-12-25T22:02:57.128376 #6037] DEBUG -- : Adding tweet: Marshall Woburn: This Bluetooth speaker is built to rock: 
+Everybody who’s really into rock knows the ... http://t.co/s91qG44jyo #income
+D, [2014-12-25T22:02:57.128404 #6037] DEBUG -- : Adding tweet: Why this phone ain't dead yet
+D, [2014-12-25T22:02:57.128434 #6037] DEBUG -- : Adding tweet: RT @FollowTrainsG: Gamer Follow Train !  
 
-Santa” lmao
-D, [2014-12-15T09:21:31.347175 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy156-T2y6K9RDtxW"}
-D, [2014-12-15T09:21:31.347335 #88686] DEBUG -- : Sending to Firebase: RT @69jpeg: someday, someone will love the fuck out of you
-D, [2014-12-15T09:21:31.672002 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy1AC-1cEdTv-nuNv"}
-D, [2014-12-15T09:21:31.672109 #88686] DEBUG -- : Sending to Firebase: @JColeNC went to college. He needs fuck this lunch shit and take this final for me at kennesaw.
-D, [2014-12-15T09:21:32.024468 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy1FCHrt5-ODkyyZE"}
-D, [2014-12-15T09:21:32.024569 #88686] DEBUG -- : Sending to Firebase: RT @TheLifeSayin: Fuck being nice to people who don't deserve it.
-D, [2014-12-15T09:21:32.356947 #88686] DEBUG -- : Firebase response: {"name"=>"-JdDy1KdVlyLsS3emQCi"}
-I, [2014-12-15T09:22:42.857663 #90151]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-15T09:22:42.857756 #90151]  INFO -- : Running Twitter query on fuck
-I, [2014-12-15T09:22:42.857807 #90151]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-15T09:22:42.858156 #90151] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-15T09:22:42.858191 #90151]  INFO -- : Running search on fuck
-D, [2014-12-15T09:22:42.858222 #90151] DEBUG -- : Consumer key: 5LmU6ckudMC5spqqRK1kJHVsu
-D, [2014-12-15T09:22:42.858247 #90151] DEBUG -- : Consumer secret: peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S
-D, [2014-12-15T09:22:42.858272 #90151] DEBUG -- : Access token: 2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS
-D, [2014-12-15T09:22:42.858297 #90151] DEBUG -- : Access token secret: nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS
-I, [2014-12-15T09:22:42.858374 #90151]  INFO -- : Running search...
-D, [2014-12-15T09:22:43.753680 #90151] DEBUG -- : Adding tweet: Lol that one fuck boy in the library who plays edm loud as hell always seems to sit near me #why
-D, [2014-12-15T09:22:43.753783 #90151] DEBUG -- : Adding tweet: RT @KingSplash_48: I Know Nothing 😷😶 Fuck Da PoPo
-D, [2014-12-15T09:22:43.753823 #90151] DEBUG -- : Adding tweet: RT @WorldStarComedy: Barber: What kind of cut you want
+1) Follow Me !
+2) Retweet This.!
+3) Follow All Who Retweet !
+4) Gain Active Followers.  - ✅ 962
+D, [2014-12-25T22:02:57.128463 #6037] DEBUG -- : Adding tweet: GIRLS 💜
 
-Him: Just fuck me up http://t.co/06JjaH0mRQ
-D, [2014-12-15T09:22:43.753857 #90151] DEBUG -- : Adding tweet: RT @LovvvVvveeee_: I recently haven't been giving a fuck about anything lately but getting a job and what I'm doing after highschool
-D, [2014-12-15T09:22:43.753893 #90151] DEBUG -- : Adding tweet: RT @ILLUMlNATI: Fuck a fake friend.
-D, [2014-12-15T09:22:43.753924 #90151] DEBUG -- : Adding tweet: it makes me angry when 5sos post pictures of them messing about in their room doin fuck all when there are freezing fans outsidd
-D, [2014-12-15T09:22:43.753956 #90151] DEBUG -- : Adding tweet: @TheKingScottyD good fuck hem
-D, [2014-12-15T09:22:43.753986 #90151] DEBUG -- : Adding tweet: RT @MyNames_LAW: @Dravon6 congrats broski keep grinding! I'm come up n fuck wit chu next semester Fasho
-D, [2014-12-15T09:22:43.754017 #90151] DEBUG -- : Adding tweet: Wait trains are cancelled at Clapham Junction due to a driver shortage what the fuck is this
-D, [2014-12-15T09:22:43.754048 #90151] DEBUG -- : Adding tweet: Three more days to go . Thank fuck.
-I, [2014-12-15T09:22:43.754117 #90151]  INFO -- : Query results: ["Lol that one fuck boy in the library who plays edm loud as hell always seems to sit near me #why", "RT @KingSplash_48: I Know Nothing 😷😶 Fuck Da PoPo", "RT @WorldStarComedy: Barber: What kind of cut you want\n\nHim: Just fuck me up http://t.co/06JjaH0mRQ", "RT @LovvvVvveeee_: I recently haven't been giving a fuck about anything lately but getting a job and what I'm doing after highschool", "RT @ILLUMlNATI: Fuck a fake friend.", "it makes me angry when 5sos post pictures of them messing about in their room doin fuck all when there are freezing fans outsidd", "@TheKingScottyD good fuck hem", "RT @MyNames_LAW: @Dravon6 congrats broski keep grinding! I'm come up n fuck wit chu next semester Fasho", "Wait trains are cancelled at Clapham Junction due to a driver shortage what the fuck is this", "Three more days to go . Thank fuck."]
-D, [2014-12-15T09:22:43.754160 #90151] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-15T09:22:43.754189 #90151] DEBUG -- : Sending to Firebase: Lol that one fuck boy in the library who plays edm loud as hell always seems to sit near me #why
-D, [2014-12-15T09:22:44.074489 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyIqU4aU8HUFpSaka"}
-D, [2014-12-15T09:22:44.074582 #90151] DEBUG -- : Sending to Firebase: RT @KingSplash_48: I Know Nothing 😷😶 Fuck Da PoPo
-D, [2014-12-15T09:22:44.423529 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyIvyvTAy-dkGmWLc"}
-D, [2014-12-15T09:22:44.423653 #90151] DEBUG -- : Sending to Firebase: RT @WorldStarComedy: Barber: What kind of cut you want
+IF YOU SEE THIS😢
 
-Him: Just fuck me up http://t.co/06JjaH0mRQ
-D, [2014-12-15T09:22:44.728814 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyJ-mRMs5cq-5NoxJ"}
-D, [2014-12-15T09:22:44.728939 #90151] DEBUG -- : Sending to Firebase: RT @LovvvVvveeee_: I recently haven't been giving a fuck about anything lately but getting a job and what I'm doing after highschool
-D, [2014-12-15T09:22:45.077025 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyJ4QvYMEzTlfPhsq"}
-D, [2014-12-15T09:22:45.077138 #90151] DEBUG -- : Sending to Firebase: RT @ILLUMlNATI: Fuck a fake friend.
-D, [2014-12-15T09:22:45.901066 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyJ9x9C0e2evKzaRL"}
-D, [2014-12-15T09:22:45.901157 #90151] DEBUG -- : Sending to Firebase: it makes me angry when 5sos post pictures of them messing about in their room doin fuck all when there are freezing fans outsidd
-D, [2014-12-15T09:22:46.315530 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyJMxpKVQ6UthKl-W"}
-D, [2014-12-15T09:22:46.315606 #90151] DEBUG -- : Sending to Firebase: @TheKingScottyD good fuck hem
-D, [2014-12-15T09:22:46.663135 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyJTRYumx1vCJyiBG"}
-D, [2014-12-15T09:22:46.663208 #90151] DEBUG -- : Sending to Firebase: RT @MyNames_LAW: @Dravon6 congrats broski keep grinding! I'm come up n fuck wit chu next semester Fasho
-D, [2014-12-15T09:22:46.993261 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyJYq7kA_b3ScFElq"}
-D, [2014-12-15T09:22:46.993338 #90151] DEBUG -- : Sending to Firebase: Wait trains are cancelled at Clapham Junction due to a driver shortage what the fuck is this
-D, [2014-12-15T09:22:47.315809 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyJcvzxFLU7NBTi3S"}
-D, [2014-12-15T09:22:47.315939 #90151] DEBUG -- : Sending to Firebase: Three more days to go . Thank fuck.
-D, [2014-12-15T09:22:47.666881 #90151] DEBUG -- : Firebase response: {"name"=>"-JdDyJi7jY4QzVprOskB"}
-I, [2014-12-15T09:45:04.105891 #10049]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-15T09:45:04.105999 #10049]  INFO -- : Running Twitter query on antonio
-I, [2014-12-15T09:45:04.106053 #10049]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-15T09:45:04.106533 #10049] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-15T09:45:04.106579 #10049]  INFO -- : Running search on antonio
-D, [2014-12-15T09:45:04.106612 #10049] DEBUG -- : Consumer key: 5LmU6ckudMC5spqqRK1kJHVsu
-D, [2014-12-15T09:45:04.106638 #10049] DEBUG -- : Consumer secret: peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S
-D, [2014-12-15T09:45:04.106664 #10049] DEBUG -- : Access token: 2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS
-D, [2014-12-15T09:45:04.106690 #10049] DEBUG -- : Access token secret: nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS
-I, [2014-12-15T09:45:04.106765 #10049]  INFO -- : Running search...
-D, [2014-12-15T09:45:04.701429 #10049] DEBUG -- : Adding tweet: RT @MorroAmarillo: Os recomiendo el último podcast de @memoriastambor "La Leyenda Negra" imprescindible para no tragarnos las burradas acer…
-D, [2014-12-15T09:45:04.701563 #10049] DEBUG -- : Adding tweet: El presidente municipal de Jesús María,Aguascalientes José Antonio Arámbula López, encabezó la ceremonia de... http://t.co/e0lXvbydgG
-D, [2014-12-15T09:45:04.701621 #10049] DEBUG -- : Adding tweet: #cuellos #tejidos #ccs http://t.co/U8f7eqIfuC
-D, [2014-12-15T09:45:04.701682 #10049] DEBUG -- : Adding tweet: @yeraysoy @quierolatenight @Tremending Comparte y difunde EL VÍDEO QUE QUIERE CENSURAR ANTONIO MIGUEL CARMONA https://t.co/tqLLQqptu3
-D, [2014-12-15T09:45:04.701730 #10049] DEBUG -- : Adding tweet: #UnidadOrgulloCompromiso @Seccion_47 reunión de trabajo análisis reflexivo de la nueva ruta del @SnteNacional http://t.co/UUHb4ZIkQ3
-D, [2014-12-15T09:45:04.701777 #10049] DEBUG -- : Adding tweet: @antonio_angioni magari potresti aiutarmi condividendo io mio CV da http://t.co/kLIhElShQq
-D, [2014-12-15T09:45:04.701823 #10049] DEBUG -- : Adding tweet: @DarWin_GumBal 
-Não. 66. Anos. E. Antonio
-D, [2014-12-15T09:45:04.701873 #10049] DEBUG -- : Adding tweet: @arturo89ale_mon       @antonio_giand66    he hecho funcionar cajas de zapatos con que con seven no
-D, [2014-12-15T09:45:04.701911 #10049] DEBUG -- : Adding tweet: I'm at Creche agostiniana santo antônio in Campinas, SP http://t.co/BaMaBxwWgK
-D, [2014-12-15T09:45:04.701941 #10049] DEBUG -- : Adding tweet: Parapente en Bolivia
-Piloto: Marco Antonio Aruquipa Zenteno. http://t.co/LNH6S8T01V
-I, [2014-12-15T09:45:04.701998 #10049]  INFO -- : Query results: ["RT @MorroAmarillo: Os recomiendo el último podcast de @memoriastambor \"La Leyenda Negra\" imprescindible para no tragarnos las burradas acer…", "El presidente municipal de Jesús María,Aguascalientes José Antonio Arámbula López, encabezó la ceremonia de... http://t.co/e0lXvbydgG", "#cuellos #tejidos #ccs http://t.co/U8f7eqIfuC", "@yeraysoy @quierolatenight @Tremending Comparte y difunde EL VÍDEO QUE QUIERE CENSURAR ANTONIO MIGUEL CARMONA https://t.co/tqLLQqptu3", "#UnidadOrgulloCompromiso @Seccion_47 reunión de trabajo análisis reflexivo de la nueva ruta del @SnteNacional http://t.co/UUHb4ZIkQ3", "@antonio_angioni magari potresti aiutarmi condividendo io mio CV da http://t.co/kLIhElShQq", "@DarWin_GumBal \nNão. 66. Anos. E. Antonio", "@arturo89ale_mon       @antonio_giand66    he hecho funcionar cajas de zapatos con que con seven no", "I'm at Creche agostiniana santo antônio in Campinas, SP http://t.co/BaMaBxwWgK", "Parapente en Bolivia\nPiloto: Marco Antonio Aruquipa Zenteno. http://t.co/LNH6S8T01V"]
-D, [2014-12-15T09:45:04.702023 #10049] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-15T09:45:04.702048 #10049] DEBUG -- : Sending to Firebase: RT @MorroAmarillo: Os recomiendo el último podcast de @memoriastambor "La Leyenda Negra" imprescindible para no tragarnos las burradas acer…
-D, [2014-12-15T09:45:05.916021 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2QKDM3yQ0xOoa-Bw"}
-D, [2014-12-15T09:45:05.916118 #10049] DEBUG -- : Sending to Firebase: El presidente municipal de Jesús María,Aguascalientes José Antonio Arámbula López, encabezó la ceremonia de... http://t.co/e0lXvbydgG
-D, [2014-12-15T09:45:06.258133 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2QWjd5S-onwd5sAZ"}
-D, [2014-12-15T09:45:06.258273 #10049] DEBUG -- : Sending to Firebase: #cuellos #tejidos #ccs http://t.co/U8f7eqIfuC
-D, [2014-12-15T09:45:06.568079 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2QawigP0TNjQrhBE"}
-D, [2014-12-15T09:45:06.568182 #10049] DEBUG -- : Sending to Firebase: @yeraysoy @quierolatenight @Tremending Comparte y difunde EL VÍDEO QUE QUIERE CENSURAR ANTONIO MIGUEL CARMONA https://t.co/tqLLQqptu3
-D, [2014-12-15T09:45:06.900651 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2QftlvOgUouyGX7K"}
-D, [2014-12-15T09:45:06.900780 #10049] DEBUG -- : Sending to Firebase: #UnidadOrgulloCompromiso @Seccion_47 reunión de trabajo análisis reflexivo de la nueva ruta del @SnteNacional http://t.co/UUHb4ZIkQ3
-D, [2014-12-15T09:45:07.221492 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2Qkf_kPbby6epgVb"}
-D, [2014-12-15T09:45:07.221667 #10049] DEBUG -- : Sending to Firebase: @antonio_angioni magari potresti aiutarmi condividendo io mio CV da http://t.co/kLIhElShQq
-D, [2014-12-15T09:45:07.541472 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2Qq-WMJm0gtS8unq"}
-D, [2014-12-15T09:45:07.541588 #10049] DEBUG -- : Sending to Firebase: @DarWin_GumBal 
-Não. 66. Anos. E. Antonio
-D, [2014-12-15T09:45:07.864969 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2Qv1YwaJptBnRsW9"}
-D, [2014-12-15T09:45:07.865076 #10049] DEBUG -- : Sending to Firebase: @arturo89ale_mon       @antonio_giand66    he hecho funcionar cajas de zapatos con que con seven no
-D, [2014-12-15T09:45:08.184856 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2R-6SHEKZsy7iplF"}
-D, [2014-12-15T09:45:08.184971 #10049] DEBUG -- : Sending to Firebase: I'm at Creche agostiniana santo antônio in Campinas, SP http://t.co/BaMaBxwWgK
-D, [2014-12-15T09:45:08.506220 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2R3uqlrrExdBm-YY"}
-D, [2014-12-15T09:45:08.506337 #10049] DEBUG -- : Sending to Firebase: Parapente en Bolivia
-Piloto: Marco Antonio Aruquipa Zenteno. http://t.co/LNH6S8T01V
-D, [2014-12-15T09:45:08.900233 #10049] DEBUG -- : Firebase response: {"name"=>"-JdE2R8s_HrSCyPQtjCw"}
-I, [2014-12-15T09:59:14.244864 #23103]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-15T09:59:14.244954 #23103]  INFO -- : Running Twitter query on hannukah
-I, [2014-12-15T09:59:14.244993 #23103]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-15T09:59:14.245432 #23103] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-15T09:59:14.245482 #23103]  INFO -- : Running search on hannukah
-D, [2014-12-15T09:59:14.245517 #23103] DEBUG -- : Consumer key: 5LmU6ckudMC5spqqRK1kJHVsu
-D, [2014-12-15T09:59:14.245544 #23103] DEBUG -- : Consumer secret: peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S
-D, [2014-12-15T09:59:14.245569 #23103] DEBUG -- : Access token: 2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS
-D, [2014-12-15T09:59:14.245597 #23103] DEBUG -- : Access token secret: nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS
-I, [2014-12-15T09:59:14.245670 #23103]  INFO -- : Running search...
-D, [2014-12-15T09:59:14.680887 #23103] DEBUG -- : Adding tweet: RT @Miles__Herman: 🎊🎊🎊Happy Hannukah eve🎊🎊🎊 #coinsonmyfeet
-D, [2014-12-15T09:59:14.680993 #23103] DEBUG -- : Adding tweet: 🎊🎊🎊Happy Hannukah eve🎊🎊🎊 #coinsonmyfeet
-D, [2014-12-15T09:59:14.681031 #23103] DEBUG -- : Adding tweet: Happy Holidays! Here are some great sales we have for The Week before Christmas and Hannukah :) 
+FOLLOW ME?😍
 
-Check em out... http://t.co/Sfj4rYUsK5
-D, [2014-12-15T09:59:14.681063 #23103] DEBUG -- : Adding tweet: Carly just asked me if I was listening to a parody of Shake It Off and I said yes a hannukah version
-D, [2014-12-15T09:59:14.681092 #23103] DEBUG -- : Adding tweet: RT @BenjyHimmel: no I don't want to hear the Hannukah parody of Shake It Off.
-I don't even want to hear the real version of Shake It Off.
-D, [2014-12-15T09:59:14.681122 #23103] DEBUG -- : Adding tweet: Guest Post, Zen Belly and Predominantly Paleo: Hannukah Round Up http://t.co/zafpqVAEmu
-D, [2014-12-15T09:59:14.681150 #23103] DEBUG -- : Adding tweet: Parents of slain journalist to honor son at Hanukkah event | The Times of Israel http://t.co/YnWXpT7Jpp
-D, [2014-12-15T09:59:14.681177 #23103] DEBUG -- : Adding tweet: So many gyroscopes on the table😍
-HAPPY HANNUKAH DRAKE FROM ISRAEL I LOVE YOU SO MUCH @drake http://t.co/rjvFDThk9s
-D, [2014-12-15T09:59:14.681204 #23103] DEBUG -- : Adding tweet: One clean shirt, three days of finals left. Pulling for a Hannukah miracle.
-D, [2014-12-15T09:59:14.681234 #23103] DEBUG -- : Adding tweet: RT @URJGFC: ATTENTION GFC ALUMNI: There is a #hannukah or #channukah or #hanukkah photo contest on its way. #GFC40 STAY TUNED! (RT and chec…
-I, [2014-12-15T09:59:14.681314 #23103]  INFO -- : Query results: ["RT @Miles__Herman: 🎊🎊🎊Happy Hannukah eve🎊🎊🎊 #coinsonmyfeet", "🎊🎊🎊Happy Hannukah eve🎊🎊🎊 #coinsonmyfeet", "Happy Holidays! Here are some great sales we have for The Week before Christmas and Hannukah :) \n\nCheck em out... http://t.co/Sfj4rYUsK5", "Carly just asked me if I was listening to a parody of Shake It Off and I said yes a hannukah version", "RT @BenjyHimmel: no I don't want to hear the Hannukah parody of Shake It Off.\nI don't even want to hear the real version of Shake It Off.", "Guest Post, Zen Belly and Predominantly Paleo: Hannukah Round Up http://t.co/zafpqVAEmu", "Parents of slain journalist to honor son at Hanukkah event | The Times of Israel http://t.co/YnWXpT7Jpp", "So many gyroscopes on the table😍\nHAPPY HANNUKAH DRAKE FROM ISRAEL I LOVE YOU SO MUCH @drake http://t.co/rjvFDThk9s", "One clean shirt, three days of finals left. Pulling for a Hannukah miracle.", "RT @URJGFC: ATTENTION GFC ALUMNI: There is a #hannukah or #channukah or #hanukkah photo contest on its way. #GFC40 STAY TUNED! (RT and chec…"]
-D, [2014-12-15T09:59:14.681340 #23103] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-15T09:59:14.681368 #23103] DEBUG -- : Sending to Firebase: RT @Miles__Herman: 🎊🎊🎊Happy Hannukah eve🎊🎊🎊 #coinsonmyfeet
-D, [2014-12-15T09:59:15.014122 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5ejaZcVsoveiF8cH"}
-D, [2014-12-15T09:59:15.014198 #23103] DEBUG -- : Sending to Firebase: 🎊🎊🎊Happy Hannukah eve🎊🎊🎊 #coinsonmyfeet
-D, [2014-12-15T09:59:15.318970 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5eocQKQD2236dD7c"}
-D, [2014-12-15T09:59:15.319077 #23103] DEBUG -- : Sending to Firebase: Happy Holidays! Here are some great sales we have for The Week before Christmas and Hannukah :) 
+I BEG YOU💘
 
-Check em out... http://t.co/Sfj4rYUsK5
-D, [2014-12-15T09:59:15.764858 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5eto60KUWZq4m5sF"}
-D, [2014-12-15T09:59:15.764987 #23103] DEBUG -- : Sending to Firebase: Carly just asked me if I was listening to a parody of Shake It Off and I said yes a hannukah version
-D, [2014-12-15T09:59:17.142466 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5fG8Aq5ZWsq0bFL3"}
-D, [2014-12-15T09:59:17.142538 #23103] DEBUG -- : Sending to Firebase: RT @BenjyHimmel: no I don't want to hear the Hannukah parody of Shake It Off.
-I don't even want to hear the real version of Shake It Off.
-D, [2014-12-15T09:59:17.503488 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5fKvuJbxUfyNPGDe"}
-D, [2014-12-15T09:59:17.503571 #23103] DEBUG -- : Sending to Firebase: Guest Post, Zen Belly and Predominantly Paleo: Hannukah Round Up http://t.co/zafpqVAEmu
-D, [2014-12-15T09:59:17.820548 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5fQi4IyLK_mdD30s"}
-D, [2014-12-15T09:59:17.820640 #23103] DEBUG -- : Sending to Firebase: Parents of slain journalist to honor son at Hanukkah event | The Times of Israel http://t.co/YnWXpT7Jpp
-D, [2014-12-15T09:59:18.145302 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5fVg4fxrKgE1XmPM"}
-D, [2014-12-15T09:59:18.145387 #23103] DEBUG -- : Sending to Firebase: So many gyroscopes on the table😍
-HAPPY HANNUKAH DRAKE FROM ISRAEL I LOVE YOU SO MUCH @drake http://t.co/rjvFDThk9s
-D, [2014-12-15T09:59:18.503490 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5f_n6kZ9vOsPM-3q"}
-D, [2014-12-15T09:59:18.503625 #23103] DEBUG -- : Sending to Firebase: One clean shirt, three days of finals left. Pulling for a Hannukah miracle.
-D, [2014-12-15T09:59:18.813292 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5ff7kzeRYUCiK_Hr"}
-D, [2014-12-15T09:59:18.813438 #23103] DEBUG -- : Sending to Firebase: RT @URJGFC: ATTENTION GFC ALUMNI: There is a #hannukah or #channukah or #hanukkah photo contest on its way. #GFC40 STAY TUNED! (RT and chec…
-D, [2014-12-15T09:59:19.110800 #23103] DEBUG -- : Firebase response: {"name"=>"-JdE5fjryJpUn98z7TD9"}
-I, [2014-12-23T06:54:17.036418 #38106]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-23T06:56:50.806147 #39165]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-23T06:56:50.806219 #39165]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-23T06:56:50.806246 #39165]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-23T06:56:50.809146 #39165]  INFO -- : Running search on #healthy
-I, [2014-12-23T06:56:50.809223 #39165]  INFO -- : Running search...
-I, [2014-12-23T06:56:51.693431 #39165]  INFO -- : Query results: ["#healthy #lunch before #christmas #feasting starts 👍#roastedchicken breast with #spiced roasted… http://t.co/2sAEXsUqE8", "#WeightLoss #Healthy Green Tea Extract (ECGC): Weight Loss Variant http://t.co/KabfdnPVb9 #JohnMayer", "#Fitness #Healthy How to Lose Weight in 3 Days Without Working Out http://t.co/sPJEIrXftY #AliciaKeys #Fit", "RT @CookLime: Figgy Pudding\nhttp://t.co/MukaJsdVzF\n#recipe #cook #healthy #food #cakes #christmas http://t.co/iwzNWTHnBY", "RT @CookLime: Figgy Pudding\nhttp://t.co/MukaJsdVzF\n#recipe #cook #healthy #food #cakes #christmas http://t.co/iwzNWTHnBY", "RT @CookLime: Figgy Pudding\nhttp://t.co/MukaJsdVzF\n#recipe #cook #healthy #food #cakes #christmas http://t.co/iwzNWTHnBY", "RT @CookLime: Figgy Pudding\nhttp://t.co/MukaJsdVzF\n#recipe #cook #healthy #food #cakes #christmas http://t.co/iwzNWTHnBY", "Thanks for sharing @CarilionClinic #healthy #recipes RT @CMdtblacksburg: The CMdtblacksburg Daily is out! http://t.co/g65mVQprSB", "RT @AshtonKutcher56: #Healthy #Fitness #Diet ##Fitness Square Pegs and Round Holes - How Fitting In to Anything Is An Act of… http://t.co/o…", "#Healthy #Fitness #Diet ##Fitness Square Pegs and Round Holes - How Fitting In to Anything Is An Act of… http://t.co/o2EIh40q5s #fitspo"]
-I, [2014-12-23T07:30:12.016465 #53594]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-23T07:30:12.016573 #53594]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-23T07:30:12.016620 #53594]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-23T07:30:12.017132 #53594]  INFO -- : Running search on #healthy
-I, [2014-12-23T07:30:12.017229 #53594]  INFO -- : Running search...
-I, [2014-12-23T07:30:12.746246 #53594]  INFO -- : Query results: ["RT @Dietzon: #Discount_Vitamins_and_Herbal_Supplements Click Here&gt;&gt;&gt;http://t.co/SJYpkn4Ai2  #Followback,#Retweet,#Healthy http://t.co/rCaqe…", "RT @CookLime: Tea Biscuits\nhttp://t.co/6jIowzMN3b\n#recipe #cook #healthy #food #breads #breakfast #rollsbiscuits http://t.co/QOkRPuuxty", "#Discount_Vitamins_and_Herbal_Supplements Click Here&gt;&gt;&gt;http://t.co/SJYpkn4Ai2  #Followback,#Retweet,#Healthy http://t.co/rCaqeOsFwh", "Egg white protein pancakes🍳🍌 #proteinpancakes #eggwhitepancakes #healthy #turkeybacon #lowsodium… http://t.co/Rluqcoog8x", "Eastern holistic herbal medicine, Jeff takes us through his health journey http://t.co/KweuTwMWKm  #journey #healthy #medicine #healthcare", "Delicious #healthy #holiday #recipes - http://t.co/geKf09fdB2 #ChristmasRecipes #holidayrecipes #naturalawakenings http://t.co/AqwQwOlrGF", "#Healthy #Fitness Reducing Weight Effectively By Eating Chocolate For Breakfast http://t.co/R0rS8DQlXg", "@wordpress: Kenali Anorgasmia, Apa itu? - http://t.co/CyItxn5Fi6 -... http://t.co/VCrlvWnsbC #healthy", "RT @Anti_Cellulite: #Healthy #FatLoss Why Should You Consider A Diet With Some Urgency? http://t.co/iyIh30O1w0 #Health", "once in a while , a sweet treat is allowed and by once in a while i mean ONCE or twice a month ... #healthyliving #healthy #vegan"]
-I, [2014-12-23T07:30:43.803863 #53941]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-23T07:30:43.803941 #53941]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-23T07:30:43.803972 #53941]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-23T07:30:43.804296 #53941]  INFO -- : Running search on #healthy
-I, [2014-12-23T07:30:43.804361 #53941]  INFO -- : Running search...
-I, [2014-12-23T07:30:44.850284 #53941]  INFO -- : Query results: ["RT @Risa_Stueve: #SkinCare #Healthy VINE VERA CHIANTI RELAXOLINE COLLECTION RESVERATROL OVERNIGHT RECOVERY NEW:… http://t.co/EpaNplADJO #Ti…", "Drink lots of this stuff. Tip number 21 on staying #healthy on flights. http://t.co/YmJcdNetmr http://t.co/l2VAl5A2Je", "#breakfast #healthy wraps! http://t.co/GGJVDeh2v6", "At http://t.co/pMUxNeOvrn -- #vegan #dairyfree #healthybreakfast #breakfast #veganbreakfast #fitness #fitspo #foodstagram #healthy #nut...", "RT @gymjunkiesuk: #competition time! #win a full @gymjunkiesuk #fitness snackbox! Packed with #healthy treats and awesome advice 💪RT+F💪 htt…", "RT @CookLime: Chocolate Bullets\nhttp://t.co/LImX8hgZwd\n#recipe #cook #healthy #food #greek #chocolate #beverages http://t.co/TlneVZs4Xq", "RT #Glutenfree Treats that satisfy! http://t.co/L0xSVLO7rs \n@lucys_tweets #healthy #dessert", "RT @Dietzon: #Discount_Vitamins_and_Herbal_Supplements Click Here&gt;&gt;&gt;http://t.co/SJYpkn4Ai2  #Followback,#Retweet,#Healthy http://t.co/rCaqe…", "RT @CookLime: Tea Biscuits\nhttp://t.co/6jIowzMN3b\n#recipe #cook #healthy #food #breads #breakfast #rollsbiscuits http://t.co/QOkRPuuxty", "#Discount_Vitamins_and_Herbal_Supplements Click Here&gt;&gt;&gt;http://t.co/SJYpkn4Ai2  #Followback,#Retweet,#Healthy http://t.co/rCaqeOsFwh"]
-I, [2014-12-23T07:31:17.770640 #54184]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-23T07:31:17.770721 #54184]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-23T07:31:17.770763 #54184]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-23T07:31:17.771222 #54184]  INFO -- : Running search on #healthy
-I, [2014-12-23T07:31:17.771313 #54184]  INFO -- : Running search...
-I, [2014-12-23T07:31:18.476341 #54184]  INFO -- : Query results: ["Have your pie and eat it too! @theblendergirl shares her favorite, #healthy pie in a glass #recipes with @yahoo -- http://t.co/R6Mk9xHxuF", "RT @Risa_Stueve: #SkinCare #Healthy VINE VERA CHIANTI RELAXOLINE COLLECTION RESVERATROL OVERNIGHT RECOVERY NEW:… http://t.co/EpaNplADJO #Ti…", "Drink lots of this stuff. Tip number 21 on staying #healthy on flights. http://t.co/YmJcdNetmr http://t.co/l2VAl5A2Je", "#breakfast #healthy wraps! http://t.co/GGJVDeh2v6", "At http://t.co/pMUxNeOvrn -- #vegan #dairyfree #healthybreakfast #breakfast #veganbreakfast #fitness #fitspo #foodstagram #healthy #nut...", "RT @gymjunkiesuk: #competition time! #win a full @gymjunkiesuk #fitness snackbox! Packed with #healthy treats and awesome advice 💪RT+F💪 htt…", "RT @CookLime: Chocolate Bullets\nhttp://t.co/LImX8hgZwd\n#recipe #cook #healthy #food #greek #chocolate #beverages http://t.co/TlneVZs4Xq", "RT #Glutenfree Treats that satisfy! http://t.co/L0xSVLO7rs \n@lucys_tweets #healthy #dessert", "RT @Dietzon: #Discount_Vitamins_and_Herbal_Supplements Click Here&gt;&gt;&gt;http://t.co/SJYpkn4Ai2  #Followback,#Retweet,#Healthy http://t.co/rCaqe…", "RT @CookLime: Tea Biscuits\nhttp://t.co/6jIowzMN3b\n#recipe #cook #healthy #food #breads #breakfast #rollsbiscuits http://t.co/QOkRPuuxty"]
-I, [2014-12-23T07:31:36.821937 #54332]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-23T07:31:36.822020 #54332]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-23T07:31:36.822066 #54332]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-23T07:31:36.822528 #54332]  INFO -- : Running search on #healthy
-I, [2014-12-23T07:31:36.822621 #54332]  INFO -- : Running search...
-I, [2014-12-23T07:31:37.857284 #54332]  INFO -- : Query results: ["RT @i_TheQuotes: #Healthy #Nutrition 2 Easy Workout Plans to Boost Your Metabolism http://t.co/q9UGeIuXZo", "RT @Cheapflights: Drink lots of this stuff. Tip number 21 on staying #healthy on flights. http://t.co/YmJcdNetmr http://t.co/l2VAl5A2Je", "Recovery Tip: Laugh Hard http://t.co/VxAEDSbrfd #pain #stress #success #hope #healthy #creative #life #tips #business", "Have your pie and eat it too! @theblendergirl shares her favorite, #healthy pie in a glass #recipes with @yahoo -- http://t.co/R6Mk9xHxuF", "RT @Risa_Stueve: #SkinCare #Healthy VINE VERA CHIANTI RELAXOLINE COLLECTION RESVERATROL OVERNIGHT RECOVERY NEW:… http://t.co/EpaNplADJO #Ti…", "Drink lots of this stuff. Tip number 21 on staying #healthy on flights. http://t.co/YmJcdNetmr http://t.co/l2VAl5A2Je", "#breakfast #healthy wraps! http://t.co/GGJVDeh2v6", "At http://t.co/pMUxNeOvrn -- #vegan #dairyfree #healthybreakfast #breakfast #veganbreakfast #fitness #fitspo #foodstagram #healthy #nut...", "RT @gymjunkiesuk: #competition time! #win a full @gymjunkiesuk #fitness snackbox! Packed with #healthy treats and awesome advice 💪RT+F💪 htt…", "RT @CookLime: Chocolate Bullets\nhttp://t.co/LImX8hgZwd\n#recipe #cook #healthy #food #greek #chocolate #beverages http://t.co/TlneVZs4Xq"]
-I, [2014-12-23T07:32:10.431061 #54480]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-23T07:32:10.431141 #54480]  INFO -- : Running Twitter query on fuckit
-I, [2014-12-23T07:32:10.431185 #54480]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-23T07:32:10.431638 #54480] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-23T07:32:10.431681 #54480]  INFO -- : Running search on fuckit
-I, [2014-12-23T07:32:10.431761 #54480]  INFO -- : Running search...
-D, [2014-12-23T07:32:11.417341 #54480] DEBUG -- : Adding tweet: RT @FuckIt_IDC: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:32:11.417432 #54480] DEBUG -- : Adding tweet: RT @DourCiroc: “@whyH8_wale: The thirst 💦💦 be real😂😂 #Fuckit💯”😂😂
-D, [2014-12-23T07:32:11.417470 #54480] DEBUG -- : Adding tweet: #Bored #AF mxm #FuckIt am going to get sloshed once and for all... http://t.co/UmuqjlBErD
-D, [2014-12-23T07:32:11.417518 #54480] DEBUG -- : Adding tweet: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:32:11.417559 #54480] DEBUG -- : Adding tweet: #enalgunlugardemexico #shamu #comolaballena ❤️✌️#fuckit #creoqueaunestemprano #creo http://t.co/Khk7TWZv3k
-D, [2014-12-23T07:32:11.417588 #54480] DEBUG -- : Adding tweet: The Older You Get The Lamer Your Gifts Get On Christmas
-D, [2014-12-23T07:32:11.417616 #54480] DEBUG -- : Adding tweet: @FuckIt_IDC guuuh , how 😂😂
-D, [2014-12-23T07:32:11.417643 #54480] DEBUG -- : Adding tweet: Holidays aint even the same nomo ...
-D, [2014-12-23T07:32:11.417669 #54480] DEBUG -- : Adding tweet: "@BooksChangeLife: Fuck it - The Ultimate Spiritual Way http://t.co/z5gQwpTKWQ" On the list #books #goodreads #fuckit
-D, [2014-12-23T07:32:11.417696 #54480] DEBUG -- : Adding tweet: The World So Damn Boring Its The Same Shit Every Year ... Change The Damn Calendar Up , Make Some New Holidays Or Something Shit ...
-I, [2014-12-23T07:32:11.417750 #54480]  INFO -- : Query results: ["RT @FuckIt_IDC: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something", "RT @DourCiroc: “@whyH8_wale: The thirst 💦💦 be real😂😂 #Fuckit💯”😂😂", "#Bored #AF mxm #FuckIt am going to get sloshed once and for all... http://t.co/UmuqjlBErD", "“@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something", "#enalgunlugardemexico #shamu #comolaballena ❤️✌️#fuckit #creoqueaunestemprano #creo http://t.co/Khk7TWZv3k", "The Older You Get The Lamer Your Gifts Get On Christmas", "@FuckIt_IDC guuuh , how 😂😂", "Holidays aint even the same nomo ...", "\"@BooksChangeLife: Fuck it - The Ultimate Spiritual Way http://t.co/z5gQwpTKWQ\" On the list #books #goodreads #fuckit", "The World So Damn Boring Its The Same Shit Every Year ... Change The Damn Calendar Up , Make Some New Holidays Or Something Shit ..."]
-D, [2014-12-23T07:32:11.417775 #54480] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-23T07:32:11.417821 #54480] DEBUG -- : Sending to Firebase: RT @FuckIt_IDC: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:32:11.786923 #54480] DEBUG -- : Firebase response: {"name"=>"-JdrliScYtt1F82RgyFx"}
-D, [2014-12-23T07:32:11.787025 #54480] DEBUG -- : Sending to Firebase: RT @DourCiroc: “@whyH8_wale: The thirst 💦💦 be real😂😂 #Fuckit💯”😂😂
-D, [2014-12-23T07:32:12.133701 #54480] DEBUG -- : Firebase response: {"name"=>"-JdrliY-2zdvNG8FsMfT"}
-D, [2014-12-23T07:32:12.133773 #54480] DEBUG -- : Sending to Firebase: #Bored #AF mxm #FuckIt am going to get sloshed once and for all... http://t.co/UmuqjlBErD
-D, [2014-12-23T07:32:12.509910 #54480] DEBUG -- : Firebase response: {"name"=>"-JdrlicoUe6l7s8j6DWE"}
-D, [2014-12-23T07:32:12.509976 #54480] DEBUG -- : Sending to Firebase: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:32:12.899232 #54480] DEBUG -- : Firebase response: {"name"=>"-Jdrlij-4TBRas6wD5QS"}
-D, [2014-12-23T07:32:12.899295 #54480] DEBUG -- : Sending to Firebase: #enalgunlugardemexico #shamu #comolaballena ❤️✌️#fuckit #creoqueaunestemprano #creo http://t.co/Khk7TWZv3k
-D, [2014-12-23T07:32:13.240662 #54480] DEBUG -- : Firebase response: {"name"=>"-JdrlioNY8NIwnOVlNpf"}
-D, [2014-12-23T07:32:13.240752 #54480] DEBUG -- : Sending to Firebase: The Older You Get The Lamer Your Gifts Get On Christmas
-D, [2014-12-23T07:32:13.589897 #54480] DEBUG -- : Firebase response: {"name"=>"-Jdrlito23qPRKtE56lc"}
-D, [2014-12-23T07:32:13.589969 #54480] DEBUG -- : Sending to Firebase: @FuckIt_IDC guuuh , how 😂😂
-D, [2014-12-23T07:32:13.968713 #54480] DEBUG -- : Firebase response: {"name"=>"-JdrlizjAgwX0cGZOYcb"}
-D, [2014-12-23T07:32:13.968789 #54480] DEBUG -- : Sending to Firebase: Holidays aint even the same nomo ...
-D, [2014-12-23T07:32:14.318935 #54480] DEBUG -- : Firebase response: {"name"=>"-Jdrlj487xEUvEpTQBTF"}
-D, [2014-12-23T07:32:14.319000 #54480] DEBUG -- : Sending to Firebase: "@BooksChangeLife: Fuck it - The Ultimate Spiritual Way http://t.co/z5gQwpTKWQ" On the list #books #goodreads #fuckit
-D, [2014-12-23T07:32:14.674510 #54480] DEBUG -- : Firebase response: {"name"=>"-Jdrlj9lT-9lzGDnetM2"}
-D, [2014-12-23T07:32:14.674594 #54480] DEBUG -- : Sending to Firebase: The World So Damn Boring Its The Same Shit Every Year ... Change The Damn Calendar Up , Make Some New Holidays Or Something Shit ...
-D, [2014-12-23T07:32:15.020524 #54480] DEBUG -- : Firebase response: {"name"=>"-JdrljFAAZ5qWT3QM9Il"}
-I, [2014-12-23T07:33:59.411156 #55266]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-23T07:33:59.411230 #55266]  INFO -- : Running Twitter query on fuckit
-I, [2014-12-23T07:33:59.411260 #55266]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-23T07:33:59.411588 #55266] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-23T07:33:59.411620 #55266]  INFO -- : Running search on fuckit
-I, [2014-12-23T07:33:59.411674 #55266]  INFO -- : Running search...
-D, [2014-12-23T07:33:59.989197 #55266] DEBUG -- : Adding tweet: I'm so mad I'm not a quitter 😩😔 I gotta go &amp; get mines #FuckIt #SchoolItIs
-D, [2014-12-23T07:33:59.989286 #55266] DEBUG -- : Adding tweet: Once we decide to be in a relationship, my life is yo life, yo life is mine, everything you do affects me so dont do no stupid shit, SIMPLE
-D, [2014-12-23T07:33:59.989322 #55266] DEBUG -- : Adding tweet: @yeajade happy birthday munchkin 😘 I love you cousin 🎉🎊🎁
-D, [2014-12-23T07:33:59.989352 #55266] DEBUG -- : Adding tweet: RT @FuckIt_IDC: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:33:59.989400 #55266] DEBUG -- : Adding tweet: RT @DourCiroc: “@whyH8_wale: The thirst 💦💦 be real😂😂 #Fuckit💯”😂😂
-D, [2014-12-23T07:33:59.989431 #55266] DEBUG -- : Adding tweet: #Bored #AF mxm #FuckIt am going to get sloshed once and for all... http://t.co/UmuqjlBErD
-D, [2014-12-23T07:33:59.989458 #55266] DEBUG -- : Adding tweet: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:33:59.989486 #55266] DEBUG -- : Adding tweet: #enalgunlugardemexico #shamu #comolaballena ❤️✌️#fuckit #creoqueaunestemprano #creo http://t.co/Khk7TWZv3k
-D, [2014-12-23T07:33:59.989513 #55266] DEBUG -- : Adding tweet: The Older You Get The Lamer Your Gifts Get On Christmas
-D, [2014-12-23T07:33:59.989540 #55266] DEBUG -- : Adding tweet: @FuckIt_IDC guuuh , how 😂😂
-I, [2014-12-23T07:33:59.989596 #55266]  INFO -- : Query results: ["I'm so mad I'm not a quitter 😩😔 I gotta go &amp; get mines #FuckIt #SchoolItIs", "Once we decide to be in a relationship, my life is yo life, yo life is mine, everything you do affects me so dont do no stupid shit, SIMPLE", "@yeajade happy birthday munchkin 😘 I love you cousin 🎉🎊🎁", "RT @FuckIt_IDC: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something", "RT @DourCiroc: “@whyH8_wale: The thirst 💦💦 be real😂😂 #Fuckit💯”😂😂", "#Bored #AF mxm #FuckIt am going to get sloshed once and for all... http://t.co/UmuqjlBErD", "“@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something", "#enalgunlugardemexico #shamu #comolaballena ❤️✌️#fuckit #creoqueaunestemprano #creo http://t.co/Khk7TWZv3k", "The Older You Get The Lamer Your Gifts Get On Christmas", "@FuckIt_IDC guuuh , how 😂😂"]
-D, [2014-12-23T07:33:59.989620 #55266] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-23T07:33:59.989646 #55266] DEBUG -- : Sending to Firebase: I'm so mad I'm not a quitter 😩😔 I gotta go &amp; get mines #FuckIt #SchoolItIs
-D, [2014-12-23T07:34:00.363528 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm7y92OvS3BR2zS8N"}
-D, [2014-12-23T07:34:00.363614 #55266] DEBUG -- : Sending to Firebase: Once we decide to be in a relationship, my life is yo life, yo life is mine, everything you do affects me so dont do no stupid shit, SIMPLE
-D, [2014-12-23T07:34:00.711250 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm82_AjSHG9iQl5Za"}
-D, [2014-12-23T07:34:00.711345 #55266] DEBUG -- : Sending to Firebase: @yeajade happy birthday munchkin 😘 I love you cousin 🎉🎊🎁
-D, [2014-12-23T07:34:01.058738 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm88-M-7WN3agCduP"}
-D, [2014-12-23T07:34:01.058801 #55266] DEBUG -- : Sending to Firebase: RT @FuckIt_IDC: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:34:01.420336 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm8DbDZrSa-n00tmj"}
-D, [2014-12-23T07:34:01.420404 #55266] DEBUG -- : Sending to Firebase: RT @DourCiroc: “@whyH8_wale: The thirst 💦💦 be real😂😂 #Fuckit💯”😂😂
-D, [2014-12-23T07:34:01.758949 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm8IxM_Jj5R7hU-dz"}
-D, [2014-12-23T07:34:01.759017 #55266] DEBUG -- : Sending to Firebase: #Bored #AF mxm #FuckIt am going to get sloshed once and for all... http://t.co/UmuqjlBErD
-D, [2014-12-23T07:34:02.121838 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm8OcXsaA7-88tqC2"}
-D, [2014-12-23T07:34:02.121926 #55266] DEBUG -- : Sending to Firebase: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:34:03.161752 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm8Zhs0jQ2pmmoG57"}
-D, [2014-12-23T07:34:03.161853 #55266] DEBUG -- : Sending to Firebase: #enalgunlugardemexico #shamu #comolaballena ❤️✌️#fuckit #creoqueaunestemprano #creo http://t.co/Khk7TWZv3k
-D, [2014-12-23T07:34:03.529352 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm8jTqXEOLUk-EIUK"}
-D, [2014-12-23T07:34:03.529428 #55266] DEBUG -- : Sending to Firebase: The Older You Get The Lamer Your Gifts Get On Christmas
-D, [2014-12-23T07:34:03.892113 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm8p7itW0PRthsqL6"}
-D, [2014-12-23T07:34:03.892179 #55266] DEBUG -- : Sending to Firebase: @FuckIt_IDC guuuh , how 😂😂
-D, [2014-12-23T07:34:04.261549 #55266] DEBUG -- : Firebase response: {"name"=>"-Jdrm8v2mLwXZ2iisxUM"}
-I, [2014-12-23T07:35:50.876206 #56169]  INFO -- : Logger set to Logger::DEBUG
-I, [2014-12-23T07:35:50.876288 #56169]  INFO -- : Running Twitter query on fuckit
-I, [2014-12-23T07:35:50.876331 #56169]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-D, [2014-12-23T07:35:50.876802 #56169] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
-I, [2014-12-23T07:35:50.876848 #56169]  INFO -- : Running search on fuckit
-I, [2014-12-23T07:35:50.876927 #56169]  INFO -- : Running search...
-D, [2014-12-23T07:35:51.452017 #56169] DEBUG -- : Adding tweet: I'm so mad I'm not a quitter 😩😔 I gotta go &amp; get mines #FuckIt #SchoolItIs
-D, [2014-12-23T07:35:51.452106 #56169] DEBUG -- : Adding tweet: Once we decide to be in a relationship, my life is yo life, yo life is mine, everything you do affects me so dont do no stupid shit, SIMPLE
-D, [2014-12-23T07:35:51.452143 #56169] DEBUG -- : Adding tweet: @yeajade happy birthday munchkin 😘 I love you cousin 🎉🎊🎁
-D, [2014-12-23T07:35:51.452174 #56169] DEBUG -- : Adding tweet: RT @FuckIt_IDC: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:35:51.452203 #56169] DEBUG -- : Adding tweet: RT @DourCiroc: “@whyH8_wale: The thirst 💦💦 be real😂😂 #Fuckit💯”😂😂
-D, [2014-12-23T07:35:51.452235 #56169] DEBUG -- : Adding tweet: #Bored #AF mxm #FuckIt am going to get sloshed once and for all... http://t.co/UmuqjlBErD
-D, [2014-12-23T07:35:51.452263 #56169] DEBUG -- : Adding tweet: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:35:51.452291 #56169] DEBUG -- : Adding tweet: #enalgunlugardemexico #shamu #comolaballena ❤️✌️#fuckit #creoqueaunestemprano #creo http://t.co/Khk7TWZv3k
-D, [2014-12-23T07:35:51.452318 #56169] DEBUG -- : Adding tweet: The Older You Get The Lamer Your Gifts Get On Christmas
-D, [2014-12-23T07:35:51.452345 #56169] DEBUG -- : Adding tweet: @FuckIt_IDC guuuh , how 😂😂
-I, [2014-12-23T07:35:51.452403 #56169]  INFO -- : Query results: ["I'm so mad I'm not a quitter 😩😔 I gotta go &amp; get mines #FuckIt #SchoolItIs", "Once we decide to be in a relationship, my life is yo life, yo life is mine, everything you do affects me so dont do no stupid shit, SIMPLE", "@yeajade happy birthday munchkin 😘 I love you cousin 🎉🎊🎁", "RT @FuckIt_IDC: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something", "RT @DourCiroc: “@whyH8_wale: The thirst 💦💦 be real😂😂 #Fuckit💯”😂😂", "#Bored #AF mxm #FuckIt am going to get sloshed once and for all... http://t.co/UmuqjlBErD", "“@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something", "#enalgunlugardemexico #shamu #comolaballena ❤️✌️#fuckit #creoqueaunestemprano #creo http://t.co/Khk7TWZv3k", "The Older You Get The Lamer Your Gifts Get On Christmas", "@FuckIt_IDC guuuh , how 😂😂"]
-D, [2014-12-23T07:35:51.452428 #56169] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
-D, [2014-12-23T07:35:51.452455 #56169] DEBUG -- : Sending to Firebase: I'm so mad I'm not a quitter 😩😔 I gotta go &amp; get mines #FuckIt #SchoolItIs
-D, [2014-12-23T07:35:51.824772 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZA_XhR1YgFxta8k"}
-D, [2014-12-23T07:35:51.824909 #56169] DEBUG -- : Sending to Firebase: Once we decide to be in a relationship, my life is yo life, yo life is mine, everything you do affects me so dont do no stupid shit, SIMPLE
-D, [2014-12-23T07:35:52.187106 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZGOUUF8fDnZSweu"}
-D, [2014-12-23T07:35:52.187169 #56169] DEBUG -- : Sending to Firebase: @yeajade happy birthday munchkin 😘 I love you cousin 🎉🎊🎁
-D, [2014-12-23T07:35:52.548236 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZM1jGjMv4ympKms"}
-D, [2014-12-23T07:35:52.548321 #56169] DEBUG -- : Sending to Firebase: RT @FuckIt_IDC: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:35:52.897400 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZRV-sFp6okPJU_O"}
-D, [2014-12-23T07:35:52.897470 #56169] DEBUG -- : Sending to Firebase: RT @DourCiroc: “@whyH8_wale: The thirst 💦💦 be real😂😂 #Fuckit💯”😂😂
-D, [2014-12-23T07:35:53.263399 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZX8dfVzZArll5Cb"}
-D, [2014-12-23T07:35:53.263464 #56169] DEBUG -- : Sending to Firebase: #Bored #AF mxm #FuckIt am going to get sloshed once and for all... http://t.co/UmuqjlBErD
-D, [2014-12-23T07:35:53.626767 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZbmbqxXWd558gmu"}
-D, [2014-12-23T07:35:53.626853 #56169] DEBUG -- : Sending to Firebase: “@_curvinnee: @FuckIt_IDC guuuh , how 😂😂” Fuck Iono 😂😂 They Need To Do Something
-D, [2014-12-23T07:35:53.978848 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZhONVKQSasv-dTv"}
-D, [2014-12-23T07:35:53.978923 #56169] DEBUG -- : Sending to Firebase: #enalgunlugardemexico #shamu #comolaballena ❤️✌️#fuckit #creoqueaunestemprano #creo http://t.co/Khk7TWZv3k
-D, [2014-12-23T07:35:54.326887 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZmpLDdlw-8E36eO"}
-D, [2014-12-23T07:35:54.326962 #56169] DEBUG -- : Sending to Firebase: The Older You Get The Lamer Your Gifts Get On Christmas
-D, [2014-12-23T07:35:54.675388 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZsGXQmP-_ligD72"}
-D, [2014-12-23T07:35:54.675464 #56169] DEBUG -- : Sending to Firebase: @FuckIt_IDC guuuh , how 😂😂
-D, [2014-12-23T07:35:55.032694 #56169] DEBUG -- : Firebase response: {"name"=>"-JdrmZxnH6RGYt4_RZ_4"}
-I, [2014-12-25T14:05:32.251705 #88322]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:05:32.251993 #88322]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:05:32.252048 #88322]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:05:32.253552 #88322]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:05:32.253624 #88322]  INFO -- : Running search...
-I, [2014-12-25T14:05:32.985354 #88322]  INFO -- : Query results: ["#Healthy #Holidays #recipe. Mashed sweet potatoes w/roasted garlic, seasalt, blackpepper, rosemary &amp; pecans #eatclean http://t.co/87YKSY8PWj", "10 Ways to Stay #Healthy During Holiday Travel http://t.co/05g1TF4Tb5  #HolidayFitness #WeightLoss #HealthyHolidays #Nutrition #Diet #Health", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…"]
-I, [2014-12-25T14:05:34.459440 #88322]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:05:34.459484 #88322]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:05:34.459509 #88322]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:05:34.459717 #88322]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:05:34.459785 #88322]  INFO -- : Running search...
-I, [2014-12-25T14:05:35.012564 #88322]  INFO -- : Query results: ["#Healthy #Holidays #recipe. Mashed sweet potatoes w/roasted garlic, seasalt, blackpepper, rosemary &amp; pecans #eatclean http://t.co/87YKSY8PWj", "10 Ways to Stay #Healthy During Holiday Travel http://t.co/05g1TF4Tb5  #HolidayFitness #WeightLoss #HealthyHolidays #Nutrition #Diet #Health", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…"]
-I, [2014-12-25T14:08:41.907798 #89264]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:08:41.907845 #89264]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:08:41.907885 #89264]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:08:41.908320 #89264]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:08:41.908416 #89264]  INFO -- : Running search...
-I, [2014-12-25T14:08:42.573388 #89264]  INFO -- : Query results: ["RT @HealthyUk: #health #healthy CareSpot open on Christmas to keep people healthy - WSMV Nashville http://t.co/2B7Xg7ZcAv", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "Drink the Rainbow: Pretty in Pink Smoothie - The Fit Cookie #smoothie #allergyfriendly #healthy http://t.co/7idTPyQaF5", "Drink the Rainbow: Pretty in Pink Smoothie - The Fit Cookie #smoothie #allergyfriendly #healthy http://t.co/QLQFXN3cAn", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @i_TheQuotes: #Healthy #Nutrition 2 Simple Tips About How To Lose Inner Thigh Fat http://t.co/WknrmnYJeZ", "RT @skinnyminnies1: Exercise can cause health &amp; Happiness #happy #healthy #exercise #fit #train #training #cardio #sweat #weightloss http:/…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "Talk Through Your Pain http://t.co/QFJBGM6kJx #pain #stress #success #hope #healthy #creative #life #tips #business"]
-I, [2014-12-25T14:08:48.762745 #89264]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:08:48.762842 #89264]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:08:48.762939 #89264]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:08:48.763284 #89264]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:08:48.763472 #89264]  INFO -- : Running search...
-I, [2014-12-25T14:08:49.315046 #89264]  INFO -- : Query results: ["RT @HealthyUk: #health #healthy CareSpot open on Christmas to keep people healthy - WSMV Nashville http://t.co/2B7Xg7ZcAv", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "Drink the Rainbow: Pretty in Pink Smoothie - The Fit Cookie #smoothie #allergyfriendly #healthy http://t.co/7idTPyQaF5", "Drink the Rainbow: Pretty in Pink Smoothie - The Fit Cookie #smoothie #allergyfriendly #healthy http://t.co/QLQFXN3cAn", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @i_TheQuotes: #Healthy #Nutrition 2 Simple Tips About How To Lose Inner Thigh Fat http://t.co/WknrmnYJeZ", "RT @skinnyminnies1: Exercise can cause health &amp; Happiness #happy #healthy #exercise #fit #train #training #cardio #sweat #weightloss http:/…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "RT @CookLime: Red Cactus Margarita - Alcohol Optional\nhttp://t.co/9oViPA1u6C\n#recipe #cook #healthy #food #berries #beverages http://t.co/2…", "Talk Through Your Pain http://t.co/QFJBGM6kJx #pain #stress #success #hope #healthy #creative #life #tips #business"]
-I, [2014-12-25T14:29:41.339789 #91496]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:29:41.339848 #91496]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:29:41.339915 #91496]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:29:41.340392 #91496]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:29:41.340489 #91496]  INFO -- : Running search...
-I, [2014-12-25T14:29:42.071853 #91496]  INFO -- : Query results: ["#Adele #WeightLoss Are These Carbohydrates Sabotaging Your Weight Loss? http://t.co/rCQKp5NX51 #Healthy", "#Motivation #Healthy How To Lose Weight On Your Hips And Stomach http://t.co/6WdHjkpk1f #Online #Nutrition", "#Healthy #Diet Multi-Million Greenback Market - Weight Loss Middle http://t.co/QdZkKvUinY #CharlizeTheron #Fit", "#KobeBryant #Healthy Skinny Britches helps customers change their lives: Skinny Britches helps… http://t.co/y2EarKSrlo #Fit #Sports", "RT @CookLime: Greek Chicken Tortilla Roll-Ups\nhttp://t.co/LXfmZChH9k\n#recipe #cook #healthy #food #chicken #breast #poultry http://t.co/roe…", "RT @CookLime: Greek Chicken Tortilla Roll-Ups\nhttp://t.co/LXfmZChH9k\n#recipe #cook #healthy #food #chicken #breast #poultry http://t.co/roe…", "#workout #fitness at http://t.co/OqmuJVcERO -- #health #healthy #instahealth #fit #fitfam #fitness #fitnessmode... http://t.co/IKLUdOjhHQ", "RT @i_TheQuotes: #Healthy #Nutrition Establish A Quick and Safe Method of Losing Weight http://t.co/Ifk5iwYifs", "From the blog: 7 Healthy Smoothie Recipes for Kids http://t.co/MdzWUKwrc8 #health #healthy", "RT @CookLime: Greek Chicken Tortilla Roll-Ups\nhttp://t.co/LXfmZChH9k\n#recipe #cook #healthy #food #chicken #breast #poultry http://t.co/roe…"]
-I, [2014-12-25T14:32:14.682481 #92283]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:32:14.683210 #92283]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:32:14.683265 #92283]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:32:14.683617 #92283]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:32:14.683687 #92283]  INFO -- : Running search...
-I, [2014-12-25T14:32:15.402000 #92283]  INFO -- : Query results: ["RT @CookLime: Easy Mild Chili\nhttp://t.co/RV0kNXBsmx\n#recipe #cook #healthy #food #s #less http://t.co/atKKht0JtK", "Herbed Israeli Couscous\nhttp://t.co/TWUPsNAt7H\n#recipe #cook #healthy #food #pasta #rice #grains #cholesterol http://t.co/d6hYsvZldY", "#girly #earlybird Eat #healthy and stop cravings: http://t.co/plJ8SI8p7C How to stop sugar cravings, carb crav http://t.co/QVB3TYIdRv", "#girly #earlybird Eat #healthy and stop cravings: http://t.co/sQRWF5PDL7 How to stop sugar cravings, carb crav http://t.co/PcabUsIkQc", "RT @esnadfoods: Here is #Esnad #tip for today. Don't miss any of Esnad #healthy tips http://t.co/ZcFcvf3rau", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @BoironUSA: Hey, #mom! It’s #Tips4Thursday time! That means that it’s time for you 2 share your secrets to keeping your family #healthy …", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "#Polar #Loop Activity Tracker Misty Blue http://t.co/tgGx1Ud0Lc via @eBay #fitness #health #wellness #exercise #healthy #body", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…"]
-I, [2014-12-25T14:36:57.073702 #92283]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:36:57.074010 #92283]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:36:57.074070 #92283]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:36:57.074733 #92283]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:36:57.074838 #92283]  INFO -- : Running search...
-I, [2014-12-25T14:36:57.781193 #92283]  INFO -- : Query results: ["Post Traumatic Growth http://t.co/G974rX1x8L #pain #stress #success #hope #healthy #creative #life #tips #business", "Surround yourself with those who challenge you, push you, and motivate you.\n\n#retweet #gym #weightloss #follow #fitness #healthy #girl #..", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "Blueberry Pomegranate Smoothie http://t.co/hEcd6olIV9 #healthy #recipe", "RT @gymjunkiesuk: #competition time! #win a GJ #fitness snackbox! Packed with #healthy treats + advice RT+F #freebie  http://t.co/Vb7paLjR9D", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "La respuesta era obvia #dieta #fitness #healthy #yass", "Already craving my morning #juice #healthy #overindulge #BoxingDay", "We all put on the #holiday #pounds, don't let your #cocktail add to it. Follow us on Facebook for #healthy recipes http://t.co/ls6899z5m3", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…"]
-I, [2014-12-25T14:37:35.872035 #92283]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:37:35.872087 #92283]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:37:35.872131 #92283]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:37:35.872449 #92283]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:37:35.872545 #92283]  INFO -- : Running search...
-I, [2014-12-25T14:37:36.932347 #92283]  INFO -- : Query results: ["RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "Spiced Rum Orange Scone Butter\nhttp://t.co/ntvwQp5fGC\n#recipe #cook #healthy #food #condiments #breakfast #brunch http://t.co/H4kIUj4fqh", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @gymjunkiesuk: #competition time! #win a full GJ #fitness snackbox! Packed with #healthy treats and awesome advice 💪RT+F💪 #freebie 🎁 htt…", "Post Traumatic Growth http://t.co/G974rX1x8L #pain #stress #success #hope #healthy #creative #life #tips #business", "Surround yourself with those who challenge you, push you, and motivate you.\n\n#retweet #gym #weightloss #follow #fitness #healthy #girl #..", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "Blueberry Pomegranate Smoothie http://t.co/hEcd6olIV9 #healthy #recipe", "RT @gymjunkiesuk: #competition time! #win a GJ #fitness snackbox! Packed with #healthy treats + advice RT+F #freebie  http://t.co/Vb7paLjR9D", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…"]
-I, [2014-12-25T14:37:37.442272 #92283]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:37:37.442323 #92283]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:37:37.442367 #92283]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:37:37.442679 #92283]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:37:37.442771 #92283]  INFO -- : Running search...
-I, [2014-12-25T14:37:37.987490 #92283]  INFO -- : Query results: ["RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "Spiced Rum Orange Scone Butter\nhttp://t.co/ntvwQp5fGC\n#recipe #cook #healthy #food #condiments #breakfast #brunch http://t.co/H4kIUj4fqh", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @gymjunkiesuk: #competition time! #win a full GJ #fitness snackbox! Packed with #healthy treats and awesome advice 💪RT+F💪 #freebie 🎁 htt…", "Post Traumatic Growth http://t.co/G974rX1x8L #pain #stress #success #hope #healthy #creative #life #tips #business", "Surround yourself with those who challenge you, push you, and motivate you.\n\n#retweet #gym #weightloss #follow #fitness #healthy #girl #..", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "Blueberry Pomegranate Smoothie http://t.co/hEcd6olIV9 #healthy #recipe", "RT @gymjunkiesuk: #competition time! #win a GJ #fitness snackbox! Packed with #healthy treats + advice RT+F #freebie  http://t.co/Vb7paLjR9D", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…"]
-I, [2014-12-25T14:43:00.803358 #95606]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:43:00.803409 #95606]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:43:00.803453 #95606]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:43:00.803921 #95606]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:43:00.804013 #95606]  INFO -- : Running search...
-I, [2014-12-25T14:43:01.445539 #95606]  INFO -- : Query results: ["RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "🎅🎁🙏 #om #yoga #strong #warrior #fit #healthy #yogini #bodyart #fairy #love #Wow #Amazing #BodyArt http://t.co/CYRAcYJ3wf", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "Blog Post: http://t.co/3CC2csvN8O #Moistforu #Webcam #Healthy #Cute #BlueEyes #Female #MediumTits #Whore http://t.co/tmkLBwe6Bh", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "This Is Your Body On Superfoods http://t.co/IFsbFFqCVE #lifehack #diet #healthy", "@__thefactory posted #body #shoutout #running #sport #instagood #healthy #iphonesia #outfit #fitness #bikini #wor... http://t.co/XWHaSFGwc6", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @Adele_Watch: #WeightLoss #Healthy Are These Carbohydrates Sabotaging Your Weight Loss? http://t.co/jcNk8r8hDm #Adele #Diet", "#WeightLoss #Healthy Are These Carbohydrates Sabotaging Your Weight Loss? http://t.co/jcNk8r8hDm #Adele #Diet"]
-I, [2014-12-25T14:43:07.656138 #95606]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:43:07.656189 #95606]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:43:07.656235 #95606]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:43:07.656552 #95606]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:43:07.656642 #95606]  INFO -- : Running search...
-I, [2014-12-25T14:43:08.185590 #95606]  INFO -- : Query results: ["RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "🎅🎁🙏 #om #yoga #strong #warrior #fit #healthy #yogini #bodyart #fairy #love #Wow #Amazing #BodyArt http://t.co/CYRAcYJ3wf", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "Blog Post: http://t.co/3CC2csvN8O #Moistforu #Webcam #Healthy #Cute #BlueEyes #Female #MediumTits #Whore http://t.co/tmkLBwe6Bh", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "This Is Your Body On Superfoods http://t.co/IFsbFFqCVE #lifehack #diet #healthy", "@__thefactory posted #body #shoutout #running #sport #instagood #healthy #iphonesia #outfit #fitness #bikini #wor... http://t.co/XWHaSFGwc6", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @Adele_Watch: #WeightLoss #Healthy Are These Carbohydrates Sabotaging Your Weight Loss? http://t.co/jcNk8r8hDm #Adele #Diet", "#WeightLoss #Healthy Are These Carbohydrates Sabotaging Your Weight Loss? http://t.co/jcNk8r8hDm #Adele #Diet"]
-I, [2014-12-25T14:43:33.908564 #95606]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:43:33.908624 #95606]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:43:33.908671 #95606]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:43:33.909012 #95606]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:43:33.909101 #95606]  INFO -- : Running search...
-I, [2014-12-25T14:43:34.899396 #95606]  INFO -- : Query results: ["#Healthy #Workout Harry Styles 'likes his skinny jeans so tight he buys women’s sizes from… http://t.co/U63gY6wN89 #PeytonManning #Diet", "RT @i_TheQuotes: #Healthy #Nutrition Bene#fits Of The Venus Factor http://t.co/YkZgH3K1Mg", "#Beckham #FootBall Bene#fits Of The Venus Factor http://t.co/0vDonMTSsT #Healthy #FatLoss", "#WeightLoss #Fit Are These Carbohydrates Sabotaging Your Weight Loss? http://t.co/2rsEFCjNtG #Healthy", "RT @i_TheQuotes: #Healthy #Nutrition Diet Doc's Medical Weight Loss Programs Announces the Best Way to Lose Belly Fat... http://t.co/oHDtMM…", "#ParisHilton #Beauty Are These Carbohydrates Sabotaging Your Weight Loss?: Are These… http://t.co/60pB9VkrGm #Healthy #Fitness", "#healthy #Exercise New Book Finds Amazing, Inspiring Stories of Weight Loss http://t.co/Q2L4CLHAPC #Diet #Weightloss", "RT @i_TheQuotes: #Healthy #Nutrition Basic Information on Weight Loss Patches http://t.co/Den713uNtX", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "#Healthy #Nutrition The Simplest Plan to Lose Weight http://t.co/7VynpB8o3D"]
-I, [2014-12-25T14:45:29.572468 #96291]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:45:29.572525 #96291]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:45:29.572575 #96291]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:45:29.573072 #96291]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:45:29.573169 #96291]  INFO -- : Running search...
-I, [2014-12-25T14:45:30.196200 #96291]  INFO -- : Query results: ["Puzzling Puzzle Prank http://t.co/5yfdsggv9S #health #healthy http://t.co/5kmbnB5p7n", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "@BoironUSA drink plenty of water :D #Tips4Thursday #healthy #win", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @BoironUSA: Hey, #mom! It’s #Tips4Thursday time! That means that it’s time for you 2 share your secrets to keeping your family #healthy …", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "#SkinCare #Beauty CLINIQUE PORE REFINING SOLUTIONS, 6 LOT: $9.99 (1 Bid) End Date: Thursday… http://t.co/w2uq7rrnIK #Healthy #AcneFree", "RT @i_TheQuotes: #Healthy #Nutrition Skinny Britches helps customers change their lives http://t.co/ghxo62erVS"]
-I, [2014-12-25T14:45:31.265813 #96291]  INFO -- : Logger set to Logger::INFO
-I, [2014-12-25T14:45:31.265866 #96291]  INFO -- : Running Twitter query on #healthy
-I, [2014-12-25T14:45:31.265910 #96291]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
-I, [2014-12-25T14:45:31.266245 #96291]  INFO -- : Running search on #healthy
-I, [2014-12-25T14:45:31.266340 #96291]  INFO -- : Running search...
-I, [2014-12-25T14:45:31.860676 #96291]  INFO -- : Query results: ["RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "Puzzling Puzzle Prank http://t.co/5yfdsggv9S #health #healthy http://t.co/5kmbnB5p7n", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "@BoironUSA drink plenty of water :D #Tips4Thursday #healthy #win", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @BoironUSA: Hey, #mom! It’s #Tips4Thursday time! That means that it’s time for you 2 share your secrets to keeping your family #healthy …", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "RT @CookLime: Salmon and Asparagus Stir Fry\nhttp://t.co/eG1dxhu7DJ\n#recipe #cook #healthy #food #saltwater #fish #asparagus http://t.co/y8W…", "#SkinCare #Beauty CLINIQUE PORE REFINING SOLUTIONS, 6 LOT: $9.99 (1 Bid) End Date: Thursday… http://t.co/w2uq7rrnIK #Healthy #AcneFree"]
+#5HCountdownToChristmas 
+
+@FifthHarmony
+
+236
+D, [2014-12-25T22:02:57.128510 #6037] DEBUG -- : Adding tweet: RT @Bible_Time: God has a perfect timing for everything. Learn to wait on Him. This brings Him honor, and it brings you peace. (see Psalm 2…
+I, [2014-12-25T22:02:57.128578 #6037]  INFO -- : Query results: ["RT @FollowTrainsG: Gamer Follow Train !  \n\n1) Follow Me !\n2) Retweet This.!\n3) Follow All Who Retweet !\n4) Gain Active Followers.  - ✅ 962", "RT @AnonymousCenter: We should be RTing this nonstop. EVERY. SINGLE. ONE. OF. US. #AntonioMartin #Ferguson http://t.co/E682UDwuKi", "wasn't born w/ a massive dong I had to glo up and work for this", "RT @Drrake: No lie, I can't wait for this day.... http://t.co/2WsqK5QKtB", "RT @_JuszThatGirl_: \"@InMemoryofDesi5: QUOTE THIS WITH A SELFIE\" http://t.co/MNwoIIhDN1", "Marshall Woburn: This Bluetooth speaker is built to rock: \nEverybody who’s really into rock knows the ... http://t.co/s91qG44jyo #income", "Why this phone ain't dead yet", "RT @FollowTrainsG: Gamer Follow Train !  \n\n1) Follow Me !\n2) Retweet This.!\n3) Follow All Who Retweet !\n4) Gain Active Followers.  - ✅ 962", "GIRLS 💜\n\nIF YOU SEE THIS😢\n\nFOLLOW ME?😍\n\nI BEG YOU💘\n\n#5HCountdownToChristmas \n\n@FifthHarmony\n\n236", "RT @Bible_Time: God has a perfect timing for everything. Learn to wait on Him. This brings Him honor, and it brings you peace. (see Psalm 2…"]
+D, [2014-12-25T22:02:57.128602 #6037] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:02:57.128630 #6037] DEBUG -- : Sending to Firebase: RT @FollowTrainsG: Gamer Follow Train !  
+
+1) Follow Me !
+2) Retweet This.!
+3) Follow All Who Retweet !
+4) Gain Active Followers.  - ✅ 962
+D, [2014-12-25T22:02:57.488734 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BCaZwhp_O9z5HBd5"}
+D, [2014-12-25T22:02:57.488811 #6037] DEBUG -- : Sending to Firebase: RT @AnonymousCenter: We should be RTing this nonstop. EVERY. SINGLE. ONE. OF. US. #AntonioMartin #Ferguson http://t.co/E682UDwuKi
+D, [2014-12-25T22:02:57.848667 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BCgIAf6wm31cdfUt"}
+D, [2014-12-25T22:02:57.848782 #6037] DEBUG -- : Sending to Firebase: wasn't born w/ a massive dong I had to glo up and work for this
+D, [2014-12-25T22:02:58.204568 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BClriX92vyof4aXj"}
+D, [2014-12-25T22:02:58.204639 #6037] DEBUG -- : Sending to Firebase: RT @Drrake: No lie, I can't wait for this day.... http://t.co/2WsqK5QKtB
+D, [2014-12-25T22:02:58.580755 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BCrh_zccUtvwCLXW"}
+D, [2014-12-25T22:02:58.580837 #6037] DEBUG -- : Sending to Firebase: RT @_JuszThatGirl_: "@InMemoryofDesi5: QUOTE THIS WITH A SELFIE" http://t.co/MNwoIIhDN1
+D, [2014-12-25T22:02:58.934403 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BCxGrkJ8ESYc0m_D"}
+D, [2014-12-25T22:02:58.934488 #6037] DEBUG -- : Sending to Firebase: Marshall Woburn: This Bluetooth speaker is built to rock: 
+Everybody who’s really into rock knows the ... http://t.co/s91qG44jyo #income
+D, [2014-12-25T22:02:59.296528 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BD1vfH4GTBTYwDaE"}
+D, [2014-12-25T22:02:59.296618 #6037] DEBUG -- : Sending to Firebase: Why this phone ain't dead yet
+D, [2014-12-25T22:02:59.659618 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BD7aS9fqIeW-LvTk"}
+D, [2014-12-25T22:02:59.659717 #6037] DEBUG -- : Sending to Firebase: RT @FollowTrainsG: Gamer Follow Train !  
+
+1) Follow Me !
+2) Retweet This.!
+3) Follow All Who Retweet !
+4) Gain Active Followers.  - ✅ 962
+D, [2014-12-25T22:03:00.012357 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BDD6R6rOLhPN7P2T"}
+D, [2014-12-25T22:03:00.012471 #6037] DEBUG -- : Sending to Firebase: GIRLS 💜
+
+IF YOU SEE THIS😢
+
+FOLLOW ME?😍
+
+I BEG YOU💘
+
+#5HCountdownToChristmas 
+
+@FifthHarmony
+
+236
+D, [2014-12-25T22:03:00.356046 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BDIUl53OhAZo1UIO"}
+D, [2014-12-25T22:03:00.356162 #6037] DEBUG -- : Sending to Firebase: RT @Bible_Time: God has a perfect timing for everything. Learn to wait on Him. This brings Him honor, and it brings you peace. (see Psalm 2…
+D, [2014-12-25T22:03:00.737076 #6037] DEBUG -- : Firebase response: {"name"=>"-Je4BDOP7REZpSF_FVVj"}
+I, [2014-12-25T22:09:52.191524 #8239]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-25T22:09:52.191602 #8239]  INFO -- : Running Twitter query on this
+I, [2014-12-25T22:09:52.191633 #8239]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+I, [2014-12-25T22:09:52.191976 #8239]  INFO -- : Running search on this
+I, [2014-12-25T22:09:52.192042 #8239]  INFO -- : Running search...
+I, [2014-12-25T22:09:52.860975 #8239]  INFO -- : Query results: ["“@TeenagerNotes: How perfect is this? 😩😍💞 http://t.co/rhyi7KRnZT” the fuck can I not have this @bizzypaddock 😭", "Honestly I love this community", "RT @femaIenotes: This is so precious http://t.co/zaxmR1NGfC", "\"@KingRyin: ON GOD THIS WHAT PUSSY SOUND LIKE https://t.co/qssfvO9utN\" yum", "So what is this #christmaschallenge thing? You have to dance to Chingy? Well it has nothing to do with Christmas...", "Marshall Woburn: This Bluetooth speaker is built to rock http://t.co/UQNSLwjOEj", "Get this A Splendid 1958 #Mercedes 300D Adenauer fin showroom condition http://t.co/7mfL7ZeYbC http://t.co/gHL1LZy9Jc", "Marshall Woburn: This Bluetooth speaker is built to rock http://t.co/DnNFsCjF25", "RT @KSIOlajidebt: Doing a huge Christmas Giveaway. Fav this tweet to win!", "RT @DeadlyDunks: This is how you start a game 💪\nhttps://t.co/ZKaRcApTgt"]
+I, [2014-12-25T22:10:31.202230 #8291]  INFO -- : Running Twitter query on query
+I, [2014-12-25T22:10:31.202397 #8291]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:10:31.203222 #8291] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:10:31.203289 #8291]  INFO -- : Running search on query
+I, [2014-12-25T22:10:31.203393 #8291]  INFO -- : Running search...
+D, [2014-12-25T22:10:32.149208 #8291] DEBUG -- : Adding tweet: Cool St Bernard Red Jeans Boys Size 5! (Ref: J-302:120145) http://t.co/4lI6OMjRLv http://t.co/RkrDn9RqBs
+D, [2014-12-25T22:10:32.149307 #8291] DEBUG -- : Adding tweet: Spenco Kids Youth Child Polysorb Insoles Memory Foam Comfort Arch Support 45-039 http://t.co/mZbRQG7mAE http://t.co/M2C1qbaGPC
+D, [2014-12-25T22:10:32.149348 #8291] DEBUG -- : Adding tweet: Gunman Holster For Desert Eagle 357 Mag,.44 Mag,50AE http://t.co/fvUmA1qcjX http://t.co/aELgM29OAP
+D, [2014-12-25T22:10:32.149395 #8291] DEBUG -- : Adding tweet: Seal [1991] by Seal (Cassette, Jun-1991, Sire Records) VG+ http://t.co/M193sltbYT http://t.co/JmKl8UpaZy
+D, [2014-12-25T22:10:32.149448 #8291] DEBUG -- : Adding tweet: Spenco Kids Youth Child Polysorb Insoles Memory Foam Comfort Arch Support 45-039 http://t.co/mZbRQG7mAE http://t.co/OfErpHGkaQ
+D, [2014-12-25T22:10:32.149497 #8291] DEBUG -- : Adding tweet: USED SONY PS Vita Memory Card 32GB http://t.co/wZ8HDZ4myi http://t.co/MCeIw43lLv
+D, [2014-12-25T22:10:32.149545 #8291] DEBUG -- : Adding tweet: NEW TITAN SC-6 REVERSIBLE AIRLESS PAINT SPRAY TIP lot of 3 311,411,415 http://t.co/k7xBkiUIPs http://t.co/5A4VaLiwtZ
+D, [2014-12-25T22:10:32.149593 #8291] DEBUG -- : Adding tweet: Cal Ripken Jr. Baltimore orioles Jersey #8 52 XL White http://t.co/qcF8fJgsZg http://t.co/pOwCrwutjg
+D, [2014-12-25T22:10:32.149639 #8291] DEBUG -- : Adding tweet: 1995-96 Hoops #298 Dennis Rodman http://t.co/fgq5FcWJuu http://t.co/7q2nx2CBtU
+D, [2014-12-25T22:10:32.149683 #8291] DEBUG -- : Adding tweet: NEW!  NIKE LEBRON X 10 MIAMI DOLPHINS HURRICANES QS NIB DS 541100 302 SIZE 18 http://t.co/Cnjv0H4Ott http://t.co/n56j9WKxWS
+I, [2014-12-25T22:10:32.149763 #8291]  INFO -- : Query results: ["Cool St Bernard Red Jeans Boys Size 5! (Ref: J-302:120145) http://t.co/4lI6OMjRLv http://t.co/RkrDn9RqBs", "Spenco Kids Youth Child Polysorb Insoles Memory Foam Comfort Arch Support 45-039 http://t.co/mZbRQG7mAE http://t.co/M2C1qbaGPC", "Gunman Holster For Desert Eagle 357 Mag,.44 Mag,50AE http://t.co/fvUmA1qcjX http://t.co/aELgM29OAP", "Seal [1991] by Seal (Cassette, Jun-1991, Sire Records) VG+ http://t.co/M193sltbYT http://t.co/JmKl8UpaZy", "Spenco Kids Youth Child Polysorb Insoles Memory Foam Comfort Arch Support 45-039 http://t.co/mZbRQG7mAE http://t.co/OfErpHGkaQ", "USED SONY PS Vita Memory Card 32GB http://t.co/wZ8HDZ4myi http://t.co/MCeIw43lLv", "NEW TITAN SC-6 REVERSIBLE AIRLESS PAINT SPRAY TIP lot of 3 311,411,415 http://t.co/k7xBkiUIPs http://t.co/5A4VaLiwtZ", "Cal Ripken Jr. Baltimore orioles Jersey #8 52 XL White http://t.co/qcF8fJgsZg http://t.co/pOwCrwutjg", "1995-96 Hoops #298 Dennis Rodman http://t.co/fgq5FcWJuu http://t.co/7q2nx2CBtU", "NEW!  NIKE LEBRON X 10 MIAMI DOLPHINS HURRICANES QS NIB DS 541100 302 SIZE 18 http://t.co/Cnjv0H4Ott http://t.co/n56j9WKxWS"]
+D, [2014-12-25T22:10:32.149821 #8291] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:10:32.149862 #8291] DEBUG -- : Sending to Firebase: Cool St Bernard Red Jeans Boys Size 5! (Ref: J-302:120145) http://t.co/4lI6OMjRLv http://t.co/RkrDn9RqBs
+D, [2014-12-25T22:10:32.512914 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4CwgP6_jlULGLDO1h"}
+D, [2014-12-25T22:10:32.513008 #8291] DEBUG -- : Sending to Firebase: Spenco Kids Youth Child Polysorb Insoles Memory Foam Comfort Arch Support 45-039 http://t.co/mZbRQG7mAE http://t.co/M2C1qbaGPC
+D, [2014-12-25T22:10:32.863831 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4CwltwFcUIAj97_U1"}
+D, [2014-12-25T22:10:32.863904 #8291] DEBUG -- : Sending to Firebase: Gunman Holster For Desert Eagle 357 Mag,.44 Mag,50AE http://t.co/fvUmA1qcjX http://t.co/aELgM29OAP
+D, [2014-12-25T22:10:33.219897 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4CwrTrZ8iQVmvuvn-"}
+D, [2014-12-25T22:10:33.219975 #8291] DEBUG -- : Sending to Firebase: Seal [1991] by Seal (Cassette, Jun-1991, Sire Records) VG+ http://t.co/M193sltbYT http://t.co/JmKl8UpaZy
+D, [2014-12-25T22:10:33.569641 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4Cwwu2R9Z0l8GTU3U"}
+D, [2014-12-25T22:10:33.569738 #8291] DEBUG -- : Sending to Firebase: Spenco Kids Youth Child Polysorb Insoles Memory Foam Comfort Arch Support 45-039 http://t.co/mZbRQG7mAE http://t.co/OfErpHGkaQ
+D, [2014-12-25T22:10:33.916889 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4Cx1Mm3JT6HnVs3zZ"}
+D, [2014-12-25T22:10:33.916957 #8291] DEBUG -- : Sending to Firebase: USED SONY PS Vita Memory Card 32GB http://t.co/wZ8HDZ4myi http://t.co/MCeIw43lLv
+D, [2014-12-25T22:10:34.282522 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4Cx720A8SIkAHVhOy"}
+D, [2014-12-25T22:10:34.282615 #8291] DEBUG -- : Sending to Firebase: NEW TITAN SC-6 REVERSIBLE AIRLESS PAINT SPRAY TIP lot of 3 311,411,415 http://t.co/k7xBkiUIPs http://t.co/5A4VaLiwtZ
+D, [2014-12-25T22:10:34.635795 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4CxC_jCBdwk5fyOcH"}
+D, [2014-12-25T22:10:34.635870 #8291] DEBUG -- : Sending to Firebase: Cal Ripken Jr. Baltimore orioles Jersey #8 52 XL White http://t.co/qcF8fJgsZg http://t.co/pOwCrwutjg
+D, [2014-12-25T22:10:35.083997 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4CxHz1kdZsFM91q2Y"}
+D, [2014-12-25T22:10:35.084074 #8291] DEBUG -- : Sending to Firebase: 1995-96 Hoops #298 Dennis Rodman http://t.co/fgq5FcWJuu http://t.co/7q2nx2CBtU
+D, [2014-12-25T22:10:35.447063 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4CxPGUwOCkt3Z7iGU"}
+D, [2014-12-25T22:10:35.447138 #8291] DEBUG -- : Sending to Firebase: NEW!  NIKE LEBRON X 10 MIAMI DOLPHINS HURRICANES QS NIB DS 541100 302 SIZE 18 http://t.co/Cnjv0H4Ott http://t.co/n56j9WKxWS
+D, [2014-12-25T22:10:35.795447 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4CxUhPifQqXR-15VU"}
+I, [2014-12-25T22:10:46.193221 #8291]  INFO -- : Running Twitter query on hacker
+I, [2014-12-25T22:10:46.193308 #8291]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:10:46.193741 #8291] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:10:46.193792 #8291]  INFO -- : Running search on hacker
+I, [2014-12-25T22:10:46.193880 #8291]  INFO -- : Running search...
+D, [2014-12-25T22:10:47.274202 #8291] DEBUG -- : Adding tweet: I’m so glad that I chose to relax on Christmas and not game because both PSN and Xbox Live are down thanks to the hacker war.
+D, [2014-12-25T22:10:47.274295 #8291] DEBUG -- : Adding tweet: @kristnat17 haha sorry, cie twitter baru. Jangan lupa di protek dari hacker-hacker alay xD
+D, [2014-12-25T22:10:47.274334 #8291] DEBUG -- : Adding tweet: @lykasubs @_monherrera hacker 👊
+D, [2014-12-25T22:10:47.274380 #8291] DEBUG -- : Adding tweet: Ask HN: Pre-mature baldness, self confidence and networking http://t.co/L5KDiv4JKd #HB
+D, [2014-12-25T22:10:47.274433 #8291] DEBUG -- : Adding tweet: @june_hacker 
+おはよじゅーん！おはじゅーん！じゅーん！
+D, [2014-12-25T22:10:47.274483 #8291] DEBUG -- : Adding tweet: @june_hacker おはよん
+D, [2014-12-25T22:10:47.274532 #8291] DEBUG -- : Adding tweet: RT @ruby_engineer: Genius sorting algorithm: Sleep sort http://t.co/dbcJqevl7s #hacker #rubyonrails #python #AllTech
+D, [2014-12-25T22:10:47.274580 #8291] DEBUG -- : Adding tweet: @june_hacker おはようございます、じゅーんは復活しましたフォロバください先輩
+D, [2014-12-25T22:10:47.274629 #8291] DEBUG -- : Adding tweet: RT @GDKJordie: LOL I JUST REALISED I WAS STILL HITTING XBOX LIVE OFF BY ACCIDENT RT AND FOLLOW IF YOU WANT IT BACK ONLINE
+D, [2014-12-25T22:10:47.274676 #8291] DEBUG -- : Adding tweet: Computerspiele: Hacker knipsen Playstation- und Xbox-Netzwerke aus: Die Netzwerke Sony Playstation und Microso... http://t.co/9MH4GNW1Cx
+I, [2014-12-25T22:10:47.274761 #8291]  INFO -- : Query results: ["I’m so glad that I chose to relax on Christmas and not game because both PSN and Xbox Live are down thanks to the hacker war.", "@kristnat17 haha sorry, cie twitter baru. Jangan lupa di protek dari hacker-hacker alay xD", "@lykasubs @_monherrera hacker 👊", "Ask HN: Pre-mature baldness, self confidence and networking http://t.co/L5KDiv4JKd #HB", "@june_hacker \nおはよじゅーん！おはじゅーん！じゅーん！", "@june_hacker おはよん", "RT @ruby_engineer: Genius sorting algorithm: Sleep sort http://t.co/dbcJqevl7s #hacker #rubyonrails #python #AllTech", "@june_hacker おはようございます、じゅーんは復活しましたフォロバください先輩", "RT @GDKJordie: LOL I JUST REALISED I WAS STILL HITTING XBOX LIVE OFF BY ACCIDENT RT AND FOLLOW IF YOU WANT IT BACK ONLINE", "Computerspiele: Hacker knipsen Playstation- und Xbox-Netzwerke aus: Die Netzwerke Sony Playstation und Microso... http://t.co/9MH4GNW1Cx"]
+D, [2014-12-25T22:10:47.274803 #8291] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:10:47.274840 #8291] DEBUG -- : Sending to Firebase: I’m so glad that I chose to relax on Christmas and not game because both PSN and Xbox Live are down thanks to the hacker war.
+D, [2014-12-25T22:10:47.614653 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D-NO7SS8FqxlHNqe"}
+D, [2014-12-25T22:10:47.614745 #8291] DEBUG -- : Sending to Firebase: @kristnat17 haha sorry, cie twitter baru. Jangan lupa di protek dari hacker-hacker alay xD
+D, [2014-12-25T22:10:47.958878 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D-Sl9AnKgzgchV0p"}
+D, [2014-12-25T22:10:47.958944 #8291] DEBUG -- : Sending to Firebase: @lykasubs @_monherrera hacker 👊
+D, [2014-12-25T22:10:48.325819 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D-YIYInUeOeTlnY8"}
+D, [2014-12-25T22:10:48.325897 #8291] DEBUG -- : Sending to Firebase: Ask HN: Pre-mature baldness, self confidence and networking http://t.co/L5KDiv4JKd #HB
+D, [2014-12-25T22:10:48.689276 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D-dBSKFig7XXBr0U"}
+D, [2014-12-25T22:10:48.689352 #8291] DEBUG -- : Sending to Firebase: @june_hacker 
+おはよじゅーん！おはじゅーん！じゅーん！
+D, [2014-12-25T22:10:49.044240 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D-iitWGZuy8SdzbQ"}
+D, [2014-12-25T22:10:49.044305 #8291] DEBUG -- : Sending to Firebase: @june_hacker おはよん
+D, [2014-12-25T22:10:49.408297 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D-oOOhGpp_ImkGra"}
+D, [2014-12-25T22:10:49.408370 #8291] DEBUG -- : Sending to Firebase: RT @ruby_engineer: Genius sorting algorithm: Sleep sort http://t.co/dbcJqevl7s #hacker #rubyonrails #python #AllTech
+D, [2014-12-25T22:10:49.760166 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D-ttwKO26kxNF0HZ"}
+D, [2014-12-25T22:10:49.760235 #8291] DEBUG -- : Sending to Firebase: @june_hacker おはようございます、じゅーんは復活しましたフォロバください先輩
+D, [2014-12-25T22:10:50.109558 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D-zN4J0qknC29UCy"}
+D, [2014-12-25T22:10:50.109644 #8291] DEBUG -- : Sending to Firebase: RT @GDKJordie: LOL I JUST REALISED I WAS STILL HITTING XBOX LIVE OFF BY ACCIDENT RT AND FOLLOW IF YOU WANT IT BACK ONLINE
+D, [2014-12-25T22:10:50.466592 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D03vptB-mUd1xe80"}
+D, [2014-12-25T22:10:50.466659 #8291] DEBUG -- : Sending to Firebase: Computerspiele: Hacker knipsen Playstation- und Xbox-Netzwerke aus: Die Netzwerke Sony Playstation und Microso... http://t.co/9MH4GNW1Cx
+D, [2014-12-25T22:10:50.814729 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D09MN7_EfRRBP1eX"}

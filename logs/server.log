@@ -452,3 +452,196 @@ I, [2014-12-25T14:45:31.265424 #96291]  INFO -- : Submitting twitter query for [
 [2014-12-25 14:46:07] DEBUG close: ::1:61706
 [2014-12-25 14:46:49] INFO  going to shutdown ...
 [2014-12-25 14:46:49] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:35:10] INFO  WEBrick 1.3.1
+[2014-12-25 21:35:10] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:35:10] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:35:10] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:35:10] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:35:10] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:35:10] INFO  WEBrick::HTTPServer#start: pid=97744 port=4343
+[2014-12-25 21:35:18] DEBUG accept: ::1:61888
+[2014-12-25 21:35:18] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:35:18.766702 #97744]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 21:35:22] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:35:22.047210 #97744]  INFO -- : Submitting twitter query for []
+[2014-12-25 21:35:44] DEBUG close: ::1:61888
+[2014-12-25 21:35:44] INFO  going to shutdown ...
+[2014-12-25 21:35:44] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:35:50] INFO  WEBrick 1.3.1
+[2014-12-25 21:35:50] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:35:50] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:35:50] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:35:50] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:35:50] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:35:50] INFO  WEBrick::HTTPServer#start: pid=97979 port=4343
+[2014-12-25 21:36:46] DEBUG accept: ::1:62015
+[2014-12-25 21:36:46] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:36:46.417317 #97979]  INFO -- : Submitting twitter query for []
+[2014-12-25 21:36:50] DEBUG close: ::1:62015
+[2014-12-25 21:37:38] INFO  going to shutdown ...
+[2014-12-25 21:37:38] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:38:33] INFO  WEBrick 1.3.1
+[2014-12-25 21:38:33] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:38:33] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:38:33] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:38:33] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:38:33] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:38:33] INFO  WEBrick::HTTPServer#start: pid=98844 port=4343
+[2014-12-25 21:38:35] DEBUG accept: ::1:62104
+[2014-12-25 21:38:35] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 21:38:35] DEBUG close: ::1:62104
+[2014-12-25 21:39:09] INFO  going to shutdown ...
+[2014-12-25 21:39:09] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:39:36] INFO  WEBrick 1.3.1
+[2014-12-25 21:39:36] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:39:36] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:39:36] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:39:36] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:39:36] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:39:36] INFO  WEBrick::HTTPServer#start: pid=99175 port=4343
+[2014-12-25 21:39:36] DEBUG accept: ::1:62129
+[2014-12-25 21:39:36] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 21:39:36] DEBUG close: ::1:62129
+[2014-12-25 21:39:39] DEBUG accept: ::1:62130
+[2014-12-25 21:39:39] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 21:39:39] DEBUG close: ::1:62130
+[2014-12-25 21:39:58] DEBUG accept: ::1:62138
+[2014-12-25 21:39:58] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:39:58.347512 #99175]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 21:39:58] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:39:58.360821 #99175]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 21:40:03] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 21:40:03] ERROR NoMethodError: undefined method `join' for #<String:0x007fd37560a8d8>
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/show_exceptions.rb:37:in `rescue in call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/show_exceptions.rb:21:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:180:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:2014:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1478:in `block in call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1788:in `synchronize'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1478:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/rack-1.6.0/lib/rack/handler/webrick.rb:89:in `service'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2014-12-25 21:40:03] DEBUG close: ::1:62138
+[2014-12-25 21:40:34] INFO  going to shutdown ...
+[2014-12-25 21:40:34] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:40:49] INFO  WEBrick 1.3.1
+[2014-12-25 21:40:49] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:40:49] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:40:49] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:40:49] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:40:49] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:40:49] INFO  WEBrick::HTTPServer#start: pid=99510 port=4343
+[2014-12-25 21:40:51] DEBUG accept: ::1:62158
+[2014-12-25 21:40:52] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:40:52.324156 #99510]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 21:40:52] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 21:40:54] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:40:54.268889 #99510]  INFO -- : Submitting twitter query for 
+[2014-12-25 21:41:08] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:41:08.798466 #99510]  INFO -- : Submitting twitter query for 
+[2014-12-25 21:41:38] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:41:38.945757 #99510]  INFO -- : Submitting twitter query for 
+[2014-12-25 21:42:04] DEBUG close: ::1:62158
+[2014-12-25 21:42:05] INFO  going to shutdown ...
+[2014-12-25 21:42:05] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:43:03] INFO  WEBrick 1.3.1
+[2014-12-25 21:43:03] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:43:03] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:43:03] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:43:03] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:43:03] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:43:03] INFO  WEBrick::HTTPServer#start: pid=334 port=4343
+[2014-12-25 21:43:11] DEBUG accept: ::1:62290
+[2014-12-25 21:43:11] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:43:11.067875 #334]  INFO -- : Submitting twitter query for 
+[2014-12-25 21:43:32] DEBUG close: ::1:62290
+[2014-12-25 21:43:33] INFO  going to shutdown ...
+[2014-12-25 21:43:33] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:45:18] INFO  WEBrick 1.3.1
+[2014-12-25 21:45:18] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:45:18] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:45:18] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:45:18] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:45:18] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:45:18] INFO  WEBrick::HTTPServer#start: pid=1015 port=4343
+[2014-12-25 21:45:25] DEBUG accept: ::1:62367
+[2014-12-25 21:45:25] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 21:45:25] ERROR NoMethodError: undefined method `join' for #<String:0x007fb982904528>
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/show_exceptions.rb:37:in `rescue in call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/show_exceptions.rb:21:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:180:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:2014:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1478:in `block in call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1788:in `synchronize'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1478:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/rack-1.6.0/lib/rack/handler/webrick.rb:89:in `service'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2014-12-25 21:45:25] DEBUG close: ::1:62367
+[2014-12-25 21:45:37] INFO  going to shutdown ...
+[2014-12-25 21:45:37] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:49:09] INFO  WEBrick 1.3.1
+[2014-12-25 21:49:09] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:49:09] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:49:09] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:49:09] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:49:09] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:49:09] INFO  WEBrick::HTTPServer#start: pid=2196 port=4343
+[2014-12-25 21:49:13] DEBUG accept: ::1:62602
+[2014-12-25 21:49:14] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:49:14.040378 #2196]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 21:49:17] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:49:17.224394 #2196]  INFO -- : Submitting twitter query for 
+[2014-12-25 21:49:31] DEBUG close: ::1:62602
+[2014-12-25 21:49:31] INFO  going to shutdown ...
+[2014-12-25 21:49:31] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:51:33] INFO  WEBrick 1.3.1
+[2014-12-25 21:51:33] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:51:33] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:51:33] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:51:33] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:51:33] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:51:33] INFO  WEBrick::HTTPServer#start: pid=2933 port=4343
+[2014-12-25 21:51:37] DEBUG accept: ::1:62742
+[2014-12-25 21:51:37] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:51:37.138131 #2933]  INFO -- : Submitting twitter query for 
+[2014-12-25 21:51:55] DEBUG close: ::1:62742
+[2014-12-25 21:51:57] INFO  going to shutdown ...
+[2014-12-25 21:51:57] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:52:17] INFO  WEBrick 1.3.1
+[2014-12-25 21:52:17] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:52:17] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:52:17] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:52:17] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:52:17] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:52:17] INFO  WEBrick::HTTPServer#start: pid=3140 port=4343
+[2014-12-25 21:52:24] DEBUG accept: ::1:62772
+[2014-12-25 21:52:24] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:52:24.012851 #3140]  INFO -- : Submitting twitter query for value=this
+[2014-12-25 21:52:28] DEBUG close: ::1:62772
+[2014-12-25 21:52:58] DEBUG accept: ::1:62796
+[2014-12-25 21:52:58] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:52:58.290621 #3140]  INFO -- : Submitting twitter query for test
+[2014-12-25 21:53:02] DEBUG close: ::1:62796
+[2014-12-25 21:53:20] INFO  going to shutdown ...
+[2014-12-25 21:53:20] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 21:54:09] INFO  WEBrick 1.3.1
+[2014-12-25 21:54:09] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 21:54:09] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 21:54:09] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 21:54:09] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 21:54:09] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 21:54:09] INFO  WEBrick::HTTPServer#start: pid=3708 port=4343
+[2014-12-25 21:54:16] DEBUG accept: ::1:62839
+[2014-12-25 21:54:16] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:54:16.147229 #3708]  INFO -- : Submitting twitter query for test
+[2014-12-25 21:54:21] DEBUG close: ::1:62839
+[2014-12-25 21:54:52] DEBUG accept: ::1:62862
+[2014-12-25 21:54:52] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T21:54:52.737959 #3708]  INFO -- : Submitting twitter query for fuck
+[2014-12-25 21:54:57] DEBUG close: ::1:62862
+[2014-12-25 21:55:08] INFO  going to shutdown ...
+[2014-12-25 21:55:08] INFO  WEBrick::HTTPServer#start done.

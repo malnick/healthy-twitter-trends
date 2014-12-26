@@ -7,18 +7,20 @@ module Twitq
 	class Options
 		def initialize(options)
 			log = Logger.new(TWIT_LOG_PATH)
-
-			options = parse_options(options)
-
-			if options[:debug]
-				log.level = Logger::DEBUG
-				log.info("Logger set to Logger::DEBUG")
+			if options.include? 'start'
+				options = parse_options(options)
+				if options[:debug]
+					log.level = Logger::DEBUG
+					log.info("Logger set to Logger::DEBUG")
+				else
+					log.level = Logger::INFO
+					log.info("Logger set to Logger::INFO")
+				end
+				Twitq::Search.new(options[:search], log)			
 			else
-				log.level = Logger::INFO
-				log.info("Logger set to Logger::INFO")
+				query = options
+				Twitq::Search.new(query, log)
 			end
-
-			Twitq::Search.new(options[:search], log)			
 		end		
 
 		def parse_options(options)

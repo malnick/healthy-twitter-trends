@@ -24,9 +24,10 @@ class Server < Sinatra::Base
 	end
 
 	post '/query' do
-		LOG.info("Submitting twitter query for #{response.body}")
-		@query = response.body
-		Twitq::Options.new(@query)
+		request.body.rewind
+		@query = request.body.read
+		LOG.info("Submitting twitter query for #{@query}")
+		Twitq::Options.new("-s #{@query} -d")
 		erb :index
 	end
 
