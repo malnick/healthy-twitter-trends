@@ -1718,3 +1718,51 @@ I, [2014-12-26T10:56:26.531323 #49266]  INFO -- : Submitting twitter query for f
 I, [2014-12-26T10:57:45.140310 #49266]  INFO -- : Submitting twitter query for fuckit
 [2014-12-26 10:57:49] DEBUG Rack::Handler::WEBrick is invoked.
 [2014-12-26 10:58:19] DEBUG close: ::1:54271
+[2014-12-26 10:58:52] DEBUG accept: ::1:54326
+[2014-12-26 10:58:52] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:58:52.079774 #49266]  INFO -- : Submitting twitter query for FUCK
+[2014-12-26 10:59:26] DEBUG close: ::1:54326
+[2014-12-26 10:59:58] DEBUG accept: ::1:54380
+[2014-12-26 10:59:58] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:59:58.276770 #49266]  INFO -- : Submitting twitter query for FUCK
+[2014-12-26 11:00:02] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 11:00:26] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T11:00:26.615762 #49266]  INFO -- : Submitting twitter query for FUCK
+[2014-12-26 11:00:32] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 11:01:02] DEBUG close: ::1:54380
+[2014-12-26 11:01:32] DEBUG accept: ::1:54473
+[2014-12-26 11:01:32] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T11:01:32.011672 #49266]  INFO -- : Submitting twitter query for judith
+[2014-12-26 11:02:07] DEBUG close: ::1:54473
+[2014-12-26 11:02:11] DEBUG accept: ::1:54518
+[2014-12-26 11:02:11] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T11:02:11.533949 #49266]  INFO -- : Submitting twitter query for jeff
+[2014-12-26 11:02:46] DEBUG close: ::1:54518
+[2014-12-26 11:03:05] DEBUG accept: ::1:54565
+[2014-12-26 11:03:05] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T11:03:05.487550 #49266]  INFO -- : Submitting twitter query for jeff
+[2014-12-26 11:03:10] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 11:03:40] DEBUG close: ::1:54565
+[2014-12-26 11:03:41] DEBUG accept: ::1:54601
+[2014-12-26 11:03:41] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T11:03:41.345007 #49266]  INFO -- : Submitting twitter query for jeff
+[2014-12-26 11:03:47] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 11:04:17] DEBUG close: ::1:54601
+[2014-12-26 11:04:54] DEBUG accept: ::1:54660
+[2014-12-26 11:04:54] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T11:04:54.290205 #49266]  INFO -- : Submitting twitter query for jeff
+[2014-12-26 11:04:58] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 11:05:28] DEBUG close: ::1:54660
+[2014-12-26 11:05:35] DEBUG accept: ::1:54701
+[2014-12-26 11:05:35] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T11:05:35.562051 #49266]  INFO -- : Submitting twitter query for jeff
+[2014-12-26 11:05:40] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 11:06:10] DEBUG close: ::1:54701
+[2014-12-26 11:07:07] DEBUG accept: ::1:54773
+[2014-12-26 11:07:07] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T11:07:07.243318 #49266]  INFO -- : Submitting twitter query for jeff
+[2014-12-26 11:07:11] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 11:07:41] DEBUG close: ::1:54773
+[2014-12-26 11:08:10] DEBUG accept: ::1:54831
+[2014-12-26 11:08:10] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T11:08:10.531186 #49266]  INFO -- : Submitting twitter query for FUCKING

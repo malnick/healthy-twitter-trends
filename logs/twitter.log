@@ -4566,3 +4566,542 @@ D, [2014-12-26T10:57:48.443117 #49266] DEBUG -- : Sending to Firebase: 'Twas the
 D, [2014-12-26T10:57:48.792087 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xZ-2pABLJBVLDed1"}
 D, [2014-12-26T10:57:48.792150 #49266] DEBUG -- : Sending to Firebase: RT @cycleopps: @janeannenichol #bored #mood cheer up it Christmas, oh ok I understand #fuckit
 D, [2014-12-26T10:57:49.151782 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xZ4fnNYxWemVR_tb"}
+I, [2014-12-26T10:58:52.079888 #49266]  INFO -- : Running Twitter query on FUCK
+I, [2014-12-26T10:58:52.079920 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T10:58:52.079937 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T10:58:52.079952 #49266]  INFO -- : Running search on FUCK
+I, [2014-12-26T10:58:52.080003 #49266]  INFO -- : Running search...
+D, [2014-12-26T10:58:52.523220 #49266] DEBUG -- : Adding tweet: @AskPlayStation @Gurt45 fuck off with your patronising bullshit you complete pricks.
+D, [2014-12-26T10:58:52.523326 #49266] DEBUG -- : Adding tweet: RT @nokiatxt: ME AS FUCK http://t.co/KWhR8S4FgP
+D, [2014-12-26T10:58:52.523360 #49266] DEBUG -- : Adding tweet: Fuck what you heard; recognize what you see.
+D, [2014-12-26T10:58:52.523388 #49266] DEBUG -- : Adding tweet: RT @Crimefetish: People don't give a fuck about anyone but themselves.
+D, [2014-12-26T10:58:52.523415 #49266] DEBUG -- : Adding tweet: @xtxmptation @fabstagramx where the fuck are they when we need them
+D, [2014-12-26T10:58:52.523441 #49266] DEBUG -- : Adding tweet: RT @LonerNigga: The less people you fuck with the less you get fucked over.
+D, [2014-12-26T10:58:52.523467 #49266] DEBUG -- : Adding tweet: RT @leeeeek_: Fuck everything, as long as I'm happy..
+D, [2014-12-26T10:58:52.523493 #49266] DEBUG -- : Adding tweet: @AskPlayStation cant access psn store here in austria! Dont even can play nhl cuz game is trying to connect..... What the fuck sony!!
+D, [2014-12-26T10:58:52.523519 #49266] DEBUG -- : Adding tweet: @laurenita97 fuck 😍
+D, [2014-12-26T10:58:52.523544 #49266] DEBUG -- : Adding tweet: RT @lizziekatlyn: If you keep telling me that I don't care then i'll just completely not give a fuck
+I, [2014-12-26T10:58:52.523588 #49266]  INFO -- : Query results: ["@AskPlayStation @Gurt45 fuck off with your patronising bullshit you complete pricks.", "RT @nokiatxt: ME AS FUCK http://t.co/KWhR8S4FgP", "Fuck what you heard; recognize what you see.", "RT @Crimefetish: People don't give a fuck about anyone but themselves.", "@xtxmptation @fabstagramx where the fuck are they when we need them", "RT @LonerNigga: The less people you fuck with the less you get fucked over.", "RT @leeeeek_: Fuck everything, as long as I'm happy..", "@AskPlayStation cant access psn store here in austria! Dont even can play nhl cuz game is trying to connect..... What the fuck sony!!", "@laurenita97 fuck 😍", "RT @lizziekatlyn: If you keep telling me that I don't care then i'll just completely not give a fuck"]
+D, [2014-12-26T10:58:52.523622 #49266] DEBUG -- : Sending to Firebase: @AskPlayStation @Gurt45 fuck off with your patronising bullshit you complete pricks.
+D, [2014-12-26T10:58:52.883437 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xndVSCQCpi6fIjZT"}
+D, [2014-12-26T10:58:52.883500 #49266] DEBUG -- : Sending to Firebase: RT @nokiatxt: ME AS FUCK http://t.co/KWhR8S4FgP
+D, [2014-12-26T10:58:53.228808 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xniuRNKuU1QYRIcy"}
+D, [2014-12-26T10:58:53.228887 #49266] DEBUG -- : Sending to Firebase: Fuck what you heard; recognize what you see.
+D, [2014-12-26T10:58:53.574844 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xnoJ-Z-gDCDFnhWs"}
+D, [2014-12-26T10:58:53.574905 #49266] DEBUG -- : Sending to Firebase: RT @Crimefetish: People don't give a fuck about anyone but themselves.
+D, [2014-12-26T10:58:53.921658 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xntiqFj67AOT2_r1"}
+D, [2014-12-26T10:58:53.921735 #49266] DEBUG -- : Sending to Firebase: @xtxmptation @fabstagramx where the fuck are they when we need them
+D, [2014-12-26T10:58:54.278402 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xnzIKcFT_5l975hT"}
+D, [2014-12-26T10:58:54.278473 #49266] DEBUG -- : Sending to Firebase: RT @LonerNigga: The less people you fuck with the less you get fucked over.
+D, [2014-12-26T10:58:54.633372 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xo3iYbG_0GwbDPR6"}
+D, [2014-12-26T10:58:54.633458 #49266] DEBUG -- : Sending to Firebase: RT @leeeeek_: Fuck everything, as long as I'm happy..
+D, [2014-12-26T10:58:55.169254 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xo9NBpEfAsH6QbkA"}
+D, [2014-12-26T10:58:55.169316 #49266] DEBUG -- : Sending to Firebase: @AskPlayStation cant access psn store here in austria! Dont even can play nhl cuz game is trying to connect..... What the fuck sony!!
+D, [2014-12-26T10:58:55.552039 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xoIACGKKR7CtwMfK"}
+D, [2014-12-26T10:58:55.552107 #49266] DEBUG -- : Sending to Firebase: @laurenita97 fuck 😍
+D, [2014-12-26T10:58:55.899214 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xoNbMAgPWO69ZRxe"}
+D, [2014-12-26T10:58:55.899278 #49266] DEBUG -- : Sending to Firebase: RT @lizziekatlyn: If you keep telling me that I don't care then i'll just completely not give a fuck
+D, [2014-12-26T10:58:56.285210 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xoTdX6KuKh9eur5q"}
+I, [2014-12-26T10:59:58.276876 #49266]  INFO -- : Running Twitter query on FUCK
+I, [2014-12-26T10:59:58.276905 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T10:59:58.276922 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T10:59:58.276938 #49266]  INFO -- : Running search on FUCK
+I, [2014-12-26T10:59:58.276990 #49266]  INFO -- : Running search...
+D, [2014-12-26T10:59:58.715905 #49266] DEBUG -- : Adding tweet: RT @BuckShiza: @korter_ EWWWW WHAT THE ACTUAL FUCK YO
+D, [2014-12-26T10:59:58.715990 #49266] DEBUG -- : Adding tweet: FUCK YOU HACKERS!!
+D, [2014-12-26T10:59:58.716024 #49266] DEBUG -- : Adding tweet: RT @AsapTwelvyy: Not for nothin don't ever offer me no fruitcake during the holidays dog fuck I look like
+D, [2014-12-26T10:59:58.716053 #49266] DEBUG -- : Adding tweet: amboii wifi sapa kat sini nama fuck off haha
+D, [2014-12-26T10:59:58.716080 #49266] DEBUG -- : Adding tweet: I miss oomf, but fuck oomf.
+D, [2014-12-26T10:59:58.716107 #49266] DEBUG -- : Adding tweet: RT @dillicioso: @NVMy_Kingdom lets just say fuck men &amp; go get married in Hawaii &amp; have little half white &amp; half columbian babies 😻😻😻 fuck t…
+D, [2014-12-26T10:59:58.716134 #49266] DEBUG -- : Adding tweet: RT @HarrySexySmirk: HONESTLY WJERE THE FUCK DID THIS COME FROM HOLY FUCK http://t.co/CXttKbHXhs
+D, [2014-12-26T10:59:58.716160 #49266] DEBUG -- : Adding tweet: no snow fuck off!!!!
+D, [2014-12-26T10:59:58.716186 #49266] DEBUG -- : Adding tweet: @BurdyBL "Fuck the burd"  is my favourite, you play it by leaning them over the table so it's pretty much a legit board game
+D, [2014-12-26T10:59:58.716212 #49266] DEBUG -- : Adding tweet: Wash'tiba leshi "@PreppyBoy_Magic: "Dankie ma'thousand @19MFVNDX: Fuck around and give a hobo a frozen braai pack for kontrol lol""
+I, [2014-12-26T10:59:58.716259 #49266]  INFO -- : Query results: ["RT @BuckShiza: @korter_ EWWWW WHAT THE ACTUAL FUCK YO", "FUCK YOU HACKERS!!", "RT @AsapTwelvyy: Not for nothin don't ever offer me no fruitcake during the holidays dog fuck I look like", "amboii wifi sapa kat sini nama fuck off haha", "I miss oomf, but fuck oomf.", "RT @dillicioso: @NVMy_Kingdom lets just say fuck men &amp; go get married in Hawaii &amp; have little half white &amp; half columbian babies 😻😻😻 fuck t…", "RT @HarrySexySmirk: HONESTLY WJERE THE FUCK DID THIS COME FROM HOLY FUCK http://t.co/CXttKbHXhs", "no snow fuck off!!!!", "@BurdyBL \"Fuck the burd\"  is my favourite, you play it by leaning them over the table so it's pretty much a legit board game", "Wash'tiba leshi \"@PreppyBoy_Magic: \"Dankie ma'thousand @19MFVNDX: Fuck around and give a hobo a frozen braai pack for kontrol lol\"\""]
+D, [2014-12-26T10:59:58.716292 #49266] DEBUG -- : Sending to Firebase: RT @BuckShiza: @korter_ EWWWW WHAT THE ACTUAL FUCK YO
+D, [2014-12-26T10:59:59.542708 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y2v1X9_XYEvxGIBu"}
+D, [2014-12-26T10:59:59.542790 #49266] DEBUG -- : Sending to Firebase: FUCK YOU HACKERS!!
+D, [2014-12-26T10:59:59.895378 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y3-X1kkldbIzOg5K"}
+D, [2014-12-26T10:59:59.895443 #49266] DEBUG -- : Sending to Firebase: RT @AsapTwelvyy: Not for nothin don't ever offer me no fruitcake during the holidays dog fuck I look like
+D, [2014-12-26T11:00:00.242009 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y34yAxiVmPgdZhPV"}
+D, [2014-12-26T11:00:00.242092 #49266] DEBUG -- : Sending to Firebase: amboii wifi sapa kat sini nama fuck off haha
+D, [2014-12-26T11:00:00.614800 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y3AkoBIDtkPikY_y"}
+D, [2014-12-26T11:00:00.614882 #49266] DEBUG -- : Sending to Firebase: I miss oomf, but fuck oomf.
+D, [2014-12-26T11:00:00.971680 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y3GNS4wqYM18DMr2"}
+D, [2014-12-26T11:00:00.971744 #49266] DEBUG -- : Sending to Firebase: RT @dillicioso: @NVMy_Kingdom lets just say fuck men &amp; go get married in Hawaii &amp; have little half white &amp; half columbian babies 😻😻😻 fuck t…
+D, [2014-12-26T11:00:01.388495 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y3MrqyKH5_pNL6j9"}
+D, [2014-12-26T11:00:01.388564 #49266] DEBUG -- : Sending to Firebase: RT @HarrySexySmirk: HONESTLY WJERE THE FUCK DID THIS COME FROM HOLY FUCK http://t.co/CXttKbHXhs
+D, [2014-12-26T11:00:01.778296 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y3SyBTuAq0MadVWd"}
+D, [2014-12-26T11:00:01.778379 #49266] DEBUG -- : Sending to Firebase: no snow fuck off!!!!
+D, [2014-12-26T11:00:02.144034 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y3YfjMpktaB8A_2b"}
+D, [2014-12-26T11:00:02.144127 #49266] DEBUG -- : Sending to Firebase: @BurdyBL "Fuck the burd"  is my favourite, you play it by leaning them over the table so it's pretty much a legit board game
+D, [2014-12-26T11:00:02.539752 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y3dqrTRVOU1W-StO"}
+D, [2014-12-26T11:00:02.539834 #49266] DEBUG -- : Sending to Firebase: Wash'tiba leshi "@PreppyBoy_Magic: "Dankie ma'thousand @19MFVNDX: Fuck around and give a hobo a frozen braai pack for kontrol lol""
+D, [2014-12-26T11:00:02.904657 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y3j_JzbbiSiaQRQL"}
+I, [2014-12-26T11:00:26.615868 #49266]  INFO -- : Running Twitter query on FUCK
+I, [2014-12-26T11:00:26.615897 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:00:26.615914 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:00:26.615929 #49266]  INFO -- : Running search on FUCK
+I, [2014-12-26T11:00:26.615981 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:00:27.399969 #49266] DEBUG -- : Adding tweet: @Ian_Hughes1 @KrisThomas5 @nathanj_90 @stuart_brewer90 fuck that
+D, [2014-12-26T11:00:27.400048 #49266] DEBUG -- : Adding tweet: RT @M_G_W_V: 🍀➊🍀 #FOLLOWTRICK
+
+🍀➋🍀 RETWEET
+
+🍀➌🍀 FOLLOW ALL WHO RT
+
+🍀➍🍀 FOLLOWBACK
+
+🍀➎🍀 GAIN WITH #MGWV
+
+🍀➏🍀 #FOLLOW ☞ @MGWV_WIZARD
+D, [2014-12-26T11:00:27.400082 #49266] DEBUG -- : Adding tweet: RT @MrRigginss: never ever cry over a fuck boy babygirl.
+D, [2014-12-26T11:00:27.400110 #49266] DEBUG -- : Adding tweet: RT @camerondallas: I lose like 3 followers every time I cuss in a tweet... Fuck.
+D, [2014-12-26T11:00:27.400137 #49266] DEBUG -- : Adding tweet: I don't fuck wit Tae no more 😤 @anhayeat__
+D, [2014-12-26T11:00:27.400163 #49266] DEBUG -- : Adding tweet: @I_amAlexus fuck yo name alexus for 😐
+D, [2014-12-26T11:00:27.400189 #49266] DEBUG -- : Adding tweet: What the fuck is a wish to someone who strides towards getting their life in order #Actions
+D, [2014-12-26T11:00:27.400215 #49266] DEBUG -- : Adding tweet: RT @cooliestfu: Peep game strong as fuck 🐸☕️ http://t.co/WoV5ZZ1aLp
+D, [2014-12-26T11:00:27.400241 #49266] DEBUG -- : Adding tweet: @ZgBrian @SirSeppi @SHGames legit as fuck thanks @SHGames
+D, [2014-12-26T11:00:27.400268 #49266] DEBUG -- : Adding tweet: When u fuck with a real nigga he ain't gone give these hoes a reason 2 laugh at u😂he gone give these hoes a reason to be mad at 💯💯💯
+I, [2014-12-26T11:00:27.400316 #49266]  INFO -- : Query results: ["@Ian_Hughes1 @KrisThomas5 @nathanj_90 @stuart_brewer90 fuck that", "RT @M_G_W_V: 🍀➊🍀 #FOLLOWTRICK\n\n🍀➋🍀 RETWEET\n\n🍀➌🍀 FOLLOW ALL WHO RT\n\n🍀➍🍀 FOLLOWBACK\n\n🍀➎🍀 GAIN WITH #MGWV\n\n🍀➏🍀 #FOLLOW ☞ @MGWV_WIZARD", "RT @MrRigginss: never ever cry over a fuck boy babygirl.", "RT @camerondallas: I lose like 3 followers every time I cuss in a tweet... Fuck.", "I don't fuck wit Tae no more 😤 @anhayeat__", "@I_amAlexus fuck yo name alexus for 😐", "What the fuck is a wish to someone who strides towards getting their life in order #Actions", "RT @cooliestfu: Peep game strong as fuck 🐸☕️ http://t.co/WoV5ZZ1aLp", "@ZgBrian @SirSeppi @SHGames legit as fuck thanks @SHGames", "When u fuck with a real nigga he ain't gone give these hoes a reason 2 laugh at u😂he gone give these hoes a reason to be mad at 💯💯💯"]
+D, [2014-12-26T11:00:27.400370 #49266] DEBUG -- : Sending to Firebase: @Ian_Hughes1 @KrisThomas5 @nathanj_90 @stuart_brewer90 fuck that
+D, [2014-12-26T11:00:27.764104 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y9o-mnuIIVpn5Ll_"}
+D, [2014-12-26T11:00:27.764169 #49266] DEBUG -- : Sending to Firebase: RT @M_G_W_V: 🍀➊🍀 #FOLLOWTRICK
+
+🍀➋🍀 RETWEET
+
+🍀➌🍀 FOLLOW ALL WHO RT
+
+🍀➍🍀 FOLLOWBACK
+
+🍀➎🍀 GAIN WITH #MGWV
+
+🍀➏🍀 #FOLLOW ☞ @MGWV_WIZARD
+D, [2014-12-26T11:00:28.130188 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y9til59tUNxUV2bN"}
+D, [2014-12-26T11:00:28.130254 #49266] DEBUG -- : Sending to Firebase: RT @MrRigginss: never ever cry over a fuck boy babygirl.
+D, [2014-12-26T11:00:28.524505 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y9zs-iABD6GX_0io"}
+D, [2014-12-26T11:00:28.524571 #49266] DEBUG -- : Sending to Firebase: RT @camerondallas: I lose like 3 followers every time I cuss in a tweet... Fuck.
+D, [2014-12-26T11:00:28.909821 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yA4uivpDrWFyjCt5"}
+D, [2014-12-26T11:00:28.909903 #49266] DEBUG -- : Sending to Firebase: I don't fuck wit Tae no more 😤 @anhayeat__
+D, [2014-12-26T11:00:29.267873 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yAAS-rnOPXc0V4jl"}
+D, [2014-12-26T11:00:29.267958 #49266] DEBUG -- : Sending to Firebase: @I_amAlexus fuck yo name alexus for 😐
+D, [2014-12-26T11:00:29.623695 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yAG3mOcbiT7HFWSL"}
+D, [2014-12-26T11:00:29.623758 #49266] DEBUG -- : Sending to Firebase: What the fuck is a wish to someone who strides towards getting their life in order #Actions
+D, [2014-12-26T11:00:31.094654 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yAc3lI0l7LNqReu1"}
+D, [2014-12-26T11:00:31.094714 #49266] DEBUG -- : Sending to Firebase: RT @cooliestfu: Peep game strong as fuck 🐸☕️ http://t.co/WoV5ZZ1aLp
+D, [2014-12-26T11:00:31.704041 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yAlY0AA0lK2Bljhz"}
+D, [2014-12-26T11:00:31.704111 #49266] DEBUG -- : Sending to Firebase: @ZgBrian @SirSeppi @SHGames legit as fuck thanks @SHGames
+D, [2014-12-26T11:00:32.067526 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yArEVlfvr38_j9bk"}
+D, [2014-12-26T11:00:32.067588 #49266] DEBUG -- : Sending to Firebase: When u fuck with a real nigga he ain't gone give these hoes a reason 2 laugh at u😂he gone give these hoes a reason to be mad at 💯💯💯
+D, [2014-12-26T11:00:32.427568 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yAwoicZ2Y2edbnjO"}
+I, [2014-12-26T11:01:32.011784 #49266]  INFO -- : Running Twitter query on judith
+I, [2014-12-26T11:01:32.011813 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:01:32.011830 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:01:32.011846 #49266]  INFO -- : Running search on judith
+I, [2014-12-26T11:01:32.011898 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:01:32.499415 #49266] DEBUG -- : Adding tweet: http://t.co/KrYBAt6K61  Step aside, Judith.
+Tales thread anyone? After beating Hearts R and really loving it, I wanted to get into perh...
+D, [2014-12-26T11:01:32.499527 #49266] DEBUG -- : Adding tweet: RT @tommoxclifford: just gonna put it out there that JUDITH is the first name in my phone to be taken by capitals #congratsjudith
+D, [2014-12-26T11:01:32.499563 #49266] DEBUG -- : Adding tweet: just gonna put it out there that JUDITH is the first name in my phone to be taken by capitals #congratsjudith
+D, [2014-12-26T11:01:32.499592 #49266] DEBUG -- : Adding tweet: RT @Gingerhazing: my favorite Judith &amp; Holofernes comic: http://t.co/qBJcOrt3WP
+D, [2014-12-26T11:01:32.499619 #49266] DEBUG -- : Adding tweet: @erinjmcq OMG DO U HAVE ONE? ERIN JUDITH MCQUILLAN, FB MESSAGE ME. you know i hate cell phones and therefore don't have mine within 100 feet
+D, [2014-12-26T11:01:32.499645 #49266] DEBUG -- : Adding tweet: judith is sososo nice wow I love her
+SHE IS NUMBER ONE SHE IS THE BEST PERSON EVER
+D, [2014-12-26T11:01:32.499672 #49266] DEBUG -- : Adding tweet: @trentoantonio http://t.co/wQd8GkWgS7 "‘How to Be a Victorian,’ by Ruth Goodman" by JUDITH NEWMAN via NYT #blac... http://t.co/C9hkbYzpnp
+D, [2014-12-26T11:01:32.499698 #49266] DEBUG -- : Adding tweet: RT @FanWalker_TWD: Judith and a Walker ♥♥♥♥♥ http://t.co/siRV9EobS4
+D, [2014-12-26T11:01:32.499724 #49266] DEBUG -- : Adding tweet: A Beautiful Variety by Judith Pifferello http://t.co/YSwha8L1w2 via @Etsy #treasury
+D, [2014-12-26T11:01:32.499750 #49266] DEBUG -- : Adding tweet: A Beautiful Variety by Judith Pifferello http://t.co/6GgF2Uicpk via @Etsy
+I, [2014-12-26T11:01:32.499804 #49266]  INFO -- : Query results: ["http://t.co/KrYBAt6K61  Step aside, Judith.\nTales thread anyone? After beating Hearts R and really loving it, I wanted to get into perh...", "RT @tommoxclifford: just gonna put it out there that JUDITH is the first name in my phone to be taken by capitals #congratsjudith", "just gonna put it out there that JUDITH is the first name in my phone to be taken by capitals #congratsjudith", "RT @Gingerhazing: my favorite Judith &amp; Holofernes comic: http://t.co/qBJcOrt3WP", "@erinjmcq OMG DO U HAVE ONE? ERIN JUDITH MCQUILLAN, FB MESSAGE ME. you know i hate cell phones and therefore don't have mine within 100 feet", "judith is sososo nice wow I love her\nSHE IS NUMBER ONE SHE IS THE BEST PERSON EVER", "@trentoantonio http://t.co/wQd8GkWgS7 \"‘How to Be a Victorian,’ by Ruth Goodman\" by JUDITH NEWMAN via NYT #blac... http://t.co/C9hkbYzpnp", "RT @FanWalker_TWD: Judith and a Walker ♥♥♥♥♥ http://t.co/siRV9EobS4", "A Beautiful Variety by Judith Pifferello http://t.co/YSwha8L1w2 via @Etsy #treasury", "A Beautiful Variety by Judith Pifferello http://t.co/6GgF2Uicpk via @Etsy"]
+D, [2014-12-26T11:01:32.499839 #49266] DEBUG -- : Sending to Firebase: http://t.co/KrYBAt6K61  Step aside, Judith.
+Tales thread anyone? After beating Hearts R and really loving it, I wanted to get into perh...
+D, [2014-12-26T11:01:32.865727 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yPhDaZS1j9sICoaN"}
+D, [2014-12-26T11:01:32.865829 #49266] DEBUG -- : Sending to Firebase: RT @tommoxclifford: just gonna put it out there that JUDITH is the first name in my phone to be taken by capitals #congratsjudith
+D, [2014-12-26T11:01:33.208465 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yPmZR1Qw6q95e1oH"}
+D, [2014-12-26T11:01:33.208532 #49266] DEBUG -- : Sending to Firebase: just gonna put it out there that JUDITH is the first name in my phone to be taken by capitals #congratsjudith
+D, [2014-12-26T11:01:33.569201 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yPsCFkKBq3psKIje"}
+D, [2014-12-26T11:01:33.569274 #49266] DEBUG -- : Sending to Firebase: RT @Gingerhazing: my favorite Judith &amp; Holofernes comic: http://t.co/qBJcOrt3WP
+D, [2014-12-26T11:01:33.906315 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yPxUxJZ9W-Jbz0AS"}
+D, [2014-12-26T11:01:33.906400 #49266] DEBUG -- : Sending to Firebase: @erinjmcq OMG DO U HAVE ONE? ERIN JUDITH MCQUILLAN, FB MESSAGE ME. you know i hate cell phones and therefore don't have mine within 100 feet
+D, [2014-12-26T11:01:34.264043 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yQ21O9cBg--HA-4O"}
+D, [2014-12-26T11:01:34.264136 #49266] DEBUG -- : Sending to Firebase: judith is sososo nice wow I love her
+SHE IS NUMBER ONE SHE IS THE BEST PERSON EVER
+D, [2014-12-26T11:01:34.604972 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yQ7NkxPOoy2IsU4E"}
+D, [2014-12-26T11:01:34.605087 #49266] DEBUG -- : Sending to Firebase: @trentoantonio http://t.co/wQd8GkWgS7 "‘How to Be a Victorian,’ by Ruth Goodman" by JUDITH NEWMAN via NYT #blac... http://t.co/C9hkbYzpnp
+D, [2014-12-26T11:01:35.418568 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yQD3OiN8iHKJsnkw"}
+D, [2014-12-26T11:01:35.418652 #49266] DEBUG -- : Sending to Firebase: RT @FanWalker_TWD: Judith and a Walker ♥♥♥♥♥ http://t.co/siRV9EobS4
+D, [2014-12-26T11:01:35.786841 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yQPqsqenKZQKN3Y3"}
+D, [2014-12-26T11:01:35.786927 #49266] DEBUG -- : Sending to Firebase: A Beautiful Variety by Judith Pifferello http://t.co/YSwha8L1w2 via @Etsy #treasury
+D, [2014-12-26T11:01:36.151907 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yQVTN7qGfjG38JpA"}
+D, [2014-12-26T11:01:36.151994 #49266] DEBUG -- : Sending to Firebase: A Beautiful Variety by Judith Pifferello http://t.co/6GgF2Uicpk via @Etsy
+D, [2014-12-26T11:01:37.259213 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yQhLmRrYF0MKQAwq"}
+I, [2014-12-26T11:02:11.534081 #49266]  INFO -- : Running Twitter query on jeff
+I, [2014-12-26T11:02:11.534118 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:02:11.534141 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:02:11.534163 #49266]  INFO -- : Running search on jeff
+I, [2014-12-26T11:02:11.534230 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:02:12.420096 #49266] DEBUG -- : Adding tweet: "It is the mark of an educated mind to entertain a thought without accepting it." -Aristotele  http://t.co/0GpR8MpBb0
+D, [2014-12-26T11:02:12.420181 #49266] DEBUG -- : Adding tweet: @JillianThomas22 @CometsMASL @SockersSanDiego Jeff Hughes
+D, [2014-12-26T11:02:12.420215 #49266] DEBUG -- : Adding tweet: @nekkii EHM SO TIRED MAY SHOW KAME MAMAYA DITO MORONG HHHNNNGGG NAGPAPAKA JEFF MADARANG HAHAHA
+D, [2014-12-26T11:02:12.420244 #49266] DEBUG -- : Adding tweet: Hi my name is jeff
+D, [2014-12-26T11:02:12.420271 #49266] DEBUG -- : Adding tweet: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:02:12.420299 #49266] DEBUG -- : Adding tweet: RT @J5rson: New artwork for sale! - "Mastiquer" - http://t.co/iZ8UB3Fc7w @fineartamerica http://t.co/6noqKdpLY5
+D, [2014-12-26T11:02:12.420326 #49266] DEBUG -- : Adding tweet: RT @J5rson: New artwork for sale! - "Illusions and Lies" - http://t.co/tb6MjPNrmN @fineartamerica http://t.co/DVCNKCRfNI
+D, [2014-12-26T11:02:12.420352 #49266] DEBUG -- : Adding tweet: @jafDC86 Bad idea.  He's a D with a career QB rating of 80.  Very pedestrian.  Jay Cutler = Jeff George
+D, [2014-12-26T11:02:12.420379 #49266] DEBUG -- : Adding tweet: su @tocqueville_it - PERCHÉ ESSERE OTTIMISTI Jeff Deist, Von Mises Italia http://t.co/ywhUb4pMm4
+D, [2014-12-26T11:02:12.420405 #49266] DEBUG -- : Adding tweet: @slothborn @jeffrush Jeff doesn't accept boom unless it's on the lyrics of some song that goes "licky boom boom" or something like that.
+I, [2014-12-26T11:02:12.420455 #49266]  INFO -- : Query results: ["\"It is the mark of an educated mind to entertain a thought without accepting it.\" -Aristotele  http://t.co/0GpR8MpBb0", "@JillianThomas22 @CometsMASL @SockersSanDiego Jeff Hughes", "@nekkii EHM SO TIRED MAY SHOW KAME MAMAYA DITO MORONG HHHNNNGGG NAGPAPAKA JEFF MADARANG HAHAHA", "Hi my name is jeff", "RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.", "RT @J5rson: New artwork for sale! - \"Mastiquer\" - http://t.co/iZ8UB3Fc7w @fineartamerica http://t.co/6noqKdpLY5", "RT @J5rson: New artwork for sale! - \"Illusions and Lies\" - http://t.co/tb6MjPNrmN @fineartamerica http://t.co/DVCNKCRfNI", "@jafDC86 Bad idea.  He's a D with a career QB rating of 80.  Very pedestrian.  Jay Cutler = Jeff George", "su @tocqueville_it - PERCHÉ ESSERE OTTIMISTI Jeff Deist, Von Mises Italia http://t.co/ywhUb4pMm4", "@slothborn @jeffrush Jeff doesn't accept boom unless it's on the lyrics of some song that goes \"licky boom boom\" or something like that."]
+D, [2014-12-26T11:02:12.420508 #49266] DEBUG -- : Sending to Firebase: "It is the mark of an educated mind to entertain a thought without accepting it." -Aristotele  http://t.co/0GpR8MpBb0
+D, [2014-12-26T11:02:13.011877 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yZVUr1-6pYKHOZ16"}
+D, [2014-12-26T11:02:13.011971 #49266] DEBUG -- : Sending to Firebase: @JillianThomas22 @CometsMASL @SockersSanDiego Jeff Hughes
+D, [2014-12-26T11:02:13.392526 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yZaRz7x2KoEmCe4P"}
+D, [2014-12-26T11:02:13.392658 #49266] DEBUG -- : Sending to Firebase: @nekkii EHM SO TIRED MAY SHOW KAME MAMAYA DITO MORONG HHHNNNGGG NAGPAPAKA JEFF MADARANG HAHAHA
+D, [2014-12-26T11:02:13.743640 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yZfsd-vmdHMptfOf"}
+D, [2014-12-26T11:02:13.743746 #49266] DEBUG -- : Sending to Firebase: Hi my name is jeff
+D, [2014-12-26T11:02:14.098790 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yZlRy4LA9Q471Pv8"}
+D, [2014-12-26T11:02:14.098872 #49266] DEBUG -- : Sending to Firebase: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:02:14.459044 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yZr6jPp5-1Ev2NmN"}
+D, [2014-12-26T11:02:14.459749 #49266] DEBUG -- : Sending to Firebase: RT @J5rson: New artwork for sale! - "Mastiquer" - http://t.co/iZ8UB3Fc7w @fineartamerica http://t.co/6noqKdpLY5
+D, [2014-12-26T11:02:15.352118 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yZwoikQ8VwWpVMqR"}
+D, [2014-12-26T11:02:15.352207 #49266] DEBUG -- : Sending to Firebase: RT @J5rson: New artwork for sale! - "Illusions and Lies" - http://t.co/tb6MjPNrmN @fineartamerica http://t.co/DVCNKCRfNI
+D, [2014-12-26T11:02:15.722998 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y_9o7-X8RDAIJt3z"}
+D, [2014-12-26T11:02:15.723095 #49266] DEBUG -- : Sending to Firebase: @jafDC86 Bad idea.  He's a D with a career QB rating of 80.  Very pedestrian.  Jay Cutler = Jeff George
+D, [2014-12-26T11:02:16.082362 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y_FQqpjydVh7__tQ"}
+D, [2014-12-26T11:02:16.082466 #49266] DEBUG -- : Sending to Firebase: su @tocqueville_it - PERCHÉ ESSERE OTTIMISTI Jeff Deist, Von Mises Italia http://t.co/ywhUb4pMm4
+D, [2014-12-26T11:02:16.445010 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y_L3KTP8uUM5DJ6P"}
+D, [2014-12-26T11:02:16.445095 #49266] DEBUG -- : Sending to Firebase: @slothborn @jeffrush Jeff doesn't accept boom unless it's on the lyrics of some song that goes "licky boom boom" or something like that.
+D, [2014-12-26T11:02:16.808872 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6y_QpVJP7ikqfmTX1"}
+I, [2014-12-26T11:03:05.487653 #49266]  INFO -- : Running Twitter query on jeff
+I, [2014-12-26T11:03:05.487683 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:03:05.487706 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:03:05.487751 #49266]  INFO -- : Running search on jeff
+I, [2014-12-26T11:03:05.487809 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:03:05.950437 #49266] DEBUG -- : Adding tweet: RT @UlycesEditions: Un braqueur virtuose, généreux avec les plus démunis, échappe aux autorités depuis 35 ans. Découvrez son histoire : htt…
+D, [2014-12-26T11:03:05.950537 #49266] DEBUG -- : Adding tweet: @Jeffff_  Ah hard luck Jeff.  I'm glad I'm inside with a glass of wine.
+D, [2014-12-26T11:03:05.950597 #49266] DEBUG -- : Adding tweet: @75Abdoulay20 👌
+D, [2014-12-26T11:03:05.950649 #49266] DEBUG -- : Adding tweet: @CBullsbball @chicagobullsbot Any chance Bulls could get Jeff Green from the Celtics??
+D, [2014-12-26T11:03:05.950688 #49266] DEBUG -- : Adding tweet: @shutupDanny__ You should, Danny! ☺ With AT&amp;T Next @ http://t.co/BBaSa9aB5l today and get a LG G Pad 7.0 free w/ a new phone purchase! ^Jeff
+D, [2014-12-26T11:03:05.950727 #49266] DEBUG -- : Adding tweet: RT @TalkKnicks: jeff green stinks
+D, [2014-12-26T11:03:05.950778 #49266] DEBUG -- : Adding tweet: RT @FOXSports1: Hall of Fame AMA rider Jeff Emig previews the 2015 @MonsterEnergy #SXonFOX season &gt;&gt; http://t.co/xeE0IQQweB http://t.co/qMw…
+D, [2014-12-26T11:03:05.950834 #49266] DEBUG -- : Adding tweet: @DailyPrayerLife @pastord365 #GOD is the #Glue most people will yearn for? But your mission is #TRUE to #GOD
+D, [2014-12-26T11:03:05.950891 #49266] DEBUG -- : Adding tweet: RT @LGMonsterFacts: Lady Gaga arrived at the 2009 Much Music Awards holding a purse inspired by Jeff Koons. She's always been ARTPOP! 🔵 htt…
+D, [2014-12-26T11:03:05.950945 #49266] DEBUG -- : Adding tweet: @J5rson @MatthewStuart @myfunclub @CROWRDREAM @Klyushin_news @DUCKmagstoke @SolarisKnight @aletp @nuguqunytig TYSM Jeff! Happy Friday all! 😀
+I, [2014-12-26T11:03:05.951032 #49266]  INFO -- : Query results: ["RT @UlycesEditions: Un braqueur virtuose, généreux avec les plus démunis, échappe aux autorités depuis 35 ans. Découvrez son histoire : htt…", "@Jeffff_  Ah hard luck Jeff.  I'm glad I'm inside with a glass of wine.", "@75Abdoulay20 👌", "@CBullsbball @chicagobullsbot Any chance Bulls could get Jeff Green from the Celtics??", "@shutupDanny__ You should, Danny! ☺ With AT&amp;T Next @ http://t.co/BBaSa9aB5l today and get a LG G Pad 7.0 free w/ a new phone purchase! ^Jeff", "RT @TalkKnicks: jeff green stinks", "RT @FOXSports1: Hall of Fame AMA rider Jeff Emig previews the 2015 @MonsterEnergy #SXonFOX season &gt;&gt; http://t.co/xeE0IQQweB http://t.co/qMw…", "@DailyPrayerLife @pastord365 #GOD is the #Glue most people will yearn for? But your mission is #TRUE to #GOD", "RT @LGMonsterFacts: Lady Gaga arrived at the 2009 Much Music Awards holding a purse inspired by Jeff Koons. She's always been ARTPOP! 🔵 htt…", "@J5rson @MatthewStuart @myfunclub @CROWRDREAM @Klyushin_news @DUCKmagstoke @SolarisKnight @aletp @nuguqunytig TYSM Jeff! Happy Friday all! 😀"]
+D, [2014-12-26T11:03:05.951087 #49266] DEBUG -- : Sending to Firebase: RT @UlycesEditions: Un braqueur virtuose, généreux avec les plus démunis, échappe aux autorités depuis 35 ans. Découvrez son histoire : htt…
+D, [2014-12-26T11:03:06.323093 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ylWU3PcE7GEe-S2R"}
+D, [2014-12-26T11:03:06.323177 #49266] DEBUG -- : Sending to Firebase: @Jeffff_  Ah hard luck Jeff.  I'm glad I'm inside with a glass of wine.
+D, [2014-12-26T11:03:06.674589 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ylayzyu_s__rrHAz"}
+D, [2014-12-26T11:03:06.674792 #49266] DEBUG -- : Sending to Firebase: @75Abdoulay20 👌
+D, [2014-12-26T11:03:07.025252 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ylgSYhJhBsJ9f8db"}
+D, [2014-12-26T11:03:07.025340 #49266] DEBUG -- : Sending to Firebase: @CBullsbball @chicagobullsbot Any chance Bulls could get Jeff Green from the Celtics??
+D, [2014-12-26T11:03:07.389886 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ylm96pK43CmdhVkY"}
+D, [2014-12-26T11:03:07.389975 #49266] DEBUG -- : Sending to Firebase: @shutupDanny__ You should, Danny! ☺ With AT&amp;T Next @ http://t.co/BBaSa9aB5l today and get a LG G Pad 7.0 free w/ a new phone purchase! ^Jeff
+D, [2014-12-26T11:03:07.745326 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ylrh6qMgvC2iA-w2"}
+D, [2014-12-26T11:03:07.745410 #49266] DEBUG -- : Sending to Firebase: RT @TalkKnicks: jeff green stinks
+D, [2014-12-26T11:03:08.614354 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ym4HOZcIpl7MRkua"}
+D, [2014-12-26T11:03:08.614440 #49266] DEBUG -- : Sending to Firebase: RT @FOXSports1: Hall of Fame AMA rider Jeff Emig previews the 2015 @MonsterEnergy #SXonFOX season &gt;&gt; http://t.co/xeE0IQQweB http://t.co/qMw…
+D, [2014-12-26T11:03:08.969235 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ym9mlCAyATYSzpkH"}
+D, [2014-12-26T11:03:08.969332 #49266] DEBUG -- : Sending to Firebase: @DailyPrayerLife @pastord365 #GOD is the #Glue most people will yearn for? But your mission is #TRUE to #GOD
+D, [2014-12-26T11:03:09.344596 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ymFd1Tq8oMVsJDEf"}
+D, [2014-12-26T11:03:09.344752 #49266] DEBUG -- : Sending to Firebase: RT @LGMonsterFacts: Lady Gaga arrived at the 2009 Much Music Awards holding a purse inspired by Jeff Koons. She's always been ARTPOP! 🔵 htt…
+D, [2014-12-26T11:03:09.712593 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ymLNgFL6iLpDULuo"}
+D, [2014-12-26T11:03:09.712817 #49266] DEBUG -- : Sending to Firebase: @J5rson @MatthewStuart @myfunclub @CROWRDREAM @Klyushin_news @DUCKmagstoke @SolarisKnight @aletp @nuguqunytig TYSM Jeff! Happy Friday all! 😀
+D, [2014-12-26T11:03:10.064779 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6ymQuXPSByIQZnmEW"}
+I, [2014-12-26T11:03:41.345112 #49266]  INFO -- : Running Twitter query on jeff
+I, [2014-12-26T11:03:41.345141 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:03:41.345158 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:03:41.345173 #49266]  INFO -- : Running search on jeff
+I, [2014-12-26T11:03:41.345225 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:03:42.176757 #49266] DEBUG -- : Adding tweet: Jeff Beck &gt; Twenty Flight Rock
+D, [2014-12-26T11:03:42.176848 #49266] DEBUG -- : Adding tweet: RT @scoopIPS: SCS S. Lake sr gd Jeff Golden is getting his Dennis Scott on.  Kid can stroke it.  Last 3 cuts Howell lead to 1, 63-61.
+D, [2014-12-26T11:03:42.176883 #49266] DEBUG -- : Adding tweet: Bitches are bitches and business is business and thats how it be
+D, [2014-12-26T11:03:42.176913 #49266] DEBUG -- : Adding tweet: @goins_jeff just get a roller.
+D, [2014-12-26T11:03:42.176940 #49266] DEBUG -- : Adding tweet: The Unimportant Bigger, Better, Faster, for Less Jeff  http://t.co/Yaa2uX5kkR #Christian #Church
+D, [2014-12-26T11:03:42.176968 #49266] DEBUG -- : Adding tweet: RT @MynamesJeffs: The Rock ft. Jeff. #mynameisjeff http://t.co/GPMsMA3qE8
+D, [2014-12-26T11:03:42.176995 #49266] DEBUG -- : Adding tweet: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:03:42.177021 #49266] DEBUG -- : Adding tweet: Holidays can be rough. Have a laugh. Jeff Foxworthy &amp; Peter Rosenberger talk about the funny side of #caregiving http://t.co/kiTeDWaeZ6
+D, [2014-12-26T11:03:42.177047 #49266] DEBUG -- : Adding tweet: @TrevorSElam @MCR1car @FutureRacer11 @dragonk26892388 @GMANDAD99 @jeff_rcn14 I can't I got stuff I have to do. And I'm installing black flag
+D, [2014-12-26T11:03:42.177074 #49266] DEBUG -- : Adding tweet: RT @hakak: Top 4 Digital Marketing Tips from @jquipp ► http://t.co/842naKvyvy #digitalmarketing #SEO #SEM #PPC #content #blog #remarketing
+I, [2014-12-26T11:03:42.177127 #49266]  INFO -- : Query results: ["Jeff Beck &gt; Twenty Flight Rock", "RT @scoopIPS: SCS S. Lake sr gd Jeff Golden is getting his Dennis Scott on.  Kid can stroke it.  Last 3 cuts Howell lead to 1, 63-61.", "Bitches are bitches and business is business and thats how it be", "@goins_jeff just get a roller.", "The Unimportant Bigger, Better, Faster, for Less Jeff  http://t.co/Yaa2uX5kkR #Christian #Church", "RT @MynamesJeffs: The Rock ft. Jeff. #mynameisjeff http://t.co/GPMsMA3qE8", "RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.", "Holidays can be rough. Have a laugh. Jeff Foxworthy &amp; Peter Rosenberger talk about the funny side of #caregiving http://t.co/kiTeDWaeZ6", "@TrevorSElam @MCR1car @FutureRacer11 @dragonk26892388 @GMANDAD99 @jeff_rcn14 I can't I got stuff I have to do. And I'm installing black flag", "RT @hakak: Top 4 Digital Marketing Tips from @jquipp ► http://t.co/842naKvyvy #digitalmarketing #SEO #SEM #PPC #content #blog #remarketing"]
+D, [2014-12-26T11:03:42.177181 #49266] DEBUG -- : Sending to Firebase: Jeff Beck &gt; Twenty Flight Rock
+D, [2014-12-26T11:03:42.538474 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yuMIPcdV-EWiwpsG"}
+D, [2014-12-26T11:03:42.538567 #49266] DEBUG -- : Sending to Firebase: RT @scoopIPS: SCS S. Lake sr gd Jeff Golden is getting his Dennis Scott on.  Kid can stroke it.  Last 3 cuts Howell lead to 1, 63-61.
+D, [2014-12-26T11:03:42.885074 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yuRloSTkyDRNBUWJ"}
+D, [2014-12-26T11:03:42.885201 #49266] DEBUG -- : Sending to Firebase: Bitches are bitches and business is business and thats how it be
+D, [2014-12-26T11:03:43.269065 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yuXj3Ka5ZCNqu8I3"}
+D, [2014-12-26T11:03:43.269157 #49266] DEBUG -- : Sending to Firebase: @goins_jeff just get a roller.
+D, [2014-12-26T11:03:43.648563 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yucgsL9qKZEEv3MU"}
+D, [2014-12-26T11:03:43.648661 #49266] DEBUG -- : Sending to Firebase: The Unimportant Bigger, Better, Faster, for Less Jeff  http://t.co/Yaa2uX5kkR #Christian #Church
+D, [2014-12-26T11:03:44.015705 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yuiQq7RqkasgrvI_"}
+D, [2014-12-26T11:03:44.015788 #49266] DEBUG -- : Sending to Firebase: RT @MynamesJeffs: The Rock ft. Jeff. #mynameisjeff http://t.co/GPMsMA3qE8
+D, [2014-12-26T11:03:45.214227 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yuymWDP6JbEaPFJW"}
+D, [2014-12-26T11:03:45.214351 #49266] DEBUG -- : Sending to Firebase: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:03:45.564197 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yv5awfk-swYpYBck"}
+D, [2014-12-26T11:03:45.564281 #49266] DEBUG -- : Sending to Firebase: Holidays can be rough. Have a laugh. Jeff Foxworthy &amp; Peter Rosenberger talk about the funny side of #caregiving http://t.co/kiTeDWaeZ6
+D, [2014-12-26T11:03:45.941733 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yvBWvpjvjAwHqraL"}
+D, [2014-12-26T11:03:45.941816 #49266] DEBUG -- : Sending to Firebase: @TrevorSElam @MCR1car @FutureRacer11 @dragonk26892388 @GMANDAD99 @jeff_rcn14 I can't I got stuff I have to do. And I'm installing black flag
+D, [2014-12-26T11:03:46.898731 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yvLwUieCNbjYEIrX"}
+D, [2014-12-26T11:03:46.898819 #49266] DEBUG -- : Sending to Firebase: RT @hakak: Top 4 Digital Marketing Tips from @jquipp ► http://t.co/842naKvyvy #digitalmarketing #SEO #SEM #PPC #content #blog #remarketing
+D, [2014-12-26T11:03:47.283317 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6yvWUF47ZM5kYec9-"}
+I, [2014-12-26T11:04:54.290310 #49266]  INFO -- : Running Twitter query on jeff
+I, [2014-12-26T11:04:54.290339 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:04:54.290355 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:04:54.290387 #49266]  INFO -- : Running search on jeff
+I, [2014-12-26T11:04:54.290441 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:04:54.833763 #49266] DEBUG -- : Adding tweet: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:04:54.833849 #49266] DEBUG -- : Adding tweet: Celtics and Nets tied at 56 at the half. Jeff Green w/12. Sullinger and Bradley with 9 each.
+D, [2014-12-26T11:04:54.833883 #49266] DEBUG -- : Adding tweet: @Jeff_UNM mañana de leyyy!! Y mañana tambienn homie errryday
+D, [2014-12-26T11:04:54.833912 #49266] DEBUG -- : Adding tweet: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:04:54.833940 #49266] DEBUG -- : Adding tweet: RT @MynamesJeffs: Bad Boys 2 ft. Jeff. #mynameisjeff http://t.co/MZjgPZdc28
+D, [2014-12-26T11:04:54.833967 #49266] DEBUG -- : Adding tweet: Me ha gustado un vídeo de @YouTube (http://t.co/db5GRuPSxW - ME ORINE DE MIEDO D: | Jeff The Killer).
+D, [2014-12-26T11:04:54.833993 #49266] DEBUG -- : Adding tweet: RT @J5rson: New artwork for sale! - "Cetomimid" - http://t.co/U2lWnk1ROu @fineartamerica http://t.co/qKNzFyHp4L
+D, [2014-12-26T11:04:54.834020 #49266] DEBUG -- : Adding tweet: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:04:54.834046 #49266] DEBUG -- : Adding tweet: Gostei de um vídeo @YouTube http://t.co/syhytFVB7p &amp; Jaden Smith, DJ Jazzy Jeff and Alfonso Ribeiro Rap! - The Graham Norton
+D, [2014-12-26T11:04:54.834072 #49266] DEBUG -- : Adding tweet: @AmazonHelps I'm shocked Jeff Bezos would support racism &amp; the degradation of women. #BoycottSororitySisters  #Boycott @amazon
+I, [2014-12-26T11:04:54.834128 #49266]  INFO -- : Query results: ["RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.", "Celtics and Nets tied at 56 at the half. Jeff Green w/12. Sullinger and Bradley with 9 each.", "@Jeff_UNM mañana de leyyy!! Y mañana tambienn homie errryday", "RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.", "RT @MynamesJeffs: Bad Boys 2 ft. Jeff. #mynameisjeff http://t.co/MZjgPZdc28", "Me ha gustado un vídeo de @YouTube (http://t.co/db5GRuPSxW - ME ORINE DE MIEDO D: | Jeff The Killer).", "RT @J5rson: New artwork for sale! - \"Cetomimid\" - http://t.co/U2lWnk1ROu @fineartamerica http://t.co/qKNzFyHp4L", "RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.", "Gostei de um vídeo @YouTube http://t.co/syhytFVB7p &amp; Jaden Smith, DJ Jazzy Jeff and Alfonso Ribeiro Rap! - The Graham Norton", "@AmazonHelps I'm shocked Jeff Bezos would support racism &amp; the degradation of women. #BoycottSororitySisters  #Boycott @amazon"]
+D, [2014-12-26T11:04:54.834163 #49266] DEBUG -- : Sending to Firebase: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:04:55.230055 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zB5NvNo0ibilxbSO"}
+D, [2014-12-26T11:04:55.230224 #49266] DEBUG -- : Sending to Firebase: Celtics and Nets tied at 56 at the half. Jeff Green w/12. Sullinger and Bradley with 9 each.
+D, [2014-12-26T11:04:55.600974 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zBBwT6LtrCy0Psm0"}
+D, [2014-12-26T11:04:55.601098 #49266] DEBUG -- : Sending to Firebase: @Jeff_UNM mañana de leyyy!! Y mañana tambienn homie errryday
+D, [2014-12-26T11:04:55.960857 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zBH_Pb8hfWIJMFym"}
+D, [2014-12-26T11:04:55.960951 #49266] DEBUG -- : Sending to Firebase: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:04:56.372731 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zBNX8SyapqwZ5US3"}
+D, [2014-12-26T11:04:56.372797 #49266] DEBUG -- : Sending to Firebase: RT @MynamesJeffs: Bad Boys 2 ft. Jeff. #mynameisjeff http://t.co/MZjgPZdc28
+D, [2014-12-26T11:04:56.770137 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zBUChmmWG3qA8lC5"}
+D, [2014-12-26T11:04:56.770224 #49266] DEBUG -- : Sending to Firebase: Me ha gustado un vídeo de @YouTube (http://t.co/db5GRuPSxW - ME ORINE DE MIEDO D: | Jeff The Killer).
+D, [2014-12-26T11:04:57.274515 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zBaalUO6p68uCM6w"}
+D, [2014-12-26T11:04:57.274599 #49266] DEBUG -- : Sending to Firebase: RT @J5rson: New artwork for sale! - "Cetomimid" - http://t.co/U2lWnk1ROu @fineartamerica http://t.co/qKNzFyHp4L
+D, [2014-12-26T11:04:57.627862 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zBgXtqSXditRWtCn"}
+D, [2014-12-26T11:04:57.627948 #49266] DEBUG -- : Sending to Firebase: RT @SeanGrandePBP: Jeff Green (1,624) just passed Dana Barros for 8th on the TD Garden all-time scoring list. Ricky Davis (1,659) is next.
+D, [2014-12-26T11:04:57.997006 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zBmBLEVY2WVvtoiu"}
+D, [2014-12-26T11:04:57.997095 #49266] DEBUG -- : Sending to Firebase: Gostei de um vídeo @YouTube http://t.co/syhytFVB7p &amp; Jaden Smith, DJ Jazzy Jeff and Alfonso Ribeiro Rap! - The Graham Norton
+D, [2014-12-26T11:04:58.352683 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zBrtpXErCaD0qYvO"}
+D, [2014-12-26T11:04:58.352773 #49266] DEBUG -- : Sending to Firebase: @AmazonHelps I'm shocked Jeff Bezos would support racism &amp; the degradation of women. #BoycottSororitySisters  #Boycott @amazon
+D, [2014-12-26T11:04:58.710520 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zBxU4U-lCNUtwwMo"}
+I, [2014-12-26T11:05:35.562177 #49266]  INFO -- : Running Twitter query on jeff
+I, [2014-12-26T11:05:35.562213 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:05:35.562236 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:05:35.562259 #49266]  INFO -- : Running search on jeff
+I, [2014-12-26T11:05:35.562325 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:05:36.422347 #49266] DEBUG -- : Adding tweet: A parte boa de descobrirmos que coisas não somos bons a fazer:
+http://t.co/xfhttaGoeN
+D, [2014-12-26T11:05:36.422425 #49266] DEBUG -- : Adding tweet: Nosso amigo Jeff Negreiros Percussionista, arregaçando as mangas e mandando ver...
+Menino de ouro...
+Amigos de... http://t.co/9s4A6lfgvz
+D, [2014-12-26T11:05:36.422458 #49266] DEBUG -- : Adding tweet: Cool instrumental version by the Vitamin String Quartet of "Grace" by Jeff Buckley. Enjoy!
+D, [2014-12-26T11:05:36.422498 #49266] DEBUG -- : Adding tweet: JEFF EDELSTEIN: Elf on a shelf? How about Brad Pitt on a tool kit? http://t.co/kmWap2XwDN
+D, [2014-12-26T11:05:36.422530 #49266] DEBUG -- : Adding tweet: RT @DeEmotieTweets: Blijf alsjeblieft voor altijd bij me..!♥
+D, [2014-12-26T11:05:36.422565 #49266] DEBUG -- : Adding tweet: Pela terceira vez
+D, [2014-12-26T11:05:36.422591 #49266] DEBUG -- : Adding tweet: RT @MLB: After 29 years of sacrifice, @Rangers skipper Jeff Banister gets his moment in the sun. http://t.co/VF3K8QCpvM http://t.co/ykU6HXW…
+D, [2014-12-26T11:05:36.422618 #49266] DEBUG -- : Adding tweet: 期間限定だぞ！急げ！！　http://t.co/6Ma8AxtX0R
+D, [2014-12-26T11:05:36.422644 #49266] DEBUG -- : Adding tweet: Zeller Steal: Tyler Zeller steals the ball and gives it to Jeff Green for the easy finish. http://t.co/tt4p03DqC9
+D, [2014-12-26T11:05:36.422670 #49266] DEBUG -- : Adding tweet: Bitches be so quick to get around but get upset when they get around
+I, [2014-12-26T11:05:36.422739 #49266]  INFO -- : Query results: ["A parte boa de descobrirmos que coisas não somos bons a fazer:\nhttp://t.co/xfhttaGoeN", "Nosso amigo Jeff Negreiros Percussionista, arregaçando as mangas e mandando ver...\nMenino de ouro...\nAmigos de... http://t.co/9s4A6lfgvz", "Cool instrumental version by the Vitamin String Quartet of \"Grace\" by Jeff Buckley. Enjoy!", "JEFF EDELSTEIN: Elf on a shelf? How about Brad Pitt on a tool kit? http://t.co/kmWap2XwDN", "RT @DeEmotieTweets: Blijf alsjeblieft voor altijd bij me..!♥", "Pela terceira vez", "RT @MLB: After 29 years of sacrifice, @Rangers skipper Jeff Banister gets his moment in the sun. http://t.co/VF3K8QCpvM http://t.co/ykU6HXW…", "期間限定だぞ！急げ！！　http://t.co/6Ma8AxtX0R", "Zeller Steal: Tyler Zeller steals the ball and gives it to Jeff Green for the easy finish. http://t.co/tt4p03DqC9", "Bitches be so quick to get around but get upset when they get around"]
+D, [2014-12-26T11:05:36.422775 #49266] DEBUG -- : Sending to Firebase: A parte boa de descobrirmos que coisas não somos bons a fazer:
+http://t.co/xfhttaGoeN
+D, [2014-12-26T11:05:36.770812 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zLFEDA25WV-GFIif"}
+D, [2014-12-26T11:05:36.770878 #49266] DEBUG -- : Sending to Firebase: Nosso amigo Jeff Negreiros Percussionista, arregaçando as mangas e mandando ver...
+Menino de ouro...
+Amigos de... http://t.co/9s4A6lfgvz
+D, [2014-12-26T11:05:37.128481 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zLKl7336nKY-jDhI"}
+D, [2014-12-26T11:05:37.128551 #49266] DEBUG -- : Sending to Firebase: Cool instrumental version by the Vitamin String Quartet of "Grace" by Jeff Buckley. Enjoy!
+D, [2014-12-26T11:05:37.495949 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zLQV_EzKribVZsbW"}
+D, [2014-12-26T11:05:37.496033 #49266] DEBUG -- : Sending to Firebase: JEFF EDELSTEIN: Elf on a shelf? How about Brad Pitt on a tool kit? http://t.co/kmWap2XwDN
+D, [2014-12-26T11:05:37.848164 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zLVzQHEAOScBOrQd"}
+D, [2014-12-26T11:05:37.848258 #49266] DEBUG -- : Sending to Firebase: RT @DeEmotieTweets: Blijf alsjeblieft voor altijd bij me..!♥
+D, [2014-12-26T11:05:38.209247 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zLab1pURdCsRw4ec"}
+D, [2014-12-26T11:05:38.209337 #49266] DEBUG -- : Sending to Firebase: Pela terceira vez
+D, [2014-12-26T11:05:38.560397 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zLg8aPmZJOU9eaVZ"}
+D, [2014-12-26T11:05:38.560494 #49266] DEBUG -- : Sending to Firebase: RT @MLB: After 29 years of sacrifice, @Rangers skipper Jeff Banister gets his moment in the sun. http://t.co/VF3K8QCpvM http://t.co/ykU6HXW…
+D, [2014-12-26T11:05:38.913528 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zLlhee8JLgX98-jS"}
+D, [2014-12-26T11:05:38.913611 #49266] DEBUG -- : Sending to Firebase: 期間限定だぞ！急げ！！　http://t.co/6Ma8AxtX0R
+D, [2014-12-26T11:05:39.263535 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zLr9kcB3j6d3g6VG"}
+D, [2014-12-26T11:05:39.263644 #49266] DEBUG -- : Sending to Firebase: Zeller Steal: Tyler Zeller steals the ball and gives it to Jeff Green for the easy finish. http://t.co/tt4p03DqC9
+D, [2014-12-26T11:05:39.618547 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zLwXpFk2_I2bot7n"}
+D, [2014-12-26T11:05:39.618637 #49266] DEBUG -- : Sending to Firebase: Bitches be so quick to get around but get upset when they get around
+D, [2014-12-26T11:05:39.967935 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zM1AHeZDZUeeBtXq"}
+I, [2014-12-26T11:07:07.243420 #49266]  INFO -- : Running Twitter query on jeff
+I, [2014-12-26T11:07:07.243448 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:07:07.243465 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:07:07.243497 #49266]  INFO -- : Running search on jeff
+I, [2014-12-26T11:07:07.243551 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:07:07.671982 #49266] DEBUG -- : Adding tweet: THE BOSTON CELTICS  HALFTIME ARE TIED 56 - 56::TWO OF THE PROMINENT NAMES BEING DISCUSSED FOR A TRADE JEFF GREEN AND SULLINGER HAVE 21POINTS
+D, [2014-12-26T11:07:07.672077 #49266] DEBUG -- : Adding tweet: RT @sarobards: @J5rson @Grecotel @ItakInteriorDes @MMU_Interiors @Hans_Karl @Youaremiine_ @rippertourldn @JuliesDiary @nowinteriors Ty Jeff…
+D, [2014-12-26T11:07:07.672110 #49266] DEBUG -- : Adding tweet: Jeff just turned up at our house without a top on covered in snow😂
+D, [2014-12-26T11:07:07.672139 #49266] DEBUG -- : Adding tweet: RT @dylanwobrien: aviso a jeff davis: não estou esperando todo esse tempo para chegar na s5 e me deparar com stalia farofa #askwolfie
+D, [2014-12-26T11:07:07.672166 #49266] DEBUG -- : Adding tweet: RT @CelticsNation5: HALFTIME
+
+Celtics- 56
+Nets- 56
+
+1st Half Leaders
+Jeff Green- 12pts, 3ast
+Avery Bradley- 9pts, 3reb
+D, [2014-12-26T11:07:07.672193 #49266] DEBUG -- : Adding tweet: #np Tha Playah &amp; Angerfist ft MC Jeff - Just Like Me
+D, [2014-12-26T11:07:07.672218 #49266] DEBUG -- : Adding tweet: RT @J5rson: New artwork for sale! - "Cetomimid" - http://t.co/U2lWnk1ROu @fineartamerica http://t.co/qKNzFyHp4L
+D, [2014-12-26T11:07:07.672245 #49266] DEBUG -- : Adding tweet: Everyone please pray for Duke Football. Nothing wrong with them, just that they getting Jeff Driskel.
+D, [2014-12-26T11:07:07.672270 #49266] DEBUG -- : Adding tweet: At least it isn't a solid gold statue of Jack and Captain by Jeff Koons… #thearchers
+D, [2014-12-26T11:07:07.672296 #49266] DEBUG -- : Adding tweet: RT @J5rson: New artwork for sale! - "Aka Manah Alien Tongue" - http://t.co/hLjtTsaEg4 @fineartamerica http://t.co/Hcz929N4mC
+I, [2014-12-26T11:07:07.672351 #49266]  INFO -- : Query results: ["THE BOSTON CELTICS  HALFTIME ARE TIED 56 - 56::TWO OF THE PROMINENT NAMES BEING DISCUSSED FOR A TRADE JEFF GREEN AND SULLINGER HAVE 21POINTS", "RT @sarobards: @J5rson @Grecotel @ItakInteriorDes @MMU_Interiors @Hans_Karl @Youaremiine_ @rippertourldn @JuliesDiary @nowinteriors Ty Jeff…", "Jeff just turned up at our house without a top on covered in snow😂", "RT @dylanwobrien: aviso a jeff davis: não estou esperando todo esse tempo para chegar na s5 e me deparar com stalia farofa #askwolfie", "RT @CelticsNation5: HALFTIME\n\nCeltics- 56\nNets- 56\n\n1st Half Leaders\nJeff Green- 12pts, 3ast\nAvery Bradley- 9pts, 3reb", "#np Tha Playah &amp; Angerfist ft MC Jeff - Just Like Me", "RT @J5rson: New artwork for sale! - \"Cetomimid\" - http://t.co/U2lWnk1ROu @fineartamerica http://t.co/qKNzFyHp4L", "Everyone please pray for Duke Football. Nothing wrong with them, just that they getting Jeff Driskel.", "At least it isn't a solid gold statue of Jack and Captain by Jeff Koons… #thearchers", "RT @J5rson: New artwork for sale! - \"Aka Manah Alien Tongue\" - http://t.co/hLjtTsaEg4 @fineartamerica http://t.co/Hcz929N4mC"]
+D, [2014-12-26T11:07:07.672385 #49266] DEBUG -- : Sending to Firebase: THE BOSTON CELTICS  HALFTIME ARE TIED 56 - 56::TWO OF THE PROMINENT NAMES BEING DISCUSSED FOR A TRADE JEFF GREEN AND SULLINGER HAVE 21POINTS
+D, [2014-12-26T11:07:08.033151 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zgXCAtDhA0vP6x3Z"}
+D, [2014-12-26T11:07:08.033249 #49266] DEBUG -- : Sending to Firebase: RT @sarobards: @J5rson @Grecotel @ItakInteriorDes @MMU_Interiors @Hans_Karl @Youaremiine_ @rippertourldn @JuliesDiary @nowinteriors Ty Jeff…
+D, [2014-12-26T11:07:08.400129 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zgbupqedX4Lhc0le"}
+D, [2014-12-26T11:07:08.400222 #49266] DEBUG -- : Sending to Firebase: Jeff just turned up at our house without a top on covered in snow😂
+D, [2014-12-26T11:07:08.763160 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zghZCDlkplzd46Om"}
+D, [2014-12-26T11:07:08.763262 #49266] DEBUG -- : Sending to Firebase: RT @dylanwobrien: aviso a jeff davis: não estou esperando todo esse tempo para chegar na s5 e me deparar com stalia farofa #askwolfie
+D, [2014-12-26T11:07:09.151846 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zgncNXwoWiCCKiYC"}
+D, [2014-12-26T11:07:09.152084 #49266] DEBUG -- : Sending to Firebase: RT @CelticsNation5: HALFTIME
+
+Celtics- 56
+Nets- 56
+
+1st Half Leaders
+Jeff Green- 12pts, 3ast
+Avery Bradley- 9pts, 3reb
+D, [2014-12-26T11:07:09.528717 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zgtFbgpZ0Wm2JHB3"}
+D, [2014-12-26T11:07:09.528812 #49266] DEBUG -- : Sending to Firebase: #np Tha Playah &amp; Angerfist ft MC Jeff - Just Like Me
+D, [2014-12-26T11:07:09.913270 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zgzZav-GTGRTHf_K"}
+D, [2014-12-26T11:07:09.913366 #49266] DEBUG -- : Sending to Firebase: RT @J5rson: New artwork for sale! - "Cetomimid" - http://t.co/U2lWnk1ROu @fineartamerica http://t.co/qKNzFyHp4L
+D, [2014-12-26T11:07:10.281912 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zh4KLCghkFYf4c6P"}
+D, [2014-12-26T11:07:10.281999 #49266] DEBUG -- : Sending to Firebase: Everyone please pray for Duke Football. Nothing wrong with them, just that they getting Jeff Driskel.
+D, [2014-12-26T11:07:10.669871 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zhAOzpj9-PdpMdG9"}
+D, [2014-12-26T11:07:10.669964 #49266] DEBUG -- : Sending to Firebase: At least it isn't a solid gold statue of Jack and Captain by Jeff Koons… #thearchers
+D, [2014-12-26T11:07:11.037932 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zhG6-0jdHh4qInFU"}
+D, [2014-12-26T11:07:11.038019 #49266] DEBUG -- : Sending to Firebase: RT @J5rson: New artwork for sale! - "Aka Manah Alien Tongue" - http://t.co/hLjtTsaEg4 @fineartamerica http://t.co/Hcz929N4mC
+D, [2014-12-26T11:07:11.385523 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zhLVAfa96a3XtIkH"}
+I, [2014-12-26T11:08:10.531341 #49266]  INFO -- : Running Twitter query on FUCKING
+I, [2014-12-26T11:08:10.531386 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T11:08:10.531412 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T11:08:10.531438 #49266]  INFO -- : Running search on FUCKING
+I, [2014-12-26T11:08:10.531511 #49266]  INFO -- : Running search...
+D, [2014-12-26T11:08:10.939778 #49266] DEBUG -- : Adding tweet: @patlike Fucking no. Fuck.
+D, [2014-12-26T11:08:10.939856 #49266] DEBUG -- : Adding tweet: @Rob_0416 OH MY FUCKING GOD
+D, [2014-12-26T11:08:10.939888 #49266] DEBUG -- : Adding tweet: RT @sirgunner1886: Fucking Martin Atkinson. Staring the situation right in the face and he gets that wrong. You stupid fucking ref. Typical.
+D, [2014-12-26T11:08:10.939917 #49266] DEBUG -- : Adding tweet: @KayMvck_ my niggggaaaa 😭😭 oh my fucking god that made my day 😪
+D, [2014-12-26T11:08:10.939944 #49266] DEBUG -- : Adding tweet: ---&gt; http://t.co/RoiEJ5RCr1 &lt;--- #fucking #passionate #xxx #sex #porn #amateur #nude #sexy #naked #adult http://t.co/LWlqiOwQzh
+D, [2014-12-26T11:08:10.939971 #49266] DEBUG -- : Adding tweet: @GDKJordie oh by the way i know your jordaninan from palestine watch what happens to you fucking terrorist
+D, [2014-12-26T11:08:10.939997 #49266] DEBUG -- : Adding tweet: Gorgeous blondie babe Vanessa Cage enjoys glamour fucking #xxx #anal #milf #iPad #usa http://t.co/xzceH2Qczk
+D, [2014-12-26T11:08:10.940022 #49266] DEBUG -- : Adding tweet: You're just like fucking Jaydon and Matthew. Fuck you.
+D, [2014-12-26T11:08:10.940048 #49266] DEBUG -- : Adding tweet: RT @UKBanter: I dont need to look out the window to see if its snowing, it all over my fucking twitter timeline
+D, [2014-12-26T11:08:10.940073 #49266] DEBUG -- : Adding tweet: Wonderful 101 is a fucking fantastic game.
+I, [2014-12-26T11:08:10.940119 #49266]  INFO -- : Query results: ["@patlike Fucking no. Fuck.", "@Rob_0416 OH MY FUCKING GOD", "RT @sirgunner1886: Fucking Martin Atkinson. Staring the situation right in the face and he gets that wrong. You stupid fucking ref. Typical.", "@KayMvck_ my niggggaaaa 😭😭 oh my fucking god that made my day 😪", "---&gt; http://t.co/RoiEJ5RCr1 &lt;--- #fucking #passionate #xxx #sex #porn #amateur #nude #sexy #naked #adult http://t.co/LWlqiOwQzh", "@GDKJordie oh by the way i know your jordaninan from palestine watch what happens to you fucking terrorist", "Gorgeous blondie babe Vanessa Cage enjoys glamour fucking #xxx #anal #milf #iPad #usa http://t.co/xzceH2Qczk", "You're just like fucking Jaydon and Matthew. Fuck you.", "RT @UKBanter: I dont need to look out the window to see if its snowing, it all over my fucking twitter timeline", "Wonderful 101 is a fucking fantastic game."]
+D, [2014-12-26T11:08:10.940173 #49266] DEBUG -- : Sending to Firebase: @patlike Fucking no. Fuck.
+D, [2014-12-26T11:08:11.301012 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zvyj6_G8ioa-ULPn"}
+D, [2014-12-26T11:08:11.301104 #49266] DEBUG -- : Sending to Firebase: @Rob_0416 OH MY FUCKING GOD
+D, [2014-12-26T11:08:11.651298 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zw3FxwFLNuywwQyJ"}
+D, [2014-12-26T11:08:11.651399 #49266] DEBUG -- : Sending to Firebase: RT @sirgunner1886: Fucking Martin Atkinson. Staring the situation right in the face and he gets that wrong. You stupid fucking ref. Typical.
+D, [2014-12-26T11:08:12.005035 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zw8fRz4Qo-SlZoOW"}
+D, [2014-12-26T11:08:12.005107 #49266] DEBUG -- : Sending to Firebase: @KayMvck_ my niggggaaaa 😭😭 oh my fucking god that made my day 😪
+D, [2014-12-26T11:08:12.348295 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zwE8R-gJBWaMNJJO"}
+D, [2014-12-26T11:08:12.348361 #49266] DEBUG -- : Sending to Firebase: ---&gt; http://t.co/RoiEJ5RCr1 &lt;--- #fucking #passionate #xxx #sex #porn #amateur #nude #sexy #naked #adult http://t.co/LWlqiOwQzh
+D, [2014-12-26T11:08:12.707515 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zwJjAbqY9fGgpIkz"}
+D, [2014-12-26T11:08:12.707580 #49266] DEBUG -- : Sending to Firebase: @GDKJordie oh by the way i know your jordaninan from palestine watch what happens to you fucking terrorist
+D, [2014-12-26T11:08:13.071114 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zwPK7nMdBWvIg4gQ"}
+D, [2014-12-26T11:08:13.071187 #49266] DEBUG -- : Sending to Firebase: Gorgeous blondie babe Vanessa Cage enjoys glamour fucking #xxx #anal #milf #iPad #usa http://t.co/xzceH2Qczk
+D, [2014-12-26T11:08:13.412182 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zwUjeF6sw0CeQ4QU"}
+D, [2014-12-26T11:08:13.412242 #49266] DEBUG -- : Sending to Firebase: You're just like fucking Jaydon and Matthew. Fuck you.
+D, [2014-12-26T11:08:13.771153 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zw_MfbGBORsKQZcJ"}
+D, [2014-12-26T11:08:13.771241 #49266] DEBUG -- : Sending to Firebase: RT @UKBanter: I dont need to look out the window to see if its snowing, it all over my fucking twitter timeline
+D, [2014-12-26T11:08:14.155062 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zwfIIffSqufR3aVb"}
+D, [2014-12-26T11:08:14.155147 #49266] DEBUG -- : Sending to Firebase: Wonderful 101 is a fucking fantastic game.
+D, [2014-12-26T11:08:14.506140 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6zwkqGQtVXQSZfHv2"}
