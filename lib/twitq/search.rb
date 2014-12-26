@@ -56,7 +56,7 @@ INFO
 				config.consumer_key        = '5LmU6ckudMC5spqqRK1kJHVsu' #creds['consumer_key']
 				config.consumer_secret     = 'peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S' #creds['consumer_secret']
 				config.access_token        = '2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS' #creds['access_token']
-				config.access_token_secret = 'oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz' #creds['access_token_scret']
+				config.access_token_secret = 'nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS' #creds['access_token_scret']
 			end
 			log.info("Running search...")
 			client.search(query).take(10).collect do |tweet|	
