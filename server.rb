@@ -7,7 +7,7 @@ require './lib/twitq'
 
 LOGFILE = File.expand_path(File.dirname(__FILE__)) + '/logs/server.log'
 HTML	= File.expand_path(File.dirname(__FILE__)) + '/public/index.html'
-D3	= File.expand_path(File.dirname(__FILE__)) + '/public/d3fire.js'
+D3	= File.expand_path(File.dirname(__FILE__)) + '/public/d3.layout.cloud.js'
 LOG 	= Logger.new(LOGFILE) #(LOGFILE)
 
 opts = {
@@ -21,6 +21,10 @@ class Server < Sinatra::Base
 	get '/' do			
 		LOG.info("HTML Path: #{HTML}")
 		erb :index
+	end
+
+	get '/public/d3.layout.cloud.js' do 
+		send_file(D3)
 	end
 
 	post '/query' do

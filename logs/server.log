@@ -740,3 +740,975 @@ I, [2014-12-25T22:28:05.926181 #13434]  INFO -- : Submitting twitter query for j
 [2014-12-25 22:28:41] DEBUG close: ::1:64108
 [2014-12-25 22:28:51] INFO  going to shutdown ...
 [2014-12-25 22:28:51] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 08:54:05] INFO  WEBrick 1.3.1
+[2014-12-26 08:54:05] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 08:54:05] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 08:54:05] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 08:54:05] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 08:54:05] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 08:54:05] INFO  WEBrick::HTTPServer#start: pid=4226 port=4343
+[2014-12-26 08:54:08] DEBUG accept: ::1:64173
+[2014-12-26 08:54:08] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T08:54:08.543627 #4226]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 08:54:08] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:54:31] DEBUG close: ::1:64173
+[2014-12-26 08:54:32] INFO  going to shutdown ...
+[2014-12-26 08:54:32] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 08:56:41] INFO  WEBrick 1.3.1
+[2014-12-26 08:56:41] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 08:56:41] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 08:56:41] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 08:56:41] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 08:56:41] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 08:56:41] INFO  WEBrick::HTTPServer#start: pid=5790 port=4343
+[2014-12-26 08:56:43] DEBUG accept: ::1:64277
+[2014-12-26 08:56:43] DEBUG accept: ::1:64276
+[2014-12-26 08:56:43] DEBUG accept: ::1:64278
+[2014-12-26 08:56:43] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T08:56:43.207735 #5790]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 08:56:43] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:56:43] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:56:53] DEBUG close: ::1:64278
+[2014-12-26 08:57:13] DEBUG close: ::1:64276
+[2014-12-26 08:57:13] DEBUG close: ::1:64277
+[2014-12-26 08:57:17] INFO  going to shutdown ...
+[2014-12-26 08:57:17] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 08:58:11] INFO  WEBrick 1.3.1
+[2014-12-26 08:58:11] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 08:58:11] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 08:58:11] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 08:58:11] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 08:58:11] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 08:58:11] INFO  WEBrick::HTTPServer#start: pid=6697 port=4343
+[2014-12-26 08:58:12] DEBUG accept: ::1:64335
+[2014-12-26 08:58:12] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T08:58:12.846914 #6697]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 08:58:12] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:58:12] DEBUG accept: ::1:64336
+[2014-12-26 08:58:12] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:58:41] DEBUG close: ::1:64335
+[2014-12-26 08:58:41] DEBUG close: ::1:64336
+[2014-12-26 08:58:42] INFO  going to shutdown ...
+[2014-12-26 08:58:42] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 08:59:11] INFO  WEBrick 1.3.1
+[2014-12-26 08:59:11] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 08:59:11] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 08:59:11] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 08:59:11] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 08:59:11] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 08:59:11] INFO  WEBrick::HTTPServer#start: pid=7379 port=4343
+[2014-12-26 08:59:11] DEBUG accept: ::1:64371
+[2014-12-26 08:59:11] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T08:59:11.875659 #7379]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 08:59:11] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:59:11] DEBUG accept: ::1:64372
+[2014-12-26 08:59:11] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:59:20] DEBUG close: ::1:64371
+[2014-12-26 08:59:20] DEBUG close: ::1:64372
+[2014-12-26 08:59:21] INFO  going to shutdown ...
+[2014-12-26 08:59:21] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 08:59:32] INFO  WEBrick 1.3.1
+[2014-12-26 08:59:32] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 08:59:32] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 08:59:32] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 08:59:32] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 08:59:32] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 08:59:32] INFO  WEBrick::HTTPServer#start: pid=7587 port=4343
+[2014-12-26 08:59:33] DEBUG accept: ::1:64386
+[2014-12-26 08:59:33] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T08:59:33.327883 #7587]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 08:59:33] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:59:33] DEBUG accept: ::1:64387
+[2014-12-26 08:59:33] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:59:36] DEBUG close: ::1:64386
+[2014-12-26 08:59:36] DEBUG close: ::1:64387
+[2014-12-26 08:59:37] INFO  going to shutdown ...
+[2014-12-26 08:59:37] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 08:59:53] INFO  WEBrick 1.3.1
+[2014-12-26 08:59:53] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 08:59:53] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 08:59:53] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 08:59:53] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 08:59:53] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 08:59:53] INFO  WEBrick::HTTPServer#start: pid=7817 port=4343
+[2014-12-26 08:59:53] DEBUG accept: ::1:64405
+[2014-12-26 08:59:53] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T08:59:53.741913 #7817]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 08:59:53] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:59:53] DEBUG accept: ::1:64406
+[2014-12-26 08:59:53] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 08:59:57] DEBUG close: ::1:64405
+[2014-12-26 08:59:57] DEBUG close: ::1:64406
+[2014-12-26 08:59:57] INFO  going to shutdown ...
+[2014-12-26 08:59:57] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:00:41] INFO  WEBrick 1.3.1
+[2014-12-26 09:00:41] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:00:41] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:00:41] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:00:41] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:00:41] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:00:41] INFO  WEBrick::HTTPServer#start: pid=8347 port=4343
+[2014-12-26 09:00:41] DEBUG accept: ::1:64442
+[2014-12-26 09:00:41] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:00:41.728507 #8347]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:00:41] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:00:45] DEBUG close: ::1:64442
+[2014-12-26 09:00:45] INFO  going to shutdown ...
+[2014-12-26 09:00:45] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:01:08] INFO  WEBrick 1.3.1
+[2014-12-26 09:01:08] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:01:08] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:01:08] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:01:08] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:01:08] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:01:08] INFO  WEBrick::HTTPServer#start: pid=8628 port=4343
+[2014-12-26 09:01:09] DEBUG accept: ::1:64463
+[2014-12-26 09:01:09] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:01:09.110864 #8628]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:01:11] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:01:11.333923 #8628]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:01:21] DEBUG close: ::1:64463
+[2014-12-26 09:01:23] INFO  going to shutdown ...
+[2014-12-26 09:01:23] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:01:51] INFO  WEBrick 1.3.1
+[2014-12-26 09:01:51] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:01:51] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:01:51] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:01:51] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:01:51] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:01:51] INFO  WEBrick::HTTPServer#start: pid=9010 port=4343
+[2014-12-26 09:01:53] DEBUG accept: ::1:64503
+[2014-12-26 09:01:53] DEBUG accept: ::1:64504
+[2014-12-26 09:01:53] DEBUG accept: ::1:64505
+[2014-12-26 09:01:53] DEBUG accept: ::1:64506
+[2014-12-26 09:01:53] DEBUG accept: ::1:64507
+[2014-12-26 09:01:53] DEBUG accept: ::1:64508
+[2014-12-26 09:01:53] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:01:53.587757 #9010]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:01:58] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:02:03] DEBUG close: ::1:64506
+[2014-12-26 09:02:03] DEBUG close: ::1:64507
+[2014-12-26 09:02:03] DEBUG close: ::1:64508
+[2014-12-26 09:02:03] DEBUG close: ::1:64505
+[2014-12-26 09:02:03] DEBUG close: ::1:64504
+[2014-12-26 09:02:24] DEBUG close: ::1:64503
+[2014-12-26 09:02:25] INFO  going to shutdown ...
+[2014-12-26 09:02:25] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:04:27] INFO  WEBrick 1.3.1
+[2014-12-26 09:04:27] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:04:27] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:04:27] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:04:27] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:04:27] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:04:27] INFO  WEBrick::HTTPServer#start: pid=10697 port=4343
+[2014-12-26 09:04:27] DEBUG accept: ::1:64633
+[2014-12-26 09:04:27] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:04:27] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:04:29] DEBUG accept: ::1:64635
+[2014-12-26 09:04:29] DEBUG accept: ::1:64636
+[2014-12-26 09:04:29] DEBUG accept: ::1:64637
+[2014-12-26 09:04:29] DEBUG accept: ::1:64638
+[2014-12-26 09:04:30] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:04:30.040849 #10697]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:04:30] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:04:30.120620 #10697]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:04:30] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:04:30] DEBUG Errno::EPIPE: Broken pipe
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:458:in `write'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:458:in `<<'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:458:in `_write_data'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:430:in `send_body_string'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:304:in `send_body'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:207:in `send_response'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:110:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2014-12-26 09:04:30] DEBUG close: ::1:64633
+[2014-12-26 09:04:30] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:04:32] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:04:32.554552 #10697]  INFO -- : Submitting twitter query for Test
+[2014-12-26 09:04:37] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:04:47] DEBUG close: ::1:64638
+[2014-12-26 09:04:47] DEBUG close: ::1:64636
+[2014-12-26 09:04:47] DEBUG close: ::1:64637
+[2014-12-26 09:05:00] DEBUG close: ::1:64635
+[2014-12-26 09:05:01] INFO  going to shutdown ...
+[2014-12-26 09:05:01] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:07:39] INFO  WEBrick 1.3.1
+[2014-12-26 09:07:39] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:07:39] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:07:39] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:07:39] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:07:39] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:07:39] INFO  WEBrick::HTTPServer#start: pid=12616 port=4343
+[2014-12-26 09:07:40] DEBUG accept: ::1:64876
+[2014-12-26 09:07:40] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:07:40.994837 #12616]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:07:41] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:07:42] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:07:42.989343 #12616]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:07:48] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:08:18] DEBUG close: ::1:64876
+[2014-12-26 09:08:21] INFO  going to shutdown ...
+[2014-12-26 09:08:21] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:09:16] INFO  WEBrick 1.3.1
+[2014-12-26 09:09:16] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:09:16] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:09:16] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:09:16] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:09:16] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:09:16] INFO  WEBrick::HTTPServer#start: pid=13473 port=4343
+[2014-12-26 09:09:19] DEBUG accept: ::1:64947
+[2014-12-26 09:09:19] DEBUG accept: ::1:64948
+[2014-12-26 09:09:19] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:09:19.813746 #13473]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:09:19] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:09:19.879305 #13473]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:09:19] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:09:19] ERROR Errno::ECONNRESET: Connection reset by peer
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2014-12-26 09:09:19] DEBUG close: ::1:64948
+[2014-12-26 09:09:19] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:09:21] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:09:21.331925 #13473]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:09:27] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:09:32] DEBUG close: ::1:64947
+[2014-12-26 09:09:33] INFO  going to shutdown ...
+[2014-12-26 09:09:33] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:09:52] INFO  WEBrick 1.3.1
+[2014-12-26 09:09:52] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:09:52] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:09:52] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:09:52] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:09:52] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:09:52] INFO  WEBrick::HTTPServer#start: pid=13781 port=4343
+[2014-12-26 09:09:53] DEBUG accept: ::1:64977
+[2014-12-26 09:09:53] DEBUG accept: ::1:64978
+[2014-12-26 09:09:53] DEBUG accept: ::1:64979
+[2014-12-26 09:09:53] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:09:53.661835 #13781]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:09:53] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:09:53.687429 #13781]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:09:53] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:09:55] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:09:55.566517 #13781]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:10:10] DEBUG close: ::1:64978
+[2014-12-26 09:10:10] DEBUG close: ::1:64979
+[2014-12-26 09:10:12] DEBUG close: ::1:64977
+[2014-12-26 09:10:13] INFO  going to shutdown ...
+[2014-12-26 09:10:13] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:20:53] INFO  WEBrick 1.3.1
+[2014-12-26 09:20:53] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:20:53] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:20:53] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:20:53] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:20:53] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:20:53] INFO  WEBrick::HTTPServer#start: pid=20120 port=4343
+[2014-12-26 09:20:54] DEBUG accept: ::1:65495
+[2014-12-26 09:20:54] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:20:54.679808 #20120]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:20:57] DEBUG accept: ::1:65503
+[2014-12-26 09:20:57] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:20:57.629365 #20120]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:20:57] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:20:59] ERROR Errno::ECONNRESET: Connection reset by peer
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2014-12-26 09:20:59] DEBUG close: ::1:65495
+[2014-12-26 09:20:59] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:20:59.611985 #20120]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:21:33] DEBUG close: ::1:65503
+[2014-12-26 09:21:39] INFO  going to shutdown ...
+[2014-12-26 09:21:39] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:25:30] INFO  WEBrick 1.3.1
+[2014-12-26 09:25:30] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:25:30] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:25:30] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:25:30] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:25:30] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:25:30] INFO  WEBrick::HTTPServer#start: pid=22907 port=4343
+[2014-12-26 09:25:32] DEBUG accept: ::1:49314
+[2014-12-26 09:25:32] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:25:32.838638 #22907]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:25:32] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:25:32.852272 #22907]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:25:32] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:25:35] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:25:35.614133 #22907]  INFO -- : Submitting twitter query for this
+[2014-12-26 09:25:44] DEBUG close: ::1:49314
+[2014-12-26 09:25:44] INFO  going to shutdown ...
+[2014-12-26 09:25:44] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:27:00] INFO  WEBrick 1.3.1
+[2014-12-26 09:27:00] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:27:00] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:27:00] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:27:00] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:27:00] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:27:00] INFO  WEBrick::HTTPServer#start: pid=23815 port=4343
+[2014-12-26 09:27:02] DEBUG accept: ::1:49392
+[2014-12-26 09:27:02] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:27:02.437291 #23815]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:27:02] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:27:02.448920 #23815]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:27:04] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:27:04.863153 #23815]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:27:18] DEBUG close: ::1:49392
+[2014-12-26 09:27:20] INFO  going to shutdown ...
+[2014-12-26 09:27:20] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:29:52] INFO  WEBrick 1.3.1
+[2014-12-26 09:29:52] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:29:52] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:29:52] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:29:52] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:29:52] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:29:52] INFO  WEBrick::HTTPServer#start: pid=25530 port=4343
+[2014-12-26 09:29:56] DEBUG accept: ::1:49546
+[2014-12-26 09:29:56] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:29:56.666748 #25530]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:30:00] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:30:04] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:30:04.490737 #25530]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:30:24] INFO  going to shutdown ...
+[2014-12-26 09:30:24] DEBUG close: ::1:49546
+[2014-12-26 09:30:24] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:37:01] INFO  WEBrick 1.3.1
+[2014-12-26 09:37:01] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:37:01] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:37:01] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:37:01] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:37:01] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:37:01] INFO  WEBrick::HTTPServer#start: pid=29554 port=4343
+[2014-12-26 09:37:04] DEBUG accept: ::1:49909
+[2014-12-26 09:37:04] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:37:04.347380 #29554]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:37:09] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:37:18] DEBUG close: ::1:49909
+[2014-12-26 09:37:20] INFO  going to shutdown ...
+[2014-12-26 09:37:20] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:38:12] INFO  WEBrick 1.3.1
+[2014-12-26 09:38:12] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:38:12] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:38:12] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:38:12] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:38:12] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:38:12] INFO  WEBrick::HTTPServer#start: pid=30185 port=4343
+[2014-12-26 09:38:15] DEBUG accept: ::1:49964
+[2014-12-26 09:38:15] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:38:15.443639 #30185]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:38:19] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:38:24] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:38:24.588480 #30185]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:38:47] INFO  going to shutdown ...
+[2014-12-26 09:38:47] DEBUG close: ::1:49964
+[2014-12-26 09:38:47] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:39:03] INFO  WEBrick 1.3.1
+[2014-12-26 09:39:03] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:39:03] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:39:03] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:39:03] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:39:03] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:39:03] INFO  WEBrick::HTTPServer#start: pid=30669 port=4343
+[2014-12-26 09:39:05] DEBUG accept: ::1:50017
+[2014-12-26 09:39:05] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:39:05.665996 #30669]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:39:07] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:39:07.645582 #30669]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:39:16] DEBUG close: ::1:50017
+[2014-12-26 09:39:17] INFO  going to shutdown ...
+[2014-12-26 09:39:17] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:39:31] INFO  WEBrick 1.3.1
+[2014-12-26 09:39:31] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:39:31] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:39:31] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:39:31] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:39:31] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:39:31] INFO  WEBrick::HTTPServer#start: pid=30976 port=4343
+[2014-12-26 09:39:32] DEBUG accept: ::1:50046
+[2014-12-26 09:39:32] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:39:32.168757 #30976]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:39:37] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:40:07] DEBUG close: ::1:50046
+[2014-12-26 09:41:54] INFO  going to shutdown ...
+[2014-12-26 09:41:54] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:46:04] INFO  WEBrick 1.3.1
+[2014-12-26 09:46:04] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:46:04] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:46:04] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:46:04] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:46:04] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:46:04] INFO  WEBrick::HTTPServer#start: pid=34937 port=4343
+[2014-12-26 09:46:07] DEBUG accept: ::1:50358
+[2014-12-26 09:46:07] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:46:07.485015 #34937]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:46:07] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:46:09] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:46:09.342851 #34937]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:46:43] DEBUG close: ::1:50358
+[2014-12-26 09:46:47] INFO  going to shutdown ...
+[2014-12-26 09:46:47] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:47:03] INFO  WEBrick 1.3.1
+[2014-12-26 09:47:03] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:47:03] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:47:03] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:47:03] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:47:03] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:47:03] INFO  WEBrick::HTTPServer#start: pid=35526 port=4343
+[2014-12-26 09:47:03] DEBUG accept: ::1:50405
+[2014-12-26 09:47:03] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:47:03.484676 #35526]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:47:10] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:47:16] DEBUG close: ::1:50405
+[2014-12-26 09:47:17] INFO  going to shutdown ...
+[2014-12-26 09:47:17] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:47:48] INFO  WEBrick 1.3.1
+[2014-12-26 09:47:48] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:47:48] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:47:48] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:47:48] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:47:48] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:47:48] INFO  WEBrick::HTTPServer#start: pid=36007 port=4343
+[2014-12-26 09:47:49] DEBUG accept: ::1:50450
+[2014-12-26 09:47:49] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:47:49] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:47:50] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:47:50] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:47:50] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:47:50] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:47:51] DEBUG accept: ::1:50453
+[2014-12-26 09:47:51] DEBUG accept: ::1:50452
+[2014-12-26 09:47:52] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:47:52.034835 #36007]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:47:52] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:47:52.175851 #36007]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:48:10] DEBUG close: ::1:50453
+[2014-12-26 09:48:10] DEBUG close: ::1:50452
+[2014-12-26 09:48:22] DEBUG close: ::1:50450
+[2014-12-26 09:48:37] INFO  going to shutdown ...
+[2014-12-26 09:48:37] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:49:33] INFO  WEBrick 1.3.1
+[2014-12-26 09:49:33] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:49:33] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:49:33] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:49:33] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:49:33] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:49:33] INFO  WEBrick::HTTPServer#start: pid=37091 port=4343
+[2014-12-26 09:49:34] DEBUG accept: ::1:50520
+[2014-12-26 09:49:34] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:49:34.423073 #37091]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:49:34] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:49:38] INFO  going to shutdown ...
+[2014-12-26 09:49:38] DEBUG close: ::1:50520
+[2014-12-26 09:49:38] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:49:54] INFO  WEBrick 1.3.1
+[2014-12-26 09:49:54] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:49:54] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:49:54] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:49:54] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:49:54] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:49:54] INFO  WEBrick::HTTPServer#start: pid=37321 port=4343
+[2014-12-26 09:49:54] DEBUG accept: ::1:50537
+[2014-12-26 09:49:54] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:49:54.247368 #37321]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:49:54] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:49:54] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:49:54.825216 #37321]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:49:54] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:49:58] INFO  going to shutdown ...
+[2014-12-26 09:49:58] DEBUG close: ::1:50537
+[2014-12-26 09:49:58] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:50:41] INFO  WEBrick 1.3.1
+[2014-12-26 09:50:41] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:50:41] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:50:41] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:50:41] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:50:41] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:50:41] INFO  WEBrick::HTTPServer#start: pid=37853 port=4343
+[2014-12-26 09:50:42] DEBUG accept: ::1:50578
+[2014-12-26 09:50:42] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:50:42.015235 #37853]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:50:42] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:50:52] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:50:52.274960 #37853]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:51:26] DEBUG close: ::1:50578
+[2014-12-26 09:51:28] INFO  going to shutdown ...
+[2014-12-26 09:51:28] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:51:58] INFO  WEBrick 1.3.1
+[2014-12-26 09:51:58] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:51:58] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:51:58] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:51:58] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:51:58] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:51:58] INFO  WEBrick::HTTPServer#start: pid=38610 port=4343
+[2014-12-26 09:51:59] DEBUG accept: ::1:50639
+[2014-12-26 09:51:59] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:51:59.462991 #38610]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:52:04] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:52:07] DEBUG close: ::1:50639
+[2014-12-26 09:52:07] INFO  going to shutdown ...
+[2014-12-26 09:52:07] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:52:09] INFO  WEBrick 1.3.1
+[2014-12-26 09:52:09] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:52:09] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:52:09] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:52:09] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:52:09] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:52:09] INFO  WEBrick::HTTPServer#start: pid=38713 port=4343
+[2014-12-26 09:52:11] INFO  going to shutdown ...
+[2014-12-26 09:52:11] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:52:33] INFO  WEBrick 1.3.1
+[2014-12-26 09:52:33] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:52:33] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:52:33] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:52:33] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:52:33] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:52:33] INFO  WEBrick::HTTPServer#start: pid=38995 port=4343
+[2014-12-26 09:52:38] DEBUG accept: ::1:50681
+[2014-12-26 09:52:38] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:52:38] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:52:40] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:52:40] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:52:42] DEBUG accept: ::1:50685
+[2014-12-26 09:52:42] DEBUG accept: ::1:50684
+[2014-12-26 09:52:42] DEBUG accept: ::1:50686
+[2014-12-26 09:52:42] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:52:42.877528 #38995]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:52:42] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:52:42.959102 #38995]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:52:44] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:52:44.696124 #38995]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:52:56] DEBUG close: ::1:50685
+[2014-12-26 09:52:56] DEBUG close: ::1:50686
+[2014-12-26 09:52:56] DEBUG close: ::1:50684
+[2014-12-26 09:52:56] DEBUG close: ::1:50681
+[2014-12-26 09:52:56] INFO  going to shutdown ...
+[2014-12-26 09:52:56] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:54:04] INFO  WEBrick 1.3.1
+[2014-12-26 09:54:04] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:54:04] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:54:04] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:54:04] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:54:04] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:54:04] INFO  WEBrick::HTTPServer#start: pid=39904 port=4343
+[2014-12-26 09:54:04] DEBUG accept: ::1:50764
+[2014-12-26 09:54:04] DEBUG accept: ::1:50766
+[2014-12-26 09:54:04] DEBUG accept: ::1:50765
+[2014-12-26 09:54:04] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:54:04] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:54:04] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:54:04] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:54:05] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:54:05] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:54:08] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:54:08.328075 #39904]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:54:08] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:54:08.414742 #39904]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:54:10] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:54:10.685031 #39904]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:54:14] DEBUG close: ::1:50765
+[2014-12-26 09:54:14] DEBUG close: ::1:50766
+[2014-12-26 09:54:23] DEBUG close: ::1:50764
+[2014-12-26 09:54:24] INFO  going to shutdown ...
+[2014-12-26 09:54:24] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:55:21] INFO  WEBrick 1.3.1
+[2014-12-26 09:55:21] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:55:21] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:55:21] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:55:21] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:55:21] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:55:21] INFO  WEBrick::HTTPServer#start: pid=40696 port=4343
+[2014-12-26 09:55:22] DEBUG accept: ::1:50827
+[2014-12-26 09:55:22] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:55:22.849327 #40696]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:55:22] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:55:22.869919 #40696]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:55:24] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:55:24.852506 #40696]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:55:30] INFO  going to shutdown ...
+[2014-12-26 09:55:34] ERROR Errno::EPIPE: Broken pipe - <STDERR>
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:221:in `write'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:221:in `<<'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:221:in `block in access_log'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:220:in `each'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:220:in `access_log'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:111:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2014-12-26 09:55:34] DEBUG close: ::1:50827
+[2014-12-26 09:55:34] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:55:58] INFO  WEBrick 1.3.1
+[2014-12-26 09:55:58] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:55:58] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:55:58] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:55:58] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:55:58] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:55:58] INFO  WEBrick::HTTPServer#start: pid=41055 port=4343
+[2014-12-26 09:56:01] DEBUG accept: ::1:50866
+[2014-12-26 09:56:01] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:56:01.729289 #41055]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:56:02] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:56:02.169605 #41055]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:56:04] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:56:04.647455 #41055]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:56:15] DEBUG close: ::1:50866
+[2014-12-26 09:56:15] INFO  going to shutdown ...
+[2014-12-26 09:56:15] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:57:55] INFO  WEBrick 1.3.1
+[2014-12-26 09:57:55] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:57:55] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:57:55] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:57:55] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:57:55] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:57:55] INFO  WEBrick::HTTPServer#start: pid=42263 port=4343
+[2014-12-26 09:57:56] DEBUG accept: ::1:50958
+[2014-12-26 09:57:56] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:57:56] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:57:56] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:57:56] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:57:59] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:57:59.610849 #42263]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:57:59] DEBUG accept: ::1:50960
+[2014-12-26 09:57:59] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:57:59.681303 #42263]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:58:02] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:58:02.163146 #42263]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:58:06] DEBUG close: ::1:50960
+[2014-12-26 09:58:07] DEBUG close: ::1:50958
+[2014-12-26 09:58:07] INFO  going to shutdown ...
+[2014-12-26 09:58:07] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:58:52] INFO  WEBrick 1.3.1
+[2014-12-26 09:58:52] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:58:52] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:58:52] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:58:52] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:58:52] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:58:52] INFO  WEBrick::HTTPServer#start: pid=42802 port=4343
+[2014-12-26 09:58:55] DEBUG accept: ::1:51005
+[2014-12-26 09:58:55] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:58:55.732458 #42802]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:58:55] DEBUG accept: ::1:51007
+[2014-12-26 09:58:55] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:58:55] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:58:55.801174 #42802]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 09:58:55] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:59:01] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:59:01.812335 #42802]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:59:10] DEBUG close: ::1:51005
+[2014-12-26 09:59:10] DEBUG close: ::1:51007
+[2014-12-26 09:59:11] INFO  going to shutdown ...
+[2014-12-26 09:59:11] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 09:59:22] INFO  WEBrick 1.3.1
+[2014-12-26 09:59:22] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 09:59:22] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 09:59:22] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 09:59:22] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 09:59:22] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 09:59:22] INFO  WEBrick::HTTPServer#start: pid=43110 port=4343
+[2014-12-26 09:59:23] DEBUG accept: ::1:51039
+[2014-12-26 09:59:23] DEBUG accept: ::1:51038
+[2014-12-26 09:59:23] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:59:23.811293 #43110]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:59:29] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 09:59:33] DEBUG close: ::1:51039
+[2014-12-26 09:59:33] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T09:59:33.865353 #43110]  INFO -- : Submitting twitter query for test
+[2014-12-26 09:59:41] INFO  going to shutdown ...
+[2014-12-26 09:59:42] DEBUG close: ::1:51038
+[2014-12-26 09:59:42] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:00:04] INFO  WEBrick 1.3.1
+[2014-12-26 10:00:04] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:00:04] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 10:00:04] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 10:00:04] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 10:00:04] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:00:04] INFO  WEBrick::HTTPServer#start: pid=43467 port=4343
+[2014-12-26 10:00:05] DEBUG accept: ::1:51087
+[2014-12-26 10:00:05] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:00:05.376192 #43467]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:00:09] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:00:19] INFO  going to shutdown ...
+[2014-12-26 10:00:19] DEBUG close: ::1:51087
+[2014-12-26 10:00:19] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:00:47] INFO  WEBrick 1.3.1
+[2014-12-26 10:00:47] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:00:47] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 10:00:47] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 10:00:47] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 10:00:47] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:00:47] INFO  WEBrick::HTTPServer#start: pid=43824 port=4343
+[2014-12-26 10:00:50] DEBUG accept: ::1:51129
+[2014-12-26 10:00:50] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:00:50.469009 #43824]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:00:52] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:00:52.924297 #43824]  INFO -- : Submitting twitter query for this
+[2014-12-26 10:01:10] DEBUG close: ::1:51129
+[2014-12-26 10:01:10] INFO  going to shutdown ...
+[2014-12-26 10:01:10] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:01:39] INFO  WEBrick 1.3.1
+[2014-12-26 10:01:39] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:01:39] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 10:01:39] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 10:01:39] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 10:01:39] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:01:39] INFO  WEBrick::HTTPServer#start: pid=44309 port=4343
+[2014-12-26 10:01:41] DEBUG accept: ::1:51171
+[2014-12-26 10:01:41] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:01:41.852222 #44309]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:01:41] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:01:41.892012 #44309]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:01:44] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:01:44.177004 #44309]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:01:54] DEBUG close: ::1:51171
+[2014-12-26 10:01:55] INFO  going to shutdown ...
+[2014-12-26 10:01:55] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:04:19] INFO  WEBrick 1.3.1
+[2014-12-26 10:04:19] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:04:19] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 10:04:19] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 10:04:19] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 10:04:19] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:04:19] INFO  WEBrick::HTTPServer#start: pid=45801 port=4343
+[2014-12-26 10:04:20] DEBUG accept: ::1:51280
+[2014-12-26 10:04:21] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:04:21.120654 #45801]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:04:21] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:04:21.146444 #45801]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:04:26] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:04:27.001006 #45801]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:04:35] DEBUG close: ::1:51280
+[2014-12-26 10:04:36] INFO  going to shutdown ...
+[2014-12-26 10:04:36] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:05:08] INFO  WEBrick 1.3.1
+[2014-12-26 10:05:08] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:05:08] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 10:05:08] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 10:05:08] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 10:05:08] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:05:08] INFO  WEBrick::HTTPServer#start: pid=46335 port=4343
+[2014-12-26 10:05:11] DEBUG accept: ::1:51325
+[2014-12-26 10:05:11] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:05:11.620582 #46335]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:05:11] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:05:11.635018 #46335]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:05:20] DEBUG close: ::1:51325
+[2014-12-26 10:05:21] INFO  going to shutdown ...
+[2014-12-26 10:05:21] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:05:56] INFO  WEBrick 1.3.1
+[2014-12-26 10:05:56] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:05:56] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 10:05:56] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 10:05:56] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 10:05:56] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:05:56] INFO  WEBrick::HTTPServer#start: pid=46816 port=4343
+[2014-12-26 10:06:00] DEBUG accept: ::1:51359
+[2014-12-26 10:06:00] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:06:00.132210 #46816]  INFO -- : Submitting twitter query for fuck
+[2014-12-26 10:06:08] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:06:08.677336 #46816]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:06:21] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:06:21.975353 #46816]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:06:44] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:06:44.093185 #46816]  INFO -- : Submitting twitter query for shit
+[2014-12-26 10:07:18] INFO  going to shutdown ...
+[2014-12-26 10:07:18] DEBUG close: ::1:51359
+[2014-12-26 10:07:18] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:07:58] INFO  WEBrick 1.3.1
+[2014-12-26 10:07:58] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:07:58] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 10:07:58] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 10:07:58] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 10:07:58] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:07:58] INFO  WEBrick::HTTPServer#start: pid=48073 port=4343
+[2014-12-26 10:08:00] DEBUG accept: ::1:51479
+[2014-12-26 10:08:00] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:08:00.522179 #48073]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:08:04] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:08:11] DEBUG close: ::1:51479
+[2014-12-26 10:08:12] INFO  going to shutdown ...
+[2014-12-26 10:08:12] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:09:02] INFO  WEBrick 1.3.1
+[2014-12-26 10:09:02] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:09:02] DEBUG TCPServer.new(::1, 5000)
+[2014-12-26 10:09:02] DEBUG TCPServer.new(fe80::1%lo0, 5000)
+[2014-12-26 10:09:02] DEBUG TCPServer.new(127.0.0.1, 5000)
+[2014-12-26 10:09:02] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:09:02] INFO  WEBrick::HTTPServer#start: pid=48682 port=5000
+[2014-12-26 10:09:44] INFO  going to shutdown ...
+[2014-12-26 10:09:44] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:09:46] INFO  WEBrick 1.3.1
+[2014-12-26 10:09:46] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:09:46] DEBUG TCPServer.new(::1, 5000)
+[2014-12-26 10:09:46] DEBUG TCPServer.new(fe80::1%lo0, 5000)
+[2014-12-26 10:09:46] DEBUG TCPServer.new(127.0.0.1, 5000)
+[2014-12-26 10:09:46] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:09:46] INFO  WEBrick::HTTPServer#start: pid=49114 port=5000
+[2014-12-26 10:09:52] INFO  going to shutdown ...
+[2014-12-26 10:09:52] INFO  WEBrick::HTTPServer#start done.
+[2014-12-26 10:10:00] INFO  WEBrick 1.3.1
+[2014-12-26 10:10:00] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-26 10:10:00] DEBUG TCPServer.new(::1, 4343)
+[2014-12-26 10:10:00] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-26 10:10:00] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-26 10:10:00] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-26 10:10:00] INFO  WEBrick::HTTPServer#start: pid=49266 port=4343
+[2014-12-26 10:10:00] DEBUG accept: ::1:51617
+[2014-12-26 10:10:00] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:10:00.847189 #49266]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:10:00] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:10:30] DEBUG close: ::1:51617
+[2014-12-26 10:10:44] DEBUG accept: ::1:51648
+[2014-12-26 10:10:44] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:10:44.509387 #49266]  INFO -- : Submitting twitter query for shit
+[2014-12-26 10:11:18] DEBUG close: ::1:51648
+[2014-12-26 10:11:30] DEBUG accept: ::1:51688
+[2014-12-26 10:11:30] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:11:30.785239 #49266]  INFO -- : Submitting twitter query for shit
+[2014-12-26 10:12:05] DEBUG close: ::1:51688
+[2014-12-26 10:15:08] DEBUG accept: ::1:51875
+[2014-12-26 10:15:08] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:15:08.605125 #49266]  INFO -- : Submitting twitter query for shit
+[2014-12-26 10:15:12] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:15:37] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:15:37.042535 #49266]  INFO -- : Submitting twitter query for shit
+[2014-12-26 10:15:41] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:16:06] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:16:06.205286 #49266]  INFO -- : Submitting twitter query for shit
+[2014-12-26 10:16:10] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:16:40] DEBUG close: ::1:51875
+[2014-12-26 10:17:53] DEBUG accept: ::1:52029
+[2014-12-26 10:17:53] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:17:53.101493 #49266]  INFO -- : Submitting twitter query for key
+[2014-12-26 10:18:06] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:18:06.589199 #49266]  INFO -- : Submitting twitter query for key
+[2014-12-26 10:18:11] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:18:41] DEBUG close: ::1:52029
+[2014-12-26 10:18:43] DEBUG accept: ::1:52120
+[2014-12-26 10:18:43] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:18:43.206966 #49266]  INFO -- : Submitting twitter query for key
+[2014-12-26 10:18:48] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:19:18] DEBUG close: ::1:52120
+[2014-12-26 10:20:21] DEBUG accept: ::1:52212
+[2014-12-26 10:20:21] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:20:21.810691 #49266]  INFO -- : Submitting twitter query for key
+[2014-12-26 10:20:26] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:20:56] DEBUG close: ::1:52212
+[2014-12-26 10:24:16] DEBUG accept: ::1:52413
+[2014-12-26 10:24:16] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:24:16.557919 #49266]  INFO -- : Submitting twitter query for key
+[2014-12-26 10:24:20] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:24:45] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:24:45.323502 #49266]  INFO -- : Submitting twitter query for key
+[2014-12-26 10:24:49] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:25:08] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:25:08.858961 #49266]  INFO -- : Submitting twitter query for key
+[2014-12-26 10:25:13] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:25:23] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:25:23.260802 #49266]  INFO -- : Submitting twitter query for key
+[2014-12-26 10:25:26] DEBUG accept: ::1:52501
+[2014-12-26 10:25:26] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:25:26.259668 #49266]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:25:28] DEBUG Errno::EPIPE: Broken pipe
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:458:in `write'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:458:in `<<'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:458:in `_write_data'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:430:in `send_body_string'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:304:in `send_body'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:207:in `send_response'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:110:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2014-12-26 10:25:28] DEBUG close: ::1:52413
+[2014-12-26 10:25:59] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:25:59.351644 #49266]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:26:03] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:26:25] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:26:25.922435 #49266]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:26:30] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:27:00] DEBUG close: ::1:52501
+[2014-12-26 10:28:20] DEBUG accept: ::1:52691
+[2014-12-26 10:28:20] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:28:20.744259 #49266]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:28:25] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:28:55] DEBUG close: ::1:52691
+[2014-12-26 10:31:14] DEBUG accept: ::1:52815
+[2014-12-26 10:31:14] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:31:14.850299 #49266]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:31:18] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:31:43] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:31:43.018252 #49266]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:31:47] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:32:17] DEBUG close: ::1:52815
+[2014-12-26 10:33:11] DEBUG accept: ::1:52916
+[2014-12-26 10:33:11] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:33:11.787179 #49266]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:33:16] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:33:38] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:33:38.865533 #49266]  INFO -- : Submitting twitter query for test
+[2014-12-26 10:34:13] DEBUG close: ::1:52916
+[2014-12-26 10:34:36] DEBUG accept: ::1:52997
+[2014-12-26 10:34:36] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:34:36.197819 #49266]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:34:36] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:34:36.265207 #49266]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-26 10:34:41] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:34:41.236853 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:35:15] DEBUG close: ::1:52997
+[2014-12-26 10:35:34] DEBUG accept: ::1:53051
+[2014-12-26 10:35:34] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:35:34.687582 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:35:39] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:36:09] DEBUG close: ::1:53051
+[2014-12-26 10:36:47] DEBUG accept: ::1:53116
+[2014-12-26 10:36:47] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:36:47.508016 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:36:51] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:37:21] DEBUG close: ::1:53116
+[2014-12-26 10:37:28] DEBUG accept: ::1:53155
+[2014-12-26 10:37:28] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:37:28.441427 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:37:32] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:38:02] DEBUG close: ::1:53155
+[2014-12-26 10:38:04] DEBUG accept: ::1:53211
+[2014-12-26 10:38:04] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:38:04.741456 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:38:09] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:38:39] DEBUG close: ::1:53211
+[2014-12-26 10:44:36] DEBUG accept: ::1:53567
+[2014-12-26 10:44:36] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:44:36.041799 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:44:41] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:45:11] DEBUG close: ::1:53567
+[2014-12-26 10:46:01] DEBUG accept: ::1:53642
+[2014-12-26 10:46:01] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:46:01.175164 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:46:05] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:46:20] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:46:20.173154 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:46:24] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:46:40] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:46:40.065880 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:46:47] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:47:17] DEBUG close: ::1:53642
+[2014-12-26 10:47:30] DEBUG accept: ::1:53739
+[2014-12-26 10:47:30] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:47:30.369112 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:47:34] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:48:04] DEBUG close: ::1:53739
+[2014-12-26 10:48:36] DEBUG accept: ::1:53795
+[2014-12-26 10:48:36] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:48:36.265254 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:48:40] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:49:10] DEBUG close: ::1:53795
+[2014-12-26 10:49:36] DEBUG accept: ::1:53847
+[2014-12-26 10:49:36] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:49:36.951262 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:49:41] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:50:11] DEBUG close: ::1:53847
+[2014-12-26 10:50:43] DEBUG accept: ::1:53900
+[2014-12-26 10:50:43] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:50:43.810176 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:50:49] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-26 10:51:20] DEBUG close: ::1:53900
+[2014-12-26 10:56:26] DEBUG accept: ::1:54181
+[2014-12-26 10:56:26] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-26T10:56:26.531323 #49266]  INFO -- : Submitting twitter query for fuckit
+[2014-12-26 10:56:30] DEBUG Rack::Handler::WEBrick is invoked.
