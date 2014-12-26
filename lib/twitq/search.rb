@@ -53,10 +53,10 @@ INFO
 			#log.debug("Access token secret: #{creds['access_token_secret']}")
 
 			client = Twitter::REST::Client.new do |config|
-				config.consumer_key        = creds['consumer_key']
-				config.consumer_secret     = creds['consumer_secret']
-				config.access_token        = creds['access_token']
-				config.access_token_secret = creds['access_token_scret']
+				config.consumer_key        = '5LmU6ckudMC5spqqRK1kJHVsu' #creds['consumer_key']
+				config.consumer_secret     = 'peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S' #creds['consumer_secret']
+				config.access_token        = '2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS' #creds['access_token']
+				config.access_token_secret = 'oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz' #creds['access_token_scret']
 			end
 			log.info("Running search...")
 			client.search(query).take(10).collect do |tweet|	
