@@ -443,3 +443,186 @@ D, [2014-12-25T22:25:28.122063 #12897] DEBUG -- : Sending to Firebase: meanwhile
 D, [2014-12-25T22:25:28.469282 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GMQiWTMy1I-wDQYQ"}
 D, [2014-12-25T22:25:28.469352 #12897] DEBUG -- : Sending to Firebase: Like fuck man..
 D, [2014-12-25T22:25:28.848383 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GMWekp9zaeoOQ3Ok"}
+I, [2014-12-25T22:27:03.545762 #13434]  INFO -- : Running Twitter query on judith
+I, [2014-12-25T22:27:03.545799 #13434]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:27:03.546102 #13434] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:27:03.546132 #13434]  INFO -- : Running search on judith
+I, [2014-12-25T22:27:03.546189 #13434]  INFO -- : Running search...
+D, [2014-12-25T22:27:04.203248 #13434] DEBUG -- : Adding tweet: Oh nah I won't buy anything for the rest of the year... Nekminnit #boxingday #sales. 💃👠 #Melissa… http://t.co/xeFn8AZ93p
+D, [2014-12-25T22:27:04.203343 #13434] DEBUG -- : Adding tweet: RT @ti_tan_1224: ♡いま人気の履くだけで美脚効果のあるショーツ♡
+
+足がコンプレックスだったけど
+これ使って武器になっちゃった！
+
+めっちゃ綺麗だねって
+友達に褒められちゃった☆
+
+👉👉http://t.co/sbcxMCq3uI http://t.co/Yjg…
+D, [2014-12-25T22:27:04.203383 #13434] DEBUG -- : Adding tweet: @MaggieGarcia38 me looking at his favorites. http://t.co/0bOc6ZLcLA
+D, [2014-12-25T22:27:04.203414 #13434] DEBUG -- : Adding tweet: RT @GospelCentric: Music: Florocka – ‘Oh Come, Oh Come Emmanuel’ | Feat Judith | @Florocka, @JudiiKhan | http://t.co/KzjjTfJjwV
+D, [2014-12-25T22:27:04.203446 #13434] DEBUG -- : Adding tweet: I was never looking for love... Nor a nigga...#MoneyIsTheMotive http://t.co/P34BucG5ht
+D, [2014-12-25T22:27:04.203475 #13434] DEBUG -- : Adding tweet: happy family... Lolet Bernal Mallari Judith Jiejie Mallari http://t.co/EIaACapzym
+D, [2014-12-25T22:27:04.203504 #13434] DEBUG -- : Adding tweet: @cedisollorano yep! follow my friend preety ---&gt; @rondanielx
+D, [2014-12-25T22:27:04.203533 #13434] DEBUG -- : Adding tweet: @36d381927d4746a yeah, follow him sweet --&gt; @rondanielx
+D, [2014-12-25T22:27:04.203562 #13434] DEBUG -- : Adding tweet: @gracemalfoy yes, FOLLOW my favorite preety ---&gt; @rondanielx
+D, [2014-12-25T22:27:04.203589 #13434] DEBUG -- : Adding tweet: @JustOneLambert pls, follow my favorite cool -&gt;&gt; @rondanielx
+I, [2014-12-25T22:27:04.203652 #13434]  INFO -- : Query results: ["Oh nah I won't buy anything for the rest of the year... Nekminnit #boxingday #sales. 💃👠 #Melissa… http://t.co/xeFn8AZ93p", "RT @ti_tan_1224: ♡いま人気の履くだけで美脚効果のあるショーツ♡\n\n足がコンプレックスだったけど\nこれ使って武器になっちゃった！\n\nめっちゃ綺麗だねって\n友達に褒められちゃった☆\n\n👉👉http://t.co/sbcxMCq3uI http://t.co/Yjg…", "@MaggieGarcia38 me looking at his favorites. http://t.co/0bOc6ZLcLA", "RT @GospelCentric: Music: Florocka – ‘Oh Come, Oh Come Emmanuel’ | Feat Judith | @Florocka, @JudiiKhan | http://t.co/KzjjTfJjwV", "I was never looking for love... Nor a nigga...#MoneyIsTheMotive http://t.co/P34BucG5ht", "happy family... Lolet Bernal Mallari Judith Jiejie Mallari http://t.co/EIaACapzym", "@cedisollorano yep! follow my friend preety ---&gt; @rondanielx", "@36d381927d4746a yeah, follow him sweet --&gt; @rondanielx", "@gracemalfoy yes, FOLLOW my favorite preety ---&gt; @rondanielx", "@JustOneLambert pls, follow my favorite cool -&gt;&gt; @rondanielx"]
+D, [2014-12-25T22:27:04.203702 #13434] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:27:04.203731 #13434] DEBUG -- : Sending to Firebase: Oh nah I won't buy anything for the rest of the year... Nekminnit #boxingday #sales. 💃👠 #Melissa… http://t.co/xeFn8AZ93p
+D, [2014-12-25T22:27:04.567425 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GitDePxKPXp37SK1"}
+D, [2014-12-25T22:27:04.567500 #13434] DEBUG -- : Sending to Firebase: RT @ti_tan_1224: ♡いま人気の履くだけで美脚効果のあるショーツ♡
+
+足がコンプレックスだったけど
+これ使って武器になっちゃった！
+
+めっちゃ綺麗だねって
+友達に褒められちゃった☆
+
+👉👉http://t.co/sbcxMCq3uI http://t.co/Yjg…
+D, [2014-12-25T22:27:05.066265 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GiyhVDOlVrx3MYZs"}
+D, [2014-12-25T22:27:05.066354 #13434] DEBUG -- : Sending to Firebase: @MaggieGarcia38 me looking at his favorites. http://t.co/0bOc6ZLcLA
+D, [2014-12-25T22:27:05.431532 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4Gj5ksCe-6-BUEVCe"}
+D, [2014-12-25T22:27:05.431639 #13434] DEBUG -- : Sending to Firebase: RT @GospelCentric: Music: Florocka – ‘Oh Come, Oh Come Emmanuel’ | Feat Judith | @Florocka, @JudiiKhan | http://t.co/KzjjTfJjwV
+D, [2014-12-25T22:27:05.780554 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GjBD-s23og5aIA5q"}
+D, [2014-12-25T22:27:05.780622 #13434] DEBUG -- : Sending to Firebase: I was never looking for love... Nor a nigga...#MoneyIsTheMotive http://t.co/P34BucG5ht
+D, [2014-12-25T22:27:06.122730 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GjGZBJePUHKtuqWo"}
+D, [2014-12-25T22:27:06.122819 #13434] DEBUG -- : Sending to Firebase: happy family... Lolet Bernal Mallari Judith Jiejie Mallari http://t.co/EIaACapzym
+D, [2014-12-25T22:27:06.486867 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GjMFZlCW4B_q9kfL"}
+D, [2014-12-25T22:27:06.486955 #13434] DEBUG -- : Sending to Firebase: @cedisollorano yep! follow my friend preety ---&gt; @rondanielx
+D, [2014-12-25T22:27:06.837818 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GjRiuAFHH1M6Q8tY"}
+D, [2014-12-25T22:27:06.837913 #13434] DEBUG -- : Sending to Firebase: @36d381927d4746a yeah, follow him sweet --&gt; @rondanielx
+D, [2014-12-25T22:27:07.191125 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GjXFmFjiktJuq223"}
+D, [2014-12-25T22:27:07.191232 #13434] DEBUG -- : Sending to Firebase: @gracemalfoy yes, FOLLOW my favorite preety ---&gt; @rondanielx
+D, [2014-12-25T22:27:07.536734 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GjbcvI8Cs31x_KzB"}
+D, [2014-12-25T22:27:07.536945 #13434] DEBUG -- : Sending to Firebase: @JustOneLambert pls, follow my favorite cool -&gt;&gt; @rondanielx
+D, [2014-12-25T22:27:07.902709 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GjhNr04lbgwxfBNP"}
+I, [2014-12-25T22:28:03.297312 #13434]  INFO -- : Running Twitter query on jeff
+I, [2014-12-25T22:28:03.297360 #13434]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:28:03.297705 #13434] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:28:03.297808 #13434]  INFO -- : Running search on jeff
+I, [2014-12-25T22:28:03.297899 #13434]  INFO -- : Running search...
+D, [2014-12-25T22:28:04.339774 #13434] DEBUG -- : Adding tweet: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+D, [2014-12-25T22:28:04.339892 #13434] DEBUG -- : Adding tweet: I just earned the 'Pale as the Moon (Level 5)' badge on @untappd! http://t.co/qPFcq6GmHC
+D, [2014-12-25T22:28:04.339951 #13434] DEBUG -- : Adding tweet: RT @FractionaI: ⠀
+⠀
+⠀
+⠀
+⠀⠀⠀⠀⠀⠀  
+
+                    My names Jeff 
+⠀
+⠀
+⠀
+⠀
+
+⠀
+⠀
+⠀
+D, [2014-12-25T22:28:04.339999 #13434] DEBUG -- : Adding tweet: Who let the dogs out? 😂 FOLLOW SPREE!!! comment "Jeff" if you want a follow!!! https://t.co/yEJrGaHz48
+D, [2014-12-25T22:28:04.340031 #13434] DEBUG -- : Adding tweet: Drinking an Otter Creek Hop Session Ale by @OtterCreekBeer - http://t.co/FqOrt7Vt47
+D, [2014-12-25T22:28:04.340069 #13434] DEBUG -- : Adding tweet: Juris Documentae est sorti de presse! http://t.co/h95C0b11Qj Les unes d'aujourd'hui via @DroitSante @CabinetGimalac @NicoDeStras
+D, [2014-12-25T22:28:04.340101 #13434] DEBUG -- : Adding tweet: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+D, [2014-12-25T22:28:04.340130 #13434] DEBUG -- : Adding tweet: @jeff_trimble17 how was it not
+D, [2014-12-25T22:28:04.340159 #13434] DEBUG -- : Adding tweet: RT @amass_jp: 「ミュージシャンが立ち上げたレコード・レーベル BEST16」を英NME誌のサイトが発表　http://t.co/a5uBhzD9wC
+D, [2014-12-25T22:28:04.340189 #13434] DEBUG -- : Adding tweet: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+I, [2014-12-25T22:28:04.340255 #13434]  INFO -- : Query results: ["RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…", "I just earned the 'Pale as the Moon (Level 5)' badge on @untappd! http://t.co/qPFcq6GmHC", "RT @FractionaI: ⠀\n⠀\n⠀\n⠀\n⠀⠀⠀⠀⠀⠀  \n\n                    My names Jeff \n⠀\n⠀\n⠀\n⠀\n\n⠀\n⠀\n⠀", "Who let the dogs out? 😂 FOLLOW SPREE!!! comment \"Jeff\" if you want a follow!!! https://t.co/yEJrGaHz48", "Drinking an Otter Creek Hop Session Ale by @OtterCreekBeer - http://t.co/FqOrt7Vt47", "Juris Documentae est sorti de presse! http://t.co/h95C0b11Qj Les unes d'aujourd'hui via @DroitSante @CabinetGimalac @NicoDeStras", "RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…", "@jeff_trimble17 how was it not", "RT @amass_jp: 「ミュージシャンが立ち上げたレコード・レーベル BEST16」を英NME誌のサイトが発表　http://t.co/a5uBhzD9wC", "RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…"]
+D, [2014-12-25T22:28:04.340287 #13434] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:28:04.340318 #13434] DEBUG -- : Sending to Firebase: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+D, [2014-12-25T22:28:05.335967 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4Gx_159WWLvNI_0lZ"}
+D, [2014-12-25T22:28:05.336046 #13434] DEBUG -- : Sending to Firebase: I just earned the 'Pale as the Moon (Level 5)' badge on @untappd! http://t.co/qPFcq6GmHC
+D, [2014-12-25T22:28:05.688533 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GxoHl1ap19PRMxic"}
+D, [2014-12-25T22:28:05.688617 #13434] DEBUG -- : Sending to Firebase: RT @FractionaI: ⠀
+⠀
+⠀
+⠀
+⠀⠀⠀⠀⠀⠀  
+
+                    My names Jeff 
+⠀
+⠀
+⠀
+⠀
+
+⠀
+⠀
+⠀
+I, [2014-12-25T22:28:05.926267 #13434]  INFO -- : Running Twitter query on jeff
+I, [2014-12-25T22:28:05.926296 #13434]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:28:05.926542 #13434] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:28:05.926574 #13434]  INFO -- : Running search on jeff
+I, [2014-12-25T22:28:05.926622 #13434]  INFO -- : Running search...
+D, [2014-12-25T22:28:06.046985 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GxtsQpZyNlJnq0Iw"}
+D, [2014-12-25T22:28:06.047107 #13434] DEBUG -- : Sending to Firebase: Who let the dogs out? 😂 FOLLOW SPREE!!! comment "Jeff" if you want a follow!!! https://t.co/yEJrGaHz48
+D, [2014-12-25T22:28:06.408358 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GxzV6TaHmN99eAmg"}
+D, [2014-12-25T22:28:06.408441 #13434] DEBUG -- : Sending to Firebase: Drinking an Otter Creek Hop Session Ale by @OtterCreekBeer - http://t.co/FqOrt7Vt47
+D, [2014-12-25T22:28:06.434658 #13434] DEBUG -- : Adding tweet: @DanieMolina5 how did you watch it is what I meant😂
+D, [2014-12-25T22:28:06.434739 #13434] DEBUG -- : Adding tweet: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+D, [2014-12-25T22:28:06.434773 #13434] DEBUG -- : Adding tweet: I just earned the 'Pale as the Moon (Level 5)' badge on @untappd! http://t.co/qPFcq6GmHC
+D, [2014-12-25T22:28:06.434804 #13434] DEBUG -- : Adding tweet: RT @FractionaI: ⠀
+⠀
+⠀
+⠀
+⠀⠀⠀⠀⠀⠀  
+
+                    My names Jeff 
+⠀
+⠀
+⠀
+⠀
+
+⠀
+⠀
+⠀
+D, [2014-12-25T22:28:06.434838 #13434] DEBUG -- : Adding tweet: Who let the dogs out? 😂 FOLLOW SPREE!!! comment "Jeff" if you want a follow!!! https://t.co/yEJrGaHz48
+D, [2014-12-25T22:28:06.434868 #13434] DEBUG -- : Adding tweet: Drinking an Otter Creek Hop Session Ale by @OtterCreekBeer - http://t.co/FqOrt7Vt47
+D, [2014-12-25T22:28:06.434896 #13434] DEBUG -- : Adding tweet: Juris Documentae est sorti de presse! http://t.co/h95C0b11Qj Les unes d'aujourd'hui via @DroitSante @CabinetGimalac @NicoDeStras
+D, [2014-12-25T22:28:06.434924 #13434] DEBUG -- : Adding tweet: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+D, [2014-12-25T22:28:06.434952 #13434] DEBUG -- : Adding tweet: @jeff_trimble17 how was it not
+D, [2014-12-25T22:28:06.434980 #13434] DEBUG -- : Adding tweet: RT @amass_jp: 「ミュージシャンが立ち上げたレコード・レーベル BEST16」を英NME誌のサイトが発表　http://t.co/a5uBhzD9wC
+I, [2014-12-25T22:28:06.435038 #13434]  INFO -- : Query results: ["@DanieMolina5 how did you watch it is what I meant😂", "RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…", "I just earned the 'Pale as the Moon (Level 5)' badge on @untappd! http://t.co/qPFcq6GmHC", "RT @FractionaI: ⠀\n⠀\n⠀\n⠀\n⠀⠀⠀⠀⠀⠀  \n\n                    My names Jeff \n⠀\n⠀\n⠀\n⠀\n\n⠀\n⠀\n⠀", "Who let the dogs out? 😂 FOLLOW SPREE!!! comment \"Jeff\" if you want a follow!!! https://t.co/yEJrGaHz48", "Drinking an Otter Creek Hop Session Ale by @OtterCreekBeer - http://t.co/FqOrt7Vt47", "Juris Documentae est sorti de presse! http://t.co/h95C0b11Qj Les unes d'aujourd'hui via @DroitSante @CabinetGimalac @NicoDeStras", "RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…", "@jeff_trimble17 how was it not", "RT @amass_jp: 「ミュージシャンが立ち上げたレコード・レーベル BEST16」を英NME誌のサイトが発表　http://t.co/a5uBhzD9wC"]
+D, [2014-12-25T22:28:06.435084 #13434] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:28:06.435113 #13434] DEBUG -- : Sending to Firebase: @DanieMolina5 how did you watch it is what I meant😂
+D, [2014-12-25T22:28:06.781749 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4Gy4OEothbd1AjhCB"}
+D, [2014-12-25T22:28:06.781832 #13434] DEBUG -- : Sending to Firebase: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+D, [2014-12-25T22:28:07.120274 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4Gy9f0osK0ngSDEEi"}
+D, [2014-12-25T22:28:07.120340 #13434] DEBUG -- : Sending to Firebase: I just earned the 'Pale as the Moon (Level 5)' badge on @untappd! http://t.co/qPFcq6GmHC
+D, [2014-12-25T22:28:07.469751 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GyF6Itxzw1sd7d4C"}
+D, [2014-12-25T22:28:07.469846 #13434] DEBUG -- : Sending to Firebase: RT @FractionaI: ⠀
+⠀
+⠀
+⠀
+⠀⠀⠀⠀⠀⠀  
+
+                    My names Jeff 
+⠀
+⠀
+⠀
+⠀
+
+⠀
+⠀
+⠀
+D, [2014-12-25T22:28:07.828479 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GyKjpKleuKhilk6b"}
+D, [2014-12-25T22:28:07.828549 #13434] DEBUG -- : Sending to Firebase: Who let the dogs out? 😂 FOLLOW SPREE!!! comment "Jeff" if you want a follow!!! https://t.co/yEJrGaHz48
+D, [2014-12-25T22:28:08.208147 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4Gy43SiAfT1vb0n3Q"}
+D, [2014-12-25T22:28:08.208209 #13434] DEBUG -- : Sending to Firebase: Juris Documentae est sorti de presse! http://t.co/h95C0b11Qj Les unes d'aujourd'hui via @DroitSante @CabinetGimalac @NicoDeStras
+D, [2014-12-25T22:28:08.552994 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GyW1sggCTTo97YUk"}
+D, [2014-12-25T22:28:08.553057 #13434] DEBUG -- : Sending to Firebase: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+D, [2014-12-25T22:28:08.894471 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GyaOy5tXqh-f6Vgw"}
+D, [2014-12-25T22:28:08.894543 #13434] DEBUG -- : Sending to Firebase: @jeff_trimble17 how was it not
+D, [2014-12-25T22:28:09.249651 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GyQeMK8DKqpBtmM5"}
+D, [2014-12-25T22:28:09.249718 #13434] DEBUG -- : Sending to Firebase: Drinking an Otter Creek Hop Session Ale by @OtterCreekBeer - http://t.co/FqOrt7Vt47
+D, [2014-12-25T22:28:09.588469 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GylELTZl6W2K1R5t"}
+D, [2014-12-25T22:28:09.588547 #13434] DEBUG -- : Sending to Firebase: Juris Documentae est sorti de presse! http://t.co/h95C0b11Qj Les unes d'aujourd'hui via @DroitSante @CabinetGimalac @NicoDeStras
+D, [2014-12-25T22:28:09.944277 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GyqnuvxOG-bYrqKM"}
+D, [2014-12-25T22:28:09.944353 #13434] DEBUG -- : Sending to Firebase: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+D, [2014-12-25T22:28:10.284578 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GyfwckCD9JmlT0Sy"}
+D, [2014-12-25T22:28:10.284666 #13434] DEBUG -- : Sending to Firebase: RT @amass_jp: 「ミュージシャンが立ち上げたレコード・レーベル BEST16」を英NME誌のサイトが発表　http://t.co/a5uBhzD9wC
+D, [2014-12-25T22:28:10.637954 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4Gz0d1E6KmbLxhC_S"}
+D, [2014-12-25T22:28:10.638016 #13434] DEBUG -- : Sending to Firebase: RT @Bernice_Fischer: “Riveting, tense, magical!” Jeff Madison http://t.co/ufxxsnFpaz #MRetweetTrain #ReTweetGroups #reading #RT #AmazonCart…
+D, [2014-12-25T22:28:10.991594 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4Gz69S2qPCynHKv6T"}
+D, [2014-12-25T22:28:10.994592 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4Gyw6CvzxDjhQsY65"}
+D, [2014-12-25T22:28:10.994762 #13434] DEBUG -- : Sending to Firebase: @jeff_trimble17 how was it not
+D, [2014-12-25T22:28:11.349739 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GzBjlohTfHbOHihY"}
+D, [2014-12-25T22:28:11.349798 #13434] DEBUG -- : Sending to Firebase: RT @amass_jp: 「ミュージシャンが立ち上げたレコード・レーベル BEST16」を英NME誌のサイトが発表　http://t.co/a5uBhzD9wC
+D, [2014-12-25T22:28:11.694166 #13434] DEBUG -- : Firebase response: {"name"=>"-Je4GzH6b1t-1JDGllDe"}

@@ -709,3 +709,34 @@ I, [2014-12-25T22:25:24.485204 #12897]  INFO -- : Submitting twitter query for q
 [2014-12-25 22:25:45] DEBUG close: ::1:63965
 [2014-12-25 22:25:45] INFO  going to shutdown ...
 [2014-12-25 22:25:45] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 22:26:47] INFO  WEBrick 1.3.1
+[2014-12-25 22:26:47] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 22:26:47] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 22:26:47] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 22:26:47] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 22:26:47] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 22:26:47] INFO  WEBrick::HTTPServer#start: pid=13434 port=4343
+[2014-12-25 22:27:03] DEBUG accept: ::1:64065
+[2014-12-25 22:27:03] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:27:03.545636 #13434]  INFO -- : Submitting twitter query for judith
+[2014-12-25 22:27:07] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 22:27:37] DEBUG close: ::1:64065
+[2014-12-25 22:28:03] DEBUG accept: ::1:64102
+[2014-12-25 22:28:03] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:28:03.297178 #13434]  INFO -- : Submitting twitter query for jeff
+[2014-12-25 22:28:05] DEBUG accept: ::1:64108
+[2014-12-25 22:28:05] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:28:05.926181 #13434]  INFO -- : Submitting twitter query for jeff
+[2014-12-25 22:28:10] DEBUG Errno::EPIPE: Broken pipe
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:458:in `write'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:458:in `<<'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:458:in `_write_data'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:430:in `send_body_string'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:304:in `send_body'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpresponse.rb:207:in `send_response'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:110:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2014-12-25 22:28:10] DEBUG close: ::1:64102
+[2014-12-25 22:28:41] DEBUG close: ::1:64108
+[2014-12-25 22:28:51] INFO  going to shutdown ...
+[2014-12-25 22:28:51] INFO  WEBrick::HTTPServer#start done.

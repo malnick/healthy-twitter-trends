@@ -6,7 +6,7 @@ require 'twitter'
 module Twitq 
 
 	HOME 		= ENV['HOME'] 
-	TWITTER_CREDS 	= '.twitter-creds.yaml' #"#{HOME}/.twitter-creds.yaml"
+	TWITTER_CREDS 	= 'twitter-creds.yaml' #"#{HOME}/.twitter-creds.yaml"
 
 	class Search
 		def initialize(query, log)
