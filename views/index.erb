@@ -52,7 +52,7 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
 			
 		console.log("Data arry: " + text_data)
 			
-		d3.layout.cloud().size([900, 1800])
+		d3.layout.cloud().size([2000, 1000])
 		.words(text_data.map(function(d) {
 			return {text: d, size: 10 + Math.random() * 45};
 		}))
@@ -65,8 +65,8 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
 
 		function draw(words) {
 		d3.select("body").append("svg")
-			.attr("width", 900)
-			.attr("height", 1800)
+			.attr("width", 2000)
+			.attr("height", 1000)
 		.append("g")
 			.attr("transform", "translate(150,150)")
 		.selectAll("text")
