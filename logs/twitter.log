@@ -245,3 +245,86 @@ D, [2014-12-25T22:10:50.109644 #8291] DEBUG -- : Sending to Firebase: RT @GDKJor
 D, [2014-12-25T22:10:50.466592 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D03vptB-mUd1xe80"}
 D, [2014-12-25T22:10:50.466659 #8291] DEBUG -- : Sending to Firebase: Computerspiele: Hacker knipsen Playstation- und Xbox-Netzwerke aus: Die Netzwerke Sony Playstation und Microso... http://t.co/9MH4GNW1Cx
 D, [2014-12-25T22:10:50.814729 #8291] DEBUG -- : Firebase response: {"name"=>"-Je4D09MN7_EfRRBP1eX"}
+I, [2014-12-25T22:11:47.343581 #8842]  INFO -- : Running Twitter query on fuck
+I, [2014-12-25T22:11:47.343619 #8842]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:11:47.343931 #8842] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:11:47.343962 #8842]  INFO -- : Running search on fuck
+I, [2014-12-25T22:11:47.344015 #8842]  INFO -- : Running search...
+D, [2014-12-25T22:11:47.978714 #8842] DEBUG -- : Adding tweet: RT @LovePhrase: Every time I gave a fuck, that fuck, fucked me over.
+D, [2014-12-25T22:11:47.978810 #8842] DEBUG -- : Adding tweet: RT @WSHHDaiIy: fuck http://t.co/iofHJdZTmY
+D, [2014-12-25T22:11:47.978847 #8842] DEBUG -- : Adding tweet: WHAT THE FUCK I THOUGHT RICKY JUST UNFOLLOWED ME BUT HE DIDNT
+D, [2014-12-25T22:11:47.978877 #8842] DEBUG -- : Adding tweet: Imma Fuck Around and Change The PassWord To My Club Penguin z
+D, [2014-12-25T22:11:47.978906 #8842] DEBUG -- : Adding tweet: Guys dont give a fuck about you
+D, [2014-12-25T22:11:47.978934 #8842] DEBUG -- : Adding tweet: @r_selle WHAT THE ACTUAL FUCK HAHA
+D, [2014-12-25T22:11:47.978965 #8842] DEBUG -- : Adding tweet: I Don't Why People Fuck Wit Me.   
+Im So weird. 
+But Cool and weird.
+D, [2014-12-25T22:11:47.978993 #8842] DEBUG -- : Adding tweet: “@bbcedes_: “@YupXavier: Cedes can be on Twitter for 3 days straight and then text you back Wyd 😴”fuck up”Naw
+D, [2014-12-25T22:11:47.979021 #8842] DEBUG -- : Adding tweet: Fuck the Law I Hate them Bitches
+D, [2014-12-25T22:11:47.979048 #8842] DEBUG -- : Adding tweet: Every time I give a fuck, that fuck always fucks me over.
+I, [2014-12-25T22:11:47.979099 #8842]  INFO -- : Query results: ["RT @LovePhrase: Every time I gave a fuck, that fuck, fucked me over.", "RT @WSHHDaiIy: fuck http://t.co/iofHJdZTmY", "WHAT THE FUCK I THOUGHT RICKY JUST UNFOLLOWED ME BUT HE DIDNT", "Imma Fuck Around and Change The PassWord To My Club Penguin z", "Guys dont give a fuck about you", "@r_selle WHAT THE ACTUAL FUCK HAHA", "I Don't Why People Fuck Wit Me.   \nIm So weird. \nBut Cool and weird.", "“@bbcedes_: “@YupXavier: Cedes can be on Twitter for 3 days straight and then text you back Wyd 😴”fuck up”Naw", "Fuck the Law I Hate them Bitches", "Every time I give a fuck, that fuck always fucks me over."]
+D, [2014-12-25T22:11:47.979145 #8842] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:11:47.979177 #8842] DEBUG -- : Sending to Firebase: RT @LovePhrase: Every time I gave a fuck, that fuck, fucked me over.
+D, [2014-12-25T22:11:48.333261 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DEC6kdGB3SlY91PJ"}
+D, [2014-12-25T22:11:48.333342 #8842] DEBUG -- : Sending to Firebase: RT @WSHHDaiIy: fuck http://t.co/iofHJdZTmY
+D, [2014-12-25T22:11:48.678848 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DEHV7FKpBv7inLqB"}
+D, [2014-12-25T22:11:48.678945 #8842] DEBUG -- : Sending to Firebase: WHAT THE FUCK I THOUGHT RICKY JUST UNFOLLOWED ME BUT HE DIDNT
+D, [2014-12-25T22:11:49.029805 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DEMz3si7XjO4w3-W"}
+D, [2014-12-25T22:11:49.029906 #8842] DEBUG -- : Sending to Firebase: Imma Fuck Around and Change The PassWord To My Club Penguin z
+D, [2014-12-25T22:11:49.392518 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DES_joY_1KYf5ON_"}
+D, [2014-12-25T22:11:49.392620 #8842] DEBUG -- : Sending to Firebase: Guys dont give a fuck about you
+D, [2014-12-25T22:11:49.769170 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DEYOzFztKYpyXaSZ"}
+D, [2014-12-25T22:11:49.769264 #8842] DEBUG -- : Sending to Firebase: @r_selle WHAT THE ACTUAL FUCK HAHA
+D, [2014-12-25T22:11:50.128050 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DEd6i2vs3G4W8poy"}
+D, [2014-12-25T22:11:50.128300 #8842] DEBUG -- : Sending to Firebase: I Don't Why People Fuck Wit Me.   
+Im So weird. 
+But Cool and weird.
+D, [2014-12-25T22:11:50.508794 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DEj51hHk5BWm30Ae"}
+D, [2014-12-25T22:11:50.508894 #8842] DEBUG -- : Sending to Firebase: “@bbcedes_: “@YupXavier: Cedes can be on Twitter for 3 days straight and then text you back Wyd 😴”fuck up”Naw
+D, [2014-12-25T22:11:50.857195 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DEoTWOgt7RxvaO6M"}
+D, [2014-12-25T22:11:50.857329 #8842] DEBUG -- : Sending to Firebase: Fuck the Law I Hate them Bitches
+D, [2014-12-25T22:11:51.281419 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DEv9jbKoKSTLZqDS"}
+D, [2014-12-25T22:11:51.281523 #8842] DEBUG -- : Sending to Firebase: Every time I give a fuck, that fuck always fucks me over.
+D, [2014-12-25T22:11:51.650916 #8842] DEBUG -- : Firebase response: {"name"=>"-Je4DF-cWXgh7pu9ZvCm"}
+I, [2014-12-25T22:12:00.641227 #8842]  INFO -- : Running Twitter query on 
+I, [2014-12-25T22:12:00.641267 #8842]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:12:00.641581 #8842] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:12:00.641623 #8842]  INFO -- : Running search on 
+I, [2014-12-25T22:12:00.641703 #8842]  INFO -- : Running search...
+I, [2014-12-25T22:18:21.941419 #10622]  INFO -- : Running Twitter query on query=Test
+I, [2014-12-25T22:18:21.941459 #10622]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:18:21.941910 #10622] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:18:21.941952 #10622]  INFO -- : Running search on query=Test
+I, [2014-12-25T22:18:21.942033 #10622]  INFO -- : Running search...
+D, [2014-12-25T22:18:22.533882 #10622] DEBUG -- : Adding tweet: Test Probes TPI-3000A 30-piece COAX adapter connector kit BRAND NEW! http://t.co/6j4G9MEMBa http://t.co/yBDXGT4Vpj
+D, [2014-12-25T22:18:22.533976 #10622] DEBUG -- : Adding tweet: GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/fkS8xxB3Lq http://t.co/narvbTW79V
+D, [2014-12-25T22:18:22.534013 #10622] DEBUG -- : Adding tweet: GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/KInyWxktmw http://t.co/QIzA1zREk9
+D, [2014-12-25T22:18:22.534066 #10622] DEBUG -- : Adding tweet: ASHCROFT DIGITAL TEST GUAGE  2089SS-D02L 160# and Model 2089 http://t.co/gJPlJ2BIMv http://t.co/vJ2hHmJJBD
+D, [2014-12-25T22:18:22.534108 #10622] DEBUG -- : Adding tweet: RT @MikeWellsAuthor: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.…
+D, [2014-12-25T22:18:22.534137 #10622] DEBUG -- : Adding tweet: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.co/WNGVFCGo38
+D, [2014-12-25T22:18:22.534167 #10622] DEBUG -- : Adding tweet: GOLD TESTING KIT Solid Scrap Silver Buy Sell Diamond Tester Digital Test Scale http://t.co/6b2lRni2rC http://t.co/6CiGp4ceEi
+D, [2014-12-25T22:18:22.534195 #10622] DEBUG -- : Adding tweet: Delta Design 9028 Environmental Temperature Heating/Cooling Test Chamber Oven http://t.co/w7QxuGcDJm http://t.co/cynaX30fo9
+D, [2014-12-25T22:18:22.534222 #10622] DEBUG -- : Adding tweet: Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/QFFh8XqQvn http://t.co/aZSns5G6X5
+D, [2014-12-25T22:18:22.534249 #10622] DEBUG -- : Adding tweet: Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/GhNfO2UogR http://t.co/kwMAOXUbgU
+I, [2014-12-25T22:18:22.534311 #10622]  INFO -- : Query results: ["Test Probes TPI-3000A 30-piece COAX adapter connector kit BRAND NEW! http://t.co/6j4G9MEMBa http://t.co/yBDXGT4Vpj", "GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/fkS8xxB3Lq http://t.co/narvbTW79V", "GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/KInyWxktmw http://t.co/QIzA1zREk9", "ASHCROFT DIGITAL TEST GUAGE  2089SS-D02L 160# and Model 2089 http://t.co/gJPlJ2BIMv http://t.co/vJ2hHmJJBD", "RT @MikeWellsAuthor: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.…", "Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.co/WNGVFCGo38", "GOLD TESTING KIT Solid Scrap Silver Buy Sell Diamond Tester Digital Test Scale http://t.co/6b2lRni2rC http://t.co/6CiGp4ceEi", "Delta Design 9028 Environmental Temperature Heating/Cooling Test Chamber Oven http://t.co/w7QxuGcDJm http://t.co/cynaX30fo9", "Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/QFFh8XqQvn http://t.co/aZSns5G6X5", "Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/GhNfO2UogR http://t.co/kwMAOXUbgU"]
+D, [2014-12-25T22:18:22.534339 #10622] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:18:22.534364 #10622] DEBUG -- : Sending to Firebase: Test Probes TPI-3000A 30-piece COAX adapter connector kit BRAND NEW! http://t.co/6j4G9MEMBa http://t.co/yBDXGT4Vpj
+D, [2014-12-25T22:18:22.894802 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EjX7g-AwWIOsBd8J"}
+D, [2014-12-25T22:18:22.894870 #10622] DEBUG -- : Sending to Firebase: GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/fkS8xxB3Lq http://t.co/narvbTW79V
+D, [2014-12-25T22:18:23.261641 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EjbqVvZ3CIHn4Fh_"}
+D, [2014-12-25T22:18:23.261772 #10622] DEBUG -- : Sending to Firebase: GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/KInyWxktmw http://t.co/QIzA1zREk9
+D, [2014-12-25T22:18:23.605443 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EjhDmsKtNDyltd53"}
+D, [2014-12-25T22:18:23.605512 #10622] DEBUG -- : Sending to Firebase: ASHCROFT DIGITAL TEST GUAGE  2089SS-D02L 160# and Model 2089 http://t.co/gJPlJ2BIMv http://t.co/vJ2hHmJJBD
+D, [2014-12-25T22:18:23.946640 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EjmZM7XzZFkp91XF"}
+D, [2014-12-25T22:18:23.946712 #10622] DEBUG -- : Sending to Firebase: RT @MikeWellsAuthor: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.…
+D, [2014-12-25T22:18:24.316172 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EjsLXQWOZAj66fj8"}
+D, [2014-12-25T22:18:24.316255 #10622] DEBUG -- : Sending to Firebase: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.co/WNGVFCGo38
+D, [2014-12-25T22:18:24.669107 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EjxrUDocFRpUxAHS"}
+D, [2014-12-25T22:18:24.669249 #10622] DEBUG -- : Sending to Firebase: GOLD TESTING KIT Solid Scrap Silver Buy Sell Diamond Tester Digital Test Scale http://t.co/6b2lRni2rC http://t.co/6CiGp4ceEi
+D, [2014-12-25T22:18:25.061431 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4Ek2j81-tohppFD1k"}
+D, [2014-12-25T22:18:25.061500 #10622] DEBUG -- : Sending to Firebase: Delta Design 9028 Environmental Temperature Heating/Cooling Test Chamber Oven http://t.co/w7QxuGcDJm http://t.co/cynaX30fo9
+D, [2014-12-25T22:18:25.422688 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4Ek8cZK4ZYpFX5-1G"}
+D, [2014-12-25T22:18:25.422798 #10622] DEBUG -- : Sending to Firebase: Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/QFFh8XqQvn http://t.co/aZSns5G6X5
+D, [2014-12-25T22:18:25.777238 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EkE9cERV2IOGiwHI"}
+D, [2014-12-25T22:18:25.777343 #10622] DEBUG -- : Sending to Firebase: Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/GhNfO2UogR http://t.co/kwMAOXUbgU
+D, [2014-12-25T22:18:26.154191 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EkK1GAQ9cB_mdkKo"}

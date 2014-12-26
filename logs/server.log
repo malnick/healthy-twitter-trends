@@ -645,3 +645,48 @@ I, [2014-12-25T21:54:52.737959 #3708]  INFO -- : Submitting twitter query for fu
 [2014-12-25 21:54:57] DEBUG close: ::1:62862
 [2014-12-25 21:55:08] INFO  going to shutdown ...
 [2014-12-25 21:55:08] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 22:11:42] INFO  WEBrick 1.3.1
+[2014-12-25 22:11:42] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 22:11:42] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 22:11:42] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 22:11:42] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 22:11:42] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 22:11:42] INFO  WEBrick::HTTPServer#start: pid=8842 port=4343
+[2014-12-25 22:11:47] DEBUG accept: ::1:63424
+[2014-12-25 22:11:47] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:11:47.343462 #8842]  INFO -- : Submitting twitter query for fuck
+[2014-12-25 22:11:51] DEBUG close: ::1:63424
+[2014-12-25 22:12:00] DEBUG accept: ::1:63441
+[2014-12-25 22:12:00] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:12:00.641125 #8842]  INFO -- : Submitting twitter query for 
+[2014-12-25 22:12:01] ERROR NoMethodError: undefined method `join' for #<String:0x007fef1252e8c0>
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/show_exceptions.rb:37:in `rescue in call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/show_exceptions.rb:21:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:180:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:2014:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1478:in `block in call'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1788:in `synchronize'
+	/Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1478:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/rack-1.6.0/lib/rack/handler/webrick.rb:89:in `service'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2014-12-25 22:12:01] DEBUG close: ::1:63441
+[2014-12-25 22:12:34] INFO  going to shutdown ...
+[2014-12-25 22:12:34] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 22:18:03] INFO  WEBrick 1.3.1
+[2014-12-25 22:18:03] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 22:18:03] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 22:18:03] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 22:18:03] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 22:18:03] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 22:18:03] INFO  WEBrick::HTTPServer#start: pid=10622 port=4343
+[2014-12-25 22:18:19] DEBUG accept: ::1:63710
+[2014-12-25 22:18:19] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:18:19.419664 #10622]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 22:18:19] DEBUG Rack::Handler::WEBrick is invoked.
+[2014-12-25 22:18:21] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:18:21.941306 #10622]  INFO -- : Submitting twitter query for query=Test
+[2014-12-25 22:18:56] DEBUG close: ::1:63710
+[2014-12-25 22:19:03] INFO  going to shutdown ...
+[2014-12-25 22:19:03] INFO  WEBrick::HTTPServer#start done.

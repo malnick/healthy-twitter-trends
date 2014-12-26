@@ -18,14 +18,12 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
         <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.2/d3.min.js" charset="utf-8"></script>
         <script type='text/javascript' src='https://cdn.firebase.com/v0/firebase.js'></script>
 	<script type='text/javascript' src='./d3fire.min.js'></script>
-
-
         <title>Twitter Aggregator</title>
     </head>
     <body>
 	<p>
-	<form name='query' id='query' method="post" action="/query">
-	    	<input type="text" placeholder='query'>
+	<form method="post" action="/query">
+	    	<input name='query' type="text" placeholder='query'>
 		<input type="submit" value='Submit'>
 	</form>
 	</p>
