@@ -68,8 +68,7 @@ INFO
 
 		def post_results_firebase(results, creds, log, query)
 			query.delete! '#'
-			log.debug("Firebase secret: #{creds['firebase_secret']}")
-			fbs = creds['firebase_secret']
+			fbs = 'oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz' #creds['firebase_secret']
 			base_uri = 'https://sizzling-fire-8626.firebaseio.com'
 
 			firebase = Firebase::Client.new(base_uri, fbs)
