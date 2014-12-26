@@ -690,3 +690,22 @@ I, [2014-12-25T22:18:21.941306 #10622]  INFO -- : Submitting twitter query for q
 [2014-12-25 22:18:56] DEBUG close: ::1:63710
 [2014-12-25 22:19:03] INFO  going to shutdown ...
 [2014-12-25 22:19:03] INFO  WEBrick::HTTPServer#start done.
+[2014-12-25 22:24:48] INFO  WEBrick 1.3.1
+[2014-12-25 22:24:48] INFO  ruby 2.0.0 (2014-02-24) [universal.x86_64-darwin13]
+[2014-12-25 22:24:48] DEBUG TCPServer.new(::1, 4343)
+[2014-12-25 22:24:48] DEBUG TCPServer.new(fe80::1%lo0, 4343)
+[2014-12-25 22:24:48] DEBUG TCPServer.new(127.0.0.1, 4343)
+[2014-12-25 22:24:48] DEBUG Rack::Handler::WEBrick is mounted on /.
+[2014-12-25 22:24:48] INFO  WEBrick::HTTPServer#start: pid=12897 port=4343
+[2014-12-25 22:24:51] DEBUG accept: ::1:63965
+[2014-12-25 22:24:51] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:24:51.561175 #12897]  INFO -- : HTML Path: /Users/malnick/projects/healthy-twitter-trends/public/index.html
+[2014-12-25 22:24:54] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:24:54.199528 #12897]  INFO -- : Submitting twitter query for query=Test
+[2014-12-25 22:25:11] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:25:11.035665 #12897]  INFO -- : Submitting twitter query for query=Awesome
+[2014-12-25 22:25:24] DEBUG Rack::Handler::WEBrick is invoked.
+I, [2014-12-25T22:25:24.485204 #12897]  INFO -- : Submitting twitter query for query=fuck
+[2014-12-25 22:25:45] DEBUG close: ::1:63965
+[2014-12-25 22:25:45] INFO  going to shutdown ...
+[2014-12-25 22:25:45] INFO  WEBrick::HTTPServer#start done.

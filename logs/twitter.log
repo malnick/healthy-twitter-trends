@@ -328,3 +328,118 @@ D, [2014-12-25T22:18:25.422798 #10622] DEBUG -- : Sending to Firebase: Gold Coin
 D, [2014-12-25T22:18:25.777238 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EkE9cERV2IOGiwHI"}
 D, [2014-12-25T22:18:25.777343 #10622] DEBUG -- : Sending to Firebase: Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/GhNfO2UogR http://t.co/kwMAOXUbgU
 D, [2014-12-25T22:18:26.154191 #10622] DEBUG -- : Firebase response: {"name"=>"-Je4EkK1GAQ9cB_mdkKo"}
+I, [2014-12-25T22:24:54.199664 #12897]  INFO -- : Running Twitter query on query=Test
+I, [2014-12-25T22:24:54.199701 #12897]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:24:54.200018 #12897] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:24:54.200050 #12897]  INFO -- : Running search on query=Test
+I, [2014-12-25T22:24:54.200124 #12897]  INFO -- : Running search...
+D, [2014-12-25T22:24:54.823020 #12897] DEBUG -- : Adding tweet: Test Probes TPI-3000A 30-piece COAX adapter connector kit BRAND NEW! http://t.co/6j4G9MEMBa http://t.co/yBDXGT4Vpj
+D, [2014-12-25T22:24:54.823113 #12897] DEBUG -- : Adding tweet: GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/fkS8xxB3Lq http://t.co/narvbTW79V
+D, [2014-12-25T22:24:54.823149 #12897] DEBUG -- : Adding tweet: GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/KInyWxktmw http://t.co/QIzA1zREk9
+D, [2014-12-25T22:24:54.823184 #12897] DEBUG -- : Adding tweet: ASHCROFT DIGITAL TEST GUAGE  2089SS-D02L 160# and Model 2089 http://t.co/gJPlJ2BIMv http://t.co/vJ2hHmJJBD
+D, [2014-12-25T22:24:54.823215 #12897] DEBUG -- : Adding tweet: RT @MikeWellsAuthor: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.…
+D, [2014-12-25T22:24:54.823244 #12897] DEBUG -- : Adding tweet: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.co/WNGVFCGo38
+D, [2014-12-25T22:24:54.823296 #12897] DEBUG -- : Adding tweet: GOLD TESTING KIT Solid Scrap Silver Buy Sell Diamond Tester Digital Test Scale http://t.co/6b2lRni2rC http://t.co/6CiGp4ceEi
+D, [2014-12-25T22:24:54.823328 #12897] DEBUG -- : Adding tweet: Delta Design 9028 Environmental Temperature Heating/Cooling Test Chamber Oven http://t.co/w7QxuGcDJm http://t.co/cynaX30fo9
+D, [2014-12-25T22:24:54.823357 #12897] DEBUG -- : Adding tweet: Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/QFFh8XqQvn http://t.co/aZSns5G6X5
+D, [2014-12-25T22:24:54.823385 #12897] DEBUG -- : Adding tweet: Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/GhNfO2UogR http://t.co/kwMAOXUbgU
+I, [2014-12-25T22:24:54.823450 #12897]  INFO -- : Query results: ["Test Probes TPI-3000A 30-piece COAX adapter connector kit BRAND NEW! http://t.co/6j4G9MEMBa http://t.co/yBDXGT4Vpj", "GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/fkS8xxB3Lq http://t.co/narvbTW79V", "GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/KInyWxktmw http://t.co/QIzA1zREk9", "ASHCROFT DIGITAL TEST GUAGE  2089SS-D02L 160# and Model 2089 http://t.co/gJPlJ2BIMv http://t.co/vJ2hHmJJBD", "RT @MikeWellsAuthor: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.…", "Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.co/WNGVFCGo38", "GOLD TESTING KIT Solid Scrap Silver Buy Sell Diamond Tester Digital Test Scale http://t.co/6b2lRni2rC http://t.co/6CiGp4ceEi", "Delta Design 9028 Environmental Temperature Heating/Cooling Test Chamber Oven http://t.co/w7QxuGcDJm http://t.co/cynaX30fo9", "Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/QFFh8XqQvn http://t.co/aZSns5G6X5", "Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/GhNfO2UogR http://t.co/kwMAOXUbgU"]
+D, [2014-12-25T22:24:54.823479 #12897] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:24:54.823506 #12897] DEBUG -- : Sending to Firebase: Test Probes TPI-3000A 30-piece COAX adapter connector kit BRAND NEW! http://t.co/6j4G9MEMBa http://t.co/yBDXGT4Vpj
+D, [2014-12-25T22:24:55.258180 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GEJk1yETon875vCl"}
+D, [2014-12-25T22:24:55.258267 #12897] DEBUG -- : Sending to Firebase: GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/fkS8xxB3Lq http://t.co/narvbTW79V
+D, [2014-12-25T22:24:55.611356 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GEPJnUFXqymq_OWf"}
+D, [2014-12-25T22:24:55.611456 #12897] DEBUG -- : Sending to Firebase: GOLD-SILVER-DIAMOND TEST KIT + DIGITAL COIN SCALE Testing acid Electronic Tester http://t.co/KInyWxktmw http://t.co/QIzA1zREk9
+D, [2014-12-25T22:24:55.971754 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GEUvGa6dsciXEOZ-"}
+D, [2014-12-25T22:24:55.971856 #12897] DEBUG -- : Sending to Firebase: ASHCROFT DIGITAL TEST GUAGE  2089SS-D02L 160# and Model 2089 http://t.co/gJPlJ2BIMv http://t.co/vJ2hHmJJBD
+D, [2014-12-25T22:24:56.328718 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GE_Whar8chfbOcOd"}
+D, [2014-12-25T22:24:56.328790 #12897] DEBUG -- : Sending to Firebase: RT @MikeWellsAuthor: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.…
+D, [2014-12-25T22:24:56.683140 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GEf2f--CgOjPaXks"}
+D, [2014-12-25T22:24:56.683253 #12897] DEBUG -- : Sending to Firebase: Writers, test your literary agent IQ by taking this quick 12 true/false test here #publishing #agents #query http://t.co/WNGVFCGo38
+D, [2014-12-25T22:24:57.044618 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GEkghCzTdHJz36Ft"}
+D, [2014-12-25T22:24:57.044715 #12897] DEBUG -- : Sending to Firebase: GOLD TESTING KIT Solid Scrap Silver Buy Sell Diamond Tester Digital Test Scale http://t.co/6b2lRni2rC http://t.co/6CiGp4ceEi
+D, [2014-12-25T22:24:57.389326 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GEq4mGfBSp4ELRdF"}
+D, [2014-12-25T22:24:57.389428 #12897] DEBUG -- : Sending to Firebase: Delta Design 9028 Environmental Temperature Heating/Cooling Test Chamber Oven http://t.co/w7QxuGcDJm http://t.co/cynaX30fo9
+D, [2014-12-25T22:24:57.727584 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GEvOH--61RH96Z97"}
+D, [2014-12-25T22:24:57.727649 #12897] DEBUG -- : Sending to Firebase: Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/QFFh8XqQvn http://t.co/aZSns5G6X5
+D, [2014-12-25T22:24:58.107533 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GF0JDdRCB1SYcU8m"}
+D, [2014-12-25T22:24:58.107622 #12897] DEBUG -- : Sending to Firebase: Gold Coin Test Kit + Electronic Diamond Tester Detector + Digital Testing Scale http://t.co/GhNfO2UogR http://t.co/kwMAOXUbgU
+D, [2014-12-25T22:24:58.451895 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GF5f10NWmO0gFFiH"}
+I, [2014-12-25T22:25:11.035809 #12897]  INFO -- : Running Twitter query on query=Awesome
+I, [2014-12-25T22:25:11.035859 #12897]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:25:11.036166 #12897] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:25:11.036210 #12897]  INFO -- : Running search on query=Awesome
+I, [2014-12-25T22:25:11.036296 #12897]  INFO -- : Running search...
+D, [2014-12-25T22:25:11.539648 #12897] DEBUG -- : Adding tweet: AWESOME Vintage Buffalo Bills Sweatshirt - Xl (46-48) THROWBACK http://t.co/Emf7cvICXu http://t.co/WZemQg6qbj
+D, [2014-12-25T22:25:11.539745 #12897] DEBUG -- : Adding tweet: Awesome Royal Creations Blue Set Boys Size 4! (Ref: yd-379:96525) http://t.co/edTjNYtGMQ http://t.co/vJNcA7APrb
+D, [2014-12-25T22:25:11.539782 #12897] DEBUG -- : Adding tweet: Awesome RJC Yellow Set Boys Size 4T! (Ref: Yb-291:91298) http://t.co/FZPbbG9EzS http://t.co/33cuohiPlk
+D, [2014-12-25T22:25:11.539812 #12897] DEBUG -- : Adding tweet: 1.59Ct Pear Shape Awesome Green Color Loose Moissanite Diamond Certified* HG 343 http://t.co/qW4bW2vbfE http://t.co/UwhGpgHHPW
+D, [2014-12-25T22:25:11.539841 #12897] DEBUG -- : Adding tweet: Awesome Facet Smoky Topaz 925 Sterling Silver Necklace Pendant I7991 http://t.co/UfMovmdINp http://t.co/FpVnsl6SEY
+D, [2014-12-25T22:25:11.539870 #12897] DEBUG -- : Adding tweet: Awesome Cutie Round Toe Stilettos Pumps Shoes Faux Suede Black http://t.co/MPcpJajpNh http://t.co/IMQNNhNPSw
+D, [2014-12-25T22:25:11.539899 #12897] DEBUG -- : Adding tweet: Awesome Cutie Round Toe Stilettos Pumps Shoes Faux Suede Black http://t.co/MPcpJajpNh http://t.co/iuGGeam4Bb
+D, [2014-12-25T22:25:11.539927 #12897] DEBUG -- : Adding tweet: Hardy used, YAMAHA POCKETRAX CX  Digital Recorder 2 linear PCM modes,  AWESOME!! http://t.co/IWw1Z1F9lu http://t.co/3UOFPKocU9
+D, [2014-12-25T22:25:11.539955 #12897] DEBUG -- : Adding tweet: Joe Johnson Jersey NBA card 107/149 - awesome combine postage deal http://t.co/Y8e0A03tRk http://t.co/wOelIUZp7d
+D, [2014-12-25T22:25:11.539983 #12897] DEBUG -- : Adding tweet: Joe Johnson Jersey NBA card 107/149 - awesome combine postage deal http://t.co/8XlL7tSvBI http://t.co/nD6l3KaiuL
+I, [2014-12-25T22:25:11.540038 #12897]  INFO -- : Query results: ["AWESOME Vintage Buffalo Bills Sweatshirt - Xl (46-48) THROWBACK http://t.co/Emf7cvICXu http://t.co/WZemQg6qbj", "Awesome Royal Creations Blue Set Boys Size 4! (Ref: yd-379:96525) http://t.co/edTjNYtGMQ http://t.co/vJNcA7APrb", "Awesome RJC Yellow Set Boys Size 4T! (Ref: Yb-291:91298) http://t.co/FZPbbG9EzS http://t.co/33cuohiPlk", "1.59Ct Pear Shape Awesome Green Color Loose Moissanite Diamond Certified* HG 343 http://t.co/qW4bW2vbfE http://t.co/UwhGpgHHPW", "Awesome Facet Smoky Topaz 925 Sterling Silver Necklace Pendant I7991 http://t.co/UfMovmdINp http://t.co/FpVnsl6SEY", "Awesome Cutie Round Toe Stilettos Pumps Shoes Faux Suede Black http://t.co/MPcpJajpNh http://t.co/IMQNNhNPSw", "Awesome Cutie Round Toe Stilettos Pumps Shoes Faux Suede Black http://t.co/MPcpJajpNh http://t.co/iuGGeam4Bb", "Hardy used, YAMAHA POCKETRAX CX  Digital Recorder 2 linear PCM modes,  AWESOME!! http://t.co/IWw1Z1F9lu http://t.co/3UOFPKocU9", "Joe Johnson Jersey NBA card 107/149 - awesome combine postage deal http://t.co/Y8e0A03tRk http://t.co/wOelIUZp7d", "Joe Johnson Jersey NBA card 107/149 - awesome combine postage deal http://t.co/8XlL7tSvBI http://t.co/nD6l3KaiuL"]
+D, [2014-12-25T22:25:11.540085 #12897] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:25:11.540114 #12897] DEBUG -- : Sending to Firebase: AWESOME Vintage Buffalo Bills Sweatshirt - Xl (46-48) THROWBACK http://t.co/Emf7cvICXu http://t.co/WZemQg6qbj
+D, [2014-12-25T22:25:11.899613 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GINpPdk3tF0BKYYr"}
+D, [2014-12-25T22:25:11.899681 #12897] DEBUG -- : Sending to Firebase: Awesome Royal Creations Blue Set Boys Size 4! (Ref: yd-379:96525) http://t.co/edTjNYtGMQ http://t.co/vJNcA7APrb
+D, [2014-12-25T22:25:12.241893 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GITAqFOA-kryT_7v"}
+D, [2014-12-25T22:25:12.241958 #12897] DEBUG -- : Sending to Firebase: Awesome RJC Yellow Set Boys Size 4T! (Ref: Yb-291:91298) http://t.co/FZPbbG9EzS http://t.co/33cuohiPlk
+D, [2014-12-25T22:25:12.599959 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GIYmIWRh8jvL5TY0"}
+D, [2014-12-25T22:25:12.600031 #12897] DEBUG -- : Sending to Firebase: 1.59Ct Pear Shape Awesome Green Color Loose Moissanite Diamond Certified* HG 343 http://t.co/qW4bW2vbfE http://t.co/UwhGpgHHPW
+D, [2014-12-25T22:25:12.947888 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GIdC4ORmR5OkH61V"}
+D, [2014-12-25T22:25:12.947976 #12897] DEBUG -- : Sending to Firebase: Awesome Facet Smoky Topaz 925 Sterling Silver Necklace Pendant I7991 http://t.co/UfMovmdINp http://t.co/FpVnsl6SEY
+D, [2014-12-25T22:25:13.323784 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GIj36bvX74_9uGvr"}
+D, [2014-12-25T22:25:13.323864 #12897] DEBUG -- : Sending to Firebase: Awesome Cutie Round Toe Stilettos Pumps Shoes Faux Suede Black http://t.co/MPcpJajpNh http://t.co/IMQNNhNPSw
+D, [2014-12-25T22:25:13.688117 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GIolXNr4NcUUUgsE"}
+D, [2014-12-25T22:25:13.688215 #12897] DEBUG -- : Sending to Firebase: Awesome Cutie Round Toe Stilettos Pumps Shoes Faux Suede Black http://t.co/MPcpJajpNh http://t.co/iuGGeam4Bb
+D, [2014-12-25T22:25:14.050063 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GIuRcmNd8YdQ4zNS"}
+D, [2014-12-25T22:25:14.050145 #12897] DEBUG -- : Sending to Firebase: Hardy used, YAMAHA POCKETRAX CX  Digital Recorder 2 linear PCM modes,  AWESOME!! http://t.co/IWw1Z1F9lu http://t.co/3UOFPKocU9
+D, [2014-12-25T22:25:14.429199 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GJ-LlcBBR9y0aCrz"}
+D, [2014-12-25T22:25:14.429274 #12897] DEBUG -- : Sending to Firebase: Joe Johnson Jersey NBA card 107/149 - awesome combine postage deal http://t.co/Y8e0A03tRk http://t.co/wOelIUZp7d
+D, [2014-12-25T22:25:15.452639 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GJ5-RxbQf7BiX4Sh"}
+D, [2014-12-25T22:25:15.452721 #12897] DEBUG -- : Sending to Firebase: Joe Johnson Jersey NBA card 107/149 - awesome combine postage deal http://t.co/8XlL7tSvBI http://t.co/nD6l3KaiuL
+D, [2014-12-25T22:25:15.794697 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GJKgWmsBr0ba-gEv"}
+I, [2014-12-25T22:25:24.485384 #12897]  INFO -- : Running Twitter query on query=fuck
+I, [2014-12-25T22:25:24.485436 #12897]  INFO -- : Found credentials at /Users/malnick/.twitter-creds.yaml:
+D, [2014-12-25T22:25:24.485746 #12897] DEBUG -- : {"consumer_key"=>"5LmU6ckudMC5spqqRK1kJHVsu", "consumer_secret"=>"peJT1FuU8mx7uKANO2Ym95Lw2CQOKoplV2qcJfBvi3lmtEne2S", "access_token"=>"2251466376-nx6hde34spMTqEPVHXQOU5rcqJelzhthXMehMRS", "access_token_secret"=>"nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS", "firebase_secret"=>"oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz"}
+I, [2014-12-25T22:25:24.485811 #12897]  INFO -- : Running search on query=fuck
+I, [2014-12-25T22:25:24.485898 #12897]  INFO -- : Running search...
+D, [2014-12-25T22:25:25.312295 #12897] DEBUG -- : Adding tweet: 無料アダルト動画　「[일본야동]loves to fuck in group」　動画を視聴する⇒http://t.co/zAV0rgjXCp #douga #av #ero
+D, [2014-12-25T22:25:25.312370 #12897] DEBUG -- : Adding tweet: too pretty for a bad life https://t.co/xuLCPImqgE
+D, [2014-12-25T22:25:25.312405 #12897] DEBUG -- : Adding tweet: 알송에서 #Loffciamcore - #I_Will_Fuck_You_Up_Loli 듣는 중! http://t.co/pCLMbtRUy4 #ALSong
+D, [2014-12-25T22:25:25.312435 #12897] DEBUG -- : Adding tweet: BABY SHAMBLES FUCK FOREVER UK 2 CD Single Set The Libertines Peter Doherty Pete http://t.co/KBt46i3cfH http://t.co/Lzrjs36MDJ
+D, [2014-12-25T22:25:25.312464 #12897] DEBUG -- : Adding tweet: "@SafaricomLtd: @Salomelugard Not sure we got your query, kindly.^MI" Lol FUCK SAKE YOU ARE CUSTOMER CARE
+D, [2014-12-25T22:25:25.312493 #12897] DEBUG -- : Adding tweet: Finish at 12. Thankfully my answer to the 1140 query was (I paraphrase): "How the cocking fuck should I know?"
+D, [2014-12-25T22:25:25.312520 #12897] DEBUG -- : Adding tweet: Why the fuck does that query die when I run it on the full set, but when I run it on each element separate it works.
+
+AAAAH. FUCKING. TEC!
+D, [2014-12-25T22:25:25.312548 #12897] DEBUG -- : Adding tweet: Fuck it. I guess I'm going for a run rn lol
+D, [2014-12-25T22:25:25.312576 #12897] DEBUG -- : Adding tweet: meanwhile, dior paid the fuck out of my query.
+D, [2014-12-25T22:25:25.312603 #12897] DEBUG -- : Adding tweet: Like fuck man..
+I, [2014-12-25T22:25:25.312653 #12897]  INFO -- : Query results: ["無料アダルト動画　「[일본야동]loves to fuck in group」　動画を視聴する⇒http://t.co/zAV0rgjXCp #douga #av #ero", "too pretty for a bad life https://t.co/xuLCPImqgE", "알송에서 #Loffciamcore - #I_Will_Fuck_You_Up_Loli 듣는 중! http://t.co/pCLMbtRUy4 #ALSong", "BABY SHAMBLES FUCK FOREVER UK 2 CD Single Set The Libertines Peter Doherty Pete http://t.co/KBt46i3cfH http://t.co/Lzrjs36MDJ", "\"@SafaricomLtd: @Salomelugard Not sure we got your query, kindly.^MI\" Lol FUCK SAKE YOU ARE CUSTOMER CARE", "Finish at 12. Thankfully my answer to the 1140 query was (I paraphrase): \"How the cocking fuck should I know?\"", "Why the fuck does that query die when I run it on the full set, but when I run it on each element separate it works.\n\nAAAAH. FUCKING. TEC!", "Fuck it. I guess I'm going for a run rn lol", "meanwhile, dior paid the fuck out of my query.", "Like fuck man.."]
+D, [2014-12-25T22:25:25.312681 #12897] DEBUG -- : Firebase secret: oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz
+D, [2014-12-25T22:25:25.312707 #12897] DEBUG -- : Sending to Firebase: 無料アダルト動画　「[일본야동]loves to fuck in group」　動画を視聴する⇒http://t.co/zAV0rgjXCp #douga #av #ero
+D, [2014-12-25T22:25:25.654483 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GLjk9larsddphtds"}
+D, [2014-12-25T22:25:25.654553 #12897] DEBUG -- : Sending to Firebase: too pretty for a bad life https://t.co/xuLCPImqgE
+D, [2014-12-25T22:25:26.006283 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GLpFcgdfjvTOiR3u"}
+D, [2014-12-25T22:25:26.006381 #12897] DEBUG -- : Sending to Firebase: 알송에서 #Loffciamcore - #I_Will_Fuck_You_Up_Loli 듣는 중! http://t.co/pCLMbtRUy4 #ALSong
+D, [2014-12-25T22:25:26.363858 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GLup_6V_6wTq5gFF"}
+D, [2014-12-25T22:25:26.363923 #12897] DEBUG -- : Sending to Firebase: BABY SHAMBLES FUCK FOREVER UK 2 CD Single Set The Libertines Peter Doherty Pete http://t.co/KBt46i3cfH http://t.co/Lzrjs36MDJ
+D, [2014-12-25T22:25:26.719574 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GM-MFQRy9V_rj-bF"}
+D, [2014-12-25T22:25:26.719668 #12897] DEBUG -- : Sending to Firebase: "@SafaricomLtd: @Salomelugard Not sure we got your query, kindly.^MI" Lol FUCK SAKE YOU ARE CUSTOMER CARE
+D, [2014-12-25T22:25:27.069266 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GM4oPIuj1o9FpzFS"}
+D, [2014-12-25T22:25:27.069359 #12897] DEBUG -- : Sending to Firebase: Finish at 12. Thankfully my answer to the 1140 query was (I paraphrase): "How the cocking fuck should I know?"
+D, [2014-12-25T22:25:27.426844 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GMAR4f7SxpJgV80W"}
+D, [2014-12-25T22:25:27.426931 #12897] DEBUG -- : Sending to Firebase: Why the fuck does that query die when I run it on the full set, but when I run it on each element separate it works.
+
+AAAAH. FUCKING. TEC!
+D, [2014-12-25T22:25:27.773034 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GMFr8jQYri7MBX26"}
+D, [2014-12-25T22:25:27.773124 #12897] DEBUG -- : Sending to Firebase: Fuck it. I guess I'm going for a run rn lol
+D, [2014-12-25T22:25:28.121993 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GMLIFSQrbfUceiuz"}
+D, [2014-12-25T22:25:28.122063 #12897] DEBUG -- : Sending to Firebase: meanwhile, dior paid the fuck out of my query.
+D, [2014-12-25T22:25:28.469282 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GMQiWTMy1I-wDQYQ"}
+D, [2014-12-25T22:25:28.469352 #12897] DEBUG -- : Sending to Firebase: Like fuck man..
+D, [2014-12-25T22:25:28.848383 #12897] DEBUG -- : Firebase response: {"name"=>"-Je4GMWekp9zaeoOQ3Ok"}

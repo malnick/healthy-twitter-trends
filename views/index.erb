@@ -33,7 +33,7 @@ Watch the bubbles on this page change in size and appear/disappear as you modify
             /******
                 ENTER YOUR FIREBASE URL HERE
             ******/
-	var fbase = new Firebase('https://sizzling-fire-8626.firebaseio.com/'<%= @query %>);
+	var fbase = new Firebase("https://sizzling-fire-8626.firebaseio.com/<%= @query %>");
 
                 // Add an SVG element to the body
                 var wordCloud = d3.select("body")
