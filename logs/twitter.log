@@ -4519,3 +4519,50 @@ D, [2014-12-26T10:56:30.299018 #49266] DEBUG -- : Sending to Firebase: https://t
 omg that heart breakin solo in thi middle #fuckit! #epicness 
 #nowplaying Staind #somethingtoremember
 D, [2014-12-26T10:56:30.658116 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xFvDaFcplmZESlUx"}
+I, [2014-12-26T10:57:45.140464 #49266]  INFO -- : Running Twitter query on fuckit
+I, [2014-12-26T10:57:45.140512 #49266]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-26T10:57:45.140541 #49266]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-26T10:57:45.140571 #49266]  INFO -- : Running search on fuckit
+I, [2014-12-26T10:57:45.140628 #49266]  INFO -- : Running search...
+D, [2014-12-26T10:57:45.563223 #49266] DEBUG -- : Adding tweet: RT @yalllovem_: Anywho, Im about to ask can I go somewhere fuck this 😭😌
+D, [2014-12-26T10:57:45.563300 #49266] DEBUG -- : Adding tweet: RT @Naaee___2: You don't give up on someone you love.
+D, [2014-12-26T10:57:45.563331 #49266] DEBUG -- : Adding tweet: #fuckit
+D, [2014-12-26T10:57:45.563359 #49266] DEBUG -- : Adding tweet: RT @ryleewilliams_: I just wanna chill &amp; do crazy shit! While im still young! Because before we know it! Were all gonna be dead!♥︎ #fuckit
+D, [2014-12-26T10:57:45.563386 #49266] DEBUG -- : Adding tweet: Anybody wanna drive to Chicago? I wanna do something random
+#FuckIt
+D, [2014-12-26T10:57:45.563413 #49266] DEBUG -- : Adding tweet: if they don't want you then they don't want you, there's nothing you can do to prove to someone that you're really worth it. #fuckit
+D, [2014-12-26T10:57:45.563439 #49266] DEBUG -- : Adding tweet: She play to fucking much
+D, [2014-12-26T10:57:45.563465 #49266] DEBUG -- : Adding tweet: I should smack her ass
+D, [2014-12-26T10:57:45.563491 #49266] DEBUG -- : Adding tweet: 'Twas the night before xmas when Hudson said 'Fuckit' #xmas #SantaClaus #MerryChristmas #babiesfirstchristmas #Fuckit http://t.co/IqvQPTb19v
+D, [2014-12-26T10:57:45.563517 #49266] DEBUG -- : Adding tweet: RT @cycleopps: @janeannenichol #bored #mood cheer up it Christmas, oh ok I understand #fuckit
+I, [2014-12-26T10:57:45.563583 #49266]  INFO -- : Query results: ["RT @yalllovem_: Anywho, Im about to ask can I go somewhere fuck this 😭😌", "RT @Naaee___2: You don't give up on someone you love.", "#fuckit", "RT @ryleewilliams_: I just wanna chill &amp; do crazy shit! While im still young! Because before we know it! Were all gonna be dead!♥︎ #fuckit", "Anybody wanna drive to Chicago? I wanna do something random\n#FuckIt", "if they don't want you then they don't want you, there's nothing you can do to prove to someone that you're really worth it. #fuckit", "She play to fucking much", "I should smack her ass", "'Twas the night before xmas when Hudson said 'Fuckit' #xmas #SantaClaus #MerryChristmas #babiesfirstchristmas #Fuckit http://t.co/IqvQPTb19v", "RT @cycleopps: @janeannenichol #bored #mood cheer up it Christmas, oh ok I understand #fuckit"]
+D, [2014-12-26T10:57:45.563619 #49266] DEBUG -- : Sending to Firebase: RT @yalllovem_: Anywho, Im about to ask can I go somewhere fuck this 😭😌
+D, [2014-12-26T10:57:45.930987 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xYILbXsrzU2CjEm6"}
+D, [2014-12-26T10:57:45.931058 #49266] DEBUG -- : Sending to Firebase: RT @Naaee___2: You don't give up on someone you love.
+D, [2014-12-26T10:57:46.298272 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xYNxsEqB5GQmSddD"}
+D, [2014-12-26T10:57:46.298384 #49266] DEBUG -- : Sending to Firebase: #fuckit
+D, [2014-12-26T10:57:46.664494 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xYTo51gqVmFXf3nd"}
+D, [2014-12-26T10:57:46.664563 #49266] DEBUG -- : Sending to Firebase: RT @ryleewilliams_: I just wanna chill &amp; do crazy shit! While im still young! Because before we know it! Were all gonna be dead!♥︎ #fuckit
+D, [2014-12-26T10:57:47.012099 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xYZFU1cJg5Oz2euo"}
+D, [2014-12-26T10:57:47.012240 #49266] DEBUG -- : Sending to Firebase: Anybody wanna drive to Chicago? I wanna do something random
+#FuckIt
+D, [2014-12-26T10:57:47.381963 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xYe-ADjY_c09l7wV"}
+D, [2014-12-26T10:57:47.382037 #49266] DEBUG -- : Sending to Firebase: if they don't want you then they don't want you, there's nothing you can do to prove to someone that you're really worth it. #fuckit
+D, [2014-12-26T10:57:47.734030 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xYjXjyqMTcn_zHuX"}
+D, [2014-12-26T10:57:47.734107 #49266] DEBUG -- : Sending to Firebase: She play to fucking much
+D, [2014-12-26T10:57:48.086902 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xYozwN9qPTl3WrX2"}
+D, [2014-12-26T10:57:48.086969 #49266] DEBUG -- : Sending to Firebase: I should smack her ass
+D, [2014-12-26T10:57:48.443057 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xYubM3XnLc2t5_MB"}
+D, [2014-12-26T10:57:48.443117 #49266] DEBUG -- : Sending to Firebase: 'Twas the night before xmas when Hudson said 'Fuckit' #xmas #SantaClaus #MerryChristmas #babiesfirstchristmas #Fuckit http://t.co/IqvQPTb19v
+D, [2014-12-26T10:57:48.792087 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xZ-2pABLJBVLDed1"}
+D, [2014-12-26T10:57:48.792150 #49266] DEBUG -- : Sending to Firebase: RT @cycleopps: @janeannenichol #bored #mood cheer up it Christmas, oh ok I understand #fuckit
+D, [2014-12-26T10:57:49.151782 #49266] DEBUG -- : Firebase response: {"name"=>"-Je6xZ4fnNYxWemVR_tb"}
