@@ -21,7 +21,6 @@ module Twitq
 				query = options[:search]
 				Twitq::Search.new(options[:search], log)			
 				results = Twitq::Search.results
-				log.info(results)
 			else
 				query = options
 				Twitq::Search.new(query, log)

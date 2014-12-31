@@ -5676,3 +5676,629 @@ I, [2014-12-31T08:46:25.302243 #93533]  INFO -- : Running search on test
 I, [2014-12-31T08:46:25.302329 #93533]  INFO -- : Running search...
 I, [2014-12-31T08:46:26.576370 #93533]  INFO -- : Query results: ["I'll start my first day of new year with the listening test :)))", "RT @Angelok150101: Прошивка firmware настройка ресивер триколор http://t.co/kCNRauO9Yn", "India Move on as Mahendra Singh Dhoni Steps Down as Test Captain http://t.co/GfCro3Dalo", "RT @JCoIeATL: They tell me life is a test but where's a tutor for me?", "RT @yuganticool35: @msdhoni You've left it richer.The biggest entertainer it could have.Test matches will miss you. For me #MSDForever♥ htt…", "RT @syafri_tkc: Test", "Ready for more test from Him. Bye pahit pahit 2014 👋", "Test", "Test", "【悲報】道頓堀に１０人以上飛び込み、１人心肺停止　 [転載禁止]©http://t.co/S9vALqJlhj [148530339]\nhttp://t.co/hbRpVQC5EE"]
 I, [2014-12-31T08:46:26.576480 #93533]  INFO -- : Posting results to S3
+I, [2014-12-31T09:12:43.688926 #1501]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:12:43.689012 #1501]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:12:43.689059 #1501]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:12:43.689081 #1501]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:12:43.689102 #1501]  INFO -- : Running search on test
+I, [2014-12-31T09:12:43.689156 #1501]  INFO -- : Running search...
+I, [2014-12-31T09:12:44.173734 #1501]  INFO -- : Query results: ["RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "男子トイレ前", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…"]
+I, [2014-12-31T09:12:44.173824 #1501]  INFO -- : Posting results to S3
+I, [2014-12-31T09:14:44.918416 #2106]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:14:44.918499 #2106]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:14:44.918548 #2106]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:14:44.918587 #2106]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:14:44.918626 #2106]  INFO -- : Running search on test
+I, [2014-12-31T09:14:44.918709 #2106]  INFO -- : Running search...
+I, [2014-12-31T09:14:45.441474 #2106]  INFO -- : Query results: ["RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @UnAIumno: Hacer un examen tipo test y sentir estar en \"Quien quiere ser millonario\".", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "jaajjajajaj es verdad este TEST http://t.co/97buGDJDGK", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "RT @TestDivertidos1: ¿QUIERES SABER COMO ERES DE SEXY? 💃💃 RELIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y AVERIGUALO! 👙👙 http://t.co/6…", "自民党 辞職 セクハラ野次 【パズドラ】ラクシュミー愛好会2【くこち】 - 2ちゃんねる http://t.co/XkqzzqUg4t 産めないのか 粕人間 #fxch"]
+I, [2014-12-31T09:14:45.441582 #2106]  INFO -- : Posting results to S3
+I, [2014-12-31T09:14:45.441606 #2106]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:16:24.606763 #2592]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:16:24.606848 #2592]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:16:24.606875 #2592]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:16:24.606910 #2592]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:16:24.606946 #2592]  INFO -- : Running search on test
+I, [2014-12-31T09:16:24.607019 #2592]  INFO -- : Running search...
+I, [2014-12-31T09:16:25.109309 #2592]  INFO -- : Query results: ["jaajjajajaj es verdad este TEST http://t.co/c3mHCeEQGN", "jaajjajajaj es verdad este TEST http://t.co/W5waotUpd0", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "RT @_Athlete_Status: The hardest test of all time http://t.co/dwf4aGbS1s", "jaajjajajaj es verdad este TEST http://t.co/usoo3ad6ZS", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "MILLINIORE CRICKETERS NOT LIKE 2 TAKE 5 DAYS-STRESS IN  TEST MATCHES,HENCE IN LARGER INTEREST OFTEST MATCH YOUNGER' CRICKETER MAY BETIPPED.", "RT @Cristianhk_: Los mejores test para compartir en twitter los podes hacer en http://t.co/llLLHlBtQB disfrutaloss!!!!", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "jaajjajajaj es verdad este TEST http://t.co/jG5bEW7KbB"]
+I, [2014-12-31T09:16:25.109395 #2592]  INFO -- : Posting results to S3
+I, [2014-12-31T09:16:25.109417 #2592]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:17:07.038890 #2856]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:17:07.038975 #2856]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:17:07.039003 #2856]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:17:07.039020 #2856]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:17:07.039036 #2856]  INFO -- : Running search on test
+I, [2014-12-31T09:17:07.039086 #2856]  INFO -- : Running search...
+I, [2014-12-31T09:17:07.998145 #2856]  INFO -- : Query results: ["weed is only holding me back from getting farther in this world full of drug test and good paying jobs that require them", "RT @yoCameronDaIIas: When the teacher says the test is an open book test\n\nhttps://t.co/jrALv6Mudv", "Bu Test Yuva Yıkar! Kaç Kere Aldatıldığınızı Biz Biliriz... http://t.co/CGOe5Nnmri http://t.co/PWpeMEUx2W", "Bu Test Yuva Yıkar! Kaç Kere Aldatıldığınızı Biz Biliriz... http://t.co/TMtBoCWqhK http://t.co/cM8N46FDz6", "Имел такой в СССР, получил стресс от созерцания собственного волоса.", "@kenziseeyou I thought we could test our skills", "RT @SHOHEI_OFFICIAL: 岡本竜治。test-NO. RYOさんとです。\nいつもありがとうございますー。 http://t.co/UycjReDeZ3", "RT @tahtalfn: Test test uhuk uhuk assalamualaikum 2015 :D", "jaajjajajaj es verdad este TEST http://t.co/qwRBMIkXQj", "jaajjajajaj es verdad este TEST http://t.co/FiE9vU1xCm"]
+I, [2014-12-31T09:17:07.998255 #2856]  INFO -- : Posting results to S3
+I, [2014-12-31T09:17:07.998308 #2856]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:17:30.768230 #3042]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:17:30.768317 #3042]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:17:30.768351 #3042]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:17:30.768399 #3042]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:17:30.768430 #3042]  INFO -- : Running search on test
+I, [2014-12-31T09:17:30.768515 #3042]  INFO -- : Running search...
+I, [2014-12-31T09:17:31.428491 #3042]  INFO -- : Query results: ["RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "MY DRIVING INSTRUCTOR SHOWED ME A TEST FORM NOW IM FREAKING OUT  😭😭", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "😂😂😂😂😂 hopped out my messages real quick.. told u don't test me. I can be very MF' spiteful😁", "\"@_Bruah: When you finish you're test before the dude copying off yours 😂 #Bruah #MafiaGang #Ha #StopCheating https://t.co/vHsYuVgKnn\"😹", "2014-12-31 17:17:18.346999 #harry_tcc_test", "Happy test cricket travel@msdhoni.....#thankyoudhoni....nd wish u happy new year....bro...your diehard fan from tamilnadu", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…"]
+I, [2014-12-31T09:17:31.428578 #3042]  INFO -- : Posting results to S3
+I, [2014-12-31T09:17:31.428599 #3042]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:17:31.617148 #3042]  INFO -- : Creating S3 bucket for 
+I, [2014-12-31T09:20:04.728669 #3811]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:20:04.728757 #3811]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:20:04.728795 #3811]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:20:04.728816 #3811]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:20:04.728833 #3811]  INFO -- : Running search on test
+I, [2014-12-31T09:20:04.728888 #3811]  INFO -- : Running search...
+I, [2014-12-31T09:20:05.265770 #3811]  INFO -- : Query results: ["RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E\nhttp://t.co/B1uhWDbyWB\n\nRT @opentestfrance http://t.co/TLnQoEtR3m", "RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E\nhttp://t.co/B1uhWDbyWB\n\nRT @opentestfrance http://t.co/TLnQoEtR3m", "RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E\nhttp://t.co/B1uhWDbyWB\n\nRT @opentestfrance http://t.co/TLnQoEtR3m", "Link of the day! Most popular link among people I follow is http://t.co/o5OwtOsWi6 by @SexoVicioso", "RT @opentestfrance: TEST : POUVEZ-VOUS AFFRONTER LA VIE SEUL/E\nhttp://t.co/B1uhWDbyWB\n\nRT @opentestfrance http://t.co/TLnQoEtR3m", "test", "@xhmahone eccoti qui :) ti consigliamo questo per passare un po' di tempo http://t.co/jkdCkPtrvr", "Kohli eyes Dravids run record in fourth Test – SahilOnline #Sports http://t.co/tlhdHUgpi6", "服を買いにイオンに行こう！→レディース、レディース、レディース…→俺はレディースを買った [転載禁止]&amp;#169;http://t.co/0uHifhvKKm･ [448916155]\nhttp://t.co/4eBvZ98rYg", "Yes RT @_TheDLove: What kind of drug test do they do for simos 😳 please tell me pee test 😅😩"]
+I, [2014-12-31T09:20:05.265870 #3811]  INFO -- : Posting results to S3
+I, [2014-12-31T09:20:05.265893 #3811]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:20:05.413024 #3811]  INFO -- : Creating S3 bucket for test
+I, [2014-12-31T09:21:03.531914 #4075]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:21:03.531999 #4075]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:21:03.532029 #4075]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:21:03.532064 #4075]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:21:03.532102 #4075]  INFO -- : Running search on test
+I, [2014-12-31T09:21:03.532188 #4075]  INFO -- : Running search...
+I, [2014-12-31T09:21:04.376382 #4075]  INFO -- : Query results: ["2014-12-31 17:09:42.716000 #harry_tcc_test http://t.co/vGMdAk5hGb", "@poll 138060 40:1420042934", "2014-12-31 17:24:34.744999 #harry_tcc_test http://t.co/pNAjiYTcEM", "2014-12-31 17:21:49.352999 #harry_tcc_test http://t.co/gyGWeJKa3m", "Test streaming random games : http://t.co/TDdU4P6quT", "test twitt @putriutamiaf", "RT @syafri_tkc: Test", "2015 e test çözerek gircem 😎", "RT @syafri_tkc: Test", "@submarine_test 툐닥툐닥.."]
+I, [2014-12-31T09:21:04.376465 #4075]  INFO -- : Posting results to S3
+I, [2014-12-31T09:21:04.376486 #4075]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:21:04.531601 #4075]  INFO -- : Creating S3 bucket for test
+I, [2014-12-31T09:21:24.017375 #4132]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:21:24.017459 #4132]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:21:24.017485 #4132]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:21:24.017502 #4132]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:21:24.017518 #4132]  INFO -- : Running search on test
+I, [2014-12-31T09:21:24.017570 #4132]  INFO -- : Running search...
+I, [2014-12-31T09:21:24.544354 #4132]  INFO -- : Query results: ["RT @_Athlete_Status: The hardest test of all time http://t.co/dwf4aGbS1s", "Masuk je \"@sjlhaje: Test\"", "RT @JarlAndersen_: during a math test: \nme: my answer = 23\nanswer choices: 170, 195, 264, 362\nme: well 170 is closest to 23, so that must b…", "RT @lifehacker: Cut tuition costs and get your degree early. Just test out of a few classes: http://t.co/H0hOhe3twW", "@pretty_k421 Book a MINI 5 Door adventure at Park Lane. Go-kart handling guaranteed! http://t.co/4XZ80Pogi7 http://t.co/NW3QG0OZqj", "凋落のマクドナルド　復活の道はある？ http://t.co/vow4mjZ43A #2ch", "横山由依真ん中に持ってくるのマジでやめろよ http://t.co/cj6iuSQDFm #2ch", "アークレイ http://t.co/eDJXYgZBUA #2ch", "When it was finished with the test he called out \"ford truck?\" I'm excuse me her name is Barbara. #echeckyourself", "Spot The Virgin - Test http://t.co/MlrTyOUTuP http://t.co/ggrcNYoOTb"]
+I, [2014-12-31T09:21:24.544440 #4132]  INFO -- : Posting results to S3
+I, [2014-12-31T09:21:24.544461 #4132]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:21:24.700695 #4132]  INFO -- : Creating S3 bucket for test
+I, [2014-12-31T09:24:14.428691 #4798]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:24:14.428775 #4798]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:24:14.428803 #4798]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:24:14.428838 #4798]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:24:14.428875 #4798]  INFO -- : Running search on test
+I, [2014-12-31T09:24:14.428960 #4798]  INFO -- : Running search...
+I, [2014-12-31T09:24:14.972733 #4798]  INFO -- : Query results: ["@Test_subject_1 That... doesn't matter at the moment, what matters is for you to get to Opportunity. Safely. @VaultHunterEXE", "Test", "Dhoni Retaire to Test Career,This is So Bad News To Indian Cricket Fans. http://t.co/VkcC3A4XS3", "Drivers test on the 3rd 😁", "RT @Twt_RoadBlock: 2350 hrs PERLIS : polis bersepah dekat Kuala Perlis. Urine Test pon ada. Kau tak hisap dadah jangan takot. Hisap rokok t…", "Let me test drive these streets. I don't let my people down.", "Testing. 1, 2, 3. Test. http://t.co/4TRtcFQv7h", "RT @ajinkyarahane88: Test cricket will miss you Dhoni bhai.. You have been a great source of inspiration for me @msdhoni", "This bobble hat passes the Missy test and is of sufficient standard to wear in public 😀 #crochet… http://t.co/jUweUZHyhR", "RT @moze: Sweet potato header for #mundane2015 test ifttt action http://t.co/W28JidFIcf"]
+I, [2014-12-31T09:24:14.972829 #4798]  INFO -- : Posting results to S3
+I, [2014-12-31T09:24:14.972867 #4798]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:24:15.126948 #4798]  INFO -- : Writing results to S3 bucket: #<Twitq::Search:0x007f9a7d823358>
+I, [2014-12-31T09:24:27.993174 #4854]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:24:27.993258 #4854]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:24:27.993285 #4854]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:24:27.993304 #4854]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:24:27.993331 #4854]  INFO -- : Running search on test
+I, [2014-12-31T09:24:27.993411 #4854]  INFO -- : Running search...
+I, [2014-12-31T09:24:28.760506 #4854]  INFO -- : Query results: ["RT @AlfaCorporation: Test", "Neyse ben test cözeyim saat 12 olunca yeni yıla girdik diye sevinirim artık yeter bu kadar ya", "RT @hotcousinprod: Today we filmed a test pilot for a @SheKnowsCanada web series! It was delicious &amp; Adele cried.Nailing it. #plantbased ht…", "RT @Cristianhk_: Los mejores test para compartir en twitter los podes hacer en http://t.co/llLLHlBtQB disfrutaloss!!!!", "RT @dimaguchda: Игры скачать test drive unlimited http://t.co/aoYAO5fLQQ", "RT @BrokenCricket: Best moments for World Cricket in 2014:\n\n1. SL T20 Champions\n2. Aus 5-0 Ashes win\n3. Misbah Fastest Test Century\n4. Aus …", "RT @Cristianhk_: Los mejores test para compartir en twitter los podes hacer en http://t.co/llLLHlBtQB disfrutaloss!!!!", "@kathunt15 Well this might be an awkward test....", "RT @Cristianhk_: Los mejores test para compartir en twitter los podes hacer en http://t.co/llLLHlBtQB disfrutaloss!!!!", "Finished high school, passed my driving test, got decent A Levels, moved to London and started drama school. This year has been awesome."]
+I, [2014-12-31T09:24:28.760591 #4854]  INFO -- : Posting results to S3
+I, [2014-12-31T09:24:28.760613 #4854]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:24:28.903816 #4854]  INFO -- : Writing results to S3 bucket: #<Twitq::Search:0x007fbe0af73058>
+I, [2014-12-31T09:26:41.702882 #5476]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:26:41.702964 #5476]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:26:41.702995 #5476]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:26:41.703023 #5476]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:26:41.703052 #5476]  INFO -- : Running search on test
+I, [2014-12-31T09:26:41.703129 #5476]  INFO -- : Running search...
+I, [2014-12-31T09:26:42.213071 #5476]  INFO -- : Query results: ["@Alaskxn wanna test my new internet 😉", "Need to get an allergy test Bc my right ear has been throbbing but numb at the same time for about 3 hours", "@firesidephil Check the socket type here - http://t.co/3c9oncy8Z6 and if you have a test socket connect there.", "Test 1303 http://t.co/1yUOfso8Ev http://t.co/oqbVbd2nvv", "Bu Test Yuva Yıkar! Kaç Kere Aldatıldığınızı Biz Biliriz... http://t.co/E5NkJev3Kl http://t.co/NL6GSgzVov", "RT @MotorNorthWest: Motoring North Road Test Land Rover Discovery HSE LUX......\n\nDISCO FEVER\n\nIf you ever need a lesson into how to... http…", "Damn. Kaiser is pretty good. I already have my blood test results online from yesterday.", "I have a very bad feeling I will be the girl whose learners permit expires and has to retake the test.", "We miss u so much (dhoni)in test format", "RT @FarmersWeekly: Brill RT @PCJFARMING: Just read these in a book I got for Christmas, \"the best test paper blunders\" @FarmersWeekly http:…"]
+I, [2014-12-31T09:26:42.213173 #5476]  INFO -- : #<Twitq::Search:0x007ff5560a2b18 @query="test">
+I, [2014-12-31T09:26:42.213226 #5476]  INFO -- : Posting results to S3
+I, [2014-12-31T09:26:42.213260 #5476]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:26:42.363301 #5476]  INFO -- : Writing results to S3 bucket: #<Twitq::Search:0x007ff5560a2b18>
+I, [2014-12-31T09:26:58.136377 #5532]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:26:58.136464 #5532]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:26:58.136491 #5532]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:26:58.136509 #5532]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:26:58.136525 #5532]  INFO -- : Running search on test
+I, [2014-12-31T09:26:58.136579 #5532]  INFO -- : Running search...
+I, [2014-12-31T09:26:59.029981 #5532]  INFO -- : Query results: ["RT @DenaBahrin: May All the test in 2014 become the best hikmah for us to do and be better in 2015", "#加藤由美子 #フルート #fxch 【産めないのか？】ヤジを言った都議特定せよ1 - 2ちゃんねる http://t.co/vPxVrsfwA7 #仕事が暇だと飲み代稼ぎのスキャ", "2014-12-31 17:30:29.165999 #harry_tcc_test http://t.co/xbGip1j9kp", "Roche Ebola Test Gets Emergency Use Authorization FDA grants its seventh Ebola diagnostic  http://t.co/oe39pyQ15b", "Test", "Baka to Test to Shoukanjuu – Няя! #np @ Помер", "RT @DenaBahrin: May All the test in 2014 become the best hikmah for us to do and be better in 2015", "Test", "#加藤由美子 #フルート #fxch 女性都議に「産めないのか」自民？議員席からヤジ7 - 2ちゃんねる http://t.co/DHWyaiEbX0 #仕事が暇だと飲み代稼ぎのスキャ", "RT @DenaBahrin: May All the test in 2014 become the best hikmah for us to do and be better in 2015"]
+I, [2014-12-31T09:27:19.994735 #5637]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:27:19.994821 #5637]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:27:19.994877 #5637]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:27:19.994918 #5637]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:27:19.994957 #5637]  INFO -- : Running search on test
+I, [2014-12-31T09:27:19.995041 #5637]  INFO -- : Running search...
+I, [2014-12-31T09:27:20.871781 #5637]  INFO -- : Query results: ["This used Chrysler 300 is in great shape! Come take it for a test drive! More here: http://t.co/whPa1pYOho", "東アジアnews+ #2ch #news2ch #news4plus\n\n#すらいむ★\n【米国】ソニー攻撃、北朝鮮偵察総局関与[01/01]　\nhttp://t.co/yx6EjXb8EJ", "Great year 2014 has been, leicester got promoted, passed my driving test, started a new college and met some amazing people throughout💃", "Great day to work for @LandRover ! Discovery sport had excellent feedback all day on test drives 🙌", "RT @tiwarymanoj: Congratulations on a wonderful test career @msdhoni bhai. Learned a lot being in d same dressin room durin ODI tours 😊", "Test", "RT @kotosinounsei: 🐑あけおめ🐑\n\n今年のアナタの神席運はどんな感じ？\n\n【新年運試しおみくじ⇒http://t.co/Xxt3h5Rz5q】\n\n当選祈願🙏 http://t.co/VlVcj3ZaSZ", "Carlos Sainz test Dakar 2015 Peugeot 2008, bonitas imágenes. Ya está aquí el Dañar!!!  http://t.co/h8aTVRr4CP", "RT @DenaBahrin: May All the test in 2014 become the best hikmah for us to do and be better in 2015", "RT @HorseRacingUK: Struthers: riders must be responsible about sun problems: PROFESSIONAL JOCKEYS ASSOCIATION chief executive Pau... http:/…"]
+I, [2014-12-31T09:29:47.172107 #6342]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:29:47.172193 #6342]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:29:47.172222 #6342]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:29:47.172242 #6342]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:29:47.172261 #6342]  INFO -- : Running search on test
+I, [2014-12-31T09:29:47.172313 #6342]  INFO -- : Running search...
+I, [2014-12-31T09:29:47.656494 #6342]  INFO -- : Query results: ["RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @DenaBahrin: May All the test in 2014 become the best hikmah for us to do and be better in 2015", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…"]
+I, [2014-12-31T09:29:47.656590 #6342]  INFO -- : #<Twitq::Search:0x007fdb44c06e68 @query="test">
+I, [2014-12-31T09:29:47.656662 #6342]  INFO -- : Posting results to S3
+I, [2014-12-31T09:29:47.656695 #6342]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:29:47.810965 #6342]  INFO -- : Writing results to S3 bucket: #<Twitq::Search:0x007fdb44c06e68>
+I, [2014-12-31T09:32:37.350385 #7214]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:32:37.350472 #7214]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:32:37.350505 #7214]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:32:37.350554 #7214]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T09:32:37.350588 #7214]  INFO -- : Running search on test
+I, [2014-12-31T09:32:37.350675 #7214]  INFO -- : Running search...
+I, [2014-12-31T09:32:37.865849 #7214]  INFO -- : Query results: ["RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…", "RT @Cristianhk_: Besos Perfectos - Si hubiera escuela para besos, tu serias el maestro --&gt; Realiza tu test en: http://t.co/llLLHlBtQB http:…", "RT @TestDivertidos1: ¿QUIERES SABER CÓMO ERES DE BORRACHO/A? 🍺🍺 RELAIZA NUESTRO TEST AQUÍ ~&gt; http://t.co/k55Dxe1hiP Y DESCÚBRELO! 🍶🍶 http:/…"]
+I, [2014-12-31T09:32:37.865938 #7214]  INFO -- : #<Twitq::Search:0x007fa921c9ef88>
+I, [2014-12-31T09:32:37.865967 #7214]  INFO -- : Posting results to S3
+I, [2014-12-31T09:32:37.865985 #7214]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:32:38.013290 #7214]  INFO -- : Writing results to S3 bucket: #<Twitq::Search:0x007fa921c9ef88>
+I, [2014-12-31T09:34:59.128463 #7887]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:34:59.128546 #7887]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:34:59.128572 #7887]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:34:59.128589 #7887]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:34:59.128604 #7887]  INFO -- : Running search on test
+I, [2014-12-31T09:34:59.128656 #7887]  INFO -- : Running search...
+I, [2014-12-31T09:34:59.650311 #7887]  INFO -- : Query results: ["Test to be deleted http://t.co/rgXZpJu575", "This guy at publix didn't even bag my stuff but he opened the bag to see what I got!!!! Like what if I had a pregnancy test or herp medicine", "Drivers test today😁🚗🙌 #nervous #3hours", "@TeamFrindsey yeah I was thinking that maybe he could ask for another DNA test but it came back different results xx", "RT @i_Psycho: Facebook wall of MS Dhoni after he announced retirement from test cricket. Full wall-post here\nhttp://t.co/kyiXJhqpxe http://…", "RT @ComedyTextings: during a math test: \n\nme: my answer = 23\n\nanswer choices: 170, 195, 264, 362\n\nme: well 170 is closest to 23, so that mu…", "RT @UKPharmacist: Run out of test strips you say? For a machine that no-one's ever heard of? CCG formulary switch was it?\n\nOh dear. Happy N…", "'WeMo Motion' detected new motion: December 31, 2014 at 12:34PM", "RT @syafri_tkc: Test", "I just passed the \"Certified Beer Server\" test! Now time to study even more for the Cicerone! @Cicerone_org http://t.co/Er5bVKwNgo"]
+I, [2014-12-31T09:35:11.951564 #7943]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:35:11.951653 #7943]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:35:11.951686 #7943]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:35:11.951733 #7943]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:35:11.951761 #7943]  INFO -- : Running search on test
+I, [2014-12-31T09:35:11.951849 #7943]  INFO -- : Running search...
+I, [2014-12-31T09:35:12.842384 #7943]  INFO -- : Query results: ["RT @AlfaCorporation: Test", "@itsymimilee @PikachuFeeka ni link dia http://t.co/OgqrE3pGz2", "RT @YaBoyNapoleonn: When you trying to cheat on a test. http://t.co/GFxtlkzY4P", "RT @DenaBahrin: May All the test in 2014 become the best hikmah for us to do and be better in 2015", "I just got 98% on the 'Ontario G1 Practice Test Seven'. Think you can do better? Click here to try! http://t.co/O1lv6pXnD6", "Cute Romantic  Eye Test Chart Black White Poster http://t.co/mbXwpZnFI9", "4-12-31 17:34:59.305000 #harry_tcc_test", "test tweet http://t.co/llB3ayTHx3", "RT @diaryoftallgirl: My New Years Resolution: to help short people. To change more lightbulbs, test more smoke alarms, and always be the bo…", "http://t.co/o8MKbaPxYl Test Cricket"]
+I, [2014-12-31T09:35:12.842466 #7943]  INFO -- : #<Twitq::Search:0x007fc56b153000 @results=["RT @AlfaCorporation: Test", "@itsymimilee @PikachuFeeka ni link dia http://t.co/OgqrE3pGz2", "RT @YaBoyNapoleonn: When you trying to cheat on a test. http://t.co/GFxtlkzY4P", "RT @DenaBahrin: May All the test in 2014 become the best hikmah for us to do and be better in 2015", "I just got 98% on the 'Ontario G1 Practice Test Seven'. Think you can do better? Click here to try! http://t.co/O1lv6pXnD6", "Cute Romantic  Eye Test Chart Black White Poster http://t.co/mbXwpZnFI9", "4-12-31 17:34:59.305000 #harry_tcc_test", "test tweet http://t.co/llB3ayTHx3", "RT @diaryoftallgirl: My New Years Resolution: to help short people. To change more lightbulbs, test more smoke alarms, and always be the bo…", "http://t.co/o8MKbaPxYl Test Cricket"]>
+I, [2014-12-31T09:35:12.842522 #7943]  INFO -- : Posting results to S3
+I, [2014-12-31T09:35:12.842542 #7943]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:35:12.998875 #7943]  INFO -- : Writing results to S3 bucket: #<Twitq::Search:0x007fc56b153000>
+I, [2014-12-31T09:39:15.271259 #9097]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:39:15.271729 #9097]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:39:15.271815 #9097]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:39:15.271856 #9097]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:39:15.271923 #9097]  INFO -- : Running search on test
+I, [2014-12-31T09:39:15.272013 #9097]  INFO -- : Running search...
+I, [2014-12-31T09:39:41.250648 #9206]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:39:41.251093 #9206]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:39:41.251175 #9206]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:39:41.251214 #9206]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:39:41.251253 #9206]  INFO -- : Running search on test
+I, [2014-12-31T09:39:41.251352 #9206]  INFO -- : Running search...
+I, [2014-12-31T09:44:12.708112 #10563]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:44:12.709080 #10563]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:44:12.709173 #10563]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:44:12.709207 #10563]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:44:12.709235 #10563]  INFO -- : Running search on test
+I, [2014-12-31T09:44:12.709323 #10563]  INFO -- : Running search...
+I, [2014-12-31T09:45:01.225554 #10801]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:45:01.225633 #10801]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:45:01.225680 #10801]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:45:01.225719 #10801]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:45:01.225758 #10801]  INFO -- : Running search on test
+I, [2014-12-31T09:45:01.225837 #10801]  INFO -- : Running search...
+I, [2014-12-31T09:45:02.187304 #10801]  INFO -- : Query results: ["@DucksauceTV @JosephMWegner @TrainwithAlex He's never been given the test, but Joe may actually be psychic ;)", "#COMBUR 5 Test HC Teststreifen in pharma24 Versandapotheke für 5,38 EUR http://t.co/rkikuKV83d http://t.co/vh7HHX3ZGz", "mdrrr depuis 10min mon père il test le \"j'suis passé chez Sosh\"", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/TptxOYOO1x", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/zpA6eRi50a", "RT @NY1: Follow #NYE coverage through the night w/ #2015NY1; @AdamBalkinNY1 &amp; @RuschellBoone report live from #TimesSquare. http://t.co/p6s…", "Ask Your Advisor How to Test Out of Classes and Get Your Degree Early http://t.co/cCfDQeiPQ1", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/baKX8smvjT", "I wish I could guess as accurately on my test as I do when playing Trivia Check", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/oqCUz9v9SF"]
+I, [2014-12-31T09:45:02.187388 #10801]  INFO -- : #<Twitq::Search:0x007fca99d6e8c0>
+I, [2014-12-31T09:45:02.187423 #10801]  INFO -- : Posting results to S3
+I, [2014-12-31T09:45:02.187443 #10801]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:45:02.364042 #10801]  INFO -- : Writing results to S3 bucket: #<Twitq::Search:0x007fca99d6e8c0>
+I, [2014-12-31T09:49:19.485296 #11928]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:49:19.485708 #11928]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:49:19.485798 #11928]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:49:19.485871 #11928]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:49:19.485908 #11928]  INFO -- : Running search on test
+I, [2014-12-31T09:49:19.485994 #11928]  INFO -- : Running search...
+I, [2014-12-31T09:49:20.005021 #11928]  INFO -- : Query results: ["¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/Uib4DbioHQ", "\"@ajinkyarahane88: Test cricket will miss you Dhoni bhai.. You have been a great source of inspiration for me @msdhoni\"", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/CPzzThMn4E", "Вот и у меня такая же мысль возникла. Я даже ее написала, но отправлять не стала, потому что мне это уж совсем кощунством показалось.", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/SpHupXiwOT", "Просыпайся народ,а не то сон навсегда заберёт.", "@ronnajanebacus Ali itang karetang srcs? Kantang magregister, ampong magentrance test la retang incoming grade 7 kanta.", "@AskPlayStation Did that, it says the internet connection is successful but fails at psn sign in when i test connection", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/nAgcEMbCbT", "RT @suo_motu: Indian test cricket enters the AD (After Dhoni) era. Only this this era under Kohli will also be the BC era."]
+I, [2014-12-31T09:49:20.005109 #11928]  INFO -- : ["¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/Uib4DbioHQ", "\"@ajinkyarahane88: Test cricket will miss you Dhoni bhai.. You have been a great source of inspiration for me @msdhoni\"", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/CPzzThMn4E", "Вот и у меня такая же мысль возникла. Я даже ее написала, но отправлять не стала, потому что мне это уж совсем кощунством показалось.", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/SpHupXiwOT", "Просыпайся народ,а не то сон навсегда заберёт.", "@ronnajanebacus Ali itang karetang srcs? Kantang magregister, ampong magentrance test la retang incoming grade 7 kanta.", "@AskPlayStation Did that, it says the internet connection is successful but fails at psn sign in when i test connection", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/nAgcEMbCbT", "RT @suo_motu: Indian test cricket enters the AD (After Dhoni) era. Only this this era under Kohli will also be the BC era."]
+I, [2014-12-31T09:49:20.005172 #11928]  INFO -- : Posting results to S3
+I, [2014-12-31T09:49:20.005190 #11928]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:49:20.181889 #11928]  INFO -- : Writing results to S3 bucket: ["¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/Uib4DbioHQ", "\"@ajinkyarahane88: Test cricket will miss you Dhoni bhai.. You have been a great source of inspiration for me @msdhoni\"", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/CPzzThMn4E", "Вот и у меня такая же мысль возникла. Я даже ее написала, но отправлять не стала, потому что мне это уж совсем кощунством показалось.", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/SpHupXiwOT", "Просыпайся народ,а не то сон навсегда заберёт.", "@ronnajanebacus Ali itang karetang srcs? Kantang magregister, ampong magentrance test la retang incoming grade 7 kanta.", "@AskPlayStation Did that, it says the internet connection is successful but fails at psn sign in when i test connection", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/nAgcEMbCbT", "RT @suo_motu: Indian test cricket enters the AD (After Dhoni) era. Only this this era under Kohli will also be the BC era."]
+I, [2014-12-31T09:54:01.597647 #13379]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-12-31T09:54:01.597734 #13379]  INFO -- : Running Twitter query on test
+I, [2014-12-31T09:54:01.597762 #13379]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:54:01.597793 #13379]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:54:01.597820 #13379]  INFO -- : Running search on test
+I, [2014-12-31T09:54:01.597894 #13379]  INFO -- : Running search...
+D, [2014-12-31T09:54:02.517176 #13379] DEBUG -- : Adding tweet: ¿Sabes si eres adicto a Twitter? TEST en http://t.co/lEGdmOPXcl
+D, [2014-12-31T09:54:02.517310 #13379] DEBUG -- : Adding tweet: ¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/k1RAAJYPvW
+D, [2014-12-31T09:54:02.517351 #13379] DEBUG -- : Adding tweet: Municipales : premier test réussi pour l'UDI-MoDem, alliée à l'UMP - leJDD.fr http://t.co/WcQ434cv8x via @leJDD
+D, [2014-12-31T09:54:02.517385 #13379] DEBUG -- : Adding tweet: Besos de Novela - Tus besos son romanticos y tiernos. --&gt; Realiza tu test en: http://t.co/MTSPQKjYIw http://t.co/RD4qwTawTl
+D, [2014-12-31T09:54:02.517418 #13379] DEBUG -- : Adding tweet: ¿Sabes si eres adicto a Twitter? TEST en http://t.co/BQAEFjK3SW
+D, [2014-12-31T09:54:02.517451 #13379] DEBUG -- : Adding tweet: ¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/mWz4lpvDt5
+D, [2014-12-31T09:54:02.517482 #13379] DEBUG -- : Adding tweet: Inside a Chinese Test-Prep Factory http://t.co/qn3BUOI2jP
+D, [2014-12-31T09:54:02.517514 #13379] DEBUG -- : Adding tweet: Streaming on twitch for a bit of fun to test some new stuff come and join me:) http://t.co/8sZC8ZLpuP
+D, [2014-12-31T09:54:02.517544 #13379] DEBUG -- : Adding tweet: ¿Sabes si eres adicto a Twitter? TEST en http://t.co/WXTHwoiXqN
+D, [2014-12-31T09:54:02.517585 #13379] DEBUG -- : Adding tweet: @glennhefley: NCLB requires a base level of testing, but CCSS consortia increase test frequency on the premise of "outcome-based" feedback.
+I, [2014-12-31T09:54:02.517649 #13379]  INFO -- : Query results: ["¿Sabes si eres adicto a Twitter? TEST en http://t.co/lEGdmOPXcl", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/k1RAAJYPvW", "Municipales : premier test réussi pour l'UDI-MoDem, alliée à l'UMP - leJDD.fr http://t.co/WcQ434cv8x via @leJDD", "Besos de Novela - Tus besos son romanticos y tiernos. --&gt; Realiza tu test en: http://t.co/MTSPQKjYIw http://t.co/RD4qwTawTl", "¿Sabes si eres adicto a Twitter? TEST en http://t.co/BQAEFjK3SW", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/mWz4lpvDt5", "Inside a Chinese Test-Prep Factory http://t.co/qn3BUOI2jP", "Streaming on twitch for a bit of fun to test some new stuff come and join me:) http://t.co/8sZC8ZLpuP", "¿Sabes si eres adicto a Twitter? TEST en http://t.co/WXTHwoiXqN", "@glennhefley: NCLB requires a base level of testing, but CCSS consortia increase test frequency on the premise of \"outcome-based\" feedback."]
+I, [2014-12-31T09:54:02.517698 #13379]  INFO -- : Posting results to S3
+I, [2014-12-31T09:54:02.517720 #13379]  INFO -- : Initializing aws credentials
+D, [2014-12-31T09:54:02.518093 #13379] DEBUG -- : {"access_key_id"=>"AKIAIAU72R5GTD7LICUQ", "secret_access_key"=>"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"}
+I, [2014-12-31T09:54:02.652722 #13379]  INFO -- : Writing results to S3 bucket: ["¿Sabes si eres adicto a Twitter? TEST en http://t.co/lEGdmOPXcl", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/k1RAAJYPvW", "Municipales : premier test réussi pour l'UDI-MoDem, alliée à l'UMP - leJDD.fr http://t.co/WcQ434cv8x via @leJDD", "Besos de Novela - Tus besos son romanticos y tiernos. --&gt; Realiza tu test en: http://t.co/MTSPQKjYIw http://t.co/RD4qwTawTl", "¿Sabes si eres adicto a Twitter? TEST en http://t.co/BQAEFjK3SW", "¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/mWz4lpvDt5", "Inside a Chinese Test-Prep Factory http://t.co/qn3BUOI2jP", "Streaming on twitch for a bit of fun to test some new stuff come and join me:) http://t.co/8sZC8ZLpuP", "¿Sabes si eres adicto a Twitter? TEST en http://t.co/WXTHwoiXqN", "@glennhefley: NCLB requires a base level of testing, but CCSS consortia increase test frequency on the premise of \"outcome-based\" feedback."]
+D, [2014-12-31T09:54:02.674748 #13379] DEBUG -- : Writing object 'text' => ¿Sabes si eres adicto a Twitter? TEST en http://t.co/lEGdmOPXcl
+D, [2014-12-31T09:54:02.963038 #13379] DEBUG -- : Writing object 'text' => ¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/k1RAAJYPvW
+D, [2014-12-31T09:54:03.078369 #13379] DEBUG -- : Writing object 'text' => Municipales : premier test réussi pour l'UDI-MoDem, alliée à l'UMP - leJDD.fr http://t.co/WcQ434cv8x via @leJDD
+D, [2014-12-31T09:54:03.197629 #13379] DEBUG -- : Writing object 'text' => Besos de Novela - Tus besos son romanticos y tiernos. --&gt; Realiza tu test en: http://t.co/MTSPQKjYIw http://t.co/RD4qwTawTl
+D, [2014-12-31T09:54:03.312245 #13379] DEBUG -- : Writing object 'text' => ¿Sabes si eres adicto a Twitter? TEST en http://t.co/BQAEFjK3SW
+D, [2014-12-31T09:54:03.428372 #13379] DEBUG -- : Writing object 'text' => ¿Sobrevivirías en una Isla Desierta? Responde al siguiente TEST y descubre tu nivel de supervivencia http://t.co/mWz4lpvDt5
+D, [2014-12-31T09:54:03.557595 #13379] DEBUG -- : Writing object 'text' => Inside a Chinese Test-Prep Factory http://t.co/qn3BUOI2jP
+D, [2014-12-31T09:54:03.674591 #13379] DEBUG -- : Writing object 'text' => Streaming on twitch for a bit of fun to test some new stuff come and join me:) http://t.co/8sZC8ZLpuP
+D, [2014-12-31T09:54:03.808652 #13379] DEBUG -- : Writing object 'text' => ¿Sabes si eres adicto a Twitter? TEST en http://t.co/WXTHwoiXqN
+D, [2014-12-31T09:54:03.920815 #13379] DEBUG -- : Writing object 'text' => @glennhefley: NCLB requires a base level of testing, but CCSS consortia increase test frequency on the premise of "outcome-based" feedback.
+I, [2014-12-31T09:55:36.323625 #14206]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T09:55:36.323725 #14206]  INFO -- : Running Twitter query on this
+I, [2014-12-31T09:55:36.323771 #14206]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:55:36.323848 #14206]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:55:36.323894 #14206]  INFO -- : Running search on this
+I, [2014-12-31T09:55:36.324356 #14206]  INFO -- : Running search...
+I, [2014-12-31T09:55:36.865009 #14206]  INFO -- : Query results: ["RT @FemaleTexts: Remember Kim and Kanye? this is them now, feel old yet? http://t.co/JEKRfwEUkr", "Dinner &amp; board games with the little guy. Yep, that's the plan for this crazy wild woman. 🎉🎋 #NYE #MomLife", "RT @BieberAnnual: Retweet if you want to gain just follow everyone who retweets this and follow back who ever follows you😇", "Kinda not feeling this twelve hour drive 😕", "RT @Fanqiee: \"@Na_naYaa: “@africansthebest: Quote this with your favorite African Vine\" https://t.co/7qMkrWyu07\" @_alwaysG @ZaiahLynn @Bons…", "RT @nabilahJKT48: Welcome 2015! Welcome January! \nMy wish all the best in this year,than before. \nOnce again..HAPPY NEW YEAR!!!", "RT @allisimpson: HAAAAAAAPPY HAPPY NEWWWW YEARRRRR YAY 2015 let's do this", "RT @BieberAnnual: Retweet if you want to gain just follow everyone who retweets this and follow back who ever follows you😇", "RT @BieberAnnual: Retweet if you want to gain just follow everyone who retweets this and follow back who ever follows you😇", "RT @FearInSociety: This made me laugh because it's so true http://t.co/yjIKYFHk42"]
+I, [2014-12-31T09:55:36.865126 #14206]  INFO -- : Posting results to S3
+I, [2014-12-31T09:55:36.865163 #14206]  INFO -- : Initializing aws credentials
+I, [2014-12-31T09:55:37.041398 #14206]  INFO -- : Writing results to S3 bucket: ["RT @FemaleTexts: Remember Kim and Kanye? this is them now, feel old yet? http://t.co/JEKRfwEUkr", "Dinner &amp; board games with the little guy. Yep, that's the plan for this crazy wild woman. 🎉🎋 #NYE #MomLife", "RT @BieberAnnual: Retweet if you want to gain just follow everyone who retweets this and follow back who ever follows you😇", "Kinda not feeling this twelve hour drive 😕", "RT @Fanqiee: \"@Na_naYaa: “@africansthebest: Quote this with your favorite African Vine\" https://t.co/7qMkrWyu07\" @_alwaysG @ZaiahLynn @Bons…", "RT @nabilahJKT48: Welcome 2015! Welcome January! \nMy wish all the best in this year,than before. \nOnce again..HAPPY NEW YEAR!!!", "RT @allisimpson: HAAAAAAAPPY HAPPY NEWWWW YEARRRRR YAY 2015 let's do this", "RT @BieberAnnual: Retweet if you want to gain just follow everyone who retweets this and follow back who ever follows you😇", "RT @BieberAnnual: Retweet if you want to gain just follow everyone who retweets this and follow back who ever follows you😇", "RT @FearInSociety: This made me laugh because it's so true http://t.co/yjIKYFHk42"]
+I, [2014-12-31T09:57:13.032822 #14666]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-12-31T09:57:13.032904 #14666]  INFO -- : Running Twitter query on jeff
+I, [2014-12-31T09:57:13.032930 #14666]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:57:13.032946 #14666]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:57:13.032962 #14666]  INFO -- : Running search on jeff
+I, [2014-12-31T09:57:13.033014 #14666]  INFO -- : Running search...
+D, [2014-12-31T09:57:13.606608 #14666] DEBUG -- : Adding tweet: RT @j_bissell: My name jeff https://t.co/G9u3Vc6Ibx
+D, [2014-12-31T09:57:13.606707 #14666] DEBUG -- : Adding tweet: TCU running all over OleMiss. 
+
+14-0 TCU
+D, [2014-12-31T09:57:13.606754 #14666] DEBUG -- : Adding tweet: My name's Jeff 😳
+D, [2014-12-31T09:57:13.606822 #14666] DEBUG -- : Adding tweet: "Are You Ready to Be Famous in 2015?" by @Jeff_Beals on @LinkedIn https://t.co/TKMqb0Xbp4
+D, [2014-12-31T09:57:13.606896 #14666] DEBUG -- : Adding tweet: RT @KatiePavlich: . @MomsDemand and @shannonrwatts are trying to take on Jeff Foxworthy for supporting the @nra? LOL
+D, [2014-12-31T09:57:13.606952 #14666] DEBUG -- : Adding tweet: I love Jeff the killer &lt;3 http://t.co/XUetAjFfe1
+D, [2014-12-31T09:57:13.607006 #14666] DEBUG -- : Adding tweet: RT @SatansTongue: (vine support group)
+Hi I'm Jeff
+*room bursts into laughter*
+*everyone relapses and goes back on vine*
+D, [2014-12-31T09:57:13.607061 #14666] DEBUG -- : Adding tweet: RT @lorelll_: “@TheFunnyVine: RT when you get Jeff's head on https://t.co/GzMkyC6Bl6” @lil_korosecGBE
+D, [2014-12-31T09:57:13.607142 #14666] DEBUG -- : Adding tweet: “I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not trying.” —Jeff Bezos, Amazon founder and CEO
+D, [2014-12-31T09:57:13.607195 #14666] DEBUG -- : Adding tweet: @jadelson Anybody in Nola even know if Jefferson Heights Civic Association even exists? It's not listed on Jeff Parish website or anywhere
+I, [2014-12-31T09:57:13.607289 #14666]  INFO -- : Query results: ["RT @j_bissell: My name jeff https://t.co/G9u3Vc6Ibx", "TCU running all over OleMiss. \n\n14-0 TCU", "My name's Jeff 😳", "\"Are You Ready to Be Famous in 2015?\" by @Jeff_Beals on @LinkedIn https://t.co/TKMqb0Xbp4", "RT @KatiePavlich: . @MomsDemand and @shannonrwatts are trying to take on Jeff Foxworthy for supporting the @nra? LOL", "I love Jeff the killer &lt;3 http://t.co/XUetAjFfe1", "RT @SatansTongue: (vine support group)\nHi I'm Jeff\n*room bursts into laughter*\n*everyone relapses and goes back on vine*", "RT @lorelll_: “@TheFunnyVine: RT when you get Jeff's head on https://t.co/GzMkyC6Bl6” @lil_korosecGBE", "“I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not trying.” —Jeff Bezos, Amazon founder and CEO", "@jadelson Anybody in Nola even know if Jefferson Heights Civic Association even exists? It's not listed on Jeff Parish website or anywhere"]
+I, [2014-12-31T09:57:13.607321 #14666]  INFO -- : Posting results to S3
+I, [2014-12-31T09:57:13.607343 #14666]  INFO -- : Initializing aws credentials
+D, [2014-12-31T09:57:13.607833 #14666] DEBUG -- : {"access_key_id"=>"AKIAIAU72R5GTD7LICUQ", "secret_access_key"=>"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"}
+I, [2014-12-31T09:57:13.760848 #14666]  INFO -- : Writing results to S3 bucket: ["RT @j_bissell: My name jeff https://t.co/G9u3Vc6Ibx", "TCU running all over OleMiss. \n\n14-0 TCU", "My name's Jeff 😳", "\"Are You Ready to Be Famous in 2015?\" by @Jeff_Beals on @LinkedIn https://t.co/TKMqb0Xbp4", "RT @KatiePavlich: . @MomsDemand and @shannonrwatts are trying to take on Jeff Foxworthy for supporting the @nra? LOL", "I love Jeff the killer &lt;3 http://t.co/XUetAjFfe1", "RT @SatansTongue: (vine support group)\nHi I'm Jeff\n*room bursts into laughter*\n*everyone relapses and goes back on vine*", "RT @lorelll_: “@TheFunnyVine: RT when you get Jeff's head on https://t.co/GzMkyC6Bl6” @lil_korosecGBE", "“I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not trying.” —Jeff Bezos, Amazon founder and CEO", "@jadelson Anybody in Nola even know if Jefferson Heights Civic Association even exists? It's not listed on Jeff Parish website or anywhere"]
+I, [2014-12-31T09:58:20.072426 #14972]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-12-31T09:58:20.072519 #14972]  INFO -- : Running Twitter query on jeff
+I, [2014-12-31T09:58:20.072548 #14972]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:58:20.072584 #14972]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:58:20.072626 #14972]  INFO -- : Running search on jeff
+I, [2014-12-31T09:58:20.072703 #14972]  INFO -- : Running search...
+D, [2014-12-31T09:58:21.003720 #14972] DEBUG -- : Adding tweet: RT @jpalmer7890: @Jeff_Daniels Thanks Jeff, you too! And thanks again for #TheNewsroom. Will always be at the top of my fav TV shows.
+D, [2014-12-31T09:58:21.003822 #14972] DEBUG -- : Adding tweet: @CellyMANDINGO_ my nigga that nigga IS NOT COOL with his Pillsbury dough boy looking ass I miss Jeff he was the best &amp; Jenn turned fake 😠😡
+D, [2014-12-31T09:58:21.003858 #14972] DEBUG -- : Adding tweet: Jeff aqui
+D, [2014-12-31T09:58:21.003889 #14972] DEBUG -- : Adding tweet: Custom 3D Printed Jeff in Carbonite http://t.co/AUkQfEOoZp
+D, [2014-12-31T09:58:21.003918 #14972] DEBUG -- : Adding tweet: @FinzTaint Yeh there're great for answering ?'s.Another 2 are @Jeff_LJ_Lloyd @JeffRisdon for general draft stuff not relating to Dolphins.
+D, [2014-12-31T09:58:21.003968 #14972] DEBUG -- : Adding tweet: Custom 3D Printed Jeff in Carbonite http://t.co/fYGoHgxgGe
+D, [2014-12-31T09:58:21.003998 #14972] DEBUG -- : Adding tweet: Jeff pra cá
+D, [2014-12-31T09:58:21.004027 #14972] DEBUG -- : Adding tweet: @Jeff_LJ_Lloyd they're pissed lol
+D, [2014-12-31T09:58:21.004055 #14972] DEBUG -- : Adding tweet: "My my self esteem is low, a shade of indigo...I'm alive tonight gonna be alright. "
+D, [2014-12-31T09:58:21.004082 #14972] DEBUG -- : Adding tweet: What's going on in that beautiful mind
+I'm on your magical mystery ride
+And I'm so dizzy, don't know what hit me, but I'll be alright
+I, [2014-12-31T09:58:21.004141 #14972]  INFO -- : Query results: ["RT @jpalmer7890: @Jeff_Daniels Thanks Jeff, you too! And thanks again for #TheNewsroom. Will always be at the top of my fav TV shows.", "@CellyMANDINGO_ my nigga that nigga IS NOT COOL with his Pillsbury dough boy looking ass I miss Jeff he was the best &amp; Jenn turned fake 😠😡", "Jeff aqui", "Custom 3D Printed Jeff in Carbonite http://t.co/AUkQfEOoZp", "@FinzTaint Yeh there're great for answering ?'s.Another 2 are @Jeff_LJ_Lloyd @JeffRisdon for general draft stuff not relating to Dolphins.", "Custom 3D Printed Jeff in Carbonite http://t.co/fYGoHgxgGe", "Jeff pra cá", "@Jeff_LJ_Lloyd they're pissed lol", "\"My my self esteem is low, a shade of indigo...I'm alive tonight gonna be alright. \"", "What's going on in that beautiful mind\nI'm on your magical mystery ride\nAnd I'm so dizzy, don't know what hit me, but I'll be alright"]
+I, [2014-12-31T09:58:21.004166 #14972]  INFO -- : Posting results to S3
+I, [2014-12-31T09:58:21.004182 #14972]  INFO -- : Initializing aws credentials
+D, [2014-12-31T09:58:21.004497 #14972] DEBUG -- : {"access_key_id"=>"AKIAIAU72R5GTD7LICUQ", "secret_access_key"=>"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"}
+I, [2014-12-31T09:58:21.151743 #14972]  INFO -- : Writing results to S3 bucket: ["RT @jpalmer7890: @Jeff_Daniels Thanks Jeff, you too! And thanks again for #TheNewsroom. Will always be at the top of my fav TV shows.", "@CellyMANDINGO_ my nigga that nigga IS NOT COOL with his Pillsbury dough boy looking ass I miss Jeff he was the best &amp; Jenn turned fake 😠😡", "Jeff aqui", "Custom 3D Printed Jeff in Carbonite http://t.co/AUkQfEOoZp", "@FinzTaint Yeh there're great for answering ?'s.Another 2 are @Jeff_LJ_Lloyd @JeffRisdon for general draft stuff not relating to Dolphins.", "Custom 3D Printed Jeff in Carbonite http://t.co/fYGoHgxgGe", "Jeff pra cá", "@Jeff_LJ_Lloyd they're pissed lol", "\"My my self esteem is low, a shade of indigo...I'm alive tonight gonna be alright. \"", "What's going on in that beautiful mind\nI'm on your magical mystery ride\nAnd I'm so dizzy, don't know what hit me, but I'll be alright"]
+I, [2014-12-31T09:58:49.117061 #15107]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-12-31T09:58:49.117142 #15107]  INFO -- : Running Twitter query on jeff
+I, [2014-12-31T09:58:49.117169 #15107]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T09:58:49.117192 #15107]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T09:58:49.117217 #15107]  INFO -- : Running search on jeff
+I, [2014-12-31T09:58:49.117298 #15107]  INFO -- : Running search...
+D, [2014-12-31T09:58:50.392491 #15107] DEBUG -- : Adding tweet: RT @DerekTysonESPN: Jeff Holland on Randy Shannon: "Oh that's my boy. We got a great relationship. That helps Florida out a lot with me." #…
+D, [2014-12-31T09:58:50.392586 #15107] DEBUG -- : Adding tweet: Today stats: 5 followers, One unfollower via http://t.co/4FT55xdh7X
+D, [2014-12-31T09:58:50.392621 #15107] DEBUG -- : Adding tweet: #welcomeTweet @Razif02 @didivieoly @Lutero_9394 @puteri_kaisara @are_nie99 via http://t.co/4FT55xdh7X
+D, [2014-12-31T09:58:50.392676 #15107] DEBUG -- : Adding tweet: @maurizio5521 @Real_Jeff_98 no problem buddy😊
+D, [2014-12-31T09:58:50.392707 #15107] DEBUG -- : Adding tweet: @dianayamashita dm
+D, [2014-12-31T09:58:50.392735 #15107] DEBUG -- : Adding tweet: ⚽️⚽️⚽️ http://t.co/jLF7e0g2M9
+D, [2014-12-31T09:58:50.392763 #15107] DEBUG -- : Adding tweet: @nb_jeff 👌
+D, [2014-12-31T09:58:50.392807 #15107] DEBUG -- : Adding tweet: 意外と音程悪くても、吹いてる側ほどには客席では気にならないこと、ハーモニーがめっちゃ大事ってこと、トランペットはもっと音を張らないと聴きづらいことがわかった。
+D, [2014-12-31T09:58:50.392857 #15107] DEBUG -- : Adding tweet: RT @dbullen98: @FinzTaint Yeh there're great for answering ?'s.Another 2 are @Jeff_LJ_Lloyd @JeffRisdon for general draft stuff not relatin…
+D, [2014-12-31T09:58:50.392907 #15107] DEBUG -- : Adding tweet: RT @Haley__Michelle: "My name's Jeff"
+I, [2014-12-31T09:58:50.393002 #15107]  INFO -- : Query results: ["RT @DerekTysonESPN: Jeff Holland on Randy Shannon: \"Oh that's my boy. We got a great relationship. That helps Florida out a lot with me.\" #…", "Today stats: 5 followers, One unfollower via http://t.co/4FT55xdh7X", "#welcomeTweet @Razif02 @didivieoly @Lutero_9394 @puteri_kaisara @are_nie99 via http://t.co/4FT55xdh7X", "@maurizio5521 @Real_Jeff_98 no problem buddy😊", "@dianayamashita dm", "⚽️⚽️⚽️ http://t.co/jLF7e0g2M9", "@nb_jeff 👌", "意外と音程悪くても、吹いてる側ほどには客席では気にならないこと、ハーモニーがめっちゃ大事ってこと、トランペットはもっと音を張らないと聴きづらいことがわかった。", "RT @dbullen98: @FinzTaint Yeh there're great for answering ?'s.Another 2 are @Jeff_LJ_Lloyd @JeffRisdon for general draft stuff not relatin…", "RT @Haley__Michelle: \"My name's Jeff\""]
+I, [2014-12-31T09:58:50.393038 #15107]  INFO -- : Posting results to S3
+I, [2014-12-31T09:58:50.393055 #15107]  INFO -- : Initializing aws credentials
+D, [2014-12-31T09:58:50.393445 #15107] DEBUG -- : {"access_key_id"=>"AKIAIAU72R5GTD7LICUQ", "secret_access_key"=>"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"}
+I, [2014-12-31T09:58:50.546851 #15107]  INFO -- : Writing results to S3 bucket: ["RT @DerekTysonESPN: Jeff Holland on Randy Shannon: \"Oh that's my boy. We got a great relationship. That helps Florida out a lot with me.\" #…", "Today stats: 5 followers, One unfollower via http://t.co/4FT55xdh7X", "#welcomeTweet @Razif02 @didivieoly @Lutero_9394 @puteri_kaisara @are_nie99 via http://t.co/4FT55xdh7X", "@maurizio5521 @Real_Jeff_98 no problem buddy😊", "@dianayamashita dm", "⚽️⚽️⚽️ http://t.co/jLF7e0g2M9", "@nb_jeff 👌", "意外と音程悪くても、吹いてる側ほどには客席では気にならないこと、ハーモニーがめっちゃ大事ってこと、トランペットはもっと音を張らないと聴きづらいことがわかった。", "RT @dbullen98: @FinzTaint Yeh there're great for answering ?'s.Another 2 are @Jeff_LJ_Lloyd @JeffRisdon for general draft stuff not relatin…", "RT @Haley__Michelle: \"My name's Jeff\""]
+I, [2014-12-31T10:00:38.653588 #15618]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-12-31T10:00:38.653678 #15618]  INFO -- : Running Twitter query on jeff
+I, [2014-12-31T10:00:38.653709 #15618]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T10:00:38.653739 #15618]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T10:00:38.653770 #15618]  INFO -- : Running search on jeff
+I, [2014-12-31T10:00:38.653858 #15618]  INFO -- : Running search...
+D, [2014-12-31T10:00:39.161332 #15618] DEBUG -- : Adding tweet: What I Learned From The Slight Edge by Jeff Olsen  http://t.co/KMnDIYmZjo
+D, [2014-12-31T10:00:39.161458 #15618] DEBUG -- : Adding tweet: そして3時
+D, [2014-12-31T10:00:39.161501 #15618] DEBUG -- : Adding tweet: mY NAMe iS JEff
+D, [2014-12-31T10:00:39.161538 #15618] DEBUG -- : Adding tweet: LMFAO XD. http://t.co/eWVIfZekQn
+D, [2014-12-31T10:00:39.161583 #15618] DEBUG -- : Adding tweet: @goldeeeen you the girl from that vine dancing 😩😍
+D, [2014-12-31T10:00:39.161614 #15618] DEBUG -- : Adding tweet: https://t.co/jzDVOMmk1R New @DaNxDieGo prod by me!
+D, [2014-12-31T10:00:39.161642 #15618] DEBUG -- : Adding tweet: Talking about shortstops and scouting, Jef Bagwell and Brett Myers' country album... http://t.co/on5ziF6k7z http://t.co/MEYLtMM453
+D, [2014-12-31T10:00:39.161671 #15618] DEBUG -- : Adding tweet: HAPPY NEW YEAR FROM AFRICA!...DANCING IN A NEW YEAR TO SADE UNDER A MOROCCAN MOON - MAKE YOUR DREAMS REALITY IN 2015! http://t.co/saclF7PsU9
+D, [2014-12-31T10:00:39.161699 #15618] DEBUG -- : Adding tweet: Congrats to @NBjugstad72 on the BIG TIME extension!  Not only deserved but hard earned! #GopherProud
+D, [2014-12-31T10:00:39.161726 #15618] DEBUG -- : Adding tweet: Jeff Who? - The Morning After You lyrics and translations http://t.co/i36Zm6ENbb
+I, [2014-12-31T10:00:39.161780 #15618]  INFO -- : Query results: ["What I Learned From The Slight Edge by Jeff Olsen  http://t.co/KMnDIYmZjo", "そして3時", "mY NAMe iS JEff", "LMFAO XD. http://t.co/eWVIfZekQn", "@goldeeeen you the girl from that vine dancing 😩😍", "https://t.co/jzDVOMmk1R New @DaNxDieGo prod by me!", "Talking about shortstops and scouting, Jef Bagwell and Brett Myers' country album... http://t.co/on5ziF6k7z http://t.co/MEYLtMM453", "HAPPY NEW YEAR FROM AFRICA!...DANCING IN A NEW YEAR TO SADE UNDER A MOROCCAN MOON - MAKE YOUR DREAMS REALITY IN 2015! http://t.co/saclF7PsU9", "Congrats to @NBjugstad72 on the BIG TIME extension!  Not only deserved but hard earned! #GopherProud", "Jeff Who? - The Morning After You lyrics and translations http://t.co/i36Zm6ENbb"]
+I, [2014-12-31T10:00:39.161806 #15618]  INFO -- : Posting results to S3
+I, [2014-12-31T10:00:39.161822 #15618]  INFO -- : Initializing aws credentials
+D, [2014-12-31T10:00:39.162143 #15618] DEBUG -- : {"access_key_id"=>"AKIAIAU72R5GTD7LICUQ", "secret_access_key"=>"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"}
+D, [2014-12-31T10:00:39.313340 #15618] DEBUG -- : Writing results to S3 bucket: ["What I Learned From The Slight Edge by Jeff Olsen  http://t.co/KMnDIYmZjo", "そして3時", "mY NAMe iS JEff", "LMFAO XD. http://t.co/eWVIfZekQn", "@goldeeeen you the girl from that vine dancing 😩😍", "https://t.co/jzDVOMmk1R New @DaNxDieGo prod by me!", "Talking about shortstops and scouting, Jef Bagwell and Brett Myers' country album... http://t.co/on5ziF6k7z http://t.co/MEYLtMM453", "HAPPY NEW YEAR FROM AFRICA!...DANCING IN A NEW YEAR TO SADE UNDER A MOROCCAN MOON - MAKE YOUR DREAMS REALITY IN 2015! http://t.co/saclF7PsU9", "Congrats to @NBjugstad72 on the BIG TIME extension!  Not only deserved but hard earned! #GopherProud", "Jeff Who? - The Morning After You lyrics and translations http://t.co/i36Zm6ENbb"]
+I, [2014-12-31T10:00:39.313424 #15618]  INFO -- : Creating S3 Bucket: twitq_jeff
+D, [2014-12-31T10:00:40.568278 #15618] DEBUG -- : Writing to s3: What I Learned From The Slight Edge by Jeff Olsen  http://t.co/KMnDIYmZjo
+D, [2014-12-31T10:00:40.810313 #15618] DEBUG -- : Writing to s3: そして3時
+D, [2014-12-31T10:00:41.063417 #15618] DEBUG -- : Writing to s3: mY NAMe iS JEff
+D, [2014-12-31T10:00:41.332855 #15618] DEBUG -- : Writing to s3: LMFAO XD. http://t.co/eWVIfZekQn
+D, [2014-12-31T10:00:41.586184 #15618] DEBUG -- : Writing to s3: @goldeeeen you the girl from that vine dancing 😩😍
+D, [2014-12-31T10:00:41.849847 #15618] DEBUG -- : Writing to s3: https://t.co/jzDVOMmk1R New @DaNxDieGo prod by me!
+D, [2014-12-31T10:00:42.100655 #15618] DEBUG -- : Writing to s3: Talking about shortstops and scouting, Jef Bagwell and Brett Myers' country album... http://t.co/on5ziF6k7z http://t.co/MEYLtMM453
+D, [2014-12-31T10:00:42.360384 #15618] DEBUG -- : Writing to s3: HAPPY NEW YEAR FROM AFRICA!...DANCING IN A NEW YEAR TO SADE UNDER A MOROCCAN MOON - MAKE YOUR DREAMS REALITY IN 2015! http://t.co/saclF7PsU9
+D, [2014-12-31T10:00:42.632103 #15618] DEBUG -- : Writing to s3: Congrats to @NBjugstad72 on the BIG TIME extension!  Not only deserved but hard earned! #GopherProud
+D, [2014-12-31T10:00:42.899689 #15618] DEBUG -- : Writing to s3: Jeff Who? - The Morning After You lyrics and translations http://t.co/i36Zm6ENbb
+I, [2014-12-31T10:02:42.687566 #16211]  INFO -- : Logger set to Logger::DEBUG
+I, [2014-12-31T10:02:42.688465 #16211]  INFO -- : Running Twitter query on jill
+I, [2014-12-31T10:02:42.688574 #16211]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T10:02:42.688623 #16211]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+
+I, [2014-12-31T10:02:42.688671 #16211]  INFO -- : Running search on jill
+I, [2014-12-31T10:02:42.688787 #16211]  INFO -- : Running search...
+D, [2014-12-31T10:02:43.221921 #16211] DEBUG -- : Adding tweet: “@EricaPomm: @Coleman_Jill WE HAVE A LOT TO OFFER!” Hahahahaha okay sweetie whatever you wanna tell yourself 😉
+D, [2014-12-31T10:02:43.222023 #16211] DEBUG -- : Adding tweet: @ButterMakerWill @AbernethyButter Saw you on the road today and said to Jill “There is Mr Fudge”. Lol. Maybe a new marketing name for you.
+D, [2014-12-31T10:02:43.222068 #16211] DEBUG -- : Adding tweet: RT @Luis_Cataldo: Reinhart Bonke was huge last night #OneThing2014 Jesus was glorified and people were set free. Great combination! http://…
+D, [2014-12-31T10:02:43.222123 #16211] DEBUG -- : Adding tweet: @Jay_Threestacks you're forgiven. Just put on some Jill or Marsha and we're good
+D, [2014-12-31T10:02:43.222194 #16211] DEBUG -- : Adding tweet: RT @DustinRossSaid: LMAO!
+
+RT @lightskin_: "HOLLERED!!! RT @BaddieGer: “I AIN’T JILL SCOTT!” http://t.co/Rx2yv1DOiy”
+D, [2014-12-31T10:02:43.222250 #16211] DEBUG -- : Adding tweet: @jill_runner you too!
+D, [2014-12-31T10:02:43.222303 #16211] DEBUG -- : Adding tweet: Totally forgot it's New Years Eve.
+D, [2014-12-31T10:02:43.222358 #16211] DEBUG -- : Adding tweet: @jillnolan369 @UKContainers Thank you Jill. Happy New Year x
+D, [2014-12-31T10:02:43.222412 #16211] DEBUG -- : Adding tweet: 【Android】 Jack &amp; Jill: パフォーマンス向上のためのAndroid用の新コンパイラ http://t.co/hYdpRQ6Pxj #Android #アンドロイド
+D, [2014-12-31T10:02:43.222467 #16211] DEBUG -- : Adding tweet: @Coleman_Jill WE HAVE A LOT TO OFFER!
+I, [2014-12-31T10:02:43.222564 #16211]  INFO -- : Query results: ["“@EricaPomm: @Coleman_Jill WE HAVE A LOT TO OFFER!” Hahahahaha okay sweetie whatever you wanna tell yourself 😉", "@ButterMakerWill @AbernethyButter Saw you on the road today and said to Jill “There is Mr Fudge”. Lol. Maybe a new marketing name for you.", "RT @Luis_Cataldo: Reinhart Bonke was huge last night #OneThing2014 Jesus was glorified and people were set free. Great combination! http://…", "@Jay_Threestacks you're forgiven. Just put on some Jill or Marsha and we're good", "RT @DustinRossSaid: LMAO!\n\nRT @lightskin_: \"HOLLERED!!! RT @BaddieGer: “I AIN’T JILL SCOTT!” http://t.co/Rx2yv1DOiy”", "@jill_runner you too!", "Totally forgot it's New Years Eve.", "@jillnolan369 @UKContainers Thank you Jill. Happy New Year x", "【Android】 Jack &amp; Jill: パフォーマンス向上のためのAndroid用の新コンパイラ http://t.co/hYdpRQ6Pxj #Android #アンドロイド", "@Coleman_Jill WE HAVE A LOT TO OFFER!"]
+I, [2014-12-31T10:02:43.222608 #16211]  INFO -- : Posting results to S3
+I, [2014-12-31T10:02:43.222641 #16211]  INFO -- : Initializing aws credentials
+D, [2014-12-31T10:02:43.223117 #16211] DEBUG -- : {"access_key_id"=>"AKIAIAU72R5GTD7LICUQ", "secret_access_key"=>"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"}
+D, [2014-12-31T10:02:43.388334 #16211] DEBUG -- : Writing results to S3 bucket: ["“@EricaPomm: @Coleman_Jill WE HAVE A LOT TO OFFER!” Hahahahaha okay sweetie whatever you wanna tell yourself 😉", "@ButterMakerWill @AbernethyButter Saw you on the road today and said to Jill “There is Mr Fudge”. Lol. Maybe a new marketing name for you.", "RT @Luis_Cataldo: Reinhart Bonke was huge last night #OneThing2014 Jesus was glorified and people were set free. Great combination! http://…", "@Jay_Threestacks you're forgiven. Just put on some Jill or Marsha and we're good", "RT @DustinRossSaid: LMAO!\n\nRT @lightskin_: \"HOLLERED!!! RT @BaddieGer: “I AIN’T JILL SCOTT!” http://t.co/Rx2yv1DOiy”", "@jill_runner you too!", "Totally forgot it's New Years Eve.", "@jillnolan369 @UKContainers Thank you Jill. Happy New Year x", "【Android】 Jack &amp; Jill: パフォーマンス向上のためのAndroid用の新コンパイラ http://t.co/hYdpRQ6Pxj #Android #アンドロイド", "@Coleman_Jill WE HAVE A LOT TO OFFER!"]
+I, [2014-12-31T10:02:43.388445 #16211]  INFO -- : Creating S3 Bucket: twitq_jill
+D, [2014-12-31T10:02:44.674965 #16211] DEBUG -- : Writing to s3: “@EricaPomm: @Coleman_Jill WE HAVE A LOT TO OFFER!” Hahahahaha okay sweetie whatever you wanna tell yourself 😉
+D, [2014-12-31T10:02:44.891435 #16211] DEBUG -- : Writing to s3: @ButterMakerWill @AbernethyButter Saw you on the road today and said to Jill “There is Mr Fudge”. Lol. Maybe a new marketing name for you.
+D, [2014-12-31T10:02:45.146877 #16211] DEBUG -- : Writing to s3: RT @Luis_Cataldo: Reinhart Bonke was huge last night #OneThing2014 Jesus was glorified and people were set free. Great combination! http://…
+D, [2014-12-31T10:02:45.408125 #16211] DEBUG -- : Writing to s3: @Jay_Threestacks you're forgiven. Just put on some Jill or Marsha and we're good
+D, [2014-12-31T10:02:45.666322 #16211] DEBUG -- : Writing to s3: RT @DustinRossSaid: LMAO!
+
+RT @lightskin_: "HOLLERED!!! RT @BaddieGer: “I AIN’T JILL SCOTT!” http://t.co/Rx2yv1DOiy”
+D, [2014-12-31T10:02:45.930460 #16211] DEBUG -- : Writing to s3: @jill_runner you too!
+D, [2014-12-31T10:02:46.181321 #16211] DEBUG -- : Writing to s3: Totally forgot it's New Years Eve.
+D, [2014-12-31T10:02:46.439392 #16211] DEBUG -- : Writing to s3: @jillnolan369 @UKContainers Thank you Jill. Happy New Year x
+D, [2014-12-31T10:02:46.695196 #16211] DEBUG -- : Writing to s3: 【Android】 Jack &amp; Jill: パフォーマンス向上のためのAndroid用の新コンパイラ http://t.co/hYdpRQ6Pxj #Android #アンドロイド
+D, [2014-12-31T10:02:46.966842 #16211] DEBUG -- : Writing to s3: @Coleman_Jill WE HAVE A LOT TO OFFER!

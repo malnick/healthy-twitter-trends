@@ -11,11 +11,14 @@ module Twitq
 		end
 
 		def init_bucket(query, results, log)
-			log.info("Writing results to S3 bucket: #{results}")
-			bucket = @s3.buckets['twitq']
+			log.debug("Writing results to S3 bucket: #{results}")
+			log.info("Creating S3 Bucket: twitq_#{query}")
+			bucket = @s3.buckets.create("twitq_#{query}")
+			twt_cnt = 0
 			results.each do |r|
-				log.debug("Writing object 'text' => #{r}")
-				bucket.objects['text'].write(r)
+				log.debug("Writing to s3: #{r}")
+				bucket.objects["text_#{twt_cnt}"].write(r)
+				twt_cnt += 1
 			end
 		end
 
