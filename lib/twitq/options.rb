@@ -16,11 +16,13 @@ module Twitq
 					log.level = Logger::INFO
 					log.info("Logger set to Logger::INFO")
 				end
-				Twitq::Search.new(options[:search], log)			
+				results = Twitq::Search.new(options[:search], log)			
 			else
 				query = options
-				Twitq::Search.new(query, log)
+				results = Twitq::Search.new(query, log)
 			end
+		
+			Twitq::S3.new(results, log)
 		end		
 
 		def parse_options(options)

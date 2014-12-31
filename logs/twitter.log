@@ -5659,3 +5659,20 @@ firebase_secret: YOUR_FIREBASE_SECRET
 I, [2014-12-26T15:59:18.773780 #53670]  INFO -- : Running search on glarriza
 I, [2014-12-26T15:59:18.773834 #53670]  INFO -- : Running search...
 I, [2014-12-26T15:59:19.011747 #53670]  INFO -- : Query results: []
+I, [2014-12-31T08:46:25.302032 #93533]  INFO -- : Logger set to Logger::INFO
+I, [2014-12-31T08:46:25.302116 #93533]  INFO -- : Running Twitter query on test
+I, [2014-12-31T08:46:25.302157 #93533]  INFO -- : No credentials found at: twitter-creds.yaml
+I, [2014-12-31T08:46:25.302203 #93533]  INFO -- : No twitter credentials file found. 
+Please place a credentials dot file at $HOME/.twitter-creds in YAML format:
+
+---
+consumer_key: YOUR_CONSUMER_KEY
+consumer_secret: YOUR_CONSUMER_SECRET
+access_token: YOUR_ACCESS_TOKEN
+access_token_secret: YOUR_ACCESS_SECRET
+firebase_secret: YOUR_FIREBASE_SECRET
+
+I, [2014-12-31T08:46:25.302243 #93533]  INFO -- : Running search on test
+I, [2014-12-31T08:46:25.302329 #93533]  INFO -- : Running search...
+I, [2014-12-31T08:46:26.576370 #93533]  INFO -- : Query results: ["I'll start my first day of new year with the listening test :)))", "RT @Angelok150101: Прошивка firmware настройка ресивер триколор http://t.co/kCNRauO9Yn", "India Move on as Mahendra Singh Dhoni Steps Down as Test Captain http://t.co/GfCro3Dalo", "RT @JCoIeATL: They tell me life is a test but where's a tutor for me?", "RT @yuganticool35: @msdhoni You've left it richer.The biggest entertainer it could have.Test matches will miss you. For me #MSDForever♥ htt…", "RT @syafri_tkc: Test", "Ready for more test from Him. Bye pahit pahit 2014 👋", "Test", "Test", "【悲報】道頓堀に１０人以上飛び込み、１人心肺停止　 [転載禁止]©http://t.co/S9vALqJlhj [148530339]\nhttp://t.co/hbRpVQC5EE"]
+I, [2014-12-31T08:46:26.576480 #93533]  INFO -- : Posting results to S3

@@ -41,7 +41,7 @@ INFO
 
 			results = get_result(log, creds, @query)
 			log.info("Query results: #{results}")
-			post_results_firebase(results, creds, log, @query)
+			results
 		end
 		
 		def get_result(log, creds, query)
@@ -65,23 +65,6 @@ INFO
 			end
 			results
 		end
-
-		def post_results_firebase(results, creds, log, query)
-			query.delete! '#'
-			fbs = 'oV0FxbSqYT1lJakhyVKiEEKEyXZTn5G1HXgUR5fz' #creds['firebase_secret']
-			base_uri = 'https://sizzling-fire-8626.firebaseio.com'
-
-			firebase = Firebase::Client.new(base_uri, fbs)
-			results.each do |twt|
-				log.debug("Sending to Firebase: #{twt}")
-				response = firebase.push("#{query}", "#{twt}")
-				log.debug("Firebase response: #{response.body}")
-				unless response.success?
-					log.info("Something broke pushing #{twt} to Firebase")
-				end
-			end
-
-		end
-
+	
 	end
 end
