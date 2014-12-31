@@ -12,11 +12,11 @@ module Twitq
 		def initialize(query, log)
 	
 			if query
-				@query = query
-				log.info("Running Twitter query on #{@query}")
+				query = query
+				log.info("Running Twitter query on #{query}")
 			else
-				@query = '#healthy'
-				log.info("Running Twitter query on #{@query}")
+				query = '#healthy'
+				log.info("Running Twitter query on #{query}")
 			end
 
 			if File.exists?(TWITTER_CREDS)
@@ -34,23 +34,21 @@ consumer_key: YOUR_CONSUMER_KEY
 consumer_secret: YOUR_CONSUMER_SECRET
 access_token: YOUR_ACCESS_TOKEN
 access_token_secret: YOUR_ACCESS_SECRET
-firebase_secret: YOUR_FIREBASE_SECRET
 INFO
 				log.info(text)
 			end
 
-			results = get_result(log, creds, @query)
-			log.info("Query results: #{results}")
-			results
+			@@results = get_result(log, creds, query)
+			log.info("Query results: #{@@results}")
 		end
-		
+
+		def self.results
+			@@results
+		end
+	
 		def get_result(log, creds, query)
 			results = []
 			log.info("Running search on #{query}")
-			#log.debug("Consumer key: #{creds['consumer_key']}")
-			#log.debug("Consumer secret: #{creds['consumer_secret']}")
-			#log.debug("Access token: #{creds['access_token']}")
-			#log.debug("Access token secret: #{creds['access_token_secret']}")
 
 			client = Twitter::REST::Client.new do |config|
 				config.consumer_key        = '5LmU6ckudMC5spqqRK1kJHVsu' #creds['consumer_key']

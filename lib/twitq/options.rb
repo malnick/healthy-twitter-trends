@@ -7,6 +7,8 @@ module Twitq
 	class Options
 		def initialize(options)
 			log = Logger.new(TWIT_LOG_PATH)
+			
+			# If we're calling this from the CLI vs. from the POST on the web form
 			if options.include? 'start'
 				options = parse_options(options)
 				if options[:debug]
@@ -16,13 +18,17 @@ module Twitq
 					log.level = Logger::INFO
 					log.info("Logger set to Logger::INFO")
 				end
-				results = Twitq::Search.new(options[:search], log)			
+				query = options[:search]
+				Twitq::Search.new(options[:search], log)			
+				results = Twitq::Search.results
+				log.info(results)
 			else
 				query = options
-				results = Twitq::Search.new(query, log)
+				Twitq::Search.new(query, log)
+				results = Twitq::Search.results
 			end
 		
-			Twitq::S3.new(results, log)
+			Twitq::S3.new(query, results, log)
 		end		
 
 		def parse_options(options)
