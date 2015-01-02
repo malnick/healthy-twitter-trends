@@ -57,7 +57,7 @@ INFO
 				config.access_token_secret = 'nik8N8VQbTWPyyrGrCPHYFkayd3dk1MHWJe1fOLhcY4WS' #creds['access_token_scret']
 			end
 			log.info("Running search...")
-			client.search(query).take(10).collect do |tweet|	
+			client.search(query).take(100).collect do |tweet|	
 				log.debug("Adding tweet: #{tweet.text}")
 				results.push(tweet.text.chomp)
 			end

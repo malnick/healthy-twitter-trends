@@ -11,15 +11,11 @@ module Twitq
 		end
 
 		def init_bucket(query, results, log)
-			log.debug("Writing results to S3 bucket: #{results}")
+			string = stringfy(results)
+			log.debug("Writing results to S3 bucket: #{string}")
 			log.info("Creating S3 Bucket: twitq_#{query}")
-			bucket = @s3.buckets.create("twitq_#{query}")
-			twt_cnt = 0
-			results.each do |r|
-				log.debug("Writing to s3: #{r}")
-				bucket.objects["text_#{twt_cnt}"].write(r)
-				twt_cnt += 1
-			end
+			bucket = @s3.buckets.create("twitq-#{query}")
+			bucket.objects["twitq-#{query}"].write(string)
 		end
 
 		def aws_config(log)
@@ -30,6 +26,14 @@ module Twitq
 				:access_key_id 		=> aws_config['access_key_id'],
 				:secret_access_key 	=> aws_config['secret_access_key'],
 			)
+		end
+
+		def stringfy(results)
+			string_results = ''
+			results.each do |r|
+				string_results << r
+			end
+			string_results
 		end
 	end
 end
