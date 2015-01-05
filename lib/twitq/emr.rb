@@ -4,13 +4,12 @@ require 'elasticity'
 
 module Twitq
 	class Emr
-		
-		def initialize(query)
-			@log = Logger.new(STDOUT)
+		def initialize(query, log)
+			@log = log #Logger.new(STDOUT)
 			set_creds
 			job = create_flow(query)
 			start_job(job, query)
-			@@results = get_results(query)
+			#@@results = get_results(query)
 		end
 
 		def create_flow(query)
@@ -40,11 +39,11 @@ module Twitq
 		end
 
 
-		def self.results
-			@@results
-		end
+		#def self.results
+		#	@@results
+		#end
 	end
 end
 
-Twitq::Emr.new("judith")
+#Twitq::Emr.new("judith")
 		

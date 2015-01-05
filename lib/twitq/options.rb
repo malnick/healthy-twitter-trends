@@ -27,7 +27,14 @@ module Twitq
 				results = Twitq::Search.results
 			end
 		
-			Twitq::S3.new(query, results, log)
+			# Post results to S3
+			Twitq::PostToS3.new(query, results, log)
+
+			# Crunch the data
+			Twitq::Emr.new(query, log)
+
+			# Get the results and write them locally
+			Twitq::GetFromS3.new(query,log)
 		end		
 
 		def parse_options(options)
